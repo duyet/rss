@@ -1,10 +1,468 @@
 {
   "sources": [
     {
-      "title": "Release notes from osmosfeed",
-      "feedUrl": "https://github.com/osmoscraft/osmosfeed/releases.atom",
-      "siteUrl": "https://github.com/osmoscraft/osmosfeed/releases",
-      "articles": []
+      "title": "Hacker News",
+      "feedUrl": "https://news.ycombinator.com/rss",
+      "siteUrl": "https://news.ycombinator.com/",
+      "articles": [
+        {
+          "id": "https://architecturalafterlife.com/2020/07/city-view-center/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://architecturalafterlife.com/2020/07/city-view-center/",
+          "publishedOn": "2021-11-27T05:06:52.000Z",
+          "wordCount": 2089,
+          "title": "City View Center – A Shopping Center That Sunk into Landfill It Was Built On"
+        },
+        {
+          "id": "https://security.stackexchange.com/questions/257417/how-did-this-paypal-spoof-email-pass-spf-dkim-and-dmarc",
+          "author": null,
+          "description": "Comments",
+          "link": "https://security.stackexchange.com/questions/257417/how-did-this-paypal-spoof-email-pass-spf-dkim-and-dmarc",
+          "publishedOn": "2021-11-27T04:33:01.000Z",
+          "wordCount": 2128,
+          "title": "How did this PayPal spoof email pass SPF, DKIM and DMARC"
+        },
+        {
+          "id": "https://www.infoq.com/news/2021/11/kubernetes-cluster-api/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.infoq.com/news/2021/11/kubernetes-cluster-api/",
+          "publishedOn": "2021-11-27T04:25:22.000Z",
+          "wordCount": 2754,
+          "title": "Kubernetes Cluster API v1.0, Production Ready"
+        },
+        {
+          "id": "https://bam.kalzumeus.com/archive/bank-transfers-as-a-payment-method/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://bam.kalzumeus.com/archive/bank-transfers-as-a-payment-method/",
+          "publishedOn": "2021-11-27T03:50:05.000Z",
+          "wordCount": 3924,
+          "title": "Bank transfers as a payment method"
+        },
+        {
+          "id": "https://blog.google/around-the-globe/google-europe/update-our-privacy-sandbox-commitments/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://blog.google/around-the-globe/google-europe/update-our-privacy-sandbox-commitments/",
+          "publishedOn": "2021-11-27T03:35:26.000Z",
+          "wordCount": 1092,
+          "title": "An update on our privacy sandbox commitments"
+        },
+        {
+          "id": "https://www.bidmc.org/about-bidmc/news/2021/09/researchers-mind-body-program-outperforms-other-chronic-back-pain-treatment",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.bidmc.org/about-bidmc/news/2021/09/researchers-mind-body-program-outperforms-other-chronic-back-pain-treatment",
+          "publishedOn": "2021-11-27T03:13:39.000Z",
+          "wordCount": 1953,
+          "title": "Novel mind-body program outperforms other treatments for chronic back pain"
+        },
+        {
+          "id": "https://computer.rip/2021-11-26-no-u-pnp.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://computer.rip/2021-11-26-no-u-pnp.html",
+          "publishedOn": "2021-11-27T02:55:35.000Z",
+          "wordCount": 2809,
+          "title": "No U PNP"
+        },
+        {
+          "id": "https://stevestreza.com/2020/02/17/ios-adware/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://stevestreza.com/2020/02/17/ios-adware/",
+          "publishedOn": "2021-11-27T01:58:58.000Z",
+          "wordCount": 1869,
+          "title": "The Paywalled Garden: iOS is Adware (2020)"
+        },
+        {
+          "id": "https://www.thediff.co/p/what-happened-to-all-the-diamonds",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.thediff.co/p/what-happened-to-all-the-diamonds",
+          "publishedOn": "2021-11-27T01:38:05.000Z",
+          "wordCount": 3435,
+          "title": "What Happened to All the Diamonds in the Rough?"
+        },
+        {
+          "id": "https://plebussupremus1234.github.io//LemonScript/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://plebussupremus1234.github.io//LemonScript/",
+          "publishedOn": "2021-11-27T01:08:58.000Z",
+          "wordCount": 71,
+          "title": "LemonScript: A typed programming language inspired by TypeScript and Python"
+        },
+        {
+          "id": "https://jobs.lever.co/getjerry/8a65340f-f253-4da6-8259-ad1fe527a7e8",
+          "author": null,
+          "description": "Comments",
+          "link": "https://jobs.lever.co/getjerry/8a65340f-f253-4da6-8259-ad1fe527a7e8",
+          "publishedOn": "2021-11-27T01:00:48.000Z",
+          "wordCount": 490,
+          "title": "Jerry (YC S17) Is Hiring Senior Software Engineer"
+        },
+        {
+          "id": "https://psyarxiv.com/5g7nc/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://psyarxiv.com/5g7nc/",
+          "publishedOn": "2021-11-27T00:27:23.000Z",
+          "wordCount": 29,
+          "title": "Cognitive distortions predict safetyism-inspired beliefs in college students"
+        },
+        {
+          "id": "https://www.freightwaves.com/news/california-port-truckers-drowning-in-supply-chain-inefficiencies",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.freightwaves.com/news/california-port-truckers-drowning-in-supply-chain-inefficiencies",
+          "publishedOn": "2021-11-26T22:46:04.000Z",
+          "wordCount": 3283,
+          "title": "California port truckers ‘drowning’ in supply chain inefficiencies"
+        },
+        {
+          "id": "https://dev-discuss.pytorch.org/t/where-we-are-headed-and-why-it-looks-a-lot-like-julia-but-not-exactly-like-julia/276",
+          "author": null,
+          "description": "Comments",
+          "link": "https://dev-discuss.pytorch.org/t/where-we-are-headed-and-why-it-looks-a-lot-like-julia-but-not-exactly-like-julia/276",
+          "publishedOn": "2021-11-26T21:45:40.000Z",
+          "wordCount": 608,
+          "title": "PyTorch: Where we are headed and why it looks a lot like Julia (but not exactly)"
+        },
+        {
+          "id": "http://dontcodetired.com/blog/post/Whats-New-in-C-10-Easier-Lambda-Expressions",
+          "author": null,
+          "description": "Comments",
+          "link": "http://dontcodetired.com/blog/post/Whats-New-in-C-10-Easier-Lambda-Expressions",
+          "publishedOn": "2021-11-26T21:18:28.000Z",
+          "wordCount": 1032,
+          "title": "New in C# 10: Easier Lambda Expressions"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=29353980",
+          "author": null,
+          "description": "Comments",
+          "link": "https://news.ycombinator.com/item?id=29353980",
+          "publishedOn": "2021-11-26T20:50:44.000Z",
+          "wordCount": 16383,
+          "title": "Ask HN: What are the best-designed things you've ever used?"
+        },
+        {
+          "id": "https://teachyourselfcs.com/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://teachyourselfcs.com/",
+          "publishedOn": "2021-11-26T20:43:49.000Z",
+          "wordCount": 4208,
+          "title": "Teach Yourself Computer Science (2020)"
+        },
+        {
+          "id": "http://www.jcrcmds.com/jcrgames2.html",
+          "author": null,
+          "description": "Comments",
+          "link": "http://www.jcrcmds.com/jcrgames2.html",
+          "publishedOn": "2021-11-26T20:02:23.000Z",
+          "wordCount": 279,
+          "title": "Games for IBM AS/400"
+        },
+        {
+          "id": "https://krebsonsecurity.com/2021/11/the-internet-is-held-together-with-spit-baling-wire/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://krebsonsecurity.com/2021/11/the-internet-is-held-together-with-spit-baling-wire/",
+          "publishedOn": "2021-11-26T19:11:25.000Z",
+          "wordCount": 2165,
+          "title": "The internet is held together with spit and baling wire"
+        },
+        {
+          "id": "https://www.sec.gov/Archives/edgar/data/0001642896/000119312521334578/d261594ds1.htm",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.sec.gov/Archives/edgar/data/0001642896/000119312521334578/d261594ds1.htm",
+          "publishedOn": "2021-11-26T18:28:47.000Z",
+          "wordCount": 138865,
+          "title": "Samsara S-1"
+        },
+        {
+          "id": "https://minnie.tuhs.org/pipermail/tuhs/2021-November/024695.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://minnie.tuhs.org/pipermail/tuhs/2021-November/024695.html",
+          "publishedOn": "2021-11-26T17:10:38.000Z",
+          "wordCount": 312,
+          "title": "Features of PL/I not realized in a modern language"
+        },
+        {
+          "id": "https://www.fer.xyz/2021/11/software-kintsugi",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.fer.xyz/2021/11/software-kintsugi",
+          "publishedOn": "2021-11-26T13:59:50.000Z",
+          "wordCount": 614,
+          "title": "Software Kintsugi"
+        },
+        {
+          "id": "https://www.awanderingmind.blog/posts/2021-10-30-book-review-conquest-of-bread.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.awanderingmind.blog/posts/2021-10-30-book-review-conquest-of-bread.html",
+          "publishedOn": "2021-11-26T12:35:15.000Z",
+          "wordCount": null,
+          "title": "Kropotkin's 'The Conquest of Bread'"
+        },
+        {
+          "id": "https://sgcderek.github.io/posts/starlink-beacons/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://sgcderek.github.io/posts/starlink-beacons/",
+          "publishedOn": "2021-11-26T10:23:06.000Z",
+          "wordCount": 1773,
+          "title": "Receiving Starlink satellite beacons on a budget"
+        },
+        {
+          "id": "https://idw-online.de/en/news781515",
+          "author": null,
+          "description": "Comments",
+          "link": "https://idw-online.de/en/news781515",
+          "publishedOn": "2021-11-26T08:32:24.000Z",
+          "wordCount": 1890,
+          "title": "Einstein award going to Paul Ginsparg for creating arXiv.org"
+        },
+        {
+          "id": "https://cleorobotics.com/product/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://cleorobotics.com/product/",
+          "publishedOn": "2021-11-25T13:02:52.000Z",
+          "wordCount": 543,
+          "title": "Go Where No Drone Has Gone Before"
+        },
+        {
+          "id": "https://en.wikipedia.org/wiki/Cupellation",
+          "author": null,
+          "description": "Comments",
+          "link": "https://en.wikipedia.org/wiki/Cupellation",
+          "publishedOn": "2021-11-25T10:56:06.000Z",
+          "wordCount": 2952,
+          "title": "Cupellation"
+        },
+        {
+          "id": "https://web.archive.org/web/19991014005807/http://www.eco-action.org/dt/thinking.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://web.archive.org/web/19991014005807/http://www.eco-action.org/dt/thinking.html",
+          "publishedOn": "2021-11-25T08:09:07.000Z",
+          "wordCount": 914,
+          "title": "Thinking Like a Mountain (1949)"
+        },
+        {
+          "id": "https://www.joshwcomeau.com/css/custom-css-reset/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.joshwcomeau.com/css/custom-css-reset/",
+          "publishedOn": "2021-11-24T14:37:25.000Z",
+          "wordCount": 3037,
+          "title": "My Custom CSS Reset"
+        },
+        {
+          "id": "https://utcc.utoronto.ca/~cks/space/blog/unix/V7WhyItMattersSoMuch",
+          "author": null,
+          "description": "Comments",
+          "link": "https://utcc.utoronto.ca/~cks/space/blog/unix/V7WhyItMattersSoMuch",
+          "publishedOn": "2021-11-22T16:32:06.000Z",
+          "wordCount": 948,
+          "title": "Why V7 Unix matters so much"
+        }
+      ]
+    },
+    {
+      "title": "Trang chủ",
+      "feedUrl": "https://www.tinhte.vn/rss",
+      "siteUrl": "https://tinhte.vn/lists/trang-chu.1/",
+      "articles": [
+        {
+          "id": "https://tinhte.vn/thread/3440667/",
+          "author": "nkinhluan",
+          "description": "Có thể bạn không cần dây đeo tay chống lạc ở những nơi quá quen thuộc, cho cháu tha hồ chạy nhảy điều đó sẽ tốt hơn cho trẻ . Nhưng thật sự nó rất cần thiết mỗi khi dẫn con đi du lịch, ghé chơi...",
+          "link": "https://tinhte.vn/thread/day-chong-lac-cho-tre-mot-vat-dung-don-gian-nhung-doi-khi-lai-giup-ban-khong-phai-an-han-ca-doi.3440667/",
+          "publishedOn": "2021-11-27T06:11:51.000Z",
+          "wordCount": 3723,
+          "title": "Dây chống lạc cho trẻ, một vật dụng đơn giản nhưng đôi khi lại giúp bạn không phải ân hận cả đời"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3440732/",
+          "author": "MinhTriND",
+          "description": "Trong một website được ra mắt gần đây để nói về kỷ nguyên của màn hình OLED có thể uốn cong, Samsung đã hé lộ ý tưởng của họ về những sản phẩm hoàn toàn mới mẻ sử dụng công nghệ màn hình này. Cụ...",
+          "link": "https://tinhte.vn/thread/samsung-he-lo-y-tuong-smartphone-voi-man-hinh-keo-va-cuon.3440732/",
+          "publishedOn": "2021-11-27T06:10:35.000Z",
+          "wordCount": 1174,
+          "title": "Samsung hé lộ ý tưởng smartphone với màn hình kéo và cuộn"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3440748/",
+          "author": "_vphlinh_",
+          "description": "\"Tiên tri\" Ming-Chi Kuo vừa đưa ra một thông tin mới, đề cập chi tiết đến một dự án được cho là đã được Apple ấp ủ từ lâu - dự án headset AR của Apple và có khả năng sẽ được ra mắt vào năm 2022....",
+          "link": "https://tinhte.vn/thread/ming-chi-kuo-apple-se-ra-mat-headset-ar-vao-nam-2022-chay-bang-chip-xu-ly-manh-ngang-m1.3440748/",
+          "publishedOn": "2021-11-27T06:10:14.000Z",
+          "wordCount": 1063,
+          "title": "Ming-Chi Kuo: \"Apple sẽ ra mắt headset AR vào năm 2022, chạy bằng chip xử lý mạnh ngang M1\""
+        },
+        {
+          "id": "https://tinhte.vn/thread/3440812/",
+          "author": "MinhTriND",
+          "description": "3 giờ chiều này (27/11), Dat Bike sẽ phát sóng sự kiện online giới thiệu mẫu Weaver thế hệ mới tại fanpage (https://www.facebook.com/events/633761361136423) và website (https://www.dat.bike), mời...",
+          "link": "https://tinhte.vn/thread/3-gio-chieu-nay-moi-anh-em-xem-su-kien-ra-mat-dat-bike-weaver-the-he-moi.3440812/",
+          "publishedOn": "2021-11-27T06:09:09.000Z",
+          "wordCount": 2305,
+          "title": "3 giờ chiều nay, mời anh em xem sự kiện ra mắt Dat Bike Weaver thế hệ mới"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3440599/",
+          "author": "P.W",
+          "description": "Chiếc PlayStation 5 ra mắt đầu tiên tại một vài thị trường vào ngày 12/11/2020. Đành rằng cỗ máy này phải đến tháng 3 năm nay mới có hàng chính hãng do Sony Việt Nam phân phối, nhưng cũng không...",
+          "link": "https://tinhte.vn/thread/chia-se-ve-ps5-sau-1-nam-den-gio-cung-chi-dung-de-choi-game-ps4-dep-hon-muot-hon.3440599/",
+          "publishedOn": "2021-11-27T06:08:59.000Z",
+          "wordCount": 3551,
+          "title": "Chia sẻ về PS5 sau 1 năm: Đến giờ cũng chỉ dùng để chơi game PS4 đẹp hơn, mượt hơn"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3440720/",
+          "author": "MinhTriND",
+          "description": "Ảnh: dòng người đang xếp hàng để chờ vào 1 cửa hàng Apple Store ở Istanbul hôm 24/11 vừa qua\n \nĐồng Lira của Thổ Nhĩ Kỳ ghi nhận mức giảm giá trị kỷ lục sau khi tổng thống Tayyip Erdogan tiếp tục...",
+          "link": "https://tinhte.vn/thread/apple-ngung-ban-thiet-bi-tai-tho-nhi-ky-vi-dong-tien-nuoc-nay-mat-15-gia-tri-chi-trong-1-ngay.3440720/",
+          "publishedOn": "2021-11-27T06:07:40.000Z",
+          "wordCount": 624,
+          "title": "Apple ngừng bán thiết bị tại Thổ Nhĩ Kỳ vì đồng tiền nước này mất 15% giá trị chỉ trong 1 ngày"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3431709/",
+          "author": "joshungcom",
+          "description": "Khi Windows 11 ra mắt bản beta đầu tiên cũng là lúc mình “bị ép” dùng MacOS vì công ty cần viết vài app cho IOS, sau khoảng vài tháng sử dụng thì mình nhận ra rằng MacOS khá ổn định, và bản thân...",
+          "link": "https://tinhte.vn/thread/chia-se-thu-thuat-macos-duoi-con-mat-winuser.3431709/",
+          "publishedOn": "2021-11-27T06:02:08.000Z",
+          "wordCount": 5326,
+          "title": "Chia sẻ thủ thuật MacOS dưới con mắt Winuser"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3440069/",
+          "author": "vn_ninja",
+          "description": "Điểm Antutu được cho là của Snapdragon 8 Gen 1 đã được tiết lộ từ một người dùng trên Weibo với con số rất cao, hơn 1 triệu điểm (1.035.020 điểm). Đây là điểm số cao hơn một chút so với điểm số...",
+          "link": "https://tinhte.vn/thread/lo-diem-antutu-snapdragon-8-gen-1-hon-1-trieu-diem.3440069/",
+          "publishedOn": "2021-11-27T06:00:01.000Z",
+          "wordCount": 1599,
+          "title": "Lộ điểm Antutu Snapdragon 8 Gen 1: hơn 1 triệu điểm?"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3440750/",
+          "author": "Hassler",
+          "description": "Ngay tối qua nhóm cố vấn kỹ thuật của WHO đã họp khẩn và đặt biến chủng B.1.1.529 vào nhóm biến thể đáng lo ngại Variant of concern, cùng với đó đặt tên cho này là Omicron. Vậy là biến thể...",
+          "link": "https://tinhte.vn/thread/who-chinh-thuc-dat-ten-sieu-bien-the-b-1-1-529-la-omicron-keu-goi-cac-nuoc-nang-cao-canh-giac.3440750/",
+          "publishedOn": "2021-11-27T05:59:11.000Z",
+          "wordCount": 2702,
+          "title": "WHO chính thức đặt tên siêu biến thể B.1.1.529 là Omicron, kêu gọi các nước nâng cao cảnh giác"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3435381/",
+          "author": "AudioPsycho",
+          "description": "Bối cảnh \n \nDAC di động (portable DAC) hiện nay đang trở nên rất phổ biến, như bạn cũng thấy đó, một cọng dongle USB-C to 3.5mm hoặc Lightning to 3.5mm của Apple cũng đã được xem như là DAC di...",
+          "link": "https://tinhte.vn/thread/cac-loai-dac-di-dong-portable-dac.3435381/",
+          "publishedOn": "2021-11-27T05:51:48.000Z",
+          "wordCount": 3104,
+          "title": "Các loại DAC di động (Portable DAC)"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3434742/",
+          "author": "Mikeknowsme",
+          "description": "Mình thường đeo túi đeo chéo để đi làm hằng ngày chính vì thế mình rất quan tâm những chiếc túi đeo để đựng vừa được những sản phẩm công nghệ, gọn gàng và bền bỉ. Chiếc túi TESOS (Premium...",
+          "link": "https://tinhte.vn/thread/tren-tay-tui-deo-cheo-tesos-premium-waterproof-don-gian-dung-duoc-nhieu-do-cong-nghe-khang-nuoc.3434742/",
+          "publishedOn": "2021-11-27T05:51:13.000Z",
+          "wordCount": 1906,
+          "title": "Trên tay túi đeo chéo TESOS Premium Waterproof: đơn giản, đựng được nhiều đồ công nghệ, kháng nước"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3440626/",
+          "author": "vn_ninja",
+          "description": "Vào tháng 9 vừa qua Samsung đã ra mắt cảm biến hình ảnh ISOCELL HP1 với độ phân giải cực lớn 200MP dành cho điện thoại. Tuy nhiên leaker Ice Universe mới đây cho biết có thể Moto mới là hãng trang...",
+          "link": "https://tinhte.vn/thread/ice-universe-moto-se-trang-bi-camera-200mp-dau-tien-samsung-den-2023.3440626/",
+          "publishedOn": "2021-11-27T05:46:33.000Z",
+          "wordCount": 955,
+          "title": "Ice Universe: Moto sẽ trang bị camera 200MP đầu tiên, Samsung đến 2023?"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3440625/",
+          "author": "Harry La",
+          "description": "Đây là review về chất lượng dịch vụ của Epione khi bàn giao SmartDesk Pro của mình. Mình mua nó với giá 9tr300k. Hi vọng phần review sẽ hữu ích cho bạn nào muốn mua nhé, nếu bạn có câu hỏi gì thì...",
+          "link": "https://tinhte.vn/thread/review-chat-luong-dich-vu-cua-epione-khi-ban-giao-smartdesk-pro.3440625/",
+          "publishedOn": "2021-11-27T05:43:24.000Z",
+          "wordCount": 3126,
+          "title": "Review chất lượng dịch vụ của Epione khi bàn giao SmartDesk Pro"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3440642/",
+          "author": "vn_ninja",
+          "description": "Chia sẻ với anh em bộ hình nền sơ đồ bảng mạch của iPhone 13 Pro và 13 Pro Max rất độc đáo từ trang The Basic Apple Guy. Những hình nền này được tạo ra dựa trên những hình ảnh X-ray từ iFixit để...",
+          "link": "https://tinhte.vn/thread/hinh-nen-noi-that-iphone-13-series.3440642/",
+          "publishedOn": "2021-11-27T05:25:18.000Z",
+          "wordCount": 696,
+          "title": "Hình nền “nội thất” iPhone 13 series"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3440636/",
+          "author": "Chill With Dan",
+          "description": "Mua một chiếc màn hình không bị rối trí thì vào website hướng dẫn lựa chọn các sản phẩm tin học của LG nha.\n \nLink nè: https://www.lg.com/vn/huong-dan-mua-san-pham-tin-hoc",
+          "link": "https://tinhte.vn/thread/tiktok-lam-sao-de-chon-mua-man-hinh-cho-nguoi-sang-tao-noi-dung.3440636/",
+          "publishedOn": "2021-11-27T05:02:04.000Z",
+          "wordCount": 611,
+          "title": "Tiktok: Làm sao để chọn mua màn hình cho người sáng tạo nội dung?"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3440295/",
+          "author": "Rassez",
+          "description": "Trong bài này, mình sẽ nói về Hot Corners, đây là một tính năng hữu ích mà cá nhân mình sử dụng hằng ngày.\n \n Nếu như bên Window, chúng ta có phím tắt Window + D, hay góc dưới bên phải có 1 nút...",
+          "link": "https://tinhte.vn/thread/hot-corner-gan-hanh-dong-khi-di-chuot-vao-goc-man-hinh-macos.3440295/",
+          "publishedOn": "2021-11-27T04:18:50.000Z",
+          "wordCount": 1124,
+          "title": "Hot Corner - Gán hành động khi di chuột vào góc màn hình MacOS"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3440675/",
+          "author": "TTKM",
+          "description": "Những mẫu xe tải nhẹ tiết kiệm nhiên liệu đi cùng với chi phí sở hữu hợp lý của Suzuki trở thành lựa chọn hàng đầu của doanh nghiệp, hộ kinh doanh lẫn người làm dịch vụ vận chuyển. \n \n[ATTACH]\nMẫu...",
+          "link": "https://tinhte.vn/thread/qc-tang-thu-nhap-bat-chap-gia-xang-tang-nho-chon-tai-nhe-suzuki.3440675/",
+          "publishedOn": "2021-11-27T04:15:22.000Z",
+          "wordCount": 1319,
+          "title": "[QC] Tăng thu nhập bất chấp giá xăng tăng nhờ chọn tải nhẹ Suzuki"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3440402/",
+          "author": "Enzo Le",
+          "description": "Natural Landscape Photo Awards là một cuộc thi ảnh mới được thành lập với mục tiêu tôn vinh những bức ảnh có càng ít các thao tác hậu kỳ càng tốt. Những người đạt giải Natural Landscape Photo...",
+          "link": "https://tinhte.vn/thread/natural-landscape-photo-awards-giai-thuong-nhiep-anh-ton-vinh-nhung-tac-pham-it-xu-ly-hau-ky.3440402/",
+          "publishedOn": "2021-11-27T02:22:39.000Z",
+          "wordCount": 1470,
+          "title": "Natural Landscape Photo Awards - Giải thưởng nhiếp ảnh tôn vinh những tác phẩm ít xử lý hậu kỳ"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3440136/",
+          "author": "TTKM",
+          "description": "Lễ hội mua sắm cuối năm đã đến, loạt hàng điện tử - điện lạnh, điện gia dụng giảm mạnh đến 50%. Chỉ 3 triệu đồng tậu ngay máy lọc không khí Sharp, máy lọc nước Sunhouse,… tiết kiệm tiền triệu mà...",
+          "link": "https://tinhte.vn/thread/qc-len-doi-nha-cua-voi-13-thiet-bi-dien-lanh-giam-den-50-free-phi-giao-lap-theo-lich-hen.3440136/",
+          "publishedOn": "2021-11-25T15:15:00.000Z",
+          "wordCount": 1993,
+          "title": "[QC] “Lên đời” nhà cửa với 13 thiết bị điện lạnh, giảm đến 50%, free phí giao lắp theo lịch hẹn"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3440093/",
+          "author": "TTKM",
+          "description": "Quỹ Thời gian Mục tiêu (Target-Date Fund) ngày càng đóng vai trò quan trọng trong kế hoạch tài chính cá nhân. Phương thức vận hành theo việc xác định Thời gian Mục tiêu được đánh giá là lựa chọn...",
+          "link": "https://tinhte.vn/thread/qc-tu-do-tai-chinh-tuong-lai-can-co-mot-quy-thoi-gian-muc-tieu.3440093/",
+          "publishedOn": "2021-11-25T14:31:27.000Z",
+          "wordCount": 1151,
+          "title": "[QC] Tự do tài chính tương lai cần có một quỹ Thời gian mục tiêu?"
+        }
+      ]
     },
     {
       "title": "CSS-Tricks",
@@ -35,7 +493,7 @@
           "description": "The browser has long been a medium for art and design. From Lynn Fisher’s joyful A Single Div creations to Diana Smith’s staggeringly detailed CSS paintings, wildly creative, highly skilled developers have — over the years — continuously pushed …\nThe post Creating Generative Patterns with The CSS Paint API appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/creating-generative-patterns-with-the-css-paint-api/",
           "publishedOn": "2021-11-24T15:49:08.000Z",
-          "wordCount": 5510,
+          "wordCount": 5416,
           "title": "Creating Generative Patterns with The CSS Paint API"
         },
         {
@@ -80,7 +538,7 @@
           "description": "We cannot talk about web development without talking about Responsive Design. It’s just a given these days and has been for many years. Media queries are a part of Responsive Design and they aren’t going anywhere. Since the introduction of …\nThe post Responsive Layouts, Fewer Media Queries appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/responsive-layouts-fewer-media-queries/",
           "publishedOn": "2021-11-22T15:29:03.000Z",
-          "wordCount": 4767,
+          "wordCount": 4730,
           "title": "Responsive Layouts, Fewer Media Queries"
         },
         {
@@ -173,7 +631,7 @@
           "description": "Instead of spending your coffee break scrolling through your social feeds, how about a lovely little website instead? We came across some fantastic ones that are just too good not to be shared. But be warned, your break might take a bit longer than intended.",
           "link": "https://smashingmagazine.com/2021/11/showcase-lovely-little-websites/",
           "publishedOn": "2021-11-24T12:00:00.000Z",
-          "wordCount": 4244,
+          "wordCount": 4249,
           "title": "A Showcase Of Lovely Little Websites",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/5a0a3a89-ba5a-40a8-af80-f8db0554af37/radiooooo-opt.png",
@@ -215,7 +673,7 @@
           "description": "Implementing a performance culture is very important. In this article, Dan Shappir shares which actions and processes the Wix team put in place in order to achieve dramatic improvements in the performance of websites built and hosted on their platform.",
           "link": "https://smashingmagazine.com/2021/11/improving-performance-wix-websites-case-study/",
           "publishedOn": "2021-11-22T10:30:00.000Z",
-          "wordCount": 4764,
+          "wordCount": 4773,
           "title": "Improving The Performance Of Wix Websites (Case Study)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/253b5a80-a208-4057-95b0-60762c922d07/improving-performance-wix-websites-case-study.jpg",
@@ -229,7 +687,7 @@
           "description": "Hosting with a wildcard subdomain enables your users to visit your site on any subdomain of your domain (*.example.com), and as you can imagine, we can use this to create unique user experiences which we’ll be exploring in this article through a Next.js lens.",
           "link": "https://smashingmagazine.com/2021/11/nextjs-wildcard-subdomains/",
           "publishedOn": "2021-11-19T10:30:00.000Z",
-          "wordCount": 2206,
+          "wordCount": 2210,
           "title": "Next.js Wildcard Subdomains",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/2b24747b-6f11-4588-a119-16eaf38bc933/nextjs-wildcard-subdomains.jpg",
@@ -243,7 +701,7 @@
           "description": "In this article, we’ll take a look at the best ways to handle colors in CSS today, some tips for using them in a design system, and what we can expect from our colors in the not-too-distant future.",
           "link": "https://smashingmagazine.com/2021/11/guide-modern-css-colors/",
           "publishedOn": "2021-11-17T16:00:00.000Z",
-          "wordCount": 3489,
+          "wordCount": 3486,
           "title": "A Guide To Modern CSS Colors With RGB, HSL, HWB, LAB And LCH",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b424cd2e-1e44-4ca2-8506-4e45a5bdb570/guide-modern-css-colors.jpg",
@@ -271,7 +729,7 @@
           "description": "What’s your favorite command-line tool? In this post, Louis Lazaris shares a collection of relevant command-line apps and utilities that he has personally come across in the past few years. If there’s a useful one that hasn’t been mentioned and one you use regularly, please do share it in the comments.",
           "link": "https://smashingmagazine.com/2021/11/powerful-terminal-commandline-tools-modern-web-development/",
           "publishedOn": "2021-11-15T13:00:00.000Z",
-          "wordCount": 2158,
+          "wordCount": 2146,
           "title": "Powerful Terminal And Command-Line (CLI) Tools For Modern Web Development",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a2d3081a-5a36-4763-9b94-13bf7d1cb5d6/powerful-terminal-commandline-tools-modern-web-development.jpg",
@@ -299,7 +757,7 @@
           "description": "Dribbbleshots just might be the hotbed of questionable dashboards. Striking visuals, little context, and no research: all recipes for mediocrity. Mediocrity won’t do. We’ll pursue greatness. And in that pursuit, we’ll cover research, decluttering, and data visualization.",
           "link": "https://smashingmagazine.com/2021/11/dashboard-design-research-decluttering-data-viz/",
           "publishedOn": "2021-11-11T14:00:00.000Z",
-          "wordCount": 4313,
+          "wordCount": 4308,
           "title": "From Good To Great In Dashboard Design: Research, Decluttering And Data Viz",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/835f0cba-e214-437a-a025-e69ba7691997/dashboard-design-research-decluttering-data-viz.jpg",
@@ -313,7 +771,7 @@
           "description": "Internationalized routing is not exactly a new feature on Next.js. In this article, we are not only checking what we get from this feature, but also how to leverage such functionalities to achieve the best user experience and a smooth developer experience as well.",
           "link": "https://smashingmagazine.com/2021/11/localizing-your-nextjs-app/",
           "publishedOn": "2021-11-09T13:00:00.000Z",
-          "wordCount": 1917,
+          "wordCount": 1918,
           "title": "Localizing Your Next.js App",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/12e7620f-0e7b-4b95-a1b6-cd2f25ccac52/localizing-your-nextjs-app.jpg",
@@ -341,7 +799,7 @@
           "description": "A great commerce experience is not a Lighthouse score or a set of Core Web Vitals figures (although both are important inputs), but it’s also a trilemma that carefully balances competing needs of delivering a great customer experience, dynamic storefront capabilities and long-term business objectives.",
           "link": "https://smashingmagazine.com/2021/11/hydrogen-react-framework-dynamic-contextual-personalized-ecommerce/",
           "publishedOn": "2021-11-08T14:30:00.000Z",
-          "wordCount": 1524,
+          "wordCount": 1527,
           "title": "Meet Hydrogen: A React Framework For Dynamic, Contextual And Personalized E-Commerce",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/ee33395f-684a-40e5-bf72-56d9e9e4d975/hydrogen-react-framework-dynamic-contextual-personalized-ecommerce.jpg",
@@ -355,7 +813,7 @@
           "description": "Concept testing ideas before moving into a detailed design is good UX practice. In this article, Victor Yocco presents details on how and when to engage in concept testing, as well as case studies providing details on the insights gained in two very different settings.",
           "link": "https://smashingmagazine.com/2021/11/concept-testing-part-of-product-design/",
           "publishedOn": "2021-11-05T11:00:00.000Z",
-          "wordCount": 6196,
+          "wordCount": 6214,
           "title": "The Value Of Concept Testing As Part Of Product Design",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/ca39dbc3-101c-4973-9dce-debb1ab283ff/concept-testing-part-of-product-design.jpg",
@@ -383,7 +841,7 @@
           "description": "Within the last decade, technologies like GraphQL have changed how we build web apps and how they communicate with each other. GraphQL provides certain benefits over REST APIs — let’s find out what they are.",
           "link": "https://smashingmagazine.com/2021/11/graphql-frontend-react-apollo/",
           "publishedOn": "2021-11-04T11:30:00.000Z",
-          "wordCount": 3403,
+          "wordCount": 3409,
           "title": "GraphQL On The Front-End (React And Apollo)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/bb584488-c16f-4409-a992-993ce92d4b51/graphql-frontend-react-apollo.jpg",
@@ -397,7 +855,7 @@
           "description": "Serverless UI is simply a free, open-source command-line utility for quickly building and deploying serverless applications on the AWS platform. In this article, we will learn and cover everything needed on using Serverless UI to deploy our projects or serverless applications to cloud services providers.",
           "link": "https://smashingmagazine.com/2021/11/deep-dive-into-serverless-ui-typescript/",
           "publishedOn": "2021-11-03T11:30:00.000Z",
-          "wordCount": 3630,
+          "wordCount": 3640,
           "title": "A Deep Dive Into Serverless UI With TypeScript",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/aff46dfe-164d-4bf7-8e14-057470001b41/deep-dive-into-serverless-ui-typescript.jpg",
@@ -411,7 +869,7 @@
           "description": "This article sheds the spotlight on Magento PWAs and explains why business owners are getting them (often instead of native applications). Alex Husar introduces ways of how progressive web applications can be developed on Magento, as well as go over the major pros and cons of each development path.",
           "link": "https://smashingmagazine.com/2021/11/magento-pwa-customizing-themes-coding/",
           "publishedOn": "2021-11-02T12:00:00.000Z",
-          "wordCount": 5953,
+          "wordCount": 5955,
           "title": "Creating A Magento PWA: Customizing Themes vs. Coding From Scratch",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/77155632-96bd-44a8-af99-50ebad7534e6/magento-pwa-customizing-themes-coding.jpg",
@@ -425,7 +883,7 @@
           "description": "November is just around the corner, and with it, a new collection of desktop wallpapers to celebrate the beginning of the month. Designed by creatives from all across the globe, they come in versions with and without a calendar. Let’s make November colorful!",
           "link": "https://smashingmagazine.com/2021/10/desktop-wallpaper-calendars-november-2021/",
           "publishedOn": "2021-10-31T08:20:00.000Z",
-          "wordCount": 2374,
+          "wordCount": 2372,
           "title": "A Splash Of Color For Misty Days (November 2021 Desktop Wallpapers Edition)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/7a2a341f-4f72-4716-91c6-ed6da6add2fd/nov-21-no-shave-november-preview-opt.png",
@@ -439,7 +897,7 @@
           "description": "Stop wasting time and effort writing copy that falls flat. Raise your copywriting game and boost your powers of persuasion with these rich and informative online resources.",
           "link": "https://smashingmagazine.com/2021/10/resources-tools-turbocharge-copywriting-skills/",
           "publishedOn": "2021-10-29T10:00:00.000Z",
-          "wordCount": 2516,
+          "wordCount": 2505,
           "title": "50 Resources And Tools To Turbocharge Your Copywriting Skills",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/376436ee-7e40-4d99-ad14-e934df9f92c9/resources-tools-turbocharge-copywriting-skills.jpg",

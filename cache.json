@@ -1,0 +1,939 @@
+{
+  "sources": [
+    {
+      "title": "Hacker News",
+      "feedUrl": "https://news.ycombinator.com/rss",
+      "siteUrl": "https://news.ycombinator.com/",
+      "articles": [
+        {
+          "id": "https://jobs.lever.co/buildzoom",
+          "author": null,
+          "description": "Comments",
+          "link": "https://jobs.lever.co/buildzoom",
+          "publishedOn": "2021-12-22T01:00:37.000Z",
+          "wordCount": 167,
+          "title": "BuildZoom (better way to build custom homes) is hiring a head of marketing"
+        },
+        {
+          "id": "https://github.com/cryptosubtlety/intuitive-advanced-cryptography/blob/master/advancedcrypto.pdf",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/cryptosubtlety/intuitive-advanced-cryptography/blob/master/advancedcrypto.pdf",
+          "publishedOn": "2021-12-22T00:29:22.000Z",
+          "wordCount": 313,
+          "title": "Intuitive Advanced Cryptography [pdf]"
+        },
+        {
+          "id": "https://www.nature.com/articles/s41586-021-04160-4",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.nature.com/articles/s41586-021-04160-4",
+          "publishedOn": "2021-12-22T00:26:06.000Z",
+          "wordCount": 5773,
+          "title": "Quantum theory based on real numbers can be experimentally falsified"
+        },
+        {
+          "id": "https://www.iihs.org/news/detail/2021-22-tesla-model-y-earns-highest-iihs-accolade",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.iihs.org/news/detail/2021-22-tesla-model-y-earns-highest-iihs-accolade",
+          "publishedOn": "2021-12-21T23:54:27.000Z",
+          "wordCount": 501,
+          "title": "2021-22 Tesla Model Y earns highest IIHS accolade"
+        },
+        {
+          "id": "https://breckyunits.com/aftertext.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://breckyunits.com/aftertext.html",
+          "publishedOn": "2021-12-21T23:16:51.000Z",
+          "wordCount": 1844,
+          "title": "Show HN: Aftertext"
+        },
+        {
+          "id": "https://nonfungibleolivegardens.com/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://nonfungibleolivegardens.com/",
+          "publishedOn": "2021-12-21T23:10:53.000Z",
+          "wordCount": 589,
+          "title": "Non-Fungible Olive Gardens"
+        },
+        {
+          "id": "https://www.narrator.ai/blog/postgres-missing-datediff-function/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.narrator.ai/blog/postgres-missing-datediff-function/",
+          "publishedOn": "2021-12-21T21:49:44.000Z",
+          "wordCount": 818,
+          "title": "PostgreSQL's Missing DateDiff Function"
+        },
+        {
+          "id": "https://www.mergersandinquisitions.com/great-spac-scam/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.mergersandinquisitions.com/great-spac-scam/",
+          "publishedOn": "2021-12-21T21:36:41.000Z",
+          "wordCount": 5125,
+          "title": "The Great SPAC Scam: SPACs a Great Deal for Sponsors, but Not Others"
+        },
+        {
+          "id": "https://blog.hayman.net/blog/2021/12/20/apple-next-25-years-ago-today/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://blog.hayman.net/blog/2021/12/20/apple-next-25-years-ago-today/",
+          "publishedOn": "2021-12-21T21:30:22.000Z",
+          "wordCount": null,
+          "title": "Apple and NeXT, 25 Years Ago this week"
+        },
+        {
+          "id": "https://spectrum.ieee.org/ibm-mainframe",
+          "author": null,
+          "description": "Comments",
+          "link": "https://spectrum.ieee.org/ibm-mainframe",
+          "publishedOn": "2021-12-21T21:26:44.000Z",
+          "wordCount": 2365,
+          "title": "A Quadrillion Mainframes on Your Lap"
+        },
+        {
+          "id": "https://www.reuters.com/business/aerospace-defense/boeing-airbus-executives-urge-delay-5g-wireless-deployment-2021-12-21/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.reuters.com/business/aerospace-defense/boeing-airbus-executives-urge-delay-5g-wireless-deployment-2021-12-21/",
+          "publishedOn": "2021-12-21T21:18:09.000Z",
+          "wordCount": 681,
+          "title": "Boeing, Airbus executives urge delay in U.S. 5G wireless deployment"
+        },
+        {
+          "id": "https://astralcodexten.substack.com/p/mantic-monday-let-me-google-that",
+          "author": null,
+          "description": "Comments",
+          "link": "https://astralcodexten.substack.com/p/mantic-monday-let-me-google-that",
+          "publishedOn": "2021-12-21T21:16:43.000Z",
+          "wordCount": 1963,
+          "title": "Mantic Monday: Let Me Google That for You"
+        },
+        {
+          "id": "https://tuple.app/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://tuple.app/",
+          "publishedOn": "2021-12-21T20:46:19.000Z",
+          "wordCount": 659,
+          "title": "Tuple: Pair Programming Tool for macOS"
+        },
+        {
+          "id": "https://www.jeffgeerling.com/blog/2021/check-your-driver-faster-linux-25g-networking-realtek-rtl8125b",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.jeffgeerling.com/blog/2021/check-your-driver-faster-linux-25g-networking-realtek-rtl8125b",
+          "publishedOn": "2021-12-21T20:45:50.000Z",
+          "wordCount": 594,
+          "title": "Faster Linux 2.5G Networking with Realtek RTL8125B"
+        },
+        {
+          "id": "https://jahed.dev/2021/12/19/hidden-networks-in-tp-link-routers/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://jahed.dev/2021/12/19/hidden-networks-in-tp-link-routers/",
+          "publishedOn": "2021-12-21T20:42:29.000Z",
+          "wordCount": 432,
+          "title": "Hidden Networks in TP-Link Routers"
+        },
+        {
+          "id": "https://www.eurozine.com/the-lives-and-deaths-of-georgi-markov/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.eurozine.com/the-lives-and-deaths-of-georgi-markov/",
+          "publishedOn": "2021-12-21T20:26:28.000Z",
+          "wordCount": 3918,
+          "title": "The lives and deaths of Georgi Markov"
+        },
+        {
+          "id": "https://www.darpa.mil/news-events/2021-12-21",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.darpa.mil/news-events/2021-12-21",
+          "publishedOn": "2021-12-21T20:09:59.000Z",
+          "wordCount": 10,
+          "title": "DARPA open sources resources to aid evaluation of adversarial AI defenses"
+        },
+        {
+          "id": "https://www.theguardian.com/uk-news/2021/dec/21/a-world-first-devon-calls-victory-in-27-year-war-on-termites",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.theguardian.com/uk-news/2021/dec/21/a-world-first-devon-calls-victory-in-27-year-war-on-termites",
+          "publishedOn": "2021-12-21T19:58:47.000Z",
+          "wordCount": 1292,
+          "title": "Devon calls victory in 27-year war on termites"
+        },
+        {
+          "id": "https://theintercept.com/2016/11/16/the-nsas-spy-hub-in-new-york-hidden-in-plain-sight/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://theintercept.com/2016/11/16/the-nsas-spy-hub-in-new-york-hidden-in-plain-sight/",
+          "publishedOn": "2021-12-21T19:46:27.000Z",
+          "wordCount": 3983,
+          "title": "Titanpointe: The NSA’s spy hub in New York, hidden in plain sight (2016)"
+        },
+        {
+          "id": "http://www.imfdb.org/wiki/Main_Page",
+          "author": null,
+          "description": "Comments",
+          "link": "http://www.imfdb.org/wiki/Main_Page",
+          "publishedOn": "2021-12-21T19:19:20.000Z",
+          "wordCount": 348,
+          "title": "Internet Movie Firearms Database"
+        },
+        {
+          "id": "https://maps.arcanum.com/en/map/europe-19century-secondsurvey/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://maps.arcanum.com/en/map/europe-19century-secondsurvey/",
+          "publishedOn": "2021-12-21T18:51:27.000Z",
+          "wordCount": 518,
+          "title": "Interactive maps of Europe in the 19th century"
+        },
+        {
+          "id": "https://endcrawl.com/credits-ordering/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://endcrawl.com/credits-ordering/",
+          "publishedOn": "2021-12-21T17:48:47.000Z",
+          "wordCount": 5118,
+          "title": "Ordering movie credits with graph theory"
+        },
+        {
+          "id": "https://twitter.com/ID_AA_Carmack/status/1473327982605385735",
+          "author": null,
+          "description": "Comments",
+          "link": "https://twitter.com/ID_AA_Carmack/status/1473327982605385735",
+          "publishedOn": "2021-12-21T16:51:23.000Z",
+          "wordCount": 196,
+          "title": "Internet Archive as a default host-of-record for startups"
+        },
+        {
+          "id": "https://www-uxsup.csx.cam.ac.uk/misc/horror.txt",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www-uxsup.csx.cam.ac.uk/misc/horror.txt",
+          "publishedOn": "2021-12-21T15:38:04.000Z",
+          "wordCount": 22263,
+          "title": "Unix Admin Horror Story Summary (1992)"
+        },
+        {
+          "id": "https://asia.nikkei.com/Business/Tech/Semiconductors/TSMC-in-Japan-5-things-to-know-about-its-chip-factory-plans",
+          "author": null,
+          "description": "Comments",
+          "link": "https://asia.nikkei.com/Business/Tech/Semiconductors/TSMC-in-Japan-5-things-to-know-about-its-chip-factory-plans",
+          "publishedOn": "2021-12-21T13:50:15.000Z",
+          "wordCount": 611,
+          "title": "TSMC in Japan: Things to know about its chip factory plans"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=29637188",
+          "author": null,
+          "description": "Comments",
+          "link": "https://news.ycombinator.com/item?id=29637188",
+          "publishedOn": "2021-12-21T13:33:13.000Z",
+          "wordCount": 10032,
+          "title": "Show HN: SlikSafe – A decentralized, end-to-end encrypted alternative to Dropbox"
+        },
+        {
+          "id": "https://en.wikipedia.org/wiki/Death_by_coconut",
+          "author": null,
+          "description": "Comments",
+          "link": "https://en.wikipedia.org/wiki/Death_by_coconut",
+          "publishedOn": "2021-12-21T04:34:22.000Z",
+          "wordCount": 4207,
+          "title": "Death by Coconut"
+        },
+        {
+          "id": "https://www.bbc.com/news/magazine-22751415",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.bbc.com/news/magazine-22751415",
+          "publishedOn": "2021-12-20T21:25:17.000Z",
+          "wordCount": 1889,
+          "title": "Why Finnish babies sleep in cardboard boxes (2013)"
+        },
+        {
+          "id": "https://cloud.google.com/blog/topics/solutions-how-tos/design-patterns-in-googles-prediction-market-on-google-cloud",
+          "author": null,
+          "description": "Comments",
+          "link": "https://cloud.google.com/blog/topics/solutions-how-tos/design-patterns-in-googles-prediction-market-on-google-cloud",
+          "publishedOn": "2021-12-20T20:13:37.000Z",
+          "wordCount": 1972,
+          "title": "Design Patterns in Googles Prediction Market on Google Cloud"
+        },
+        {
+          "id": "https://www.nytimes.com/2021/10/23/opinion/culture/dune-frank-herbert-native-americans.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.nytimes.com/2021/10/23/opinion/culture/dune-frank-herbert-native-americans.html",
+          "publishedOn": "2021-12-20T19:07:11.000Z",
+          "wordCount": 1350,
+          "title": "Before ‘Dune,’ Frank Herbert learned from native Americans"
+        }
+      ]
+    },
+    {
+      "title": "Trang chủ",
+      "feedUrl": "https://www.tinhte.vn/rss",
+      "siteUrl": "https://tinhte.vn/lists/trang-chu.1/",
+      "articles": [
+        {
+          "id": "https://tinhte.vn/thread/3451896/",
+          "author": "Minh Dự.",
+          "description": "Mời anh em chia sẻ thêm những ưu đãi giảm giá từ các trang thương mại điện tử lớn tại Việt Nam. Những deal nổi bật được cập nhật hàng ngày có giá trị theo giờ, theo ngày hoặc đến khi hết sản phẩm....",
+          "link": "https://tinhte.vn/thread/tong-hop-deal-khuyen-mai-21-12.3451896/",
+          "publishedOn": "2021-12-22T01:03:23.000Z",
+          "wordCount": 1739,
+          "title": "Tổng hợp deal khuyến mãi 21/12"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3452058/",
+          "author": "Mikeknowsme",
+          "description": "Đó là tin đồn từ iPhonesoft, và dự kiến iPhone 6s và iPhone SE thế hệ đầu tiên sẽ sớm trở thành “thiết bị đã cũ” của Apple khi thiết bị đó không còn được hỗ trợ phần mềm nữa.\n \nThực tế iPhone 6s...",
+          "link": "https://tinhte.vn/thread/tin-don-iphone-6s-va-iphone-se-se-khong-duoc-cap-nhat-ios-16-trong-tuong-lai.3452058/",
+          "publishedOn": "2021-12-22T01:01:27.000Z",
+          "wordCount": 1429,
+          "title": "Tin đồn: iPhone 6s và iPhone SE sẽ không được cập nhật iOS 16 trong tương lai?"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3452011/",
+          "author": "lequockhanh1987",
+          "description": "Lúc 1h30 chiều nay, ngày 21 tháng Mười hai, 2021, mình đã được chích mũi thứ ba vắc-xin covid-19. Mình chích ca chiều, đến sớm nên lúc vào chỉ có một mình mình thôi. Khai báo phiếu trước khi tiêm...",
+          "link": "https://tinhte.vn/thread/chieu-nay-minh-da-duoc-tiem-mui-thu-ba-vac-xin-covid-19-cua-pfizer.3452011/",
+          "publishedOn": "2021-12-22T01:01:17.000Z",
+          "wordCount": 2461,
+          "title": "Chiều nay mình đã được tiêm mũi thứ ba vắc-xin covid-19 của Pfizer"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3451731/",
+          "author": "Trần Hoàng Long.",
+          "description": "Hôm rồi mình có bài chia sẻ về dự án Chạy bộ 100 km tại Sài Gòn để gây quỹ mổ hở hàm ếch cho trẻ em. Hôm nay dự án đã hoàn thành nên viết thêm bài này để báo cáo với anh em. Dự án này vừa có thành...",
+          "link": "https://tinhte.vn/thread/chay-bo-100km-trong-9-tieng-gay-quy-mo-ho-ham-ech-cho-hon-60-tre-em.3451731/",
+          "publishedOn": "2021-12-22T01:01:04.000Z",
+          "wordCount": 2186,
+          "title": "Chạy bộ 100km trong 9 tiếng gây quỹ mổ hở hàm ếch cho hơn 60 trẻ em"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3451724/",
+          "author": "Trần Hoàng Long.",
+          "description": "GTR 3 PRO là chiếc đồng hồ thông minh mới nhất của nhà Amazfit, nó một thiết kế cổ điển với màn hình cực lớn, trọng lượng nhẹ và nút cuộn tiện dụng. Mời các bạn xem video trên tay:\n \n[MEDIA]\n \n1....",
+          "link": "https://tinhte.vn/thread/tren-tay-dong-ho-thong-minh-amazfit-gtr-3-pro-man-hinh-rat-dep-num-xoay-tien-dung-pin-tot.3451724/",
+          "publishedOn": "2021-12-22T00:58:09.000Z",
+          "wordCount": 2404,
+          "title": "Trên tay đồng hồ thông minh Amazfit GTR 3 Pro: Màn hình rất đẹp, núm xoay tiện dụng, pin tốt"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3451683/",
+          "author": "bk9sw",
+          "description": "NVIDIA đã vừa ra mắt 3 GPU mới dành cho laptop gồm RTX 2050, GeForce MX570 và MX550. MX570 hay MX550 thì có thể hiểu được khi chúng thay thế cho MX450 nhưng RTX 2050 thì quả thật kỳ lạ. 3 GPU này...",
+          "link": "https://tinhte.vn/thread/nvidia-ra-mat-geforce-mx550-570-va-dac-biet-la-rtx-2050.3451683/",
+          "publishedOn": "2021-12-22T00:54:49.000Z",
+          "wordCount": 2290,
+          "title": "NVIDIA ra mắt GeForce MX550/570 và đặc biệt là ... RTX 2050!"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3452039/",
+          "author": "Hassler",
+          "description": "Hôm qua 20/12 Bộ Y tế đã đưa ra hướng dẫn về quy trình cấp Hộ chiếu vaccine và trong thời gian tới sẽ được thống nhất tại tất cả các điểm tiêm chủng trên cả nước. Đây dự kiến sẽ là một bước tiến...",
+          "link": "https://tinhte.vn/thread/viet-nam-co-huong-dan-ve-quy-trinh-cap-ho-chieu-vaccine-de-di-lai-trong-thoi-gian-toi.3452039/",
+          "publishedOn": "2021-12-22T00:52:23.000Z",
+          "wordCount": 1997,
+          "title": "Việt Nam có hướng dẫn về quy trình cấp Hộ chiếu vaccine để đi lại trong thời gian tới"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3451923/",
+          "author": "bk9sw",
+          "description": "Các nhà nghiên cứu tại Bộ phận công nghệ plasma, chùm electron và điện tử hữu cơ thuộc viện Fraunhofer đã phát triển thành công màn hình màu kích thước micro dùng công nghệ OLED, tiêu thụ điện...",
+          "link": "https://tinhte.vn/thread/vien-fraunhofer-phat-trien-thanh-cong-man-hinh-oled-co-mau-sieu-nho-sieu-tiet-kiem-dien.3451923/",
+          "publishedOn": "2021-12-22T00:52:07.000Z",
+          "wordCount": 1084,
+          "title": "Viện Fraunhofer phát triển thành công màn hình OLED có màu, siêu nhỏ, siêu tiết kiệm điện"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3451868/",
+          "author": "_vphlinh_",
+          "description": "Hiệp hội Khí quyển và Đại dương Quốc gia (NOAA) cho biết, biến đổi khí hậu đang tiếp tục tạo ra hiện tượng \"đứt đoạn theo tầng\" ở Bắc Cực, khi mà khu vực này đang phải trải qua giai đoạn ấm lên...",
+          "link": "https://tinhte.vn/thread/nong-len-toan-cau-dang-gay-ra-nhung-thay-doi-chua-tung-co-o-bac-cuc.3451868/",
+          "publishedOn": "2021-12-22T00:51:57.000Z",
+          "wordCount": 2112,
+          "title": "Nóng lên toàn cầu đang gây ra những thay đổi chưa từng có ở Bắc Cực"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3451858/",
+          "author": "lexcuong",
+          "description": "Đây là review về Pixel 4XL sau 6 tháng sử dụng làm máy phụ của mình. Mình mua nó với giá 8 triệu. Hi vọng phần review sẽ hữu ích cho bạn nào muốn mua nhé, nếu bạn có câu hỏi gì thì hãy comment vô...",
+          "link": "https://tinhte.vn/thread/review-pixel-4xl-sau-6-thang-su-dung-lam-may-phu.3451858/",
+          "publishedOn": "2021-12-22T00:48:38.000Z",
+          "wordCount": 4194,
+          "title": "Review Pixel 4XL sau 6 tháng sử dụng làm máy phụ"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3452189/",
+          "author": "vn_ninja",
+          "description": "Báo cáo của Tom’s Hardware cho biết Intel đã đưa ra một kế hoạch “khôn ngoan” để đảm bảo không mất vị thế của mình trước các đối thủ cạnh tranh, đó là tăng lương cho nhân viên. Công ty được cho là...",
+          "link": "https://tinhte.vn/thread/intel-tang-luong-cho-nhan-vien-de-tranh-mat-nguoi-vao-tay-doi-thu.3452189/",
+          "publishedOn": "2021-12-22T00:48:21.000Z",
+          "wordCount": 612,
+          "title": "Intel tăng lương cho nhân viên để tránh mất người vào tay đối thủ"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3451958/",
+          "author": "TTKM",
+          "description": "ShopDunk tung “deal khủng” khi mua iPhone 13 series chính hãng VN/A sẵn hàng với giá bán tốt nhất trên thị trường, chỉ từ 19.950.000đ hoặc trả góp từ 1.669.000đ/tháng. Ba combo quà tặng Giáng Sinh...",
+          "link": "https://tinhte.vn/thread/qc-iphone-13-series-vn-a-chi-19-950-000d-mua-apple-tang-apple.3451958/",
+          "publishedOn": "2021-12-22T00:41:34.000Z",
+          "wordCount": 1145,
+          "title": "[QC] iPhone 13 Series VN/A chỉ 19.950.000đ - “Mua Apple – Tặng Apple”"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3452002/",
+          "author": "_vphlinh_",
+          "description": "Dựa trên dữ liệu thử nghiệm lâm sàng, Pfizer/BioNTech đã công bố kết quả thử nghiệm vaccine COVID-19 của hãng cho nhóm trẻ em từ 2 đến dưới 5 tuổi, qua đó cho thấy phản ứng miễn dịch của nhóm tuổi...",
+          "link": "https://tinhte.vn/thread/vaccine-covid-19-lieu-thap-cua-pfizer-khong-sinh-du-mien-dich-o-nhom-tre-em-tu-2-den-duoi-5-tuoi.3452002/",
+          "publishedOn": "2021-12-22T00:40:32.000Z",
+          "wordCount": 2389,
+          "title": "Vaccine COVID-19 liều thấp của Pfizer không sinh đủ miễn dịch ở nhóm trẻ em từ 2 đến dưới 5 tuổi"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3451948/",
+          "author": "P.W",
+          "description": "Để nói về năm 2021, có lẽ phải tua ngược lại trước đó vài tháng. Tháng 9/2020, mình bán cho cậu bạn thân chiếc card RTX 2070 Founder's Edition với giá 6 triệu để về chơi CS:GO. Anh em không đọc...",
+          "link": "https://tinhte.vn/thread/tinhtelookback-2021-nam-dien-ro-cua-thi-truong-card-do-hoa-choi-game.3451948/",
+          "publishedOn": "2021-12-22T00:38:21.000Z",
+          "wordCount": 2589,
+          "title": "#TinhteLookBack: 2021, năm điên rồ của thị trường card đồ họa chơi game"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3451918/",
+          "author": "P.W",
+          "description": "Tham vọng tự chủ toàn bộ chuỗi sản xuất và cung ứng linh kiện công nghệ của Apple không phải là thứ quá xa lạ. Họ đang cố gắng phát triển chip modem 5G để không phải phụ thuộc vào Qualcomm như...",
+          "link": "https://tinhte.vn/thread/bloomberg-apple-muon-tu-san-xuat-moi-chip-ban-dan-trong-cac-thiet-bi-cua-ho.3451918/",
+          "publishedOn": "2021-12-22T00:36:38.000Z",
+          "wordCount": 2266,
+          "title": "Bloomberg: Apple muốn tự sản xuất mọi chip bán dẫn trong các thiết bị của họ"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3451836/",
+          "author": "_vphlinh_",
+          "description": "\"Tiên tri\" Ming-Chi Kuo cho rằng, trên các dòng iPhone sắp tới, Apple sẽ sử dụng công nghệ camera 48 MP, cũng như sẽ trang bị camera kính tiềm vọng (periscope camera) cho thế hệ iPhone được ra mắt...",
+          "link": "https://tinhte.vn/thread/ming-chi-kuo-iphone-2022-se-co-camera-48-mp-iphone-2023-se-co-camera-kinh-tiem-vong.3451836/",
+          "publishedOn": "2021-12-21T22:45:57.000Z",
+          "wordCount": 1649,
+          "title": "Ming-Chi Kuo: iPhone 2022 sẽ có camera 48 MP, iPhone 2023 sẽ có camera kính tiềm vọng"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3452045/",
+          "author": "Hassler",
+          "description": "Chiều nay Bộ Y tế khẳng định đã thực hiện đúng quy định trong cấp phép và bảo đảm chất lượng các sinh phẩm xét nghiệm COVID-19, ngoài ra Bộ cũng cho biết việc mua sắm này đều do các địa phương tự...",
+          "link": "https://tinhte.vn/thread/tinh-hinh-dich-covid-19-tai-viet-nam-den-21-12.3452045/",
+          "publishedOn": "2021-12-21T22:18:53.000Z",
+          "wordCount": 2120,
+          "title": "Tình hình dịch covid-19 tại Việt Nam đến 21/12"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3452028/",
+          "author": "_vphlinh_",
+          "description": "Thông qua một dòng tweet trên Twitter, Elon Musk cho biết bản thân sẽ trả hơn 11 tỷ USD tiền thuế vào năm 2021. Con số này gần như phù hợp với báo cáo do CNBC thực hiện vào tuần trước, khi ước...",
+          "link": "https://tinhte.vn/thread/elon-musk-se-tra-hon-11-ty-usd-tien-thue-trong-nam-2021.3452028/",
+          "publishedOn": "2021-12-21T19:24:47.000Z",
+          "wordCount": 1296,
+          "title": "Elon Musk sẽ trả hơn 11 tỷ USD tiền thuế trong năm 2021"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3451940/",
+          "author": "P.W",
+          "description": "Nhóm khoa học gia này thuộc Cortical Labs, một công ty tại Úc đang nghiên cứu cách tích hợp nơ ron thần kinh sinh học với giải pháp triển khai chip xử lý thông tin truyền thống. Họ tìm cách nuôi...",
+          "link": "https://tinhte.vn/thread/cac-nha-khoa-hoc-nuoi-cay-te-bao-nao-sau-do-day-chung-choi-dien-tu-chi-trong-5-phut.3451940/",
+          "publishedOn": "2021-12-21T18:49:31.000Z",
+          "wordCount": 1256,
+          "title": "Các nhà khoa học nuôi cấy tế bào não, sau đó... dạy chúng chơi điện tử chỉ trong 5 phút"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3451989/",
+          "author": "lequockhanh1987",
+          "description": "Cho dù có tới 86% người dân Mỹ đã từng nghe về các loại tiền điện tử, chỉ có 16% trong số này từng mua bán hoặc thanh toán với các loại tiền điện tử. Một lý do cho sự chênh lệch đó là sự biến động...",
+          "link": "https://tinhte.vn/thread/stablecoins-la-gi-va-trien-vong-cua-chung.3451989/",
+          "publishedOn": "2021-12-21T08:45:42.000Z",
+          "wordCount": 1123,
+          "title": "Stablecoins là gì và triển vọng của chúng?"
+        }
+      ]
+    },
+    {
+      "title": "CSS-Tricks",
+      "feedUrl": "https://css-tricks.com/feed/",
+      "siteUrl": "https://css-tricks.com",
+      "articles": [
+        {
+          "id": "https://css-tricks.com/?p=359146",
+          "author": "Chris Coyier",
+          "description": "Does shadow DOM improve style performance? — Nolan Lawson covers how, because of the inherent encapsulation of the shadow DOM, the styling gets applied a bit faster than it would if those styling rules were relevant to the entire page. But \n…",
+          "link": "https://css-tricks.com/links-on-performance-v/",
+          "publishedOn": "2021-12-21T18:42:43.000Z",
+          "wordCount": 911,
+          "title": "Links on Performance V"
+        },
+        {
+          "id": "https://css-tricks.com/?p=358690",
+          "author": "Eli Fitch",
+          "description": "Everything kind of sucks right now. Things—generally—feel bad. Setting aside the broader realities of a global pandemic and rampant social injustices, we’re watching the identity of the web platform, an intrinsically free and open medium of creative expression, co-opted for …",
+          "link": "https://css-tricks.com/make-joyful-things/",
+          "publishedOn": "2021-12-21T15:32:58.000Z",
+          "wordCount": 1197,
+          "title": "Make Joyful Things"
+        },
+        {
+          "id": "https://css-tricks.com/?p=359017",
+          "author": "Chris Coyier",
+          "description": "There are a number of ways to approach a dark mode for your website, but essentially you get all the styles ready for it and then apply them when the user has indicated they want them, whether by direct …",
+          "link": "https://css-tricks.com/auto-dark-theme/",
+          "publishedOn": "2021-12-20T18:34:47.000Z",
+          "wordCount": 1149,
+          "title": "Auto Dark Theme"
+        },
+        {
+          "id": "https://css-tricks.com/?p=359201",
+          "author": "Chris Coyier",
+          "description": "(This is a sponsored post.)\nWe’re going to go over details on how designer ↔️ developer collaboration in AWS Amplify Studio can make app building easier, but let’s cover one of those things right at the top here. \nSay …",
+          "link": "https://css-tricks.com/build-great-apps-designer-and-developer-collaboration-just-got-easier/",
+          "publishedOn": "2021-12-20T18:34:27.000Z",
+          "wordCount": 1723,
+          "title": "Build Great Apps: Designer and Developer Collaboration Just Got Easier"
+        },
+        {
+          "id": "https://css-tricks.com/?p=358037",
+          "author": "Heather Migliorisi",
+          "description": "When I was working at my first “real” job in the field in the mid-2000s, it was hammered in the web dev field to build tiny websites (no more than 100KB per page), only use JavaScript for special effects, and …",
+          "link": "https://css-tricks.com/be-prepared-for-failure-and-handle-it-gracefully/",
+          "publishedOn": "2021-12-20T15:22:04.000Z",
+          "wordCount": 1735,
+          "title": "Be Prepared for Failure and Handle it Gracefully"
+        },
+        {
+          "id": "https://css-tricks.com/?p=359489",
+          "author": "Chris Coyier",
+          "description": "Just the first sentence alone here from Stepanie Yee and Tony Chu is solid:\nIn machine learning, computers apply statistical learning techniques to automatically identify patterns in data. These techniques can be used to make highly accurate predictions.\n\n\n\n\nAnd what …",
+          "link": "https://css-tricks.com/a-visual-introduction-to-machine-learning/",
+          "publishedOn": "2021-12-17T21:17:31.000Z",
+          "wordCount": 568,
+          "title": "A visual introduction to machine learning"
+        },
+        {
+          "id": "https://css-tricks.com/?p=357625",
+          "author": "Jenn Lukas",
+          "description": "What’s one thing we can do to make our site better? Maybe nothing at all!\nOur websites keep getting bigger and bigger! When we have a team with so many exciting ideas and such interesting technology, it can be easy …",
+          "link": "https://css-tricks.com/maybe-nothing/",
+          "publishedOn": "2021-12-17T15:21:15.000Z",
+          "wordCount": 857,
+          "title": "Maybe Nothing"
+        },
+        {
+          "id": "https://css-tricks.com/?p=359430",
+          "author": "Chris Coyier",
+          "description": "Huh! I did not realize that CSS custom properties had their own resolution behavior for how !important works in their values. Uh, despite writing a guide about them. 😬 But hey it’s now updated.\nStefan Judis documents it clearly. …",
+          "link": "https://css-tricks.com/the-surprising-behavior-of-important-in-css-custom-property-values/",
+          "publishedOn": "2021-12-17T15:19:08.000Z",
+          "wordCount": 857,
+          "title": "The surprising behavior of !important in CSS custom property values"
+        },
+        {
+          "id": "https://css-tricks.com/?p=358029",
+          "author": "Andy Bell",
+          "description": "When Chris first sent me this prompt, I was thinking about writing about progressive enhancement, but that subject is so wide-reaching to be one thing and all too predictable, especially for those already familiar with my writing. Saying that, what …",
+          "link": "https://css-tricks.com/consistent-fluidly-scaling-type-and-spacing/",
+          "publishedOn": "2021-12-16T22:06:03.000Z",
+          "wordCount": 1356,
+          "title": "Consistent, Fluidly Scaling Type and Spacing"
+        },
+        {
+          "id": "https://css-tricks.com/?p=359260",
+          "author": "Chris Coyier",
+          "description": "Jordan Scales explores the computer science concept of topological sorting, and what it might look like if applied to the concept of  z-index in CSS. So, you don’t express what the z-index should be directly; instead, you say exactly …",
+          "link": "https://css-tricks.com/topological-sort/",
+          "publishedOn": "2021-12-16T22:04:07.000Z",
+          "wordCount": 571,
+          "title": "Topological sort"
+        },
+        {
+          "id": "https://css-tricks.com/?p=359306",
+          "author": "Chris Coyier",
+          "description": "Three cheers for (draft stage) progress on a Sanitizer API! It’s gospel that you can’t trust user input. And indeed, any app I’ve ever worked on has dealt with bad actors trying to slip in and execute nefarious code …",
+          "link": "https://css-tricks.com/html-sanitizer-api/",
+          "publishedOn": "2021-12-16T18:21:31.000Z",
+          "wordCount": 1038,
+          "title": "HTML Sanitizer API"
+        },
+        {
+          "id": "https://css-tricks.com/?p=358576",
+          "author": "Farai Gandiya",
+          "description": "Between Google Chrome experimenting with “following” sites, along with a growing frustration of how social media platforms limit a creator’s reach to their fans through algorithmic feeds, there’s been renewed interest in RSS feeds and they’re primed for a …",
+          "link": "https://css-tricks.com/working-with-web-feeds-its-more-than-rss/",
+          "publishedOn": "2021-12-16T15:15:11.000Z",
+          "wordCount": 5629,
+          "title": "Working With Web Feeds: It’s More Than RSS"
+        },
+        {
+          "id": "https://css-tricks.com/?p=359032",
+          "author": "Chris Coyier",
+          "description": "I was reading Jake’s “Cross-fading any two DOM elements is currently impossible” which is a wonderfully nerdy deep dive into how there is no real way to literally cross-fade elements. Yeah, you can animate both of their opacities, but even …",
+          "link": "https://css-tricks.com/maybe-there-kinda-is-background-opacity/",
+          "publishedOn": "2021-12-15T22:27:07.000Z",
+          "wordCount": 875,
+          "title": "Maybe there kinda is background-opacity?"
+        },
+        {
+          "id": "https://css-tricks.com/?p=359234",
+          "author": "Chris Coyier",
+          "description": "Matias Capeletto covers the breadth of Vite, from the technological shoulders it stands on, to the peers exploring similar territory, to the other technologies it supports, to the frameworks that now use it primarily, and more. The fact that …",
+          "link": "https://css-tricks.com/the-vite-ecosystem/",
+          "publishedOn": "2021-12-15T20:58:30.000Z",
+          "wordCount": 516,
+          "title": "The Vite Ecosystem"
+        },
+        {
+          "id": "https://css-tricks.com/?p=358026",
+          "author": "Laura Kalbag",
+          "description": "Earlier this week, I tried out a starter theme for a blog platform. The theme had loads of nice default features: pretty typography, fancy navigation, dark mode widget… and a couple of default trackers I really don’t want just sitting …",
+          "link": "https://css-tricks.com/remove-trackers/",
+          "publishedOn": "2021-12-15T15:20:14.000Z",
+          "wordCount": 1277,
+          "title": "Remove Trackers"
+        }
+      ]
+    },
+    {
+      "title": "Articles on Smashing Magazine — For Web Designers And Developers",
+      "feedUrl": "https://www.smashingmagazine.com/feed/",
+      "siteUrl": "https://www.smashingmagazine.com/",
+      "articles": [
+        {
+          "id": "https://smashingmagazine.com/2021/12/core-web-vitals-case-study-smashing-magazine/",
+          "author": "hello@smashingmagazine.com (Barry Pollard)",
+          "description": "How to improve Core Web Vitals, a Smashing Magazine case study on how we detected and fixed the bottlenecks, and how we ended up with green scores, all the way.",
+          "link": "https://smashingmagazine.com/2021/12/core-web-vitals-case-study-smashing-magazine/",
+          "publishedOn": "2021-12-20T05:30:00.000Z",
+          "wordCount": 6022,
+          "title": "Improving Core Web Vitals, A Smashing Magazine Case Study",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/88f0021e-6f6e-4570-954f-eab757e4485b/core-web-vitals-case-study-smashing-magazine.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
+        {
+          "id": "https://smashingmagazine.com/2021/12/designing-human-machine-interfaces-future-vehicles/",
+          "author": "hello@smashingmagazine.com (Nick Babich & Gleb Kuznetsov)",
+          "description": "Modern HMIs are transforming the way we interact with our vehicles. A car becomes a gadget that we use in a similar way as we use our phones. Users expect a lot of HMI, they even evaluate car experience based on the experience they have with HMI. In this article, let’s look at some ways to help us satisfy users’ needs with proper design.",
+          "link": "https://smashingmagazine.com/2021/12/designing-human-machine-interfaces-future-vehicles/",
+          "publishedOn": "2021-12-17T14:30:00.000Z",
+          "wordCount": 3398,
+          "title": "Designing Human-Machine Interfaces For Vehicles Of The Future",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/3d9f919a-44bf-46ef-bfff-ee673c58e83f/designing-human-machine-interfaces-future-vehicles.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
+        {
+          "id": "https://smashingmagazine.com/2021/12/billing-management-saas-stripe-azure-functions/",
+          "author": "hello@smashingmagazine.com (Nwani Victory)",
+          "description": "In every software-as-a-service solution, user billing and payments are key aspects in the sale of services rendered. Let’s learn about Stripe and how the REST API can be programmatically used in serverless functions to manage the billing for an application.",
+          "link": "https://smashingmagazine.com/2021/12/billing-management-saas-stripe-azure-functions/",
+          "publishedOn": "2021-12-17T13:30:00.000Z",
+          "wordCount": 5440,
+          "title": "Billing Management For Your Next SaaS Idea Using Stripe And Azure Functions",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/346f3641-b7be-486d-8ac9-327ffe00e232/billing-management-saas-stripe-azure-functions.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
+        {
+          "id": "https://smashingmagazine.com/2021/12/touch-design-mobile-interfaces-devices/",
+          "author": "hello@smashingmagazine.com (Steven Hoober)",
+          "description": "Before we can talk about how people interact, much less how to take advantage of that knowledge and design, it’s important to understand a bit about the history, the technology, and what today counts as a mobile touchscreen device at all.",
+          "link": "https://smashingmagazine.com/2021/12/touch-design-mobile-interfaces-devices/",
+          "publishedOn": "2021-12-15T11:30:00.000Z",
+          "wordCount": 2495,
+          "title": "Touch Design For Mobile Interfaces: Defining Mobile Devices (Excerpt)",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/9e9a3814-1de8-4be8-87c4-a14712d76776/1-touch-design-mobile-interfaces-devices.png",
+            "length": "0",
+            "type": "image/png"
+          }
+        },
+        {
+          "id": "https://smashingmagazine.com/2021/12/headers-https-requests-ui-automation-testing/",
+          "author": "hello@smashingmagazine.com (Nafees Nehar)",
+          "description": "To be able to modify headers in a testing environment is a great thing to have. It allows control over your application as one can bypass authentication, set cookies, and so on. In this article, Nafees Nehar explores some methods which allow modification of headers in an automation testing setup.",
+          "link": "https://smashingmagazine.com/2021/12/headers-https-requests-ui-automation-testing/",
+          "publishedOn": "2021-12-14T10:30:00.000Z",
+          "wordCount": 2062,
+          "title": "Modifying Headers In HTTP(s) Requests In UI Automation Testing",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8590d77e-8181-4d36-9e2e-d4e9c76a893a/headers-https-requests-ui-automation-testing.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
+        {
+          "id": "https://smashingmagazine.com/2021/12/free-holiday-icons-vector-elements/",
+          "author": "hello@smashingmagazine.com (Cosima Mielke)",
+          "description": "Everybody loves a nice freebie, right? To get you in the mood for the upcoming holidays, we collected some winter- and holiday-themed icon sets and vector elements that you can use in your projects for free. Enjoy!",
+          "link": "https://smashingmagazine.com/2021/12/free-holiday-icons-vector-elements/",
+          "publishedOn": "2021-12-09T13:00:00.000Z",
+          "wordCount": 3561,
+          "title": "Free Christmas Icon Sets And Vector Elements",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/55b58da3-94e0-4060-b3cd-11540fb52672/hohoho-icons-opt.png",
+            "length": "0",
+            "type": "image/png"
+          }
+        },
+        {
+          "id": "https://smashingmagazine.com/2021/12/designing-better-links-websites-emails-guideline/",
+          "author": "hello@smashingmagazine.com (Slava Shestopalov)",
+          "description": "There are so many websites out there that have not considered the overall usability of their visually impaired users. When it comes to designing better links and sending better emails, Slava Shestopalov has a few tips on how to improve your website’s experience while accessibility in mind.",
+          "link": "https://smashingmagazine.com/2021/12/designing-better-links-websites-emails-guideline/",
+          "publishedOn": "2021-12-06T17:30:00.000Z",
+          "wordCount": 2547,
+          "title": "Designing Better Links For Websites And Emails: A Guideline",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b157db62-e93c-4607-9c84-698fad4da3b3/designing-better-links-websites-emails-guideline.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
+        {
+          "id": "https://smashingmagazine.com/2021/12/tech-advent-calendars-web-developers-web-designers-2021/",
+          "author": "hello@smashingmagazine.com (Iris Lješnjanin)",
+          "description": "Are you ready for the countdown to Christmas? From [festive](https://www.smashingmagazine.com/2016/12/freebie-christmas-advent-icon-set-25-icons-ai-eps-svg-png-pdf/) [icon](https://www.smashingmagazine.com/2015/12/freebie-christmas-icons-illustrations/) [sets](https://www.smashingmagazine.com/2014/11/freebie-christmas-icon-set-ai-psd-eps-pdf-svg-png/) to advent calendars that are bound to sweeten your days with a delightful little surprise each morning, we’ve decided to join in on this lovely annual tradition and bring it all to one place. So prepare yourself a nice cup of coffee and get cozy — there’s always something new to learn and discover!",
+          "link": "https://smashingmagazine.com/2021/12/tech-advent-calendars-web-developers-web-designers-2021/",
+          "publishedOn": "2021-12-02T14:00:43.000Z",
+          "wordCount": 3183,
+          "title": "Advent Calendars For Web Designers And Developers (December 2021 Edition)",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/6e09cbdf-49c2-4250-a290-4c0fce6fe0a8/advent-roundup-2021.png",
+            "length": "0",
+            "type": "image/png"
+          }
+        },
+        {
+          "id": "https://smashingmagazine.com/2021/12/protect-api-key-production-nextjs-api-route/",
+          "author": "hello@smashingmagazine.com (Caleb Olojo)",
+          "description": "There’s a great challenge that comes with building Jamstack applications on the web. In this article, Caleb Olojo explains how you can use Next.js to bootstrap your app safely.",
+          "link": "https://smashingmagazine.com/2021/12/protect-api-key-production-nextjs-api-route/",
+          "publishedOn": "2021-12-02T09:30:00.000Z",
+          "wordCount": 2020,
+          "title": "How To Protect Your API Key In Production With Next.js API Route",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/d0b2208c-15b4-4cdc-b050-033c4a4aa1b0/protect-api-key-production-nextjs-api-route.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
+        {
+          "id": "https://smashingmagazine.com/2021/11/smashing-podcast-episode-44/",
+          "author": "hello@smashingmagazine.com (Drew McLellan)",
+          "description": "In this episode, we’re asking if changes to best practises over the last year have negatively impacted the web. Is it all downhill from here? Drew McLellan talks to expert Chris Ferdinandi to find out.",
+          "link": "https://smashingmagazine.com/2021/11/smashing-podcast-episode-44/",
+          "publishedOn": "2021-11-30T14:00:00.000Z",
+          "wordCount": 8722,
+          "title": "Smashing Podcast Episode 44 With Chris Ferdinandi: Is The Web Dead?",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/fa0481fb-1555-40f1-94c2-014b5553f45f/smashing-podcast-episode-44.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
+        {
+          "id": "https://smashingmagazine.com/2021/11/desktop-wallpaper-calendars-december-2021/",
+          "author": "hello@smashingmagazine.com (Cosima Mielke)",
+          "description": "Let’s welcome December with some new wallpapers! Designed by artists and designers from across the globe, they are available with and without a calendar for the month. Enjoy!",
+          "link": "https://smashingmagazine.com/2021/11/desktop-wallpaper-calendars-december-2021/",
+          "publishedOn": "2021-11-30T09:45:00.000Z",
+          "wordCount": 2812,
+          "title": "It’s That Time Of The Year (December 2021 Desktop Wallpapers Edition)",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/9b96c8c2-9305-4a64-aa40-cf22662ea698/dec-21-winter-holidays-preview-opt.png",
+            "length": "0",
+            "type": "image/png"
+          }
+        },
+        {
+          "id": "https://smashingmagazine.com/2021/11/3d-css-flippy-snaps-react-greensock/",
+          "author": "hello@smashingmagazine.com (Jhey Tompkins)",
+          "description": "One of Jhey’s main mantras is to make learning fun.  In this article, he shows you ways to level up your skills by bringing your ideas to life, and not forgetting that [you can be playful with code](https://www.smashingmagazine.com/2020/11/playfulness-code-supercharge-fun-learning/). With that mindset, every idea is bound to become an opportunity to try something new.",
+          "link": "https://smashingmagazine.com/2021/11/3d-css-flippy-snaps-react-greensock/",
+          "publishedOn": "2021-11-29T12:30:00.000Z",
+          "wordCount": 3235,
+          "title": "3D CSS Flippy Snaps With React And GreenSock",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a865f227-d5a1-4a63-a889-288a84fa2bce/3d-css-flippy-snaps-react-greensock.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
+        {
+          "id": "https://smashingmagazine.com/2021/11/maintain-large-nextjs-application/",
+          "author": "hello@smashingmagazine.com (Nirmalya Ghosh)",
+          "description": "In this article, Nirmalya discusses some of the complex problems that he faced while building and maintaining large Next.js applications. He always explains how these problems can be solved by using various tools.",
+          "link": "https://smashingmagazine.com/2021/11/maintain-large-nextjs-application/",
+          "publishedOn": "2021-11-26T12:30:00.000Z",
+          "wordCount": 2630,
+          "title": "How To Maintain A Large Next.js Application",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/d36d3a50-0f3f-402e-9ceb-8164b41065bc/maintain-large-nextjs-application.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
+        {
+          "id": "https://smashingmagazine.com/2021/11/showcase-lovely-little-websites/",
+          "author": "hello@smashingmagazine.com (Cosima Mielke)",
+          "description": "Instead of spending your coffee break scrolling through your social feeds, how about a lovely little website instead? We came across some fantastic ones that are just too good not to be shared. But be warned, your break might take a bit longer than intended.",
+          "link": "https://smashingmagazine.com/2021/11/showcase-lovely-little-websites/",
+          "publishedOn": "2021-11-24T12:00:00.000Z",
+          "wordCount": 4232,
+          "title": "A Showcase Of Lovely Little Websites",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/5a0a3a89-ba5a-40a8-af80-f8db0554af37/radiooooo-opt.png",
+            "length": "0",
+            "type": "image/png"
+          }
+        },
+        {
+          "id": "https://smashingmagazine.com/2021/11/dyslexia-friendly-mode-website/",
+          "author": "hello@smashingmagazine.com (John C Barstow)",
+          "description": "With a little CSS, we can adapt our web designs to be more accommodating for people with dyslexia. In this article, we’ll explore those techniques by adding a dyslexia-friendly mode to an existing design.",
+          "link": "https://smashingmagazine.com/2021/11/dyslexia-friendly-mode-website/",
+          "publishedOn": "2021-11-23T10:00:00.000Z",
+          "wordCount": 2744,
+          "title": "Adding A Dyslexia-Friendly Mode To A Website",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e1fb4e46-6f0a-4631-a04c-d42376eddc82/dyslexia-friendly-mode-website.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
+        {
+          "id": "https://smashingmagazine.com/2021/11/smashingconf-workshops-winter-2021/",
+          "author": "hello@smashingmagazine.com (Iris Lješnjanin)",
+          "description": "What’s the state of CSS, Vue.js and Next.js? What are new, smart interface design patterns we could use? Let’s figure it out. With our [online workshops on UX, front-end and design](https://smashingconf.com/online-workshops).",
+          "link": "https://smashingmagazine.com/2021/11/smashingconf-workshops-winter-2021/",
+          "publishedOn": "2021-11-22T16:00:00.000Z",
+          "wordCount": 1013,
+          "title": "Smashing Workshops: Winter 2021",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/d2659d54-48e0-40d0-9fea-07c199eee87d/sanfran-2022.png",
+            "length": "0",
+            "type": "image/png"
+          }
+        }
+      ]
+    },
+    {
+      "title": "freeCodeCamp.org",
+      "feedUrl": "https://www.freecodecamp.org/news/rss/",
+      "siteUrl": "https://www.freecodecamp.org/news",
+      "articles": [
+        {
+          "id": "61c1702f755c160824908877",
+          "author": null,
+          "description": "If you have an e-commerce application, a payment gateway lets you process payments on your website on the fly.  With all the modern payment gateway solutions available these days, there are many ways you can integrate payments and charge your users for your product or services.  In this tutorial, we",
+          "link": "https://www.freecodecamp.org/news/integrate-a-payment-gateway-in-next-js-and-react-with-razorpay-and-tailwindcss/",
+          "publishedOn": "2021-12-21T18:16:10.000Z",
+          "wordCount": 3034,
+          "title": "How to Set Up a Payment Gateway in Next.js and React with Razorpay and TailwindCSS"
+        },
+        {
+          "id": "61c13344755c1608249086b5",
+          "author": null,
+          "description": "Since ECMAScript 6 (or ES6 for short), you can descructure objects in JavaScript. As a JavaScript developer, you’ll likely destructure objects as part of your daily work.  Let's learn about why we use destructuring, and then we'll learn how to destructure JavaScript objects. Why destructure an object?Let's go",
+          "link": "https://www.freecodecamp.org/news/how-to-destructure-objects-javascript/",
+          "publishedOn": "2021-12-21T16:47:41.000Z",
+          "wordCount": 678,
+          "title": "How to Destructure Objects in JavaScript"
+        },
+        {
+          "id": "61bc5001297c7107e8ad7f94",
+          "author": null,
+          "description": "You've probably seen a \"back-to-top\" button at the bottom-right corner on many websites when you're scrolling around. Clicking on that button takes you back to the top of the page.  This is a great feature to have on any website, and today we are going to see how to build",
+          "link": "https://www.freecodecamp.org/news/back-to-top-button-and-page-progressbar-with-html-css-and-js/",
+          "publishedOn": "2021-12-21T16:39:02.000Z",
+          "wordCount": 1882,
+          "title": "How to Make a Back to Top Button and Page Progress Bar with HTML, CSS, and JavaScript"
+        },
+        {
+          "id": "61bfadd5aabf6478ea7460fc",
+          "author": null,
+          "description": "When you work in IT operations, automation is a key part of your job.  You'll have various repetitive tasks you have to deal with, and you don’t want to waste your time doing something that can be done by a script.  Here are some great reasons to automate repetitive",
+          "link": "https://www.freecodecamp.org/news/how-to-automate-tasks-with-azure-webjobs/",
+          "publishedOn": "2021-12-21T16:33:48.000Z",
+          "wordCount": 1158,
+          "title": "How to Automate Tasks with Azure Webjobs"
+        },
+        {
+          "id": "61c1ec91755c160824908a2e",
+          "author": null,
+          "description": "A Customer Relationship Management (CRM) is a system that helps businesses organize and manage their customer relationships. It is basically a big database for customer information. Since every business is a little different, it can be helpful to create your own CRM to meet your exact needs. We just published",
+          "link": "https://www.freecodecamp.org/news/build-a-crm/",
+          "publishedOn": "2021-12-21T15:11:44.000Z",
+          "wordCount": 375,
+          "title": "How to Build a Custom CRM"
+        },
+        {
+          "id": "61b9e89107222107a6c7a4bc",
+          "author": null,
+          "description": "JavaScript is a programming language that's used for a variety of purposes, including web development, web apps, game development, and more. JavaScript also lets you add dynamic features to web sites that you can't just achieve with HTML and CSS. Importance of JavaScriptJavaScript is the most important language you need",
+          "link": "https://www.freecodecamp.org/news/23-free-websites-to-learn-javascript/",
+          "publishedOn": "2021-12-20T20:25:00.000Z",
+          "wordCount": 1675,
+          "title": "23 Free Websites to Learn JavaScript in 2022"
+        },
+        {
+          "id": "61bf7907297c7107e8ad9091",
+          "author": null,
+          "description": "Transferring files between machines is a very common operational task that you'll do all the time as a developer.  Linux provides a number of utilities to transfer files. In this tutorial we will discuss FTP and SCP. Many automated scripts also deploy FTP or SCP to move files. What is",
+          "link": "https://www.freecodecamp.org/news/how-to-transfer-files-between-servers-in-linux-using-scp-and-ftp/",
+          "publishedOn": "2021-12-20T16:02:29.000Z",
+          "wordCount": 1029,
+          "title": "How to Transfer Files Between Servers in Linux using SCP and FTP"
+        },
+        {
+          "id": "61ba394407222107a6c7a7f3",
+          "author": null,
+          "description": "The impact of networks and technology continues to increase. Understanding technology makes it easier to function in an information-centric world. We just published a massive course about Internet history and technology on the freeCodeCamp.org YouTube channel. In this course you will learn how the Internet was created, who created",
+          "link": "https://www.freecodecamp.org/news/learn-the-history-of-the-internet-in-dr-chucks/",
+          "publishedOn": "2021-12-20T14:10:44.000Z",
+          "wordCount": 590,
+          "title": "Learn the History of the Internet in Dr. Chuck&#x27;s 9-Hour Course"
+        },
+        {
+          "id": "61b9cd2a07222107a6c7a467",
+          "author": null,
+          "description": "Have you ever read your horoscope in the newspaper or seen it on television? Well, I'm not sure about other countries, but in my country of India, people still read their horoscopes.  And this is where I got the idea for this tutorial. It might sound a bit old-fashioned, but",
+          "link": "https://www.freecodecamp.org/news/python-project-build-an-api-with-beautiful-soup-and-flask/",
+          "publishedOn": "2021-12-17T18:29:53.000Z",
+          "wordCount": 2449,
+          "title": "Python Project – How to Create a Horoscope API with Beautiful Soup and Flask"
+        },
+        {
+          "id": "60c08960d3126007592d56fd",
+          "author": null,
+          "description": "HTML(Hyper Text Markup Language) is one of the languages we use to create web applications. It adds structure to your web pages. HTML has various tags we use to create elements. And multiple elements come together to create meaningful web pages and applications. The anchor tag is one of",
+          "link": "https://www.freecodecamp.org/news/the-html-a-tag-anchor-tag-example-code/",
+          "publishedOn": "2021-12-17T17:47:31.000Z",
+          "wordCount": 2077,
+          "title": "The HTML &lt;a&gt; Tag – Anchor Tag Example Code"
+        }
+      ]
+    }
+  ],
+  "cliVersion": "1.11.3"
+}

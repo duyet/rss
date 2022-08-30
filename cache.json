@@ -6,6 +6,256 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
+          "id": "https://tomlingham.com/articles/why-are-you-so-busy/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://tomlingham.com/articles/why-are-you-so-busy/",
+          "publishedOn": "2022-08-29T22:17:34.000Z",
+          "wordCount": 3467,
+          "title": "Why are you so busy?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://github.com/hlky/sd-enable-textual-inversion",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/hlky/sd-enable-textual-inversion",
+          "publishedOn": "2022-08-29T21:08:00.000Z",
+          "wordCount": 1796,
+          "title": "Stable Diffusion Textual Inversion",
+          "imageUrl": "https://opengraph.githubassets.com/28acb81c624683033aaeca1228b4d7841569a8a7def87c8db91ccebd2bd5eb02/hlky/sd-enable-textual-inversion"
+        },
+        {
+          "id": "https://www.easypost.com/careers",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.easypost.com/careers",
+          "publishedOn": "2022-08-29T21:01:15.000Z",
+          "wordCount": 420,
+          "title": "EasyPost (YC S13) Is Hiring",
+          "imageUrl": "https://assets.easypost.com/assets/images/branding/easypost-primary-icon-padded.69db27030b30ab917e891bfed0983781.png"
+        },
+        {
+          "id": "http://microformats.org/wiki/Main_Page",
+          "author": null,
+          "description": "Comments",
+          "link": "http://microformats.org/wiki/Main_Page",
+          "publishedOn": "2022-08-29T20:30:55.000Z",
+          "wordCount": 1100,
+          "title": "Microformats Wiki",
+          "imageUrl": null
+        },
+        {
+          "id": "https://justine.lol/sizetricks/#elf",
+          "author": null,
+          "description": "Comments",
+          "link": "https://justine.lol/sizetricks/#elf",
+          "publishedOn": "2022-08-29T20:04:34.000Z",
+          "wordCount": 8674,
+          "title": "Supporting four operating systems in a 400 byte ELF executable",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lewissbaker.github.io/2022/08/27/understanding-the-compiler-transform",
+          "author": null,
+          "description": "Comments",
+          "link": "https://lewissbaker.github.io/2022/08/27/understanding-the-compiler-transform",
+          "publishedOn": "2022-08-29T20:01:30.000Z",
+          "wordCount": 8095,
+          "title": "C++ coroutines: Understanding the compiler transform",
+          "imageUrl": null
+        },
+        {
+          "id": "https://community.arm.com/arm-community-blogs/b/infrastructure-solutions-blog/posts/porting-x86-vector-bitmask-optimizations-to-arm-neon",
+          "author": null,
+          "description": "Comments",
+          "link": "https://community.arm.com/arm-community-blogs/b/infrastructure-solutions-blog/posts/porting-x86-vector-bitmask-optimizations-to-arm-neon",
+          "publishedOn": "2022-08-29T19:56:40.000Z",
+          "wordCount": 6573,
+          "title": "Bit twiddling with Arm Neon: beating SSE movemasks, counting bits and more",
+          "imageUrl": "https://community.arm.com:443/cfs-file/__key/communityserver-blogs-components-weblogfiles/00-00-00-38-67/Gooble-bit-flipping-guest-blog-webimage_2D00_9C8B5F32_2D00_8ADF_2D00_48C4_2D00_9D461CC41A402D8B.jpg"
+        },
+        {
+          "id": "https://github.com/bes-dev/stable_diffusion.openvino",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/bes-dev/stable_diffusion.openvino",
+          "publishedOn": "2022-08-29T19:13:23.000Z",
+          "wordCount": 641,
+          "title": "Run Stable Diffusion on Intel CPUs",
+          "imageUrl": "https://opengraph.githubassets.com/7e96c6f6262af0dde9034e7e58d338df8c6a28df2e689b72f14eef3fc27c6ce9/bes-dev/stable_diffusion.openvino"
+        },
+        {
+          "id": "https://exafunction.com/blog/are-gpus-worth-it",
+          "author": null,
+          "description": "Comments",
+          "link": "https://exafunction.com/blog/are-gpus-worth-it",
+          "publishedOn": "2022-08-29T18:34:08.000Z",
+          "wordCount": 2637,
+          "title": "Are GPUs Worth It for ML?",
+          "imageUrl": "https://exafunction.com/static/images/are-gpus-worth-it/1-06.png"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=32641259",
+          "author": null,
+          "description": "Comments",
+          "link": "https://news.ycombinator.com/item?id=32641259",
+          "publishedOn": "2022-08-29T17:53:18.000Z",
+          "wordCount": 13084,
+          "title": "Ask HN: Why hasn't the ACH system been more abused?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://pudding.cool/2022/08/censorship/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://pudding.cool/2022/08/censorship/",
+          "publishedOn": "2022-08-29T17:34:36.000Z",
+          "wordCount": 2168,
+          "title": "The Big [Censored] Theory",
+          "imageUrl": "https://pudding.cool/2022/08/censorship/assets/social-facebook.jpg"
+        },
+        {
+          "id": "https://github.com/jesseduffield/OK",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/jesseduffield/OK",
+          "publishedOn": "2022-08-29T17:26:22.000Z",
+          "wordCount": 3175,
+          "title": "The OK? Programming Language",
+          "imageUrl": "https://opengraph.githubassets.com/9bcaff7c5b6a9edf0b69e8d34aa193aaac472b7877b9b67cb8deb7a5285139b9/jesseduffield/OK"
+        },
+        {
+          "id": "https://tholman.com/cursor-effects/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://tholman.com/cursor-effects/",
+          "publishedOn": "2022-08-29T17:12:33.000Z",
+          "wordCount": 336,
+          "title": "90s Cursor Effects",
+          "imageUrl": null
+        },
+        {
+          "id": "https://wagslane.dev/posts/no-one-does-devops/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://wagslane.dev/posts/no-one-does-devops/",
+          "publishedOn": "2022-08-29T16:16:27.000Z",
+          "wordCount": 750,
+          "title": "DevOps: An idea so good, no one admits they don’t do it",
+          "imageUrl": "https://wagslane.dev/img/gears.jpeg"
+        },
+        {
+          "id": "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/SSHBruteForceAttacksNoMoreHere",
+          "author": null,
+          "description": "Comments",
+          "link": "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/SSHBruteForceAttacksNoMoreHere",
+          "publishedOn": "2022-08-29T15:19:59.000Z",
+          "wordCount": 636,
+          "title": "Large scale Internet SSH brute force attacks seem to have stopped here",
+          "imageUrl": null
+        },
+        {
+          "id": "https://github.com/aguaviva/articles/blob/main/why_12_notes.ipynb",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/aguaviva/articles/blob/main/why_12_notes.ipynb",
+          "publishedOn": "2022-08-29T14:51:22.000Z",
+          "wordCount": 339,
+          "title": "Why 12 notes in Western music?",
+          "imageUrl": "https://opengraph.githubassets.com/dba3a3b370548113d96e65235274ca5cba96451e7884ca0d84f6a159ba0848c9/aguaviva/articles"
+        },
+        {
+          "id": "https://www.jonashietala.se/blog/2022/08/29/rewriting_my_blog_in_rust_for_fun_and_profit/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.jonashietala.se/blog/2022/08/29/rewriting_my_blog_in_rust_for_fun_and_profit/",
+          "publishedOn": "2022-08-29T14:24:19.000Z",
+          "wordCount": 2361,
+          "title": "Rewriting my blog in Rust for fun and profit",
+          "imageUrl": null
+        },
+        {
+          "id": "https://stratechery.com/2022/rights-laws-and-google/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://stratechery.com/2022/rights-laws-and-google/",
+          "publishedOn": "2022-08-29T14:09:28.000Z",
+          "wordCount": 5246,
+          "title": "Rights, Laws, and Google",
+          "imageUrl": "https://149384716.v2.pressablecdn.com/wp-content/uploads/2019/11/free_speech.png"
+        },
+        {
+          "id": "https://ktool.io/hacker-news-to-kindle",
+          "author": null,
+          "description": "Comments",
+          "link": "https://ktool.io/hacker-news-to-kindle",
+          "publishedOn": "2022-08-29T13:31:55.000Z",
+          "wordCount": 615,
+          "title": "Show HN: I built a tool to help you read Hacker News on Kindle",
+          "imageUrl": "https://ktool.io/images/ktool-og-hn.webp"
+        },
+        {
+          "id": "https://tone-row.com/blog/graph-syntax-css-selectors",
+          "author": null,
+          "description": "Comments",
+          "link": "https://tone-row.com/blog/graph-syntax-css-selectors",
+          "publishedOn": "2022-08-29T13:05:06.000Z",
+          "wordCount": 3068,
+          "title": "A CSS-Inspired Syntax for Flowcharts",
+          "imageUrl": "https://res.cloudinary.com/tone-row/image/upload/f_auto,q_auto,dpr_2.0,w_1000,h_500,c_fit/v1621548408/tone-row-2021/riui4h8zos4ukkdls3ui.png"
+        },
+        {
+          "id": "https://www.ycombinator.com/blog/welcome-home-garry-tan/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.ycombinator.com/blog/welcome-home-garry-tan/",
+          "publishedOn": "2022-08-29T13:04:44.000Z",
+          "wordCount": 3065,
+          "title": "Welcome Home, Garry Tan",
+          "imageUrl": "https://www.ycombinator.com/blog/content/images/2022/08/BlogTwitter-Image-Template--8-.jpg"
+        },
+        {
+          "id": "https://github.blog/2022-08-29-gits-database-internals-i-packed-object-store/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.blog/2022-08-29-gits-database-internals-i-packed-object-store/",
+          "publishedOn": "2022-08-29T13:01:03.000Z",
+          "wordCount": 4939,
+          "title": "Git’s database internals I: packed object store",
+          "imageUrl": "https://github.blog/wp-content/uploads/2022/08/gitdatabase1.png?fit=1200%2C630"
+        },
+        {
+          "id": "https://batsov.com/articles/2022/08/29/ocaml-at-first-glance/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://batsov.com/articles/2022/08/29/ocaml-at-first-glance/",
+          "publishedOn": "2022-08-29T11:00:13.000Z",
+          "wordCount": 3622,
+          "title": "OCaml at First Glance",
+          "imageUrl": "https://batsov.com/assets/images/bozhidar_avatar.jpg"
+        },
+        {
+          "id": "https://community.blokada.org/t/google-cracks-down-on-vpn-based-adblockers/26110",
+          "author": null,
+          "description": "Comments",
+          "link": "https://community.blokada.org/t/google-cracks-down-on-vpn-based-adblockers/26110",
+          "publishedOn": "2022-08-29T10:07:03.000Z",
+          "wordCount": 279,
+          "title": "Google cracks down on VPN based adblockers",
+          "imageUrl": "https://global.discourse-cdn.com/business4/uploads/blokada/optimized/3X/e/5/e5cfbd46ca7397de7c3ffa51a1c28f5d898fd8b6_2_1024x683.jpeg"
+        },
+        {
+          "id": "https://www.mybestplace.com/en/article/derinkuyu-the-extraordinary-underground-city-of-turkey",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.mybestplace.com/en/article/derinkuyu-the-extraordinary-underground-city-of-turkey",
+          "publishedOn": "2022-08-28T23:56:31.000Z",
+          "wordCount": 937,
+          "title": "Derinkuyu, the extraordinary underground city of Turkey",
+          "imageUrl": "https://mybestplace.com/uploads/2020/08/Derinkuyu-Turchia-COVER.jpg"
+        },
+        {
           "id": "https://xcellerator.github.io/posts/tetsuji/",
           "author": null,
           "description": "Comments",
@@ -226,6 +476,16 @@
           "imageUrl": "https://opengraph.githubassets.com/4d1e3948d31462fd8b88f841325956c4809a5561e56863928e84309882f6f9dc/upscayl/upscayl"
         },
         {
+          "id": "https://thomasjbevan.substack.com/p/on-tea-and-the-art-of-doing-nothing",
+          "author": null,
+          "description": "Comments",
+          "link": "https://thomasjbevan.substack.com/p/on-tea-and-the-art-of-doing-nothing",
+          "publishedOn": "2022-08-28T14:17:21.000Z",
+          "wordCount": 4272,
+          "title": "On Tea and the Art of Doing Nothing",
+          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fe13f6419-fe87-41ff-8364-b6ae1969b40c_1527x1131.jpeg"
+        },
+        {
           "id": "https://github.com/sudeep9/mojo",
           "author": null,
           "description": "Comments",
@@ -234,6 +494,46 @@
           "wordCount": 1582,
           "title": "Show HN: Versioning Filesystem for SQLite",
           "imageUrl": "https://opengraph.githubassets.com/67df1b3a83231d3cc6b60a0dda7daa4ee57c92fd7aab013129ae434c564236bc/sudeep9/mojo"
+        },
+        {
+          "id": "https://ludii.games/details.php?keyword=Lielow",
+          "author": null,
+          "description": "Comments",
+          "link": "https://ludii.games/details.php?keyword=Lielow",
+          "publishedOn": "2022-08-28T13:46:59.000Z",
+          "wordCount": 5439,
+          "title": "Lielow: Playable chess-like game that uses only checkers",
+          "imageUrl": null
+        },
+        {
+          "id": "https://herbertlui.net/dont-think-to-write-write-to-think/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://herbertlui.net/dont-think-to-write-write-to-think/",
+          "publishedOn": "2022-08-28T13:21:22.000Z",
+          "wordCount": 1266,
+          "title": "Don’t think to write, write to think",
+          "imageUrl": null
+        },
+        {
+          "id": "https://tupa.gtk.fi/raportti/arkisto/16_2021.pdf",
+          "author": null,
+          "description": "Comments",
+          "link": "https://tupa.gtk.fi/raportti/arkisto/16_2021.pdf",
+          "publishedOn": "2022-08-28T13:20:38.000Z",
+          "wordCount": null,
+          "title": "The Mining of Minerals and the Limits to Growth (2021) [pdf]",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=39wzku9KIEM",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.youtube.com/watch?v=39wzku9KIEM",
+          "publishedOn": "2022-08-28T11:05:00.000Z",
+          "wordCount": null,
+          "title": "The Peter Principle (1974) [video]",
+          "imageUrl": null
         },
         {
           "id": "https://jsonvisio.com/",
@@ -2503,6 +2803,206 @@
       "siteUrl": "https://tinhte.vn/lists/trang-chu.1/",
       "articles": [
         {
+          "id": "https://tinhte.vn/thread/3559300/",
+          "author": "ndminhduc",
+          "description": "Cuối cùng thì AMD cũng chính thức cho ra mắt Zen4 cùng loạt vi xử lý thế hệ mới nhất Ryzen 7000 Series. Đây là những con CPU mới nhất mà nhiều ngày qua chúng ta đã nghe nhắc tới với mã hiệu...",
+          "link": "https://tinhte.vn/thread/amd-chinh-thuc-ra-mat-ryzen-7000-zen4-5nm-ddr5-pcie-5-0-socket-am5-tang-hieu-nang-choi-game.3559300/",
+          "publishedOn": "2022-08-30T00:03:40.000Z",
+          "wordCount": 62435,
+          "title": "AMD chính thức ra mắt Ryzen 7000: Zen4 5nm, DDR5, PCIe 5.0, socket AM5, tăng hiệu năng chơi game",
+          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2022/08/6106549_cover_AMD-Ryzen-7000-series-II-7.jpg"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3558887/",
+          "author": "vn_ninja",
+          "description": "Samsung Galaxy Z Fold4 là một chiếc smartphone màn hình gập mới rất tuyệt vời. Nó cung cấp mọi thứ mà Samsung hứa hẹn về một chiếc điện thoại gập sẽ làm được: có thể biến đổi từ điện thoại thành...",
+          "link": "https://tinhte.vn/thread/samsung-can-su-canh-tranh-toan-cau-trong-the-gioi-man-hinh-gap-vi-loi-ich-cua-nguoi-tieu-dung.3558887/",
+          "publishedOn": "2022-08-29T23:55:03.000Z",
+          "wordCount": 56537,
+          "title": "Samsung cần sự cạnh tranh toàn cầu trong thế giới màn hình gập, vì lợi ích của người tiêu dùng",
+          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2022/08/6105033_cover_Galaxy_Z_Fold4_tinhte.jpg"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3559113/",
+          "author": "P.W",
+          "description": "Netflix vừa tuyên bố kế hoạch triển khai gói cước xem phim online kèm quảng cáo của họ mới chỉ ở giai đoạn đầu, nhưng những tin đồn xoay quanh gói cước này lại nói lên điều ngược lại. Có một điều...",
+          "link": "https://tinhte.vn/thread/netflix-vua-bat-tra-tien-vua-phai-xem-quang-cao-anh-em-co-chap-nhan-vi-re-hon-khong.3559113/",
+          "publishedOn": "2022-08-29T23:49:30.000Z",
+          "wordCount": 58433,
+          "title": "Netflix: Vừa bắt trả tiền vừa phải xem quảng cáo, anh em có chấp nhận vì rẻ hơn không?",
+          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2022/08/6105962_Cover_Netflix.jpg"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3558068/",
+          "author": "AudioPsycho",
+          "description": "Momentum Wireless 4 là tai nghe chống ồn mới nhất đến từ thương hiệu Sennheiser, với sản phẩm này, Sennheiser đã tạm biệt kiểu thiết kế cổ điển như các sản phẩm trước đây, thay vào đó là phong...",
+          "link": "https://tinhte.vn/thread/tren-tay-sennheiser-momentum-4-thiet-ke-hien-dai-deo-thoai-mai-hop-nhac-tre-gia-9tr5.3558068/",
+          "publishedOn": "2022-08-29T23:47:41.000Z",
+          "wordCount": 44881,
+          "title": "[Trên tay] Sennheiser Momentum 4: thiết kế hiện đại, đeo thoải mái hợp nhạc trẻ, giá ~9tr5",
+          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2022/08/6102256_tinhte_sennheiser_momentum_4_tai_nghe_chong_on_bluetooth_final_6.jpg"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3559089/",
+          "author": "P.W",
+          "description": "Bloomberg vừa đưa tin, theo tài liệu đăng ký bản quyền thương hiệu họ vừa có được, có thể Apple sẽ lấy tên “Reality” cho những cặp kính thực tế ảo (VR) và thực tế trộn (AR) dự kiến ra mắt vào năm...",
+          "link": "https://tinhte.vn/thread/apple-vua-dang-ky-thuong-hieu-reality-one-va-pro-co-the-la-ten-cap-kinh-ar-sap-ra-mat.3559089/",
+          "publishedOn": "2022-08-29T23:46:58.000Z",
+          "wordCount": 43619,
+          "title": "Apple vừa đăng ký thương hiệu Reality One và Pro, có thể là tên cặp kính AR sắp ra mắt",
+          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2022/08/6105854_Cover_Apple.jpeg"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3557767/",
+          "author": "Didu",
+          "description": "Mix Fold 2 đã lột xác hoàn toàn so với thế hệ đầu tiên. Chúng ta có một chiếc điện thoại màn hình gập mỏng hơn với chất lượng hoàn thiện tốt. Tuy nhiên tối ưu phần mềm vẫn là vấn đề của những điện...",
+          "link": "https://tinhte.vn/thread/tren-tay-xiaomi-mix-fold-2.3557767/",
+          "publishedOn": "2022-08-29T23:46:54.000Z",
+          "wordCount": 52190,
+          "title": "Trên tay Xiaomi Mix Fold 2",
+          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2022/08/6105527_DSC_3190.jpg"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3559093/",
+          "author": "Lê ♻️Văn",
+          "description": "Góc suy ngẫm \n\nĐối mặt và sống chung với ung thư \n\nMắc bệnh ung thư là thử thách khắc nghiệt nhất, làm hao tổn đến tinh thần, nguồn lực của người bệnh và gia đình. Có thể thấy bệnh ung thư ảnh...",
+          "link": "https://tinhte.vn/thread/goc-suy-ngam.3559093/",
+          "publishedOn": "2022-08-29T23:43:40.000Z",
+          "wordCount": 38786,
+          "title": "Góc suy ngẫm",
+          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2022/08/6105790_image.jpg"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3559116/",
+          "author": "Rubi Lee",
+          "description": "“Không có dữ liệu nào trong lịch sử khí hậu thế giới có thể so sánh được với những gì đang diễn ra tại Trung Quốc, với cường độ khắc nhiệt nhất, kéo dài nhất trong quốc gia có diện tích lớn.” -...",
+          "link": "https://tinhte.vn/thread/su-kien-thoi-tiet-cuc-doan-nhat-o-tq-co-the-dan-den-su-hon-loan-va-thieu-luong-thuc-tren-toan-cau.3559116/",
+          "publishedOn": "2022-08-29T23:06:07.000Z",
+          "wordCount": 66041,
+          "title": "Sự kiện thời tiết cực đoan nhất ở TQ có thể dẫn đến sự hỗn loạn và thiếu lương thực trên toàn cầu",
+          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2022/08/6105908_han-han-22.jpg"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3559197/",
+          "author": "P.W",
+          "description": "Mức giá bị rò rỉ đúng 12 giờ trước khi AMD chính thức giới thiệu thế hệ CPU máy tính để bàn mới của họ có thể sẽ khiến Intel lo lắng. Lý do cũng đơn giản, thời điểm Intel công bố báo cáo tài chính...",
+          "link": "https://tinhte.vn/thread/ro-ri-gia-ryzen-7000-truoc-gio-g-bang-gia-doi-cu-7600x-299-usd-7900x-549-usd-7960x-799-usd.3559197/",
+          "publishedOn": "2022-08-29T22:52:59.000Z",
+          "wordCount": 61433,
+          "title": "Rò rỉ giá Ryzen 7000 trước \"giờ G\": Bằng giá đời cũ, 7600X 299 USD, 7900X 549 USD, 7960X 799 USD",
+          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2022/08/6106103_Cover_AMD.jpeg"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3558592/",
+          "author": "cuhiep",
+          "description": "Mình hay mở đèn môi trường ở ánh sáng trắng tự nhiên và tắt chế độ truetone hay nightshift đi để làm các việc liên quan đến xử lý ảnh, coi ảnh. Anh em làm nghề chỉnh ảnh chắc cũng bị vài lần chỉnh...",
+          "link": "https://tinhte.vn/thread/den-moi-truong-giup-chinh-sua-anh-video-dung-mau-hon.3558592/",
+          "publishedOn": "2022-08-29T22:32:55.000Z",
+          "wordCount": 48069,
+          "title": "Đèn môi trường giúp chỉnh sửa ảnh, video đúng màu hơn",
+          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2022/08/6105183_Den_man_hinh_tinhte_cuhiep1.jpg"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3559034/",
+          "author": "Rubi Lee",
+          "description": "Sau khi du nhập vào Biển Trắng của Nga vào những năm 1950, cá hồi Thái Bình Dương (cá hồi lưng gù) đã sinh sôi và xâm nhập vào những con sông của Na Uy theo đường biển. Để kiếm soát số lượng của...",
+          "link": "https://tinhte.vn/thread/cong-cua-song-trang-bi-ai-o-na-uy-mo-neu-do-la-ca-hoi-ban-dia-va-dong-voi-loai-ca-xam-lan.3559034/",
+          "publishedOn": "2022-08-29T19:56:25.000Z",
+          "wordCount": 61119,
+          "title": "Cổng cửa sông trang bị AI ở Na Uy: Mở nếu đó là cá hồi bản địa và đóng với loài cá xâm lấn",
+          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2022/08/6105661_ca-hoi-10.jpg"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3556781/",
+          "author": "bk9sw",
+          "description": "Keychron V1 là một chiếc bàn phím cơ custom, giá phải chăng dành cho những người thích mod phím, phù hợp với người mới chơi. V1 có layout 75% tương tự như Q1 nhưng kết cấu vỏ nhựa thay vì nhôm....",
+          "link": "https://tinhte.vn/thread/tren-tay-keychron-v1-ban-phim-co-custom-pho-thong-cho-anh-em-moi-choi.3556781/",
+          "publishedOn": "2022-08-29T19:34:14.000Z",
+          "wordCount": 62947,
+          "title": "Trên tay Keychron V1 - bàn phím cơ custom phổ thông cho anh em mới chơi",
+          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2022/08/6099440_cover_keychronv1.jpg"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3559146/",
+          "author": "Hassler",
+          "description": "Các nhà khoa học tại Học viện khoa học Trung Quốc vừa đăng tải nghiên cứu của mình lên tạp chí Science cho biết họ đã dùng công nghệ CRISPR tái tổ hợp lại 19 cặp nhiễm sắc thể và tạo ra 1 con...",
+          "link": "https://tinhte.vn/thread/chuot-chinh-sua-bo-gen-da-duoc-tao-ra-tuong-lai-se-xuat-hien-dong-vat-chua-co-trong-tu-nhien.3559146/",
+          "publishedOn": "2022-08-29T18:46:52.000Z",
+          "wordCount": 43832,
+          "title": "Chuột chỉnh sửa bộ gen đã được tạo ra, tương lai sẽ xuất hiện động vật chưa có trong tự nhiên?",
+          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2022/08/6105972_cover_miceCRISPR.jpg"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3558976/",
+          "author": "_vphlinh_",
+          "description": "Đơn xin cấp bằng sáng chế cho một mẫu smartphone có “màn hình kép “tàng hình” đặt ở mặt lưng” mà Samsung đã nộp lên WIPO vừa được bố hôm 25/08 vừa rồi, cho thấy khả năng phát triển mới lạ và...",
+          "link": "https://tinhte.vn/thread/samsung-co-bang-sang-che-ve-mau-smartphone-voi-man-hinh-kep-co-the-tang-hinh-dat-o-mat-lung.3558976/",
+          "publishedOn": "2022-08-29T18:37:17.000Z",
+          "wordCount": 43203,
+          "title": "Samsung có bằng sáng chế về mẫu smartphone với màn hình kép \"có thể tàng hình\" đặt ở mặt lưng",
+          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2022/08/6105545_cover_samsung.jpg"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3550892/",
+          "author": "P.W",
+          "description": "Một lý do con người tạo ra máy tính và phát triển công nghệ phần cứng máy tính như ngày hôm nay, là để mô phỏng những tình huống có ích cho con người. Một tác dụng gần đây nhất của máy tính phục...",
+          "link": "https://tinhte.vn/thread/assetto-corsa-competizione-sao-game-dua-xe-mo-phong-tot-deu-co-do-hoa-xau-vay.3550892/",
+          "publishedOn": "2022-08-29T18:24:11.000Z",
+          "wordCount": 66356,
+          "title": "Assetto Corsa Competizione: Sao game đua xe mô phỏng tốt đều có đồ họa xấu vậy?",
+          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2022/08/6105521_Assetto_Corsa_Competizione_20220829101329.jpg"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3556841/",
+          "author": "BaroTo",
+          "description": "Mặt nạ bịt miệng, nút kim loại để ngậm khi ngủ và máy phát xung điện đột ngột. Đây đều là các phương pháp cũ để điều trị một vấn đề đã ám ảnh nhân loại trong hàng thiên niên kỷ, đó chính là NGÁY....",
+          "link": "https://tinhte.vn/thread/vi-sao-chung-ta-lai-ngay-tim-hieu-ve-chung-ngung-tho-tac-nghen-khi-ngu.3556841/",
+          "publishedOn": "2022-08-29T18:18:29.000Z",
+          "wordCount": 47685,
+          "title": "Vì sao chúng ta lại ngáy? Tìm hiểu về chứng ngưng thở tắc nghẽn khi ngủ",
+          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2022/08/6100577_ngu-ngay.png"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3559009/",
+          "author": "Li Guoqing",
+          "description": "Núi chiếm khoảng 26,5% diện tích đất liền toàn cầu và nuôi sống hơn 50% dân số thế giới. Người ta ước tính rằng khoảng một phần ba đa dạng sinh học trên cạn của thế giới được tìm thấy trong các hệ...",
+          "link": "https://tinhte.vn/thread/10-dinh-nui-cao-nhat-the-gioi.3559009/",
+          "publishedOn": "2022-08-29T17:07:46.000Z",
+          "wordCount": 55003,
+          "title": "10 đỉnh núi cao nhất thế giới",
+          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2022/08/6105556_cover_highestmount_1.jpg"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3559058/",
+          "author": "Jangnhut",
+          "description": "Hôm nay mình xin chia sẽ cảm nhận và đánh giá của mình về Ford Ranger Raptor sau chuyến đi xuyên Lào và Đông Bắc Việt Nam vừa qua ở góc độ một người dùng xe cho mục đích du lịch đường dài\n\nLà một...",
+          "link": "https://tinhte.vn/thread/danh-gia-raptor-sau-1-chuyen-di-4000-km-em-ai-tiet-kiem.3559058/",
+          "publishedOn": "2022-08-29T16:13:33.000Z",
+          "wordCount": 58184,
+          "title": "Đánh giá Raptor sau 1 chuyến đi 4000 km: Êm ái, tiết kiệm",
+          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2022/08/6105708_DSCF1625-Edit.jpg"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3559064/",
+          "author": "Minh Dự.",
+          "description": "Mời anh em chia sẻ thêm những ưu đãi giảm giá từ các trang thương mại điện tử lớn tại Việt Nam. Những deal nổi bật được cập nhật hàng ngày có giá trị theo giờ, theo ngày hoặc đến khi hết sản phẩm....",
+          "link": "https://tinhte.vn/thread/tong-hop-deal-khuyen-mai-29-08.3559064/",
+          "publishedOn": "2022-08-29T14:56:07.000Z",
+          "wordCount": 66004,
+          "title": "Tổng hợp deal khuyến mãi 29/08",
+          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2022/08/6105774_Cover_Tong_Hop_Khuyen_Mai.jpg"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3559022/",
+          "author": "_vphlinh_",
+          "description": "Plastitar - Một loại chất liệu được tạo thành từ cặn dầu tràn trên đại dương, sau đó đông đặc lại, dính với những hạt vi nhựa trôi nổi trong nước biển, tạo thành một loại vật liệu gây ô nhiễm mới....",
+          "link": "https://tinhte.vn/thread/plastitar-chat-o-nhiem-moi-tao-thanh-tu-hac-in-va-hat-vi-nhua.3559022/",
+          "publishedOn": "2022-08-29T13:05:22.000Z",
+          "wordCount": 41527,
+          "title": "Plastitar - Chất ô nhiễm mới tạo thành từ hắc ín và hạt vi nhựa",
+          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2022/08/6106018_cover_plastitar.jpg"
+        },
+        {
           "id": "https://tinhte.vn/thread/3558874/",
           "author": "Pnghuy",
           "description": "YouTuber Mark Spurrell vừa đăng tải một video chia sẻ về chiếc Samsung Galayx Z Fold4 đang \"chạy\" Windows 11, trở thành một chiếc \"Windows Phone\" mà bao anh em ngày xưa từng yêu mến.\n \n[MEDIA]...",
@@ -4217,6 +4717,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2022/08/toggle-button-case-study-part-2/",
+          "author": "hello@smashingmagazine.com (Eduard Kuric)",
+          "description": "The problem of how to design an effective toggle button that shows the selected option clearly is a long-term open question among UI/UX designers. In this second part, Eduard Kuric explains a complex list of visual cues used by toggle buttons to communicate which of their options is active.",
+          "link": "https://smashingmagazine.com/2022/08/toggle-button-case-study-part-2/",
+          "publishedOn": "2022-08-29T14:00:00.000Z",
+          "wordCount": 6046,
+          "title": "What Makes A Great Toggle Button? (Case Study, Part 2)",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/3d25c3a9-5cbd-44e2-9c8c-742d35c261ee/toggle-button-case-study.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/3d25c3a9-5cbd-44e2-9c8c-742d35c261ee/toggle-button-case-study.png"
+        },
+        {
           "id": "https://smashingmagazine.com/2022/08/error-messages-ux-design/",
           "author": "hello@smashingmagazine.com (Vitaly Friedman)",
           "description": "Error messages need to be easy to spot, but they also need to be helpful. Let’s explore when error messages should live above input fields and why toast error messages are usually not a very good idea.",
@@ -4455,21 +4970,6 @@
             "type": "image/png"
           },
           "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8325e378-54a4-435f-8867-8eedcbebbd04/1-fluid-typography-say-no-media-queries.png"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/07/desktop-wallpaper-calendars-august-2022/",
-          "author": "hello@smashingmagazine.com (Cosima Mielke)",
-          "description": "Do you need a little inspiration boost? Well, then our new batch of desktop wallpapers is for you. Designed by artists and designers from across the globe, they come in versions with and without a calendar for August 2022.",
-          "link": "https://smashingmagazine.com/2022/07/desktop-wallpaper-calendars-august-2022/",
-          "publishedOn": "2022-07-31T08:00:00.000Z",
-          "wordCount": 4630,
-          "title": "Memories Of August (2022 Desktop Wallpapers Edition)",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/ec313af0-1806-4c89-b9dd-fd287cd5a3ff/aug-22-swimming-in-the-summer-preview-opt.png",
-            "length": "0",
-            "type": "image/png"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/ec313af0-1806-4c89-b9dd-fd287cd5a3ff/aug-22-swimming-in-the-summer-preview-opt.png"
         }
       ]
     },
@@ -4478,6 +4978,36 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/attacks-on-ssl-tls-and-how-to-protect-your-system/",
+          "author": "Megan Kaczanowski",
+          "description": "The SSL and TLS protocols are frequently attacked. And understanding past attacks can inform your knowledge as a defender and help you secure current systems. It can also help you predict the direction of future attacks. So here's a summary of some of the most famous attacks targeting these protocols:",
+          "link": "https://www.freecodecamp.org/news/attacks-on-ssl-tls-and-how-to-protect-your-system/",
+          "publishedOn": "2022-08-29T21:17:07.000Z",
+          "wordCount": 2608,
+          "title": "Common Attacks on SSL/TLS – and How to Protect Your System",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/cybersecurity-by-Christiaan-Colen-creative-commons-free-to-use.jpeg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/linear-models-vs-decision-trees-in-julia/",
+          "author": "Logan Kilpatrick",
+          "description": "As a machine learning engineer or data scientist, one of the most critical decisions you can make is what type of model to use to solve a specific problem. Do you really need to use Deep Learning to model this specific problem? Will something like a Random Forest model or",
+          "link": "https://www.freecodecamp.org/news/linear-models-vs-decision-trees-in-julia/",
+          "publishedOn": "2022-08-29T13:46:21.000Z",
+          "wordCount": 2773,
+          "title": "How to Use Linear Models and Decision Trees in Julia",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/LinearModels-1.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/20-beginner-python-projects/",
+          "author": "Beau Carnes",
+          "description": "Are you looking to improve your Python skills? Try coding these 20 Python projects! We just posted a video course on the freeCodeCamp.org YouTube channel that will teach you how to create 20 fun Python projects. Tomi Tokko created this course. Tomi has created a bunch of really popular tutorials",
+          "link": "https://www.freecodecamp.org/news/20-beginner-python-projects/",
+          "publishedOn": "2022-08-29T12:44:35.000Z",
+          "wordCount": 813,
+          "title": "How to Code 20 Beginner Python Projects",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/20python.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/java-scanner-nextline-call-gets-skipped-solved/",
           "author": "Farhan Hasin Chowdhury",

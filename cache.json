@@ -6,6 +6,86 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
+          "id": "https://pbrown.me/blog/vslambda/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://pbrown.me/blog/vslambda/",
+          "publishedOn": "2022-09-27T22:06:20.000Z",
+          "wordCount": 1194,
+          "title": "Guido was right, there should be no lambda in Python (2018)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.fastmail.com/developer/integrating-with-fastmail/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.fastmail.com/developer/integrating-with-fastmail/",
+          "publishedOn": "2022-09-27T21:32:36.000Z",
+          "wordCount": 493,
+          "title": "Integrating with Fastmail",
+          "imageUrl": "https://www.fastmail.com/images/press/logos/logo-small-card.png"
+        },
+        {
+          "id": "http://www.astronautix.com/t/therocketeerwhoneverwas.html",
+          "author": null,
+          "description": "Comments",
+          "link": "http://www.astronautix.com/t/therocketeerwhoneverwas.html",
+          "publishedOn": "2022-09-27T20:13:30.000Z",
+          "wordCount": 2523,
+          "title": "The Rocketeer Who Never Was (2019)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://github.com/EvEmu-Project/evemu_Crucible",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/EvEmu-Project/evemu_Crucible",
+          "publishedOn": "2022-09-27T20:05:03.000Z",
+          "wordCount": 1053,
+          "title": "Eve Online Server Emulator",
+          "imageUrl": "https://opengraph.githubassets.com/ca47f45076c3b99324d9212c35b16844d37b73d51b5da5ba1eb1c5a83f2f0333/EvEmu-Project/evemu_Crucible"
+        },
+        {
+          "id": "https://www.theguardian.com/lifeandstyle/2003/jul/12/weekend.davidnewnham",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.theguardian.com/lifeandstyle/2003/jul/12/weekend.davidnewnham",
+          "publishedOn": "2022-09-27T19:55:00.000Z",
+          "wordCount": 6900,
+          "title": "A beginners guide to Esperanto (2003)",
+          "imageUrl": "https://assets.guim.co.uk/images/eada8aa27c12fe2d5afa3a89d3fbae0d/fallback-logo.png"
+        },
+        {
+          "id": "https://elaine-cao-93.medium.com/its-a-unix-system-i-know-this-a-highly-requested-tournament-report-for-f2f-toronto-134ad7cfa878",
+          "author": null,
+          "description": "Comments",
+          "link": "https://elaine-cao-93.medium.com/its-a-unix-system-i-know-this-a-highly-requested-tournament-report-for-f2f-toronto-134ad7cfa878",
+          "publishedOn": "2022-09-27T19:30:06.000Z",
+          "wordCount": 9360,
+          "title": "It’s a Unix system I know this",
+          "imageUrl": "https://miro.medium.com/max/1200/0*EF5y662nkgdSNWfq"
+        },
+        {
+          "id": "https://www.sec.gov/news/press-release/2022-172",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.sec.gov/news/press-release/2022-172",
+          "publishedOn": "2022-09-27T18:51:12.000Z",
+          "wordCount": 1102,
+          "title": "SEC charges owners of New Jersey Deli with a $100M Valuation",
+          "imageUrl": null
+        },
+        {
+          "id": "https://blogs.windows.com/msedgedev/2022/09/27/closing-pixel-gap-native-web-window-controls-overlay/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://blogs.windows.com/msedgedev/2022/09/27/closing-pixel-gap-native-web-window-controls-overlay/",
+          "publishedOn": "2022-09-27T18:25:24.000Z",
+          "wordCount": 1748,
+          "title": "Closing a 30 pixel gap between native and web",
+          "imageUrl": "https://blogs.windows.com/wp-content/uploads/prod/sites/33/2021/06/Edge-social.jpg"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=32998673",
           "author": null,
           "description": "Comments",
@@ -136,6 +216,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://mondaynote.com/apple-car-bad-idea-after-all-9468947640ee?gi=16f058e831c9",
+          "author": null,
+          "description": "Comments",
+          "link": "https://mondaynote.com/apple-car-bad-idea-after-all-9468947640ee?gi=16f058e831c9",
+          "publishedOn": "2022-09-27T14:40:35.000Z",
+          "wordCount": 3662,
+          "title": "Apple Car: Bad Idea After All",
+          "imageUrl": "https://miro.medium.com/max/960/1*ubJaj-6xfRQVIqGvSidbxg.jpeg"
+        },
+        {
           "id": "https://css-tricks.com/named-element-ids-can-be-referenced-as-javascript-globals/",
           "author": null,
           "description": "Comments",
@@ -153,6 +243,16 @@
           "publishedOn": "2022-09-27T13:25:40.000Z",
           "wordCount": 970,
           "title": "SEC Charges Oracle a Second Time for Violations of Foreign Corrupt Practices Act",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.forsvaret.dk/en/news/2022/gas-leak-in-the-baltic-sea/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.forsvaret.dk/en/news/2022/gas-leak-in-the-baltic-sea/",
+          "publishedOn": "2022-09-27T13:23:37.000Z",
+          "wordCount": null,
+          "title": "Gas Leak in the Baltic Sea",
           "imageUrl": null
         },
         {
@@ -366,6 +466,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.nytimes.com/2022/09/26/business/factory-jobs-workers-rebound.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.nytimes.com/2022/09/26/business/factory-jobs-workers-rebound.html",
+          "publishedOn": "2022-09-26T19:31:36.000Z",
+          "wordCount": null,
+          "title": "Factory jobs are booming like it’s the 1970s",
+          "imageUrl": null
+        },
+        {
           "id": "https://go.dev/blog/go119runtime",
           "author": null,
           "description": "Comments",
@@ -516,6 +626,16 @@
           "imageUrl": "https://m.media-amazon.com/images/I/818VKlNYj+L._AC_SL1500_.jpg"
         },
         {
+          "id": "https://www.radioworld.com/news-and-business/programming-and-sales/library-of-congress-acquires-entirety-of-jim-metzners-work",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.radioworld.com/news-and-business/programming-and-sales/library-of-congress-acquires-entirety-of-jim-metzners-work",
+          "publishedOn": "2022-09-26T12:53:33.000Z",
+          "wordCount": 2551,
+          "title": "Library of Congress Acquires Entirety of Jim Metzner's Work",
+          "imageUrl": "https://www.radioworld.com/wp-content/uploads/2022/09/Jim-Metzner-2.jpg"
+        },
+        {
           "id": "https://www.instructables.com/Soldering-Wires-Heres-a-Better-Way/",
           "author": null,
           "description": "Comments",
@@ -533,6 +653,36 @@
           "publishedOn": "2022-09-26T09:53:13.000Z",
           "wordCount": 1480,
           "title": "Color-Perception-Guided Display Power Reduction for Virtual Reality",
+          "imageUrl": null
+        },
+        {
+          "id": "https://giuliomagnifico.blog/tips/2022/09/25/macos-wallpaper-huge-cache.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://giuliomagnifico.blog/tips/2022/09/25/macos-wallpaper-huge-cache.html",
+          "publishedOn": "2022-09-26T08:29:20.000Z",
+          "wordCount": 1180,
+          "title": "macOS keeps a huge wallpapers cache",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.edbatista.com/2022/09/group-dynamics-the-leaders-toolkit.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.edbatista.com/2022/09/group-dynamics-the-leaders-toolkit.html",
+          "publishedOn": "2022-09-26T06:52:30.000Z",
+          "wordCount": 2088,
+          "title": "Group Dynamics: The Leader's Toolkit",
+          "imageUrl": "https://edbatista.typepad.com/.a/6a00d8341e62fd53ef02a308dfe624200c-600wi"
+        },
+        {
+          "id": "https://fabiensanglard.net/ccps/index.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://fabiensanglard.net/ccps/index.html",
+          "publishedOn": "2022-09-26T06:24:29.000Z",
+          "wordCount": 1875,
+          "title": "CCPS, a Capcom CPS-1 SDK",
           "imageUrl": null
         },
         {
@@ -8824,56 +8974,6 @@
           "wordCount": 4939,
           "title": "Git’s database internals I: packed object store",
           "imageUrl": "https://github.blog/wp-content/uploads/2022/08/gitdatabase1.png?fit=1200%2C630"
-        },
-        {
-          "id": "https://batsov.com/articles/2022/08/29/ocaml-at-first-glance/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://batsov.com/articles/2022/08/29/ocaml-at-first-glance/",
-          "publishedOn": "2022-08-29T11:00:13.000Z",
-          "wordCount": 3622,
-          "title": "OCaml at First Glance",
-          "imageUrl": "https://batsov.com/assets/images/bozhidar_avatar.jpg"
-        },
-        {
-          "id": "https://community.blokada.org/t/google-cracks-down-on-vpn-based-adblockers/26110",
-          "author": null,
-          "description": "Comments",
-          "link": "https://community.blokada.org/t/google-cracks-down-on-vpn-based-adblockers/26110",
-          "publishedOn": "2022-08-29T10:07:03.000Z",
-          "wordCount": 279,
-          "title": "Google cracks down on VPN based adblockers",
-          "imageUrl": "https://global.discourse-cdn.com/business4/uploads/blokada/optimized/3X/e/5/e5cfbd46ca7397de7c3ffa51a1c28f5d898fd8b6_2_1024x683.jpeg"
-        },
-        {
-          "id": "https://schmud.de/posts/2022-08-23-the-consumer-computer.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://schmud.de/posts/2022-08-23-the-consumer-computer.html",
-          "publishedOn": "2022-08-29T09:03:07.000Z",
-          "wordCount": 2186,
-          "title": "How the Consumer Computer Is Consuming Computing",
-          "imageUrl": "http://schmud.de/img/2022-08-23-the-consumer-computer/trs-80-sm.png"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=N9NtdF51GWE",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.youtube.com/watch?v=N9NtdF51GWE",
-          "publishedOn": "2022-08-29T08:37:14.000Z",
-          "wordCount": null,
-          "title": "How to Get into Tabletop RPGs",
-          "imageUrl": null
-        },
-        {
-          "id": "https://en.wikipedia.org/wiki/List_of_creepypastas",
-          "author": null,
-          "description": "Comments",
-          "link": "https://en.wikipedia.org/wiki/List_of_creepypastas",
-          "publishedOn": "2022-08-29T07:40:40.000Z",
-          "wordCount": 8600,
-          "title": "List of Creepypastas",
-          "imageUrl": null
         }
       ]
     },
@@ -8882,6 +8982,16 @@
       "feedUrl": "https://www.tinhte.vn/rss",
       "siteUrl": "https://tinhte.vn/lists/trang-chu.1/",
       "articles": [
+        {
+          "id": "https://tinhte.vn/thread/3571011/",
+          "author": "bk9sw",
+          "description": "Tại Israel, Intel đã công bố thế hệ vi xử lý thứ 13 mang tên mã Raptor Lake. Dòng vi xử lý này nối tiếp thành công của Alder Lake khi tiếp tục sử dụng thiết kế hybrid nhưng kèm những cải tiến đáng...",
+          "link": "https://tinhte.vn/thread/intel-chinh-thuc-ra-mat-raptor-lake-co-den-24-nhan-5-8-ghz-hieu-nang-cai-thien-o-muc-2-con-so.3571011/",
+          "publishedOn": "2022-09-28T00:06:34.000Z",
+          "wordCount": 69555,
+          "title": "Intel chính thức ra mắt Raptor Lake, có đến 24 nhân, 5,8 GHz, hiệu năng cải thiện ở mức 2 con số",
+          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2022/09/6143188_cover_intelraptorlake.jpg"
+        },
         {
           "id": "https://tinhte.vn/thread/3570914/",
           "author": "P.W",
@@ -15453,6 +15563,56 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/node-js-server-side-javascript-what-is-node-used-for/",
+          "author": "Ihechikara Vincent Abba",
+          "description": "The release of Node.js in 2009 by Ryan Dahl increased the scope of what developers could do with JavaScript. Prior to that, you could only use JavaScript on the client side (the browser) or frontend of web applications. With Node.js, developers can create server side applications, command line tools, and",
+          "link": "https://www.freecodecamp.org/news/node-js-server-side-javascript-what-is-node-used-for/",
+          "publishedOn": "2022-09-27T21:34:58.000Z",
+          "wordCount": 1475,
+          "title": "Node.js Server-Side JavaScript – What is Node Used For?",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/christina-wocintechchat-com-glRqyWJgUeY-unsplash.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-use-the-cli-beginner-guide/",
+          "author": "Maybell Obadoni",
+          "description": "There's a lot to learn when you're getting into tech. But fortunately there are some skills that you can use across different programming languages, operating systems, and tools.  And knowing how to use the command line interface (also known as the command prompt or terminal, depending on your operating",
+          "link": "https://www.freecodecamp.org/news/how-to-use-the-cli-beginner-guide/",
+          "publishedOn": "2022-09-27T21:11:32.000Z",
+          "wordCount": 2155,
+          "title": "How to Use the Command Line Interface – for Beginners",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/BEGINNERS--HACK-ON-USING-CLI--1-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/debugging-in-python-using-pdb/",
+          "author": "Jagruti Tiwari",
+          "description": "Debugging tools are at the heart of any programming language. And as a developer, it's hard to make progress and write clean code unless you know your way around these tools. This article will help you get acquainted with one such tool: The Python Debugger (pdb) [https://docs.python.org/3/library/pdb.html#:~:text=The%20module%20pdb%20defines%20an,context%20of%20any%20stack%20frame] Note that this",
+          "link": "https://www.freecodecamp.org/news/debugging-in-python-using-pdb/",
+          "publishedOn": "2022-09-27T17:50:42.000Z",
+          "wordCount": 1512,
+          "title": "How to Debug Your Python Code with the Python Debugger (pdb)",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/paulius-andriekus-552Vm3_Ah6A-unsplash.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-implement-vertical-scrolling-in-react-using-react-router-hash-link/",
+          "author": "Edeh Israel Chidera",
+          "description": "Smooth scrolling is a feature that makes webpages more usable and allows for a better user scrolling experience in most browsers. Implementing a smooth page scroll while using react-router-dom has been a problem in React.js. So this article, you are going to learn how to implement smooth vertical scrolling using",
+          "link": "https://www.freecodecamp.org/news/how-to-implement-vertical-scrolling-in-react-using-react-router-hash-link/",
+          "publishedOn": "2022-09-27T17:42:42.000Z",
+          "wordCount": 1278,
+          "title": "How to Implement Vertical Scrolling in React Using react-router-hash-link",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/ferenc-almasi-L8KQIPCODV8-unsplash.jpeg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/what-is-information-systems-definition-for-beginners/",
+          "author": "Kolade Chris",
+          "description": "You may have heard the term \"information systems\" as a type of degree some people get from a college or university. Or maybe you've heard it as a general term used to describe information and communication systems in general. Information systems are more than a degree or a general term.",
+          "link": "https://www.freecodecamp.org/news/what-is-information-systems-definition-for-beginners/",
+          "publishedOn": "2022-09-27T16:43:54.000Z",
+          "wordCount": 1619,
+          "title": "What is Information Systems? Definition for Beginners",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/christopher-gower-m_HRfLhgABo-unsplash.jpg"
+        },
         {
           "id": "https://www.freecodecamp.org/news/learn-java-programming/",
           "author": "Beau Carnes",

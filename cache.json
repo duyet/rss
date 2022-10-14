@@ -6,6 +6,116 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
+          "id": "https://gitlab.com/cznic/tcl",
+          "author": null,
+          "description": "Comments",
+          "link": "https://gitlab.com/cznic/tcl",
+          "publishedOn": "2022-10-13T23:02:31.000Z",
+          "wordCount": 1381,
+          "title": "Tcl Ported to Go",
+          "imageUrl": "https://gitlab.com/assets/twitter_card-570ddb06edf56a2312253c5872489847a0f385112ddbcd71ccfa1570febab5d2.jpg"
+        },
+        {
+          "id": "https://www.cnbc.com/2022/10/13/what-is-solar-geoengineering-sunlight-reflection-risks-and-benefits.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.cnbc.com/2022/10/13/what-is-solar-geoengineering-sunlight-reflection-risks-and-benefits.html",
+          "publishedOn": "2022-10-13T22:31:33.000Z",
+          "wordCount": 20238,
+          "title": "White House is pushing ahead research to cool Earth by reflecting back sunlight",
+          "imageUrl": "https://image.cnbcfm.com/api/v1/image/107133481-1665599688733-gettyimages-1371547113-_mg_9450.jpeg?v=1665682551&w=1920&h=1080"
+        },
+        {
+          "id": "https://www.nature.com/articles/s41598-022-20460-9",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.nature.com/articles/s41598-022-20460-9",
+          "publishedOn": "2022-10-13T22:27:07.000Z",
+          "wordCount": 9681,
+          "title": "Deep language algorithms predict semantic comprehension from brain activity",
+          "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-022-20460-9/MediaObjects/41598_2022_20460_Fig1_HTML.png"
+        },
+        {
+          "id": "https://www.eso.org/public/news/eso2213/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.eso.org/public/news/eso2213/",
+          "publishedOn": "2022-10-13T22:22:10.000Z",
+          "wordCount": 3007,
+          "title": "Heaviest element yet detected in an exoplanet atmosphere",
+          "imageUrl": "http://cdn.eso.org/images/screen/eso2213a.jpg"
+        },
+        {
+          "id": "https://blog.gitguardian.com/toyota-accidently-exposed-a-secret-key-publicly-on-github-for-five-years/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://blog.gitguardian.com/toyota-accidently-exposed-a-secret-key-publicly-on-github-for-five-years/",
+          "publishedOn": "2022-10-13T20:34:57.000Z",
+          "wordCount": 1931,
+          "title": "Toyota suffered a data breach by accidentally exposing a secret key on GitHub",
+          "imageUrl": "https://blog.gitguardian.com/content/images/2022/10/22W41-blog-Toyota-breach.jpg"
+        },
+        {
+          "id": "https://metrist.io/blog/how-we-found-azures-unannounced-breaking-change/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://metrist.io/blog/how-we-found-azures-unannounced-breaking-change/",
+          "publishedOn": "2022-10-13T18:55:25.000Z",
+          "wordCount": 1975,
+          "title": "Discovering Azure's unannounced breaking change with Cosmos DB",
+          "imageUrl": "https://metrist.io/wp-content/uploads/2022/10/Green-and-Black-Live-Podcast-Guesting-Instagram-Post-Blog-Banner.png"
+        },
+        {
+          "id": "https://degenerateconic.com/a-modern-fortran-scientific-programming-ecosystem.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://degenerateconic.com/a-modern-fortran-scientific-programming-ecosystem.html",
+          "publishedOn": "2022-10-13T18:38:15.000Z",
+          "wordCount": 880,
+          "title": "A modern Fortran scientific programming ecosystem",
+          "imageUrl": null
+        },
+        {
+          "id": "https://jobs.lever.co/jitxinc/3d57f731-bf23-4456-9967-441f933a5f2e",
+          "author": null,
+          "description": "Comments",
+          "link": "https://jobs.lever.co/jitxinc/3d57f731-bf23-4456-9967-441f933a5f2e",
+          "publishedOn": "2022-10-13T17:01:50.000Z",
+          "wordCount": 15488,
+          "title": "Jitx (YC S18) is hiring a front end engineer",
+          "imageUrl": "https://lever-client-logos.s3.us-west-2.amazonaws.com/8321f0f8-a78e-4320-bfbe-4496037d2ef8-1614283267247.png"
+        },
+        {
+          "id": "https://blog.interviewing.io/how-much-have-2022-layoffs-affected-engineers-vs-other-departments-we-dug-into-the-data-to-find-out/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://blog.interviewing.io/how-much-have-2022-layoffs-affected-engineers-vs-other-departments-we-dug-into-the-data-to-find-out/",
+          "publishedOn": "2022-10-13T15:49:43.000Z",
+          "wordCount": 8021,
+          "title": "How much have tech layoffs affected engineers vs. other departments?",
+          "imageUrl": "https://blog.interviewing.io/wp-content/uploads/2022/10/of-workers-laid-off-by-department.png"
+        },
+        {
+          "id": "https://tigerbeetle.com/blog/a-database-without-dynamic-memory/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://tigerbeetle.com/blog/a-database-without-dynamic-memory/",
+          "publishedOn": "2022-10-13T15:23:31.000Z",
+          "wordCount": 1500,
+          "title": "A database without dynamic memory allocation",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://linus.schreibt.jetzt/posts/qemu-9p-performance.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://linus.schreibt.jetzt/posts/qemu-9p-performance.html",
+          "publishedOn": "2022-10-13T15:13:30.000Z",
+          "wordCount": 2153,
+          "title": "Digging into a QEMU problem of slow data copying",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=33192084",
           "author": null,
           "description": "Comments",
@@ -14,6 +124,16 @@
           "wordCount": 403,
           "title": "Ask HN: What are the best general math workbooks?",
           "imageUrl": null
+        },
+        {
+          "id": "https://www.quantamagazine.org/teenager-solves-stubborn-riddle-about-prime-number-look-alikes-20221013/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.quantamagazine.org/teenager-solves-stubborn-riddle-about-prime-number-look-alikes-20221013/",
+          "publishedOn": "2022-10-13T15:07:57.000Z",
+          "wordCount": 6924,
+          "title": "Teenager solves stubborn riddle about prime number look-alikes",
+          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/10/WHIZ_Daniel_Larsen_1200_Social.webp"
         },
         {
           "id": "https://www.apple.com/newsroom/2022/10/apple-card-will-let-users-grow-daily-cash-rewards-while-saving-for-the-future/",
@@ -426,6 +546,16 @@
           "imageUrl": "https://signal.org/assets/og/og-image-ff2096df535eee499356de64b19fa8cebb9681ab1e78cca7330e7f8b8d5ec6d5.png"
         },
         {
+          "id": "https://driftingin.space/posts/plane",
+          "author": null,
+          "description": "Comments",
+          "link": "https://driftingin.space/posts/plane",
+          "publishedOn": "2022-10-12T15:52:19.000Z",
+          "wordCount": 342,
+          "title": "Plane: Per-user backends for web apps",
+          "imageUrl": "https://driftingin.space/images/og-plane-fb.png"
+        },
+        {
           "id": "https://mar1d.com/",
           "author": null,
           "description": "Comments",
@@ -543,6 +673,26 @@
           "publishedOn": "2022-10-12T10:28:33.000Z",
           "wordCount": 2,
           "title": "Anatomy of Linux Dynamic Libraries",
+          "imageUrl": null
+        },
+        {
+          "id": "https://siebjee.nl/posts/using-flux-to-automate-simple-tasks/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://siebjee.nl/posts/using-flux-to-automate-simple-tasks/",
+          "publishedOn": "2022-10-12T09:04:28.000Z",
+          "wordCount": 968,
+          "title": "Using flux to automate simple tasks",
+          "imageUrl": "https://siebjee.nl/images/favicon.ico"
+        },
+        {
+          "id": "https://www.nytimes.com/2022/10/11/science/gorillas-chimps-friends.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.nytimes.com/2022/10/11/science/gorillas-chimps-friends.html",
+          "publishedOn": "2022-10-12T02:04:02.000Z",
+          "wordCount": null,
+          "title": "Chimps and gorillas form rainforest friendships",
           "imageUrl": null
         },
         {
@@ -666,6 +816,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://spectrum.ieee.org/altarock-energy-melts-rock-with-millimeter-waves-for-geothermal-wells",
+          "author": null,
+          "description": "Comments",
+          "link": "https://spectrum.ieee.org/altarock-energy-melts-rock-with-millimeter-waves-for-geothermal-wells",
+          "publishedOn": "2022-10-11T17:35:49.000Z",
+          "wordCount": 11408,
+          "title": "AltaRock Energy Melts Rock with Millimeter Waves for Geothermal Wells (2020)",
+          "imageUrl": "https://spectrum.ieee.org/media-library/paul-woskov-of-mit-holds-water-cooling-lines-leading-to-a-test-chamber-and-a-sample-of-rock-with-a-hole-made-by-a-beam-from-a-gyrotron.jpg?id=25590901&width=1200&height=600&coordinates=0%2C77%2C0%2C77"
+        },
+        {
           "id": "http://luajit.io/post/2022/gdb-black-magics/",
           "author": null,
           "description": "Comments",
@@ -786,6 +946,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://gigamonkeys.com/book/they-called-it-lisp-for-a-reason-list-processing.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://gigamonkeys.com/book/they-called-it-lisp-for-a-reason-list-processing.html",
+          "publishedOn": "2022-10-11T12:02:43.000Z",
+          "wordCount": 5223,
+          "title": "They Called It LISP for a Reason: List Processing (2005)",
+          "imageUrl": null
+        },
+        {
           "id": "https://hegel.js.org/",
           "author": null,
           "description": "Comments",
@@ -844,6 +1014,16 @@
           "wordCount": 5637,
           "title": "U.S. Army Chooses Google Workspace",
           "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/gws_iWOqqeP.max-2000x2000.jpg"
+        },
+        {
+          "id": "https://www.wsj.com/articles/how-not-to-go-off-the-grid-11665067328",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.wsj.com/articles/how-not-to-go-off-the-grid-11665067328",
+          "publishedOn": "2022-10-10T23:18:27.000Z",
+          "wordCount": 6320,
+          "title": "Users without a cell connection find they can’t get back into their Zipcar",
+          "imageUrl": "https://images.wsj.net/im-636417/social"
         },
         {
           "id": "https://www.virtualbox.org/wiki/Changelog-7.0",
@@ -9064,56 +9244,6 @@
           "wordCount": null,
           "title": "Pingora, the proxy that connects Cloudflare to the Internet",
           "imageUrl": null
-        },
-        {
-          "id": "https://kevquirk.com/privacy-vs-i-have-nothing-to-hide/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://kevquirk.com/privacy-vs-i-have-nothing-to-hide/",
-          "publishedOn": "2022-09-14T12:02:00.000Z",
-          "wordCount": 1576,
-          "title": "Privacy vs. “I have nothing to hide” (2019)",
-          "imageUrl": "https://cdn.kevquirk.com/wp-content/uploads/2019/11/hide-comment.jpg"
-        },
-        {
-          "id": "https://stripe.com/blog/markdoc",
-          "author": null,
-          "description": "Comments",
-          "link": "https://stripe.com/blog/markdoc",
-          "publishedOn": "2022-09-14T11:36:59.000Z",
-          "wordCount": 3113,
-          "title": "Interactive Docs with Markdoc",
-          "imageUrl": "https://images.ctfassets.net/fzn2n1nzq965/5omgoPkgspHUM4Jv7vN3VG/1d558082e05c4add09c1573772b6f3d4/blog-social-card-markdoc-docs.png?q=80"
-        },
-        {
-          "id": "https://www.nature.com/articles/s41587-022-01431-x",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.nature.com/articles/s41587-022-01431-x",
-          "publishedOn": "2022-09-14T09:01:25.000Z",
-          "wordCount": 2298,
-          "title": "Cellulose Shoes Made by Bacteria",
-          "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41587-022-01431-x/MediaObjects/41587_2022_1431_Figa_HTML.png"
-        },
-        {
-          "id": "https://github.com/dato-ai/dato.rss",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/dato-ai/dato.rss",
-          "publishedOn": "2022-09-14T06:27:49.000Z",
-          "wordCount": 1451,
-          "title": "Show HN: A search engine based on RSS feed",
-          "imageUrl": "https://opengraph.githubassets.com/ea0820a8da0f4c88db3ffe4659f2958db90d36a71ed7d3615ae782c28f78c069/dato-ai/dato.rss"
-        },
-        {
-          "id": "https://medium.com/q-e-d/the-dirty-secret-of-mathematics-we-make-it-up-as-we-go-along-e79b7a696174",
-          "author": null,
-          "description": "Comments",
-          "link": "https://medium.com/q-e-d/the-dirty-secret-of-mathematics-we-make-it-up-as-we-go-along-e79b7a696174",
-          "publishedOn": "2022-09-14T05:25:38.000Z",
-          "wordCount": 3317,
-          "title": "The dirty secret of mathematics: We make it up as we go along (2018)",
-          "imageUrl": "https://miro.medium.com/max/207/1*O0DK8JpKVZA7mpvyELGOZw.png"
         }
       ]
     },
@@ -9122,6 +9252,26 @@
       "feedUrl": "https://www.tinhte.vn/rss",
       "siteUrl": "https://tinhte.vn/lists/trang-chu.1/",
       "articles": [
+        {
+          "id": "https://tinhte.vn/thread/3578150/",
+          "author": "Mikeknowsme",
+          "description": "Như vậy Netflix đã ra mắt thêm gói thuê bao xem phim cơ bản nhất (Basic with Ads): có quảng cáo và chất lượng stream tối đa là HD 720p, giá 7 đô cho một tháng ~ khoảng 160k.\n \nVới gói Basic with...",
+          "link": "https://tinhte.vn/thread/netflix-ra-mat-them-goi-xem-phim-co-quang-cao-chat-luong-720p-co-gioi-han-phim-gia-7-do-thang.3578150/",
+          "publishedOn": "2022-10-14T00:08:03.000Z",
+          "wordCount": 43113,
+          "title": "Netflix ra mắt thêm gói xem phim có quảng cáo: chất lượng 720p, có giới hạn phim, giá 7 đô/tháng",
+          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2022/10/6163710_cover_netflix_ads_tinhte.jpg"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3575532/",
+          "author": "Lê Huyền Vân",
+          "description": "Nếu nhìn ở mặt trước, chắc rất khó để có thể phân biệt đâu là iPhone 14 Plus và đầu là iPhone 13 Pro Max vì cơ bản cả hai chiếc điện thoài này có cùng kích thước và thiết kế màn hình. Tuy có một...",
+          "link": "https://tinhte.vn/thread/so-sanh-iphone-14-plus-vs-iphone-13-pro-max-chon-con-tim-hay-nghe-theo-ly-tri.3575532/",
+          "publishedOn": "2022-10-14T00:06:58.000Z",
+          "wordCount": 53127,
+          "title": "So sánh iPhone 14 Plus vs iPhone 13 Pro Max: Chọn con tim hay nghe theo lý trí?",
+          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2022/10/6163454_14_Plus_vs_13_PM.2.jpg"
+        },
         {
           "id": "https://tinhte.vn/thread/3577833/",
           "author": "blueJune",
@@ -15100,6 +15250,26 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=374401",
+          "author": "Geoff Graham",
+          "description": "An Event Apart 2022 Denver wrapped up yesterday. And while I was unable to make it to all three days this time, I did catch yesterday’s action — and it was awesome. I’m not very social or outgoing, but …\nSome Things I Took Away From An Event Apart 2022 in Denver originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/some-things-i-took-away-from-an-event-apart-2022-in-denver/",
+          "publishedOn": "2022-10-13T20:01:00.000Z",
+          "wordCount": 1872,
+          "title": "Some Things I Took Away From An Event Apart 2022 in Denver",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/374401"
+        },
+        {
+          "id": "https://css-tricks.com/?p=373508",
+          "author": "Krzysztof Gonciarz",
+          "description": "Oftentimes in the past, I needed to figure out how to add styles to all elements inside the container but not the hovered one.\nDemo of the expected “fade-out” effect on siblings to let users “focus” on a particular element.…\nA Pure CSS Gallery Focus Effect with :not originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/a-pure-css-gallery-focus-effect-with-not/",
+          "publishedOn": "2022-10-13T15:10:15.000Z",
+          "wordCount": 1454,
+          "title": "A Pure CSS Gallery Focus Effect with :not",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/373508"
+        },
+        {
           "id": "https://css-tricks.com/?p=374330",
           "author": "Geoff Graham",
           "description": "We’re still in suuuuuper early days with container queries. Too early for broad browser support, but Chromium already supports it, Safari started supporting it in version 16, and Firefox is presumably not far behind.\nMost early days conversations …\nEarly Days of Container Style Queries originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -15610,21 +15780,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/32d09a45-70c2-413d-9028-58773032baab/accessibility-times-headless.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/09/javascript-api-guide/",
-          "author": "hello@smashingmagazine.com (Juan Diego Rodríguez)",
-          "description": "In this article, Juan Diego covers the least known yet extremely useful APIs, such as the Page Visibility API, Web Sharing API, Broadcast Channel API and Internationalization API. Together we will see what they are, where we should use them, and how to use them.",
-          "link": "https://smashingmagazine.com/2022/09/javascript-api-guide/",
-          "publishedOn": "2022-09-14T10:00:00.000Z",
-          "wordCount": 5402,
-          "title": "JavaScript APIs You Don’t Know About",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b583db40-b8c0-46c4-9893-5a7ae3d00453/api-page-visibility-web-sharing-broadcast-channel-internationalization.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b583db40-b8c0-46c4-9893-5a7ae3d00453/api-page-visibility-web-sharing-broadcast-channel-internationalization.jpg"
         }
       ]
     },
@@ -15633,6 +15788,26 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/avoid-prop-drilling-with-react-context-api/",
+          "author": "Edeh Israel Chidera",
+          "description": "The React Context API provides a way to pass data through multiple nested levels of components without having to manually pass that data to each level.  React context is one sure way of globally managing your data in your app, and it's a good way to avoid prop drilling.",
+          "link": "https://www.freecodecamp.org/news/avoid-prop-drilling-with-react-context-api/",
+          "publishedOn": "2022-10-13T16:52:03.000Z",
+          "wordCount": 1243,
+          "title": "How to Avoid Prop Drilling with the React Context API",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/ferenc-almasi-c8h0n7fSTqs-unsplash.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/code-a-project-three-different-ways-javascript-rest-api-database/",
+          "author": "Beau Carnes",
+          "description": "When you code a similar project using different methods it helps you understand each method more. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to code a flight widget in JavaScript using multiple methods. First you will learn to create the project using",
+          "link": "https://www.freecodecamp.org/news/code-a-project-three-different-ways-javascript-rest-api-database/",
+          "publishedOn": "2022-10-13T14:06:09.000Z",
+          "wordCount": 852,
+          "title": "Code a project three different ways (JavaScript + REST API + Database)",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/maxresdefault.jpeg"
+        },
         {
           "id": "https://www.freecodecamp.org/news/how-to-build-a-machine-learning-model-in-rust/",
           "author": "Chigozie Oduah",
@@ -16682,16 +16857,6 @@
           "wordCount": 1815,
           "title": "What I Learned Teaching 20 High School Girls How to Code",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/pexels-pixabay-207691.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/sql-vs-nosql-tutorial/",
-          "author": "Beau Carnes",
-          "description": "When should you use a SQL database and when should you use a NoSQL database? We just published a course on the freeCodeCamp.org YouTube channel that will teach you the differences between NoSQL and SQL databases as well as when and why to use each kind of database. Ania Kubow",
-          "link": "https://www.freecodecamp.org/news/sql-vs-nosql-tutorial/",
-          "publishedOn": "2022-09-14T03:38:22.000Z",
-          "wordCount": 874,
-          "title": "SQL vs NoSQL: When to Use Which",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/maxresdefault.jpeg"
         }
       ]
     }

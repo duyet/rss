@@ -1,5 +1,6 @@
 cacheUrl: https://duyet.github.io/rss/cache.json
 sources:
+  - href: https://blog.duyet.net/rss.yaml
   - href: https://news.ycombinator.com/rss
   - href: https://www.tinhte.vn/rss
   - href: https://css-tricks.com/feed/

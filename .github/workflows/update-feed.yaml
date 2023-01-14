@@ -28,4 +28,6 @@ jobs:
         uses: peaceiris/actions-gh-pages@v3
         with:
           personal_token: ${{ secrets.DUYETBOT_TOKEN }}
+          user_name: duyetbot
+          user_email: 101855044+duyetbot@users.noreply.github.com
           publish_dir: ./public

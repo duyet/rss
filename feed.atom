@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://duyet.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-14T08:58:46.481Z</updated>
+    <updated>2023-01-14T09:02:48.957Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://duyet.github.io/rss/index.html"/>
     <link rel="self" href="https://duyet.github.io/rss/feed.atom"/>
@@ -220,6 +220,16 @@ Bạn có thể tuyên bố chiến lược của...]]></summary>
         <id>https://stablediffusionlitigation.com/</id>
         <link href="https://stablediffusionlitigation.com/"/>
         <updated>2023-01-14T06:51:41.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon S3 now automatically encrypts all new objects]]></title>
+        <id>https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-s3-automatically-encrypts-new-objects/</id>
+        <link href="https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-s3-automatically-encrypts-new-objects/"/>
+        <updated>2023-01-14T06:35:39.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -580,6 +590,16 @@ Bạn có thể tuyên bố chiến lược của...]]></summary>
         <id>https://jakearchibald.com/2023/unhandled-rejections/</id>
         <link href="https://jakearchibald.com/2023/unhandled-rejections/"/>
         <updated>2023-01-12T00:12:08.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“Expect tests” make test-writing feel like a REPL session]]></title>
+        <id>https://blog.janestreet.com/the-joy-of-expect-tests/</id>
+        <link href="https://blog.janestreet.com/the-joy-of-expect-tests/"/>
+        <updated>2023-01-11T23:40:33.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>

@@ -6,6 +6,286 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
+          "id": "https://www.concordia.ca/news/stories/2023/01/23/members-of-space-concordia-have-their-hearts-set-on-the-stars.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.concordia.ca/news/stories/2023/01/23/members-of-space-concordia-have-their-hearts-set-on-the-stars.html",
+          "publishedOn": "2023-01-31T22:59:50.000Z",
+          "wordCount": 1528,
+          "title": "Concordia Students Set to Launch Most Powerful Rocket Developed by Civilians",
+          "imageUrl": "https://www.concordia.ca/content/shared/en/news/stories/2023/01/23/members-of-space-concordia-have-their-hearts-set-on-the-stars.img.png/1674492931201.jpg"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=34602318",
+          "author": null,
+          "description": "Comments",
+          "link": "https://news.ycombinator.com/item?id=34602318",
+          "publishedOn": "2023-01-31T21:19:29.000Z",
+          "wordCount": 7176,
+          "title": "Ask HN: How do you test SQL?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://people.kernel.org/kees/bounded-flexible-arrays-in-c",
+          "author": null,
+          "description": "Comments",
+          "link": "https://people.kernel.org/kees/bounded-flexible-arrays-in-c",
+          "publishedOn": "2023-01-31T21:18:24.000Z",
+          "wordCount": 3810,
+          "title": "Modernizing C arrays for greater memory safety: a case study in the Linux kernel",
+          "imageUrl": "https://people.kernel.org/img/avatars/k.png"
+        },
+        {
+          "id": "https://investor.snap.com/files/doc_financials/2022/q4/Q4%2722-Earnings-Slides.pdf",
+          "author": null,
+          "description": "Comments",
+          "link": "https://investor.snap.com/files/doc_financials/2022/q4/Q4%2722-Earnings-Slides.pdf",
+          "publishedOn": "2023-01-31T21:13:36.000Z",
+          "wordCount": 18528,
+          "title": "Snap Quarterly Results Q4 2022 [pdf]",
+          "imageUrl": null
+        },
+        {
+          "id": "https://sourcehut.org/blog/2023-01-09-gomodulemirror/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://sourcehut.org/blog/2023-01-09-gomodulemirror/",
+          "publishedOn": "2023-01-31T20:31:10.000Z",
+          "wordCount": 1399,
+          "title": "Sourcehut will not blacklist the Go module mirror",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.masteringemacs.org/article/combobulate-structured-movement-editing-treesitter",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.masteringemacs.org/article/combobulate-structured-movement-editing-treesitter",
+          "publishedOn": "2023-01-31T20:03:48.000Z",
+          "wordCount": 3719,
+          "title": "Combobulate: Structured Movement and Editing with Tree-Sitter",
+          "imageUrl": "https://www.masteringemacs.org/static/uploads/article-images/tree-computer-1.jpg"
+        },
+        {
+          "id": "https://www.quantamagazine.org/a-physical-theory-for-when-the-brain-performs-best-20230131/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.quantamagazine.org/a-physical-theory-for-when-the-brain-performs-best-20230131/",
+          "publishedOn": "2023-01-31T19:58:31.000Z",
+          "wordCount": 5469,
+          "title": "Critical brain hypothesis: A physical theory for when the brain performs best",
+          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2023/01/CriticalityVide-byMyriamWares-Social.webp"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=34600985",
+          "author": null,
+          "description": "Comments",
+          "link": "https://news.ycombinator.com/item?id=34600985",
+          "publishedOn": "2023-01-31T19:56:39.000Z",
+          "wordCount": 9795,
+          "title": "Tell HN: GitHub will delete your private repo if you lose access to the original",
+          "imageUrl": null
+        },
+        {
+          "id": "https://arxiv.org/abs/2301.11305",
+          "author": null,
+          "description": "Comments",
+          "link": "https://arxiv.org/abs/2301.11305",
+          "publishedOn": "2023-01-31T19:12:56.000Z",
+          "wordCount": 639,
+          "title": "DetectGPT: Zero-Shot Machine-Generated Text Detection",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.hashicorp.com/blog/introducing-hermes-an-open-source-document-management-system",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.hashicorp.com/blog/introducing-hermes-an-open-source-document-management-system",
+          "publishedOn": "2023-01-31T19:06:31.000Z",
+          "wordCount": 1879,
+          "title": "Hermes: An open-source document management system",
+          "imageUrl": "https://www.datocms-assets.com/2885/1675119568-hashidocs-blogpost-graphic.png"
+        },
+        {
+          "id": "https://blog.felixge.de/reducing-gos-execution-tracer-overhead-with-frame-pointer-unwinding/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://blog.felixge.de/reducing-gos-execution-tracer-overhead-with-frame-pointer-unwinding/",
+          "publishedOn": "2023-01-31T19:05:22.000Z",
+          "wordCount": 1448,
+          "title": "Reducing Go execution tracer overhead with frame pointer unwinding",
+          "imageUrl": "https://blog.felixge.de/content/images/2023/01/CleanShot-2023-01-27-at-16.22.47@2x-3.png"
+        },
+        {
+          "id": "https://blogs.oracle.com/javamagazine/post/java-comments-reduce-technical-debt",
+          "author": null,
+          "description": "Comments",
+          "link": "https://blogs.oracle.com/javamagazine/post/java-comments-reduce-technical-debt",
+          "publishedOn": "2023-01-31T18:41:21.000Z",
+          "wordCount": 401,
+          "title": "Reducing technical debt by valuing comments as much as code",
+          "imageUrl": null
+        },
+        {
+          "id": "https://openai.com/blog/new-ai-classifier-for-indicating-ai-written-text/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://openai.com/blog/new-ai-classifier-for-indicating-ai-written-text/",
+          "publishedOn": "2023-01-31T18:11:14.000Z",
+          "wordCount": 1031,
+          "title": "New AI classifier for indicating AI-written text",
+          "imageUrl": "https://openai.com/content/images/2023/01/new-ai-classifier-for-indicating-ai-written-text-1.jpg"
+        },
+        {
+          "id": "https://blog.system76.com/post/more-on-cosmic-de-to-kick-off-2023/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://blog.system76.com/post/more-on-cosmic-de-to-kick-off-2023/",
+          "publishedOn": "2023-01-31T18:10:45.000Z",
+          "wordCount": 1954,
+          "title": "Cosmic DE update: System76's new Linux desktop environment",
+          "imageUrl": "https://images.prismic.io/blog-system76/45e47bac-096b-4f89-9ac5-ee9550d7b2e1_COSMIC-header.png?auto=compress,format&rect=640,0,2560,1280&w=1200&h=600"
+        },
+        {
+          "id": "https://www.dal.ca/news/2023/01/16/dalhousie-battery-discovery-self-discharge.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.dal.ca/news/2023/01/16/dalhousie-battery-discovery-self-discharge.html",
+          "publishedOn": "2023-01-31T17:47:04.000Z",
+          "wordCount": 1277,
+          "title": "Discovery could extend battery life by replacing tape that causes self‑discharge",
+          "imageUrl": "https://cdn.dal.ca/news/2023/01/16/dalhousie-battery-discovery-self-discharge/_jcr_content/image.adaptive.full.high.jpg/1674169109218.jpg"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=34598563",
+          "author": null,
+          "description": "Comments",
+          "link": "https://news.ycombinator.com/item?id=34598563",
+          "publishedOn": "2023-01-31T17:44:20.000Z",
+          "wordCount": 9084,
+          "title": "Tell HN: Heroku deleted my database with no warning",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=34598406",
+          "author": null,
+          "description": "Comments",
+          "link": "https://news.ycombinator.com/item?id=34598406",
+          "publishedOn": "2023-01-31T17:36:17.000Z",
+          "wordCount": 4001,
+          "title": "Launch HN: Needl (YC S22) – Simple search across all your apps",
+          "imageUrl": null
+        },
+        {
+          "id": "https://questdb.io/careers/developer-relations-engineer/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://questdb.io/careers/developer-relations-engineer/",
+          "publishedOn": "2023-01-31T17:00:09.000Z",
+          "wordCount": 690,
+          "title": "QuestDB (YC S20), open-source database, is hiring a devrel engineer (US-based)",
+          "imageUrl": "https://questdb.io/img/og.gif"
+        },
+        {
+          "id": "https://www.theverge.com/2023/1/31/23579552/artifact-instagram-cofounders-kevin-systrom-mike-krieger-news-app",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.theverge.com/2023/1/31/23579552/artifact-instagram-cofounders-kevin-systrom-mike-krieger-news-app",
+          "publishedOn": "2023-01-31T16:19:00.000Z",
+          "wordCount": 13247,
+          "title": "Instagram’s co-founders are back with Artifact, a kind of TikTok for text",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/AvWFoCBDJ6jD30FNas9q0UuWZWo=/0x0:2880x1920/1200x628/filters:focal(1440x960:1441x961)/cdn.vox-cdn.com/uploads/chorus_asset/file/24398939/unnamed.png"
+        },
+        {
+          "id": "https://www.jeffgeerling.com/blog/2023/am-radio-dead",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.jeffgeerling.com/blog/2023/am-radio-dead",
+          "publishedOn": "2023-01-31T15:45:29.000Z",
+          "wordCount": 1578,
+          "title": "Is AM radio dead?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://arxiv.org/abs/2301.13188",
+          "author": null,
+          "description": "Comments",
+          "link": "https://arxiv.org/abs/2301.13188",
+          "publishedOn": "2023-01-31T15:22:12.000Z",
+          "wordCount": 572,
+          "title": "Extracting training data from diffusion models",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.construct.net/en/blogs/ashleys-blog-2/rts-devlog-extreme-pathfinding-1608",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.construct.net/en/blogs/ashleys-blog-2/rts-devlog-extreme-pathfinding-1608",
+          "publishedOn": "2023-01-31T13:04:22.000Z",
+          "wordCount": 4272,
+          "title": "How to smooth and spread A* paths for an RTS",
+          "imageUrl": "https://construct-static.com/92/v1053/shareimage/1608/ogg/share.png"
+        },
+        {
+          "id": "https://www.danielsieger.com/blog/2021/01/03/generating-platonic-solids.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.danielsieger.com/blog/2021/01/03/generating-platonic-solids.html",
+          "publishedOn": "2023-01-31T11:53:08.000Z",
+          "wordCount": 1822,
+          "title": "Generating Platonic Solids in C++ (2021)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lajili.com/posts/post-1/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://lajili.com/posts/post-1/",
+          "publishedOn": "2023-01-31T11:07:10.000Z",
+          "wordCount": 674,
+          "title": "Japanese explained to programmers",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.bitrex.com/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.bitrex.com/",
+          "publishedOn": "2023-01-31T07:01:18.000Z",
+          "wordCount": 594,
+          "title": "Bitrex – the brand name of the bitterest substance in the world",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.x.org/releases/X11R7.6/doc/man/man1/twm.1.xhtml",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.x.org/releases/X11R7.6/doc/man/man1/twm.1.xhtml",
+          "publishedOn": "2023-01-31T05:45:56.000Z",
+          "wordCount": 8400,
+          "title": "TWM − Tab Window Manager for the X Window System",
+          "imageUrl": null
+        },
+        {
+          "id": "https://techxplore.com/news/2023-01-fairy-like-robot-flies-power.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://techxplore.com/news/2023-01-fairy-like-robot-flies-power.html",
+          "publishedOn": "2023-01-31T01:17:05.000Z",
+          "wordCount": 1973,
+          "title": "A fairy-like robot flies by the power of wind and light",
+          "imageUrl": "https://scx2.b-cdn.net/gfx/news/2023/a-fairy-like-robot-fli.jpg"
+        },
+        {
+          "id": "https://phys.org/news/2023-01-mathematical-body-potassium.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://phys.org/news/2023-01-mathematical-body-potassium.html",
+          "publishedOn": "2023-01-31T01:16:03.000Z",
+          "wordCount": 1754,
+          "title": "New mathematical model shows how the body regulates potassium",
+          "imageUrl": "https://scx2.b-cdn.net/gfx/news/hires/2022/banana.jpg"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=34587955",
           "author": null,
           "description": "Comments",
@@ -154,6 +434,16 @@
           "wordCount": 1134,
           "title": "TigerBeetle raises $6.4M to power the future of financial accounting infra",
           "imageUrl": ""
+        },
+        {
+          "id": "https://wasmlabs.dev/articles/python-wasm32-wasi/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://wasmlabs.dev/articles/python-wasm32-wasi/",
+          "publishedOn": "2023-01-30T16:02:24.000Z",
+          "wordCount": 2057,
+          "title": "WebAssembly: Adding Python support to WASM language runtimes",
+          "imageUrl": "https://wasmlabs.dev/static/images/og/python-wasm32-wasi.png"
         },
         {
           "id": "https://www.quantamagazine.org/astronomers-say-they-have-spotted-the-universes-first-stars-20230130/",
@@ -414,6 +704,16 @@
           "wordCount": 61056,
           "title": "FCC threatens to disconnect Twilio for illegal robocalls",
           "imageUrl": "https://commsrisk.com/wp-content/uploads/2022/01/phone-warning-message.jpg"
+        },
+        {
+          "id": "https://www.anandtech.com/show/18732/asrock-industrial-nucs-box1360pd4-review-raptor-lakep-ecc",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.anandtech.com/show/18732/asrock-industrial-nucs-box1360pd4-review-raptor-lakep-ecc",
+          "publishedOn": "2023-01-29T16:31:55.000Z",
+          "wordCount": 4634,
+          "title": "ASRock Industrial NUCS Box-1360P/D4 Review: Raptor Lake-P Plus Surprise ECC",
+          "imageUrl": "https://images.anandtech.com/doci/18732/carousel-final-2b_678x452.jpg"
         },
         {
           "id": "https://www.schedium.net/2023/01/the-window-trick-of-las-vegas-hotels.html",
@@ -7394,296 +7694,6 @@
           "wordCount": 10461,
           "title": "At the edges of Moore’s Law, connecting components is increasingly the game",
           "imageUrl": "https://spectrum.ieee.org/media-library/six-short-black-pillars-with-a-tall-pillar-at-center-bridge-two-light-grey-areas.jpg?id=32417203&width=1200&height=600&coordinates=0%2C72%2C0%2C72"
-        },
-        {
-          "id": "https://twitter.com/badlogicgames/status/1609652290113404928",
-          "author": null,
-          "description": "Comments",
-          "link": "https://twitter.com/badlogicgames/status/1609652290113404928",
-          "publishedOn": "2023-01-02T11:41:52.000Z",
-          "wordCount": 470,
-          "title": "Writing DOS games and demos with modern tools",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=VhYEOG9LOIk",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.youtube.com/watch?v=VhYEOG9LOIk",
-          "publishedOn": "2023-01-02T10:33:27.000Z",
-          "wordCount": null,
-          "title": "Trash Train: I put my trash cans on rails so they move automatically [video]",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.voanews.com/a/canada-bans-most-foreigners-from-buying-homes/6899982.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.voanews.com/a/canada-bans-most-foreigners-from-buying-homes/6899982.html",
-          "publishedOn": "2023-01-02T09:42:02.000Z",
-          "wordCount": 1170,
-          "title": "Canada bans most foreigners from buying homes",
-          "imageUrl": "https://gdb.voanews.com/022a0000-0aff-0242-1edc-08daec5290ad_cx0_cy4_cw0_w1200_r1.jpg"
-        },
-        {
-          "id": "https://mafs.dev/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://mafs.dev/",
-          "publishedOn": "2023-01-02T06:09:23.000Z",
-          "wordCount": 503,
-          "title": "Show HN: Mafs – React components for interactive math",
-          "imageUrl": null
-        },
-        {
-          "id": "https://thesephist.com/posts/lua/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://thesephist.com/posts/lua/",
-          "publishedOn": "2023-01-02T02:57:13.000Z",
-          "wordCount": 3753,
-          "title": "Interesting things about the Lua interpreter (2020)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://exposing.ai/megaface/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://exposing.ai/megaface/",
-          "publishedOn": "2023-01-02T01:09:03.000Z",
-          "wordCount": 1762,
-          "title": "Megaface",
-          "imageUrl": "https://exposing.ai/assets/pages/datasets/megaface/assets/background.jpg"
-        },
-        {
-          "id": "http://elonjet.net/wrapped22/",
-          "author": null,
-          "description": "Comments",
-          "link": "http://elonjet.net/wrapped22/",
-          "publishedOn": "2023-01-01T22:59:45.000Z",
-          "wordCount": 2,
-          "title": "ElonJet Wrapped 2022",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=34211796",
-          "author": null,
-          "description": "Comments",
-          "link": "https://news.ycombinator.com/item?id=34211796",
-          "publishedOn": "2023-01-01T22:34:32.000Z",
-          "wordCount": 3736,
-          "title": "Ask HN: Why isn't JSON-RPC more widely adopted?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://gavinray97.github.io/blog/adding-invariant-to-cpp-design-by-contract",
-          "author": null,
-          "description": "Comments",
-          "link": "https://gavinray97.github.io/blog/adding-invariant-to-cpp-design-by-contract",
-          "publishedOn": "2023-01-01T22:02:03.000Z",
-          "wordCount": 8442,
-          "title": "Adding “invariant” clauses to C++ via GCC plugin to enable Design-by-Contract",
-          "imageUrl": "https://gavinray97.github.io/static/images/design-by-contract-logo.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=34211457",
-          "author": null,
-          "description": "Comments",
-          "link": "https://news.ycombinator.com/item?id=34211457",
-          "publishedOn": "2023-01-01T21:59:07.000Z",
-          "wordCount": 551,
-          "title": "Ask HN: Are there any good open source Text-to-Speech tools?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://apnews.com/article/technology-indiana-state-government-business-tod-rokita-3fc0f24cd0ca72cc9c4de14204abda01",
-          "author": null,
-          "description": "Comments",
-          "link": "https://apnews.com/article/technology-indiana-state-government-business-tod-rokita-3fc0f24cd0ca72cc9c4de14204abda01",
-          "publishedOn": "2023-01-01T21:21:28.000Z",
-          "wordCount": 7639,
-          "title": "Google to pay Indiana $20M to resolve privacy suit",
-          "imageUrl": "https://storage.googleapis.com/afs-prod/media/afs:Medium:751921853724/700.png"
-        },
-        {
-          "id": "https://www.jeffgeerling.com/blog/2021/modeling-my-grandpa-3d-photogrammetry",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.jeffgeerling.com/blog/2021/modeling-my-grandpa-3d-photogrammetry",
-          "publishedOn": "2023-01-01T21:06:16.000Z",
-          "wordCount": 1661,
-          "title": "Modeling my Grandpa with 3D Photogrammetry (2021)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://publicdomainreview.org/essay/picturing-scent",
-          "author": null,
-          "description": "Comments",
-          "link": "https://publicdomainreview.org/essay/picturing-scent",
-          "publishedOn": "2023-01-01T21:05:42.000Z",
-          "wordCount": 11810,
-          "title": "Picturing Scent: The Tale of a Beached Whale (2021)",
-          "imageUrl": "https://the-public-domain-review.imgix.net/essays/picturing-scent/picturing-scent-featured-2.jpg"
-        },
-        {
-          "id": "https://github.com/linleyh/liberation-circuit",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/linleyh/liberation-circuit",
-          "publishedOn": "2023-01-01T20:41:28.000Z",
-          "wordCount": 1046,
-          "title": "Liberation Circuit – FOSS RTS/programming game",
-          "imageUrl": "https://opengraph.githubassets.com/339c61c8a74c50b1644eca7b9a034c234c23b518b35d60abbb4c0f8a21f64d58/linleyh/liberation-circuit"
-        },
-        {
-          "id": "http://elm-chan.org/fsw/ff/00index_e.html",
-          "author": null,
-          "description": "Comments",
-          "link": "http://elm-chan.org/fsw/ff/00index_e.html",
-          "publishedOn": "2023-01-01T19:48:45.000Z",
-          "wordCount": 720,
-          "title": "FatFs – Generic FAT Filesystem Module",
-          "imageUrl": null
-        },
-        {
-          "id": "https://zeptobars.com/en/read/Casio-F-91W-OKI-quartz-watch",
-          "author": null,
-          "description": "Comments",
-          "link": "https://zeptobars.com/en/read/Casio-F-91W-OKI-quartz-watch",
-          "publishedOn": "2023-01-01T19:41:11.000Z",
-          "wordCount": 261,
-          "title": "Casio-F-91W die-shot",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.bakertilly.de/en/news/detail/bundestag-beschliesst-hinweisgeberschutzgesetz-welche-neuerungen-fuer-unternehmen-nun-wichtig-sind.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.bakertilly.de/en/news/detail/bundestag-beschliesst-hinweisgeberschutzgesetz-welche-neuerungen-fuer-unternehmen-nun-wichtig-sind.html",
-          "publishedOn": "2023-01-01T19:00:11.000Z",
-          "wordCount": 694,
-          "title": "German Bundestag Passes Whistleblower Protection Act",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.science.org/content/article/why-536-was-worst-year-be-alive",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.science.org/content/article/why-536-was-worst-year-be-alive",
-          "publishedOn": "2023-01-01T18:44:55.000Z",
-          "wordCount": 2935,
-          "title": "Why 536 was 'the worst year to be alive' (2018)",
-          "imageUrl": "https://www.science.org/do/10.1126/science.aaw0632/abs/ca_1116NID_Dome_Tent_online_CC_cropped.jpg"
-        },
-        {
-          "id": "https://www.smithsonianmag.com/smart-news/mini-brains-grown-stem-cells-developed-eyes-can-sense-light-180978478/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.smithsonianmag.com/smart-news/mini-brains-grown-stem-cells-developed-eyes-can-sense-light-180978478/",
-          "publishedOn": "2023-01-01T18:12:27.000Z",
-          "wordCount": 1529,
-          "title": "Mini brains grown from stem cells developed eye-like features (2021)",
-          "imageUrl": "https://th-thumbnailer.cdn-si-edu.com/WPo1QYijZgwNpDFMfC96j9CZc7Y=/fit-in/1600x0/filters:focal(153x309:154x310)/https%3A%2F%2Ftf-cmsv2-smithsonianmag-media.s3.amazonaws.com%2Ffiler%2F19%2Fa4%2F19a45954-e4b5-400c-b148-52f493ec5688%2Flow-res_this_image_shows_a_brain_organoid_with_optic_cups_credit_elke_gabriel_2021_1jpg.png"
-        },
-        {
-          "id": "https://sqlite.org/forum/forumpost/df285a4182688791",
-          "author": null,
-          "description": "Comments",
-          "link": "https://sqlite.org/forum/forumpost/df285a4182688791",
-          "publishedOn": "2023-01-01T18:11:15.000Z",
-          "wordCount": 3066,
-          "title": "SQLite 2022 Recap",
-          "imageUrl": null
-        },
-        {
-          "id": "https://github.com/michaelengel/crosstalk",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/michaelengel/crosstalk",
-          "publishedOn": "2023-01-01T17:56:04.000Z",
-          "wordCount": 790,
-          "title": "Smalltalk-80 on Raspberry Pi: A bare metal implementation",
-          "imageUrl": "https://opengraph.githubassets.com/8cefc5e4af4aa0184c3c66171b500ec8ec63a15406ead2b0cfd222bc22d3d27f/michaelengel/crosstalk"
-        },
-        {
-          "id": "https://joemorrison.substack.com/p/how-internet-in-space-will-transform",
-          "author": null,
-          "description": "Comments",
-          "link": "https://joemorrison.substack.com/p/how-internet-in-space-will-transform",
-          "publishedOn": "2023-01-01T16:49:01.000Z",
-          "wordCount": 7572,
-          "title": "“Internet in space” will transform the satellite imagery industry",
-          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fe10ce776-534c-4724-ad55-266e16fc4070_2160x1620.jpeg"
-        },
-        {
-          "id": "https://til.simonwillison.net/clickhouse/github-explorer",
-          "author": null,
-          "description": "Comments",
-          "link": "https://til.simonwillison.net/clickhouse/github-explorer",
-          "publishedOn": "2023-01-01T16:45:56.000Z",
-          "wordCount": 874,
-          "title": "Querying the GitHub archive with the ClickHouse playground",
-          "imageUrl": "https://til.simonwillison.net/-/media/screenshot/clickhouse_github-explorer.md"
-        },
-        {
-          "id": "https://milancurcic.com/2019/05/22/map-filter-reduce-in-fortran-2018.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://milancurcic.com/2019/05/22/map-filter-reduce-in-fortran-2018.html",
-          "publishedOn": "2023-01-01T15:20:01.000Z",
-          "wordCount": 2780,
-          "title": "Map, Filter, Reduce in Fortran (2019)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://tynan.com/letstalk/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://tynan.com/letstalk/",
-          "publishedOn": "2023-01-01T14:19:18.000Z",
-          "wordCount": 3492,
-          "title": "Conversation Skills Essentials",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=U9uZlEqUQw0",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.youtube.com/watch?v=U9uZlEqUQw0",
-          "publishedOn": "2023-01-01T14:01:47.000Z",
-          "wordCount": null,
-          "title": "Homoiconic Spreadsheets: What, How and Why [video]",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=34206219",
-          "author": null,
-          "description": "Comments",
-          "link": "https://news.ycombinator.com/item?id=34206219",
-          "publishedOn": "2023-01-01T13:50:27.000Z",
-          "wordCount": 22761,
-          "title": "Ask HN: Concepts that clicked only years after you first encountered them?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://sweetcocoa.github.io/pop2piano_samples/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://sweetcocoa.github.io/pop2piano_samples/",
-          "publishedOn": "2023-01-01T13:08:16.000Z",
-          "wordCount": 312,
-          "title": "Pop2Piano: Pop audio-based piano cover generation",
-          "imageUrl": null
-        },
-        {
-          "id": "https://noahpinion.substack.com/p/the-internet-wants-to-be-fragmented",
-          "author": null,
-          "description": "Comments",
-          "link": "https://noahpinion.substack.com/p/the-internet-wants-to-be-fragmented",
-          "publishedOn": "2023-01-01T12:37:59.000Z",
-          "wordCount": 6547,
-          "title": "The internet wants to be fragmented",
-          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F6ec79951-fd6d-4552-8163-d2c069e3000b_1440x799.png"
         }
       ]
     },
@@ -12717,6 +12727,36 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2023/01/desktop-wallpaper-calendars-february-2023/",
+          "author": "hello@smashingmagazine.com (Cosima Mielke)",
+          "description": "Do you need a little inspiration boost? Well, then our new batch of desktop wallpapers is for you. Designed by artists and designers from across the globe, they come in versions with and without a calendar for February 2023.",
+          "link": "https://smashingmagazine.com/2023/01/desktop-wallpaper-calendars-february-2023/",
+          "publishedOn": "2023-01-31T16:00:00.000Z",
+          "wordCount": 5014,
+          "title": "The Magic Of February (2023 Wallpapers Edition)",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-february-2023/feb-23-plants-preview-opt.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "http://files.smashing.media/articles/desktop-wallpaper-calendars-february-2023/feb-23-plants-preview-opt.png"
+        },
+        {
+          "id": "https://smashingmagazine.com/2023/01/b2b-sales-understand-role-ux-designers-better/",
+          "author": "hello@smashingmagazine.com (Paul Boag)",
+          "description": "Throughout a customer journey (particularly in B2B), there will be interactions that are primarily between two people rather than a human and an interface. In this article, Paul Boag explains why you cannot improve the user experience without considering the entirety of the UX journey.",
+          "link": "https://smashingmagazine.com/2023/01/b2b-sales-understand-role-ux-designers-better/",
+          "publishedOn": "2023-01-31T08:30:00.000Z",
+          "wordCount": 4203,
+          "title": "How B2B Sales Help Us Understand Our Role As UX Designers Better",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/b2b-sales-understand-role-ux-designers-better/meta-sharing-image-b2b-sales-understand-role-ux-designers-better.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/b2b-sales-understand-role-ux-designers-better/meta-sharing-image-b2b-sales-understand-role-ux-designers-better.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2023/01/svg-customization-animation-practical-guide/",
           "author": "hello@smashingmagazine.com (Adrian Bece)",
           "description": "Developers often feel discouraged from editing SVG markup and experimenting with SVG animations, thinking it’s a significant time investment or they need to use a complex animation library to do so. In this article, Adrian showcases his favorite tricks, which make the process streamlined and fun.",
@@ -13000,21 +13040,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/38409b65-d922-486a-8db9-0adb09194016/guide-getting-data-visualization-right.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2023/01/usability-2023/",
-          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
-          "description": "That’s how people behave on the web in 2023. Some observations from real usability testing on what people do and what they don’t do on the web. From disabled copy-paste to magic link sign-in.",
-          "link": "https://smashingmagazine.com/2023/01/usability-2023/",
-          "publishedOn": "2023-01-02T09:00:00.000Z",
-          "wordCount": 3541,
-          "title": "The State Of Usability In 2023 🎊",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/892f360a-dc33-44c0-aba8-478b1edc7357/usability-2023.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/892f360a-dc33-44c0-aba8-478b1edc7357/usability-2023.jpg"
         }
       ]
     },
@@ -13023,6 +13048,96 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/visual-studio-vs-visual-studio-code/",
+          "author": "Kolade Chris",
+          "description": "The first time I heard about “Visual Studio”, I thought it was the same as “Visual Studio Code”. I don’t know why Microsoft decided to confuse everyone with the names of those two development tools. But that’s a story for another day. “Visual Studio” and “Visual Studio Code” are not",
+          "link": "https://www.freecodecamp.org/news/visual-studio-vs-visual-studio-code/",
+          "publishedOn": "2023-01-31T19:17:31.000Z",
+          "wordCount": 1676,
+          "title": "Visual Studio vs Visual Studio Code – What's The Difference Between These IDE Code Editors?",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/VSvVSC.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-make-pie-and-doughnut-charts-using-chartjs-in-angular/",
+          "author": "Swatej Patil",
+          "description": "In this tutorial we will learn how to create a simple pie and doughnut chart using the Chart.js library in an Angular application. What is Chart.js? Chart.js is a JavaScript library for building charts. It's designed to be intuitive and simple, but it's powerful enough to build complex visualizations.",
+          "link": "https://www.freecodecamp.org/news/how-to-make-pie-and-doughnut-charts-using-chartjs-in-angular/",
+          "publishedOn": "2023-01-31T17:03:23.000Z",
+          "wordCount": 1730,
+          "title": "Chart.js Tutorial – How to Make Pie and Doughnut Charts in Angular",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/piechart-1.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/python-length-of-list-how-to-find-the-size-of-a-list/",
+          "author": "Dillion Megida",
+          "description": "A list is a data structure in Python that contains multiple elements in a particular order. And sometimes you might need to get the size of a list. I'll show you how to do that in this article. How to Create a List in Python You can create lists in",
+          "link": "https://www.freecodecamp.org/news/python-length-of-list-how-to-find-the-size-of-a-list/",
+          "publishedOn": "2023-01-31T16:56:55.000Z",
+          "wordCount": 1163,
+          "title": "Python Length of List – How to Find the Size of a List",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/18.-length-of-list.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/web-scraping-in-javascript-with-puppeteer/",
+          "author": "Gaël Thomas",
+          "description": "Welcome to the world of web scraping! Have you ever needed data from a website but found it hard to access it in a structured format? This is where web scraping comes in. Using scripts, we can extract the data we need from a website for various purposes, such as",
+          "link": "https://www.freecodecamp.org/news/web-scraping-in-javascript-with-puppeteer/",
+          "publishedOn": "2023-01-31T15:26:55.000Z",
+          "wordCount": 3239,
+          "title": "Web Scraping in JavaScript – How to Use Puppeteer to Scrape Web Pages",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/web-scraping-in-javascript-with-puppeteer.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-write-unit-tests-for-instance-methods-in-python/",
+          "author": "Bala Priya C",
+          "description": "This tutorial will teach you how to write unit tests for instance methods in Python. In a previous tutorial [/news/how-to-write-unit-tests-for-python-functions/], we covered how to write unit tests for Python functions. While unit testing for instance methods works similarly, you may have some challenges creating and managing objects (instances of a",
+          "link": "https://www.freecodecamp.org/news/how-to-write-unit-tests-for-instance-methods-in-python/",
+          "publishedOn": "2023-01-31T00:13:54.000Z",
+          "wordCount": 1705,
+          "title": "How to Write Unit Tests for Instance Methods in Python",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/instance-methods-python.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-use-the-javascript-require-function/",
+          "author": "Joel Olawanle",
+          "description": "In JavaScript, modules refer to a file that holds JavaScript code which performs a specific purpose. Modules are self-contained, making it easy to add, remove, and update functionalities without affecting your entire code because they are decoupled from other pieces of code. When you have these modules in separate JavaScript",
+          "link": "https://www.freecodecamp.org/news/how-to-use-the-javascript-require-function/",
+          "publishedOn": "2023-01-31T00:07:43.000Z",
+          "wordCount": 1239,
+          "title": "JavaScript Require – How to Use the require() Function in JS",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/cover-template--11-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-dockerize-an-adonisjs-application/",
+          "author": "Solomon Eseme",
+          "description": "Creating software is hard. So you want to build it once and run it everywhere without adjusting configurations for different operating systems and machines every time. Well, this is one problem that dockerizing your application can help solve. Here's what we'll cover in this tutorial:  * What is Docker?",
+          "link": "https://www.freecodecamp.org/news/how-to-dockerize-an-adonisjs-application/",
+          "publishedOn": "2023-01-31T00:00:41.000Z",
+          "wordCount": 2461,
+          "title": "How to Dockerize an AdonisJS Application",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/pexels-pixabay-163726--1-.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/usereducer-hook-react/",
+          "author": "Kunal Nalawade",
+          "description": "State is an important part of a React application. Most functionalities involve making state updates in your component.  But as your application grows, state updates become more and more complex. These complex state updates might get overwhelming when you revisit your code. There is a different way of handling",
+          "link": "https://www.freecodecamp.org/news/usereducer-hook-react/",
+          "publishedOn": "2023-01-30T23:15:08.000Z",
+          "wordCount": 1587,
+          "title": "React Hooks Tutorial – How to Use the useReducer Hook",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/photo-1672309046475-4cce2039f342.jpeg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-get-a-remote-developer-job/",
+          "author": "George Field",
+          "description": "As the world continues to adapt to the new normal of remote work, the demand for remote developers has never been higher.  Companies are now realizing the benefits of hiring remote workers, including cost savings and access to a wider pool of talent.  If you're looking for a",
+          "link": "https://www.freecodecamp.org/news/how-to-get-a-remote-developer-job/",
+          "publishedOn": "2023-01-30T22:09:18.000Z",
+          "wordCount": 1974,
+          "title": "How to Find a Remote Developer Job in 2023",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/pexels-ekaterina-bolovtsova-4049459.jpg"
+        },
         {
           "id": "https://www.freecodecamp.org/news/how-lists-work-in-java/",
           "author": "Ihechikara Vincent Abba",

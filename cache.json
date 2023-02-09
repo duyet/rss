@@ -6,6 +6,276 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
+          "id": "https://www.confluent.io/blog/windowing-in-kafka-streams/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.confluent.io/blog/windowing-in-kafka-streams/",
+          "publishedOn": "2023-02-08T22:56:29.000Z",
+          "wordCount": 13160,
+          "title": "Apache Kafka Beyond the Basics: Windowing",
+          "imageUrl": "https://cdn.confluent.io/wp-content/uploads/seo-logo-meadow.png"
+        },
+        {
+          "id": "https://www.vestas.com/en/media/company-news/2023/vestas-unveils-circularity-solution-to-end-landfill-for-c3710818",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.vestas.com/en/media/company-news/2023/vestas-unveils-circularity-solution-to-end-landfill-for-c3710818",
+          "publishedOn": "2023-02-08T22:52:20.000Z",
+          "wordCount": 2113,
+          "title": "Vestas unveils solution to end landfill disposal for wind turbine blades",
+          "imageUrl": "https://vestas.scene7.com/is/image/vestas/V150_2"
+        },
+        {
+          "id": "https://forum.cktn.de/t/twitter-starts-limiting-how-many-tweets-you-can-post-per-day/493",
+          "author": null,
+          "description": "Comments",
+          "link": "https://forum.cktn.de/t/twitter-starts-limiting-how-many-tweets-you-can-post-per-day/493",
+          "publishedOn": "2023-02-08T21:55:32.000Z",
+          "wordCount": null,
+          "title": "Twitter starts limiting how many tweets you can post per day",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.linaro.org/blog/top-byte-ignore-for-fun-and-memory-savings/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.linaro.org/blog/top-byte-ignore-for-fun-and-memory-savings/",
+          "publishedOn": "2023-02-08T21:31:49.000Z",
+          "wordCount": 3613,
+          "title": "Top byte ignore for fun and memory savings",
+          "imageUrl": "https://www.linaro.org/assets/images/content/Code_Image_Core_tech.jpg"
+        },
+        {
+          "id": "https://maximumeffort.substack.com/p/scaling-problems-in-social-control",
+          "author": null,
+          "description": "Comments",
+          "link": "https://maximumeffort.substack.com/p/scaling-problems-in-social-control",
+          "publishedOn": "2023-02-08T19:31:27.000Z",
+          "wordCount": 6206,
+          "title": "Reddit mods and scaling problems in social control",
+          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fea860e56-7aee-4380-9509-d352103d9af5_912x756.jpeg"
+        },
+        {
+          "id": "https://www.nih.gov/news-events/nih-research-matters/probiotic-blocks-staph-bacteria-colonizing-people",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.nih.gov/news-events/nih-research-matters/probiotic-blocks-staph-bacteria-colonizing-people",
+          "publishedOn": "2023-02-08T19:25:51.000Z",
+          "wordCount": 1511,
+          "title": "Probiotic blocks staph bacteria from colonizing people",
+          "imageUrl": "https://www.nih.gov/sites/default/files/news-events/research-matters/2023/20230207-staphylococcus.jpg"
+        },
+        {
+          "id": "https://videovillage.co/filmbox/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://videovillage.co/filmbox/",
+          "publishedOn": "2023-02-08T19:13:06.000Z",
+          "wordCount": 450,
+          "title": "Show HN: Filmbox, physically accurate film emulation, now on Linux and Windows",
+          "imageUrl": "https://videovillage.co/images/filmbox/og-d9d1462f.jpg"
+        },
+        {
+          "id": "https://www.nist.gov/news-events/news/2023/02/nist-selects-lightweight-cryptography-algorithms-protect-small-devices",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.nist.gov/news-events/news/2023/02/nist-selects-lightweight-cryptography-algorithms-protect-small-devices",
+          "publishedOn": "2023-02-08T18:44:56.000Z",
+          "wordCount": 2348,
+          "title": "NIST selects ‘lightweight cryptography’ algorithms to protect small devices",
+          "imageUrl": "https://www.nist.gov/sites/default/files/images/2023/02/06/23TL001_update-lightweight_2_cryptography-2.jpg"
+        },
+        {
+          "id": "https://www.techspot.com/news/97535-windows-11-spyware-machine-out-users-control.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.techspot.com/news/97535-windows-11-spyware-machine-out-users-control.html",
+          "publishedOn": "2023-02-08T18:39:54.000Z",
+          "wordCount": 4678,
+          "title": "Windows 11: a spyware machine out of users' control",
+          "imageUrl": "https://static.techspot.com/images2/news/bigimage/2023/02/2023-02-08-image-4.jpg"
+        },
+        {
+          "id": "https://www.thenation.com/article/culture/buckminster-fuller-alec-nevela-lee-biography/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.thenation.com/article/culture/buckminster-fuller-alec-nevela-lee-biography/",
+          "publishedOn": "2023-02-08T18:21:13.000Z",
+          "wordCount": 10288,
+          "title": "Buckminster Fuller’s Hall of Mirrors",
+          "imageUrl": "https://www.thenation.com/wp-content/uploads/2022/12/GettyImages-450390300.jpg"
+        },
+        {
+          "id": "https://jfrog.com/blog/openssh-pre-auth-double-free-cve-2023-25136-writeup-and-proof-of-concept/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://jfrog.com/blog/openssh-pre-auth-double-free-cve-2023-25136-writeup-and-proof-of-concept/",
+          "publishedOn": "2023-02-08T17:34:31.000Z",
+          "wordCount": 3786,
+          "title": "OpenSSH Pre-Auth Double Free – Writeup and Proof-of-Concept",
+          "imageUrl": "https://media.jfrog.com/wp-content/uploads/2023/02/08165719/CVE-2023-25136-Writeup-and-PoC-1200x628_1A.png"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=34710830",
+          "author": null,
+          "description": "Comments",
+          "link": "https://news.ycombinator.com/item?id=34710830",
+          "publishedOn": "2023-02-08T16:52:44.000Z",
+          "wordCount": 11751,
+          "title": "Ask HN: How do you deal with information and internet addiction?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ucr.edu/articles/2023/02/07/fungi-and-bacteria-are-binging-burned-soil",
+          "author": null,
+          "description": "Comments",
+          "link": "https://news.ucr.edu/articles/2023/02/07/fungi-and-bacteria-are-binging-burned-soil",
+          "publishedOn": "2023-02-08T16:46:26.000Z",
+          "wordCount": 1190,
+          "title": "Fungi and bacteria are binging on burned soil",
+          "imageUrl": "https://news.ucr.edu/sites/default/files/2022-03/holyfirepeteandkobe.jpg"
+        },
+        {
+          "id": "https://zrok.io/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://zrok.io/",
+          "publishedOn": "2023-02-08T15:36:41.000Z",
+          "wordCount": 1248,
+          "title": "Zrok: Open-source peer to peer",
+          "imageUrl": "https://zrok.io/wp-content/uploads/2023/01/space3-1327x1536.png"
+        },
+        {
+          "id": "https://sphericalbullshit.wordpress.com/2017/05/13/the-chemistry-of-yes-minister/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://sphericalbullshit.wordpress.com/2017/05/13/the-chemistry-of-yes-minister/",
+          "publishedOn": "2023-02-08T15:23:24.000Z",
+          "wordCount": 5787,
+          "title": "The Chemistry of ‘Yes Minister’ (2017)",
+          "imageUrl": "https://sphericalbullshit.files.wordpress.com/2017/05/dioxin.png"
+        },
+        {
+          "id": "https://jvns.ca/blog/2023/02/08/why-does-0-1-plus-0-2-equal-0-30000000000000004/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://jvns.ca/blog/2023/02/08/why-does-0-1-plus-0-2-equal-0-30000000000000004/",
+          "publishedOn": "2023-02-08T14:50:26.000Z",
+          "wordCount": 1921,
+          "title": "Why does 0.1 and 0.2 = 0.30000000000000004?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://netblocks.org/reports/twitter-restricted-in-turkey-in-aftermath-of-earthquake-oy9LJ9B3",
+          "author": null,
+          "description": "Comments",
+          "link": "https://netblocks.org/reports/twitter-restricted-in-turkey-in-aftermath-of-earthquake-oy9LJ9B3",
+          "publishedOn": "2023-02-08T13:51:14.000Z",
+          "wordCount": null,
+          "title": "Twitter restricted in Turkey in aftermath of earthquake",
+          "imageUrl": null
+        },
+        {
+          "id": "https://jonathanhaidt.substack.com/p/the-teen-mental-illness-epidemic",
+          "author": null,
+          "description": "Comments",
+          "link": "https://jonathanhaidt.substack.com/p/the-teen-mental-illness-epidemic",
+          "publishedOn": "2023-02-08T13:32:35.000Z",
+          "wordCount": 8294,
+          "title": "The teen mental illness epidemic began around 2012",
+          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6328c597-5ebf-4d03-aee3-cd54ed9c0152_1600x900.png"
+        },
+        {
+          "id": "https://blog.meilisearch.com/v1-enterprise-ready-stable/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://blog.meilisearch.com/v1-enterprise-ready-stable/",
+          "publishedOn": "2023-02-08T13:31:56.000Z",
+          "wordCount": 1915,
+          "title": "Meilisearch 1.0 – Open-source search engine built in Rust",
+          "imageUrl": "https://blog.meilisearch.com/content/images/2023/01/Meilisearch---the-next-stage-in-search-1.png"
+        },
+        {
+          "id": "https://research.swtch.com/telemetry-intro",
+          "author": null,
+          "description": "Comments",
+          "link": "https://research.swtch.com/telemetry-intro",
+          "publishedOn": "2023-02-08T13:19:39.000Z",
+          "wordCount": 3314,
+          "title": "Transparent telemetry for open-source projects",
+          "imageUrl": null
+        },
+        {
+          "id": "https://seymourhersh.substack.com/p/how-america-took-out-the-nord-stream",
+          "author": null,
+          "description": "Comments",
+          "link": "https://seymourhersh.substack.com/p/how-america-took-out-the-nord-stream",
+          "publishedOn": "2023-02-08T12:50:05.000Z",
+          "wordCount": 11425,
+          "title": "“How America took out the Nord Stream pipeline”",
+          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcc9e6ade-209c-40c7-9645-a2bf0e4cd3eb_2904x1932.png"
+        },
+        {
+          "id": "https://www.quantamagazine.org/researchers-discover-a-more-flexible-approach-to-machine-learning-20230207/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.quantamagazine.org/researchers-discover-a-more-flexible-approach-to-machine-learning-20230207/",
+          "publishedOn": "2023-02-08T12:16:44.000Z",
+          "wordCount": 5595,
+          "title": "New neural network architecture inspired by neural system of a worm",
+          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2023/02/LiquidNeuralNets-byKristinaArmitage-Social.webp"
+        },
+        {
+          "id": "https://cohost.org/tomforsyth/post/982199-polynomial-interpola",
+          "author": null,
+          "description": "Comments",
+          "link": "https://cohost.org/tomforsyth/post/982199-polynomial-interpola",
+          "publishedOn": "2023-02-08T11:05:29.000Z",
+          "wordCount": 8367,
+          "title": "Polynomial interpolation",
+          "imageUrl": "https://staging.cohostcdn.org/attachment/a1769a25-c816-4915-a15f-073740d224ee/Polynomila%20interpolation.png"
+        },
+        {
+          "id": "https://www.bankofengland.co.uk/paper/2023/the-digital-pound-consultation-paper",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.bankofengland.co.uk/paper/2023/the-digital-pound-consultation-paper",
+          "publishedOn": "2023-02-08T10:34:37.000Z",
+          "wordCount": 1469,
+          "title": "The digital pound: A new form of money for households and businesses?",
+          "imageUrl": "https://www.bankofengland.co.uk/-/media/boe/images/logo/boe-default "
+        },
+        {
+          "id": "https://juicefs.com/en/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://juicefs.com/en/",
+          "publishedOn": "2023-02-08T10:05:42.000Z",
+          "wordCount": 1084,
+          "title": "Open source cloud file system. Posix, HDFS and S3 compatible",
+          "imageUrl": null
+        },
+        {
+          "id": "https://kuboble.com/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://kuboble.com/",
+          "publishedOn": "2023-02-08T09:44:44.000Z",
+          "wordCount": 14,
+          "title": "Show HN: Kuboble.com – Minimalistic sliding pieces puzzle game",
+          "imageUrl": null
+        },
+        {
+          "id": "https://github.com/obi1kenobi/trustfall",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/obi1kenobi/trustfall",
+          "publishedOn": "2023-02-08T07:34:12.000Z",
+          "wordCount": 1135,
+          "title": "Trustfall: How to Query (Almost) Everything",
+          "imageUrl": "https://opengraph.githubassets.com/98321d155940b81535979e1f63365001f5c5e8a9da469b61f69cca8b5946273a/obi1kenobi/trustfall"
+        },
+        {
           "id": "https://www.gamespot.com/articles/nintendo-will-pay-its-workers-10-more/1100-6511268/",
           "author": null,
           "description": "Comments",
@@ -74,6 +344,16 @@
           "wordCount": 13,
           "title": "Project Sunroof",
           "imageUrl": "https://www.google.com/get/sunroof/images/share-v1.jpg"
+        },
+        {
+          "id": "https://brooker.co.za/blog/2023/02/07/hot-keys.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://brooker.co.za/blog/2023/02/07/hot-keys.html",
+          "publishedOn": "2023-02-07T19:16:20.000Z",
+          "wordCount": 1204,
+          "title": "Hot keys, scalability, and the Zipf distribution",
+          "imageUrl": null
         },
         {
           "id": "https://twitter.com/IsabelNAngelo/status/1623013720011194368",
@@ -214,6 +494,16 @@
           "wordCount": 566,
           "title": "Steps towards prompt-based creation of virtual worlds",
           "imageUrl": null
+        },
+        {
+          "id": "https://devblogs.microsoft.com/dotnet/update-to-the-dotnet-language-strategy/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://devblogs.microsoft.com/dotnet/update-to-the-dotnet-language-strategy/",
+          "publishedOn": "2023-02-07T10:25:50.000Z",
+          "wordCount": 6668,
+          "title": "Update to the .NET language strategy",
+          "imageUrl": "https://devblogs.microsoft.com/dotnet/wp-content/uploads/sites/10/2023/02/language-strategy.png"
         },
         {
           "id": "https://github.com/Wowu/docker-rollout",
@@ -7783,6 +8073,206 @@
       "siteUrl": "https://tinhte.vn/lists/trang-chu.1/",
       "articles": [
         {
+          "id": "https://tinhte.vn/thread/3631146/",
+          "author": "MinhTriND",
+          "description": "Mocato Yuka A8 gây ấn tượng với mức giá chỉ tầm 4 triệu nhưng lại có lực hút lớn, đi kèm với đó là nhiều phụ kiện để đa dạng hóa quá trình vệ sinh nhà cửa. Phần thân máy có khối lượng nhẹ và độ ồn...",
+          "link": "https://tinhte.vn/thread/tren-tay-va-tang-may-hut-bui-cam-tay-khong-day-mocato-yuka-a8-luc-hut-toi-da-20-000-pa.3631146/",
+          "publishedOn": "2023-02-09T00:10:05.000Z",
+          "wordCount": 86329,
+          "title": "Trên tay và tặng Máy hút bụi cầm tay không dây MOCATO Yuka A8: lực hút tối đa 20.000 Pa",
+          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2023/02/6321545_cover.jpg"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3631655/",
+          "author": "Pnghuy",
+          "description": "Ngay sau khi Microsoft công bố Edge phiên bản mới cùng với đó là Bing được tích hợp AI, họ cũng đồng thời cập nhật trên phiên bản Edge Dev, nhưng hiện tại thì để dùng được Bing mới cần phải đăng...",
+          "link": "https://tinhte.vn/thread/dung-thu-edge-moi-giao-dien-bo-tron-tich-hop-ai-vao-bing-nhung-hien-chua-dung-duoc.3631655/",
+          "publishedOn": "2023-02-09T00:06:18.000Z",
+          "wordCount": 48122,
+          "title": "Dùng thử Edge mới: giao diện bo tròn, tích hợp AI vào Bing nhưng hiện chưa dùng được",
+          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2023/02/6322924_cover_new-edge_tinhte_trainghiem.jpg"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3631664/",
+          "author": "bk9sw",
+          "description": "Hoa Kỳ đã cử một chiếc F-22 Raptor bắn rơi khí cầu do thám của Trung Quốc. Đây là chiến đấu cơ thế hệ thứ 5 có khả năng tàng hình, được xem là quốc bảo của Hoa Kỳ bởi không một chiếc F-22 nào được...",
+          "link": "https://tinhte.vn/thread/doi-net-ve-f-22-raptor-quoc-bao-cua-hoa-ky.3631664/",
+          "publishedOn": "2023-02-09T00:03:05.000Z",
+          "wordCount": 100657,
+          "title": "Đôi nét về F-22 Raptor - quốc bảo của Hoa Kỳ",
+          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2023/02/6322962_cover_f22raptor.jpg"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3631501/",
+          "author": "Minh Dự.",
+          "description": "Mời anh em chia sẻ thêm những ưu đãi giảm giá từ các trang thương mại điện tử lớn tại Việt Nam. Những deal nổi bật được cập nhật hàng ngày có giá trị theo giờ, theo ngày hoặc đến khi hết sản phẩm....",
+          "link": "https://tinhte.vn/thread/tong-hop-deal-khuyen-mai-08-02.3631501/",
+          "publishedOn": "2023-02-09T00:01:45.000Z",
+          "wordCount": 66898,
+          "title": "Tổng hợp deal khuyến mãi 08/02",
+          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2023/02/6322543_Cover_tonghopkhuyenmai_2.jpg"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3631421/",
+          "author": "vn_ninja",
+          "description": "Cách đây 2 ngày tờ The Register đã báo cáo rằng Google đang trong quá trình phát triển một trình duyệt mới sử dụng engine Blink thay vì WebKit, nghĩa là không tuân theo quy tắc của Apple. Và báo...",
+          "link": "https://tinhte.vn/thread/sau-google-mozilla-cung-dang-phat-trien-trinh-duyet-firefox-ios-moi-khong-dung-engine-webkit.3631421/",
+          "publishedOn": "2023-02-09T00:00:04.000Z",
+          "wordCount": 58728,
+          "title": "Sau Google, Mozilla cũng đang phát triển trình duyệt Firefox iOS mới không dùng engine WebKit?",
+          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2023/02/6322162_cover_Firefox_iOS_tinhte.jpg"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3631526/",
+          "author": "Mon Coeur",
+          "description": "Có thể bạn không biết, nhưng ChatGPT chưa bao giờ là một đột phá về mặt công nghệ. Các kỹ sư đầu ngành của Google, Microsoft, Meta… và rất nhiều công ty hàng đầu khác không sai khi cho rằng...",
+          "link": "https://tinhte.vn/thread/ai-co-trach-nhiem-thu-chatgpt-chua-bao-gio-co-la-ly-do-google-microsoft-tung-hoan-ra-mat-chat-bot.3631526/",
+          "publishedOn": "2023-02-08T23:59:59.000Z",
+          "wordCount": 72508,
+          "title": "AI có trách nhiệm, thứ ChatGPT chưa bao giờ có, là lý do Google, Microsoft từng hoãn ra mắt chat bot",
+          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2023/02/6323215_AI-Policy-Blog-Image_2.2.23_Puzzle-scaled.jpg"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3631579/",
+          "author": "P.W",
+          "description": "Kể từ hôm nay 8/2, những chiếc laptop trang bị hai thế hệ CPU và GPU mới nhất của Intel và Nvidia đã chính thức bán ra thị trường. Cùng lúc, những đánh giá trung lập từ các trang tin và các kênh...",
+          "link": "https://tinhte.vn/thread/tong-hop-danh-gia-rtx-4090-tren-laptop-manh-ngang-rtx-4070-ti-tren-desktop-du-chi-an-175w-dien.3631579/",
+          "publishedOn": "2023-02-08T23:57:27.000Z",
+          "wordCount": 57946,
+          "title": "Tổng hợp đánh giá RTX 4090 trên laptop: Mạnh ngang RTX 4070 Ti trên desktop, dù chỉ ăn 175W điện",
+          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2023/02/6322804_Cover_GPU.jpeg"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3631165/",
+          "author": "ngnhan1399",
+          "description": "“Hiệu năng đỉnh cao, màn hình Dynamic AMOLED 2X 120Hz, hỗ trợ ghi chú với bút S Pen hay camera ẩn là điểm nổi bật của Galaxy Fold 3? Đối với mình đó chỉ là những thứ phụ trợ cần có ở một chiếc...",
+          "link": "https://tinhte.vn/thread/danh-gia-galaxy-fold-3-sau-1-nam-su-dung-mon-hoi-cong-nghe-hay-chi-la-trao-luu-nhat-thoi.3631165/",
+          "publishedOn": "2023-02-08T23:55:34.000Z",
+          "wordCount": 75362,
+          "title": "Đánh giá Galaxy Fold 3 sau 1 năm sử dụng: Món hời công nghệ hay chỉ là trào lưu nhất thời?",
+          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2023/02/6321579_Chua_co_ten_1620__1080_px.png"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3631599/",
+          "author": "Hoàng Hải.",
+          "description": "Canon mới đây đã công bố EOS R8, một chiếc máy ảnh không gương lật cảm biến full-frame nhắm tới đối tượng là  các nhiếp ảnh gia không chuyên/nghiệp dư.\n \n[MEDIA]\n \nR8 có cùng cảm biến 24 megapixel...",
+          "link": "https://tinhte.vn/thread/canon-ra-mat-r8-moi-full-frame-gia-tu-1500-than-hinh-nho-gon-quay-phim-4k.3631599/",
+          "publishedOn": "2023-02-08T23:51:13.000Z",
+          "wordCount": 66807,
+          "title": "Canon ra mắt R8 mới: Full-frame, giá từ $1500, thân hình nhỏ gọn, quay phim 4K",
+          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2023/02/6322881_tinhte_canon_ramat_r8-19.jpg"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3631039/",
+          "author": "Nam Air",
+          "description": "Loài xâm lấn là những sinh vật ngoại lai được du nhập từ một nơi khác tới, sau đó sinh sôi nảy nở với tốc độ cực nhanh, dần dần trở nên mất kiểm soát, gây đe dọa mất cân bằng sinh thái, ảnh hưởng...",
+          "link": "https://tinhte.vn/thread/kien-xam-lan-moi-hiem-hoa-chung-ta-chua-the-luong-het.3631039/",
+          "publishedOn": "2023-02-08T23:15:51.000Z",
+          "wordCount": 45346,
+          "title": "Kiến xâm lấn, mối hiểm họa chúng ta chưa thể lường hết",
+          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2023/02/6321123_cover.jpg"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3631609/",
+          "author": "P.W",
+          "description": "Vừa rồi phó chủ tịch kiến trúc nền tảng và công nghệ phần cứng của Apple, Tim Millet cùng phó chủ tịch marketing sản phẩm toàn cầu Bob Borchers đã có cuộc trò chuyện với TechCrunch, đúng thời điểm...",
+          "link": "https://tinhte.vn/thread/pho-chu-tich-apple-chia-se-ve-m2-max-va-qua-trinh-chinh-phuc-gamer-cua-macos.3631609/",
+          "publishedOn": "2023-02-08T23:08:38.000Z",
+          "wordCount": 54652,
+          "title": "Phó chủ tịch Apple chia sẻ về M2 Max, và quá trình chinh phục gamer của macOS",
+          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2023/02/6322887_Cover_Apple.jpeg"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3631352/",
+          "author": "mig29f",
+          "description": "Máy bay là một phương tiện cực kỳ tinh vi và được cho là an toàn hơn phương tiện giao thông mặt đất. Tuy nhiên hàng năm vẫn có những vụ tai nạn máy bay lớn nhỏ xảy ra bởi nhiều nguyên nhân khách...",
+          "link": "https://tinhte.vn/thread/nhung-may-bay-gap-tai-nan-chi-vi-mot-vai-loi-nho.3631352/",
+          "publishedOn": "2023-02-08T23:02:41.000Z",
+          "wordCount": 75468,
+          "title": "Những máy bay gặp tai nạn chỉ vì một vài lỗi nhỏ",
+          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2023/02/6321945_airbus-1881907.jpg"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3631543/",
+          "author": "P.W",
+          "description": "Sự kiện giới thiệu trình duyệt Edge và công cụ tìm kiếm Bing phiên bản mới, tích hợp sức mạnh của mô hình ngôn ngữ GPT được Microsoft tổ chức ở campus của họ tại Redmond, Washington, và không...",
+          "link": "https://tinhte.vn/thread/microsoft-bing-ket-hop-ai-prometheus-vua-la-vua-quen-microsoft-dang-co-loi-the-truoc-google.3631543/",
+          "publishedOn": "2023-02-08T21:50:06.000Z",
+          "wordCount": 59149,
+          "title": "Microsoft Bing kết hợp AI Prometheus: Vừa lạ vừa quen, Microsoft đang có lợi thế trước Google",
+          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2023/02/6322735_Cover_Bing.jpeg"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3631669/",
+          "author": "Hoàng Hải.",
+          "description": "Mới đây thì hãng sản xuất Nhật Bản đã giới thiệu đến với người dùng 1 bộ \"đôi đũa lệch\" bao gồm ống kính 26 mm f/2.8 ngàm Z \"siêu mỏng, siêu nhẹ\" cùng và một chiếc “siêu chân dung” 85 mm f/1.2 S...",
+          "link": "https://tinhte.vn/thread/nikon-ra-mat-bo-doi-ong-kinh-full-frame-moi-26mm-f-2-8-sieu-mong-va-sieu-chan-dung-85mm-f-1-2-s.3631669/",
+          "publishedOn": "2023-02-08T20:08:21.000Z",
+          "wordCount": 54471,
+          "title": "Nikon ra mắt bộ đôi ống kính Full-frame mới: 26mm f/2.8 siêu \"mỏng\" và \"siêu chân dung\" 85mm f/1.2 S",
+          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2023/02/6322955_bia_tinhte.png"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3631604/",
+          "author": "P.W",
+          "description": "Đó là thông tin Mark Gurman của Bloomberg vừa hé lộ. Phiên bản thử nghiệm của tính năng trả góp Apple Pay Later hiện tại đang được khoảng 80 nghìn nhân viên đang làm việc trong mảng bán lẻ của...",
+          "link": "https://tinhte.vn/thread/80-nghin-nhan-vien-apple-dang-dung-thu-dich-vu-tra-gop-apple-pay-later.3631604/",
+          "publishedOn": "2023-02-08T17:10:39.000Z",
+          "wordCount": 55318,
+          "title": "80 nghìn nhân viên Apple đang dùng thử dịch vụ trả góp Apple Pay Later",
+          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2023/02/6322816_Cover_Apple.jpeg"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3631556/",
+          "author": "thanhtung6868",
+          "description": "BMW X5 và BMW X6 đã chính thức ra mắt phiên bản nâng cấp giữa vòng đời (LCI), ở lần nâng cấp nhẹ này hai mẫu xe đã có ngoại hình đổi mới ở tạo hình đèn chiếu sáng, bumper phía trước cũng như phía...",
+          "link": "https://tinhte.vn/thread/bmw-x5-va-x6-lci-2024-ra-mat-doi-moi-ngoai-hinh-idrive-8-0-dong-co-i6-va-v8-moi.3631556/",
+          "publishedOn": "2023-02-08T17:06:10.000Z",
+          "wordCount": 86299,
+          "title": "BMW X5 và X6 LCI 2024 ra mắt: Đổi mới ngoại hình, iDrive 8.0, động cơ i6 và V8 mới",
+          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2023/02/6322973_Cover_BMW_X5_va_BMW_X6_2024_LCI_ra_Mat_tinhte.jpg"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3631549/",
+          "author": "Didu",
+          "description": "* Cover: tạo hình nhân vật trong một bộ phim, nhưng mình thấy trong truyện mô tả khuôn mặt dị dạng hơn nhiều.\n \nDạo gần đây nghe về ChatGPT nhiều quá rồi, hôm nay thì Microsoft ra công cụ tìm kiếm...",
+          "link": "https://tinhte.vn/thread/tu-viec-tao-ra-ai-chatgpt-minh-nho-toi-truyen-frankenstein.3631549/",
+          "publishedOn": "2023-02-08T16:49:50.000Z",
+          "wordCount": null,
+          "title": "Từ việc tạo ra AI, ChatGPT mình nhớ tới truyện Frankenstein",
+          "imageUrl": null
+        },
+        {
+          "id": "https://tinhte.vn/thread/3627039/",
+          "author": "Chill With Dan",
+          "description": "Những ứng dụng này sẽ giúp bạn tối ưu hoá cách học, ghi nhớ và phát triển vốn từ vựng củ mình hiệu quả hơn. Lần trước mình có liệt kê những ứng dụng học tiếng Anh phổ biến. Trong bài viết này mình...",
+          "link": "https://tinhte.vn/thread/tong-hop-ung-dung-tu-on-hoc-tieng-anh-vui-ve.3627039/",
+          "publishedOn": "2023-02-08T16:39:13.000Z",
+          "wordCount": 61437,
+          "title": "Tổng hợp ứng dụng tự ôn/ học tiếng Anh vui vẻ",
+          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2023/01/6313182_app4.jpg"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3631542/",
+          "author": "Pnghuy",
+          "description": "Trong bài này sẽ chia sẻ với anh em về cách để anh em có thể được truy cập vào Bing mới sớm hơn, nhanh hơn. Microsoft sau sự kiện đã cho phép một số người dùng có đăng ký trước được trải nghiệm...",
+          "link": "https://tinhte.vn/thread/huong-dan-dang-ky-trai-nghiem-bing-moi-cua-microsoft.3631542/",
+          "publishedOn": "2023-02-08T14:48:35.000Z",
+          "wordCount": 58079,
+          "title": "Hướng dẫn đăng ký trải nghiệm Bing mới của Microsoft",
+          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2023/02/6322580_cover_Bing-AI.jpg"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3631509/",
+          "author": "AudioPsycho",
+          "description": "CEO Patrick Spence của Sonos vừa trả lời phỏng vấn về kế hoạch “thiết lập lại tiêu chuẩn âm thanh” bằng việc sẽ cho ra mắt dòng loa mới Era, điển hình với 2 mẫu đầu tiên là Era 300 và Era 100....",
+          "link": "https://tinhte.vn/thread/sonos-se-ra-mat-mau-loa-hoan-toan-moi-mang-ten-era-300-va-era-100-canh-tranh-apple-google.3631509/",
+          "publishedOn": "2023-02-08T13:52:28.000Z",
+          "wordCount": 50819,
+          "title": "Sonos sẽ ra mắt mẫu loa hoàn toàn mới mang tên Era 300 và Era 100, cạnh tranh Apple, Google...",
+          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2023/02/6322496_tinhte-sonos-era-300-100-1.jpg"
+        },
+        {
           "id": "https://tinhte.vn/thread/3630828/",
           "author": "Hoàng Hải.",
           "description": "Mình đã chia sẻ với anh em về Tết Nguyên Tiêu ở bài viết trước, anh em có thể xem lại tại ĐÂY. Trong bài viết này, mình tiếp tục chia sẻ với mọi người hình ảnh được chụp lại từ Galaxy S23 Ultra ở...",
@@ -12028,16 +12518,6 @@
           "wordCount": 1747,
           "title": "Faking Min Width on a Table Column",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/376307"
-        },
-        {
-          "id": "https://css-tricks.com/?p=376237",
-          "author": "Fränk Klein",
-          "description": "A little while back, Ganesh Dahal penned a post here on CSS-Tricks responding to a tweet that asked about adding CSS box shadows on WordPress blocks and elements. There’s a lot of great stuff in there that leverages new features …\nStyling Buttons in WordPress Block Themes originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/styling-buttons-in-wordpress-block-themes/",
-          "publishedOn": "2023-01-09T13:56:19.000Z",
-          "wordCount": 2197,
-          "title": "Styling Buttons in WordPress Block Themes",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/376237"
         }
       ]
     },
@@ -12046,6 +12526,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2023/02/designers-ask-receive-high-quality-feedback/",
+          "author": "hello@smashingmagazine.com (Andy Budd)",
+          "description": "In this article, Andy Budd shares his way of requesting feedback: rather than sharing a linear case study that explains every design revision, the first thing to do would be to better frame the problem.",
+          "link": "https://smashingmagazine.com/2023/02/designers-ask-receive-high-quality-feedback/",
+          "publishedOn": "2023-02-08T11:00:00.000Z",
+          "wordCount": 4672,
+          "title": "How Designers Should Ask For (And Receive) High-Quality Feedback",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/designers-ask-receive-high-quality-feedback/designers-ask-receive-high-quality-feedback.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/designers-ask-receive-high-quality-feedback/designers-ask-receive-high-quality-feedback.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2023/02/smashing-podcast-episode-56/",
           "author": "hello@smashingmagazine.com (Drew McLellan)",
@@ -12390,21 +12885,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/5de2f7ff-c421-4bba-84b0-e346653ed12c/closed-captions-subtitles-ux.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2023/01/sharing-components-designers-developers-collaboration-problems/",
-          "author": "hello@smashingmagazine.com (Shane Hudson)",
-          "description": "Recently UXPin has extended its powerful Merge technology by adding npm integration, allowing designers to sync React component libraries without requiring any developer input. This new step aims to improve collaboration between designers and developers.",
-          "link": "https://smashingmagazine.com/2023/01/sharing-components-designers-developers-collaboration-problems/",
-          "publishedOn": "2023-01-10T11:30:00.000Z",
-          "wordCount": 3724,
-          "title": "Making Your Collaboration Problems Go Away By Sharing Components",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a1b69818-14c4-47c6-8153-dd88b856b756/sharing-components-designers-developers-collaboration-problems.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a1b69818-14c4-47c6-8153-dd88b856b756/sharing-components-designers-developers-collaboration-problems.jpg"
         }
       ]
     },
@@ -12413,6 +12893,56 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/objects-in-javascript/",
+          "author": "Kamaldeen Lawal",
+          "description": "Objects are important data structures in JavaScript. This is partly because arrays are objects in JavaScript, and you'll use them all the time. Objects are super important for grouping data and functionalities, so you can do a lot with an object in JavaScript. The DOM node, and any DOM node",
+          "link": "https://www.freecodecamp.org/news/objects-in-javascript/",
+          "publishedOn": "2023-02-08T19:23:29.000Z",
+          "wordCount": 2858,
+          "title": "What are Objects in JavaScript?",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/Your-paragraph-text.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/encode-decode-html-base64-using-javascript/",
+          "author": "Joel Olawanle",
+          "description": "When building an application or writing a program, you may need to encode or decode with HTML Base64 in JavaScript. This is possible thanks to two Base64 helper functions that are part of the HTML specification and are supported by all modern browsers. In this article, you will learn about",
+          "link": "https://www.freecodecamp.org/news/encode-decode-html-base64-using-javascript/",
+          "publishedOn": "2023-02-08T19:20:23.000Z",
+          "wordCount": 1280,
+          "title": "How to Encode and Decode HTML Base64 using JavaScript – JS Encoding Example",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/cover-template-1.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/learn-how-to-code-a-buzzfeed-clone-in-three-ways/",
+          "author": "Beau Carnes",
+          "description": "Are you looking to level up your web development skills? Do you want to know how to build a BuzzFeed clone in three different technologies? Look no further!  We just published a 4-hour video course on the freeCodeCamp.org YouTube channel that will teach you how to code a BuzzFeed",
+          "link": "https://www.freecodecamp.org/news/learn-how-to-code-a-buzzfeed-clone-in-three-ways/",
+          "publishedOn": "2023-02-08T17:06:54.000Z",
+          "wordCount": 928,
+          "title": "Learn to Code a BuzzFeed Clone in Three Ways (JavaScript, React, TypeScript)",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/maxresdefault--3-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/build-secure-apis-with-flask-and-auth0/",
+          "author": "Juan Cruz Martinez",
+          "description": "APIs are at the heart of modern development. They support all kinds of systems, from mobile, web, and desktop applications, to IoT devices and self-driving cars. They are a bridge between your clients and your application logic and storage.  This central access point to your application’s data raises the",
+          "link": "https://www.freecodecamp.org/news/build-secure-apis-with-flask-and-auth0/",
+          "publishedOn": "2023-02-08T00:32:04.000Z",
+          "wordCount": 2933,
+          "title": "How to Build Secure APIs with Flask and Auth0",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/3.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/hide-api-keys-in-frontend-apps-using-netlify-functions/",
+          "author": "Franklin Ohaegbulam",
+          "description": "Netlify is a popular web development platform that makes it easier to build, deploy, and manage websites.  You can use Netlify to host websites, and it helps you update and release new changes. It also provides additional features such as security, user authentication and authorization services, and more. This",
+          "link": "https://www.freecodecamp.org/news/hide-api-keys-in-frontend-apps-using-netlify-functions/",
+          "publishedOn": "2023-02-07T23:46:43.000Z",
+          "wordCount": 3762,
+          "title": "How to Hide API Keys in Frontend Apps using Netlify Functions",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/FCC-hide-API-keys-1.jpg"
+        },
         {
           "id": "https://www.freecodecamp.org/news/lookup-functions-in-excel-google-sheets/",
           "author": "Eamonn Cottrell",

@@ -6,6 +6,256 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
+          "id": "https://www.mcgill.ca/oss/article/health-and-nutrition-history/vinyl-chloride-and-ohio-train-derailment",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.mcgill.ca/oss/article/health-and-nutrition-history/vinyl-chloride-and-ohio-train-derailment",
+          "publishedOn": "2023-02-19T23:19:06.000Z",
+          "wordCount": 1287,
+          "title": "Vinyl Chloride and the Ohio Train Derailment",
+          "imageUrl": "https://www.mcgill.ca/oss/files/oss/styles/wysiwyg_large/public/train.jpeg?itok=A36FKNTb"
+        },
+        {
+          "id": "https://betterprogramming.pub/why-i-still-lisp-and-you-should-too-18a2ae36bd8",
+          "author": null,
+          "description": "Comments",
+          "link": "https://betterprogramming.pub/why-i-still-lisp-and-you-should-too-18a2ae36bd8",
+          "publishedOn": "2023-02-19T22:39:20.000Z",
+          "wordCount": 8677,
+          "title": "I Still ‘Lisp’ (and You Should Too)",
+          "imageUrl": "https://miro.medium.com/max/811/1*BBzSK02LI9pvIGtiT_1IbA.png"
+        },
+        {
+          "id": "https://research.ibm.com/blog/AI-supercomputer-Vela-GPU-cluster",
+          "author": null,
+          "description": "Comments",
+          "link": "https://research.ibm.com/blog/AI-supercomputer-Vela-GPU-cluster",
+          "publishedOn": "2023-02-19T22:18:32.000Z",
+          "wordCount": 4509,
+          "title": "IBM Research&#x27;s Vela Is an AI Supercomputer in the Cloud",
+          "imageUrl": "https://research-website-prod-cms-uploads.s3.us.cloud-object-storage.appdomain.cloud/Cool_Gray_50_Pixelized_overlay_a41d1d237c.jpg"
+        },
+        {
+          "id": "http://www.infiltration.org/",
+          "author": null,
+          "description": "Comments",
+          "link": "http://www.infiltration.org/",
+          "publishedOn": "2023-02-19T22:18:14.000Z",
+          "wordCount": 279,
+          "title": "Infiltration – the zine about going places you&#x27;re not supposed to go",
+          "imageUrl": null
+        },
+        {
+          "id": "https://mastodon.social/@joshdholtz/109892201251474243",
+          "author": null,
+          "description": "Comments",
+          "link": "https://mastodon.social/@joshdholtz/109892201251474243",
+          "publishedOn": "2023-02-19T20:34:25.000Z",
+          "wordCount": 119,
+          "title": "Google abandoned Fastlane, it has no maintainers currently",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.samdickie.me/writing/experiment-1-creating-a-landing-page-using-ai-tools-no-code",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.samdickie.me/writing/experiment-1-creating-a-landing-page-using-ai-tools-no-code",
+          "publishedOn": "2023-02-19T19:29:49.000Z",
+          "wordCount": 3755,
+          "title": "Using AI tools to design an entire website",
+          "imageUrl": "https://uploads-ssl.webflow.com/5e5fb94aa7ed262873f66bcf/63efa10a0c74c09bcc010446_Hero%20section%20image.jpg"
+        },
+        {
+          "id": "https://grifel.dev/decentralization/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://grifel.dev/decentralization/",
+          "publishedOn": "2023-02-19T19:03:05.000Z",
+          "wordCount": 1552,
+          "title": "Self hosting in 2023",
+          "imageUrl": "/assets/logo.jpg"
+        },
+        {
+          "id": "https://www.destroyallsoftware.com/screencasts/catalog/functional-core-imperative-shell",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.destroyallsoftware.com/screencasts/catalog/functional-core-imperative-shell",
+          "publishedOn": "2023-02-19T18:10:20.000Z",
+          "wordCount": 429,
+          "title": "Functional Core, Imperative Shell (2012)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lethain.com/eng-strategies/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://lethain.com/eng-strategies/",
+          "publishedOn": "2023-02-19T17:53:48.000Z",
+          "wordCount": 5982,
+          "title": "Writing an Engineering Strategy",
+          "imageUrl": "https://lethain.com/static/author.png"
+        },
+        {
+          "id": "https://github.com/C-Nedelcu/talk-to-chatgpt",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/C-Nedelcu/talk-to-chatgpt",
+          "publishedOn": "2023-02-19T17:37:17.000Z",
+          "wordCount": 1177,
+          "title": "Talk-to-ChatGPT",
+          "imageUrl": "https://opengraph.githubassets.com/5b9be3454ced55d16082bf6f6ee39fdf9bab2381da11b8845b4fe693582964f0/C-Nedelcu/talk-to-chatgpt"
+        },
+        {
+          "id": "https://mirrors.edge.kernel.org/pub/linux/kernel/people/paulmck/perfbook/perfbook.2022.09.25a.pdf",
+          "author": null,
+          "description": "Comments",
+          "link": "https://mirrors.edge.kernel.org/pub/linux/kernel/people/paulmck/perfbook/perfbook.2022.09.25a.pdf",
+          "publishedOn": "2023-02-19T16:39:53.000Z",
+          "wordCount": 175195,
+          "title": "Is parallel programming hard, and, if so, what can you do about it? [pdf]",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.facebook.com/4/posts/good-morning-and-new-product-announcement-this-week-were-starting-to-roll-out-me/10114993498750111/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.facebook.com/4/posts/good-morning-and-new-product-announcement-this-week-were-starting-to-roll-out-me/10114993498750111/",
+          "publishedOn": "2023-02-19T16:03:23.000Z",
+          "wordCount": 1569,
+          "title": "Facebook Announces Meta Verified",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.hpc-ai.tech/blog/colossal-ai-chatgpt",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.hpc-ai.tech/blog/colossal-ai-chatgpt",
+          "publishedOn": "2023-02-19T15:40:22.000Z",
+          "wordCount": 3659,
+          "title": "Open source solution replicates ChatGPT training process",
+          "imageUrl": "https://www.hpc-ai.tech/hubfs/Google%20Drive%20Integration/Open%20source%20solution%20replicates%20ChatGPT%20training%20process-Feb-14-2023-02-23-47-1380-PM.png#keepProtocol"
+        },
+        {
+          "id": "https://www.edge.ceo/p/revenue-is-easy-profit-is-harder",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.edge.ceo/p/revenue-is-easy-profit-is-harder",
+          "publishedOn": "2023-02-19T15:24:26.000Z",
+          "wordCount": 3300,
+          "title": "Revenue is easy, profit is harder",
+          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F93dadac8-68d6-4188-815a-f1d4e4672e2b_3163x1264.jpeg"
+        },
+        {
+          "id": "https://www.icmphotomag.com/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.icmphotomag.com/",
+          "publishedOn": "2023-02-19T15:23:49.000Z",
+          "wordCount": 407,
+          "title": "Intentional Camera Movement Photography Magazine",
+          "imageUrl": "https://www.icmphotomag.com/img/s/v-10/p1441908495-4.jpg"
+        },
+        {
+          "id": "https://gonzoknows.com/posts/GPTZero-Case-Study/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://gonzoknows.com/posts/GPTZero-Case-Study/",
+          "publishedOn": "2023-02-19T15:22:39.000Z",
+          "wordCount": 1625,
+          "title": "GPTZero Case Study – Exploring False Positives",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.infoq.com/news/2023/02/aws-deployment-pipelines/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.infoq.com/news/2023/02/aws-deployment-pipelines/",
+          "publishedOn": "2023-02-19T15:16:36.000Z",
+          "wordCount": 7010,
+          "title": "AWS Publishes Reference Architecture, Implementations for Deployment Pipelines",
+          "imageUrl": "https://res.infoq.com/news/2023/02/aws-deployment-pipelines/en/headerimage/generatedHeaderImage-1676725284985.jpg"
+        },
+        {
+          "id": "https://brianmoore.com/lol-verifier/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://brianmoore.com/lol-verifier/",
+          "publishedOn": "2023-02-19T14:39:47.000Z",
+          "wordCount": 235,
+          "title": "LOL Verifier",
+          "imageUrl": "https://brianmoore.com/static/img/lol-verifier-down.jpg"
+        },
+        {
+          "id": "https://www.scintilla.org/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.scintilla.org/",
+          "publishedOn": "2023-02-19T13:52:00.000Z",
+          "wordCount": 700,
+          "title": "Scintilla is a free source code editing component with a permissive license",
+          "imageUrl": null
+        },
+        {
+          "id": "https://localfirstweb.dev/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://localfirstweb.dev/",
+          "publishedOn": "2023-02-19T13:35:53.000Z",
+          "wordCount": 285,
+          "title": "Local-First Web Development",
+          "imageUrl": "/assets/images/logo.png"
+        },
+        {
+          "id": "https://github.com/lukejoshuapark/whisper",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/lukejoshuapark/whisper",
+          "publishedOn": "2023-02-19T13:31:52.000Z",
+          "wordCount": 889,
+          "title": "Whisper: Wraps any Go io.ReadWriter in a secure tunnel using Ed25519&#x2F;X25519",
+          "imageUrl": "https://repository-images.githubusercontent.com/601083617/edf1698d-86dc-4429-8d5b-0c66310289f4"
+        },
+        {
+          "id": "https://antoinevastel.com/bot%20detection/2023/02/19/new-headless-chrome.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://antoinevastel.com/bot%20detection/2023/02/19/new-headless-chrome.html",
+          "publishedOn": "2023-02-19T12:33:50.000Z",
+          "wordCount": 2320,
+          "title": "New headless Chrome has been released and has a near-perfect browser fingerprint",
+          "imageUrl": null
+        },
+        {
+          "id": "https://jforberg.se/blog/posts/2023-02-19-rockpro64/rockpro64.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://jforberg.se/blog/posts/2023-02-19-rockpro64/rockpro64.html",
+          "publishedOn": "2023-02-19T12:02:49.000Z",
+          "wordCount": 3031,
+          "title": "Building an ARM64 home server the hard way",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cadsketcher.com/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.cadsketcher.com/",
+          "publishedOn": "2023-02-19T10:47:56.000Z",
+          "wordCount": 5457,
+          "title": "CAD Sketcher, free and open-source project bringing CAD like tools to Blender3d",
+          "imageUrl": null
+        },
+        {
+          "id": "https://blog.joren.ga/less-known-c",
+          "author": null,
+          "description": "Comments",
+          "link": "https://blog.joren.ga/less-known-c",
+          "publishedOn": "2023-02-19T07:27:49.000Z",
+          "wordCount": 3152,
+          "title": "Lesser known tricks, quirks and features of C",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.bbcelite.com/",
           "author": null,
           "description": "Comments",
@@ -236,6 +486,26 @@
           "imageUrl": "https://i0.wp.com/yaleclimateconnections.org/wp-content/uploads/2023/01/123_Heatpump_1600.png?fit=1600%2C900&ssl=1"
         },
         {
+          "id": "https://brisray.com/web/webring-history.htm",
+          "author": null,
+          "description": "Comments",
+          "link": "https://brisray.com/web/webring-history.htm",
+          "publishedOn": "2023-02-18T13:18:24.000Z",
+          "wordCount": 4510,
+          "title": "Webring History",
+          "imageUrl": null
+        },
+        {
+          "id": "https://explained-from-first-principles.com/email/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://explained-from-first-principles.com/email/",
+          "publishedOn": "2023-02-18T13:03:38.000Z",
+          "wordCount": 95867,
+          "title": "Email: Explained from First Principles",
+          "imageUrl": "https://explained-from-first-principles.com/pages/email/generated/thumbnail.png"
+        },
+        {
           "id": "https://www.youtube.com/watch?v=q3NQQ7bPf6U",
           "author": null,
           "description": "Comments",
@@ -293,6 +563,16 @@
           "publishedOn": "2023-02-18T08:02:56.000Z",
           "wordCount": 2738,
           "title": "Huell Howser Archives: California’s Gold",
+          "imageUrl": null
+        },
+        {
+          "id": "https://louisabraham.github.io/articles/exact-cover",
+          "author": null,
+          "description": "Comments",
+          "link": "https://louisabraham.github.io/articles/exact-cover",
+          "publishedOn": "2023-02-17T23:07:21.000Z",
+          "wordCount": 2087,
+          "title": "Exact cover and applications",
           "imageUrl": null
         },
         {
@@ -364,6 +644,16 @@
           "wordCount": 4255,
           "title": "HVDC transmission line to connect three ISO regions",
           "imageUrl": "https://pv-magazine-usa.com/wp-content/uploads/sites/2/2021/02/current-5076797_1920-1200x800.jpg"
+        },
+        {
+          "id": "https://thelog.farm/2023/02/17/only-debate-the-non-linear/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://thelog.farm/2023/02/17/only-debate-the-non-linear/",
+          "publishedOn": "2023-02-17T22:08:58.000Z",
+          "wordCount": 76847,
+          "title": "Only Debate The Non-Linear",
+          "imageUrl": "https://thelogdotfarm.files.wordpress.com/2023/02/image.png"
         },
         {
           "id": "https://www.lovedbefore.london/",
@@ -514,6 +804,16 @@
           "wordCount": 6013,
           "title": "Type constraints in 65 lines of SQL",
           "imageUrl": "https://supabase.com/images/blog/2023-jan/semver-thumb.jpg"
+        },
+        {
+          "id": "https://nectarine.sh/posts/creating-a-search-engine-for-my-streaming-platform/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://nectarine.sh/posts/creating-a-search-engine-for-my-streaming-platform/",
+          "publishedOn": "2023-02-17T13:53:37.000Z",
+          "wordCount": 2011,
+          "title": "Creating a search engine for my music streaming platform",
+          "imageUrl": null
         },
         {
           "id": "https://tailscale.com/blog/macos-binary-size/",
@@ -8504,336 +8804,6 @@
           "wordCount": 4928,
           "title": "When Truman Capote’s lies caught up with him",
           "imageUrl": "https://cdn.theatlantic.com/thumbor/4F_7cNRjvDHvIAD4PgFu4nMBLAQ=/0x953:4263x3173/1200x625/media/img/mt/2023/01/NYC35368/original.jpg"
-        },
-        {
-          "id": "https://jobs.ashbyhq.com/hydra/880aa0ad-4cbb-4373-8a31-1478d5b7ebdc",
-          "author": null,
-          "description": "Comments",
-          "link": "https://jobs.ashbyhq.com/hydra/880aa0ad-4cbb-4373-8a31-1478d5b7ebdc",
-          "publishedOn": "2023-01-21T12:00:19.000Z",
-          "wordCount": 1893,
-          "title": "Hydra (YC W22) Is Hiring Database Engineers (Postgres)",
-          "imageUrl": "https://app.ashbyhq.com/api/images/org-theme-logo/01ce5d2f-f886-458b-80a6-ce2a18f0a481/0600adc9-3323-40a0-9c48-0130127f00f1.png"
-        },
-        {
-          "id": "https://cyber.dabamos.de/88x31/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://cyber.dabamos.de/88x31/",
-          "publishedOn": "2023-01-21T10:43:16.000Z",
-          "wordCount": 120,
-          "title": "The 88x31 GIF Collection",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.otherlife.co/francisbacon/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.otherlife.co/francisbacon/",
-          "publishedOn": "2023-01-21T07:25:31.000Z",
-          "wordCount": 1766,
-          "title": "The violent focus of Francis Bacon",
-          "imageUrl": "https://www.otherlife.co/content/images/2023/01/Scan-Jan-20--2023-at-10.52-AM.jpeg"
-        },
-        {
-          "id": "https://octave.org/index",
-          "author": null,
-          "description": "Comments",
-          "link": "https://octave.org/index",
-          "publishedOn": "2023-01-21T07:04:42.000Z",
-          "wordCount": 298,
-          "title": "GNU Octave",
-          "imageUrl": "https://octave.org/img/octave-logo.png"
-        },
-        {
-          "id": "https://timemymeeting.com/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://timemymeeting.com/",
-          "publishedOn": "2023-01-21T06:14:53.000Z",
-          "wordCount": 371,
-          "title": "TimeMyMeeting",
-          "imageUrl": "https://timemymeeting.com/img/meta/og-thumb.png"
-        },
-        {
-          "id": "https://ludipe.itch.io/this-is-not-word",
-          "author": null,
-          "description": "Comments",
-          "link": "https://ludipe.itch.io/this-is-not-word",
-          "publishedOn": "2023-01-21T06:14:00.000Z",
-          "wordCount": 805,
-          "title": "This Is Not Word",
-          "imageUrl": "https://img.itch.zone/aW1hZ2UvMjI4ODUxLzEwODI4MjYuZ2lm/original/Tj4fSh.gif"
-        },
-        {
-          "id": "https://mailchimp.com/january-2023-security-incident/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://mailchimp.com/january-2023-security-incident/",
-          "publishedOn": "2023-01-21T05:07:52.000Z",
-          "wordCount": 2280,
-          "title": "Information about a recent security incident at Mailchimp",
-          "imageUrl": "https://eep.io/images/yzco4xsimv0y/6me578ks6G7bDtWuCHqMaJ/a93f4fc016ad0b16aedfa47e02de8515/1Artboard_1-100.jpg"
-        },
-        {
-          "id": "https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(22)00434-7?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2666379122004347%3Fshowall%3Dtrue",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(22)00434-7?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2666379122004347%3Fshowall%3Dtrue",
-          "publishedOn": "2023-01-20T23:38:42.000Z",
-          "wordCount": 23211,
-          "title": "Factors associated w short &long-term weight loss from low-fat or low-carb diets",
-          "imageUrl": "https://www.cell.com/cms/asset/9b93ef4c-5125-4d47-b188-f4473d166fdd/fx1.jpg"
-        },
-        {
-          "id": "https://www.science.org/content/article/unlucky-numbers-fighting-murder-convictions-rest-shoddy-stats",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.science.org/content/article/unlucky-numbers-fighting-murder-convictions-rest-shoddy-stats",
-          "publishedOn": "2023-01-20T23:00:56.000Z",
-          "wordCount": 6370,
-          "title": "Unlucky numbers (shoddy statistics that put nurses in prison for serial murder)",
-          "imageUrl": "https://www.science.org/do/10.1126/science.adg7536/abs/_20230120_medicalmassmurderers_lead.jpg"
-        },
-        {
-          "id": "https://offsec.tools/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://offsec.tools/",
-          "publishedOn": "2023-01-20T22:53:37.000Z",
-          "wordCount": 46833,
-          "title": "Offsec.tools – A vast collection of security tools",
-          "imageUrl": "https://offsec.tools/assets/img/preview.png"
-        },
-        {
-          "id": "https://news.mit.edu/2023/quantum-simulator-randomness-0118",
-          "author": null,
-          "description": "Comments",
-          "link": "https://news.mit.edu/2023/quantum-simulator-randomness-0118",
-          "publishedOn": "2023-01-20T22:35:18.000Z",
-          "wordCount": 2845,
-          "title": "Can you trust your quantum simulator?",
-          "imageUrl": "https://news.mit.edu/sites/default/files/images/202301/MIT-Quantom-Randomness-1-press.jpg"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=34460997",
-          "author": null,
-          "description": "Comments",
-          "link": "https://news.ycombinator.com/item?id=34460997",
-          "publishedOn": "2023-01-20T22:30:39.000Z",
-          "wordCount": 898,
-          "title": "Tell HN: From bartending to managing cloud infrastructure. AMA",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.funnyhowtheknightmoves.com/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.funnyhowtheknightmoves.com/",
-          "publishedOn": "2023-01-20T22:19:03.000Z",
-          "wordCount": 37,
-          "title": "Ain't it funny how the knight moves?",
-          "imageUrl": "https://www.funnyhowtheknightmoves.com/images/rectangle-og-image.png"
-        },
-        {
-          "id": "https://www.timesunion.com/opinion/article/Commentary-New-York-got-it-wrong-on-17707551.php",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.timesunion.com/opinion/article/Commentary-New-York-got-it-wrong-on-17707551.php",
-          "publishedOn": "2023-01-20T22:15:43.000Z",
-          "wordCount": 3383,
-          "title": "New York got it wrong on cybersecurity and the right to repair",
-          "imageUrl": "https://www.timesunion.com/img/pages/article/opengraph_default.jpg"
-        },
-        {
-          "id": "https://www.lifesitenews.com/news/world-economic-forum-speaker-touts-technology-that-allows-your-boss-to-monitor-your-brain-activity/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.lifesitenews.com/news/world-economic-forum-speaker-touts-technology-that-allows-your-boss-to-monitor-your-brain-activity/",
-          "publishedOn": "2023-01-20T22:15:39.000Z",
-          "wordCount": 2698,
-          "title": "WEF speaker touts tech that allows your boss to monitor your brain activity",
-          "imageUrl": "https://www.lifesitenews.com/wp-content/uploads/2023/01/Farahany.jpg"
-        },
-        {
-          "id": "https://www.vice.com/en/article/93a4p5/us-no-fly-list-leaks-after-being-left-in-an-unsecured-airline-server",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.vice.com/en/article/93a4p5/us-no-fly-list-leaks-after-being-left-in-an-unsecured-airline-server",
-          "publishedOn": "2023-01-20T21:48:47.000Z",
-          "wordCount": 4573,
-          "title": "U.S. ‘No Fly List’ Leaks After Being Left in an Unsecured Airline Server",
-          "imageUrl": "https://video-images.vice.com/articles/63cac77daf488f6f85060800/lede/1674234225598-gettyimages-12400914792.jpeg?image-resize-opts=Y3JvcD0xeHc6MC44NDM3NXhoO2NlbnRlcixjZW50ZXImcmVzaXplPTEyMDA6KiZyZXNpemU9MTIwMDoq"
-        },
-        {
-          "id": "https://bitmovin.com/careers/solutions-engineer-6539040002/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://bitmovin.com/careers/solutions-engineer-6539040002/",
-          "publishedOn": "2023-01-20T21:01:14.000Z",
-          "wordCount": 2018,
-          "title": "Bitmovin (YC S15) Is Hiring a Solutions Engineer US",
-          "imageUrl": "https://bitmovin.com/wp-content/uploads/2022/10/Bitmovin_Social_Default-1024x537.jpg"
-        },
-        {
-          "id": "https://interrupt.memfault.com/blog/zero-to-main-1",
-          "author": null,
-          "description": "Comments",
-          "link": "https://interrupt.memfault.com/blog/zero-to-main-1",
-          "publishedOn": "2023-01-20T20:07:35.000Z",
-          "wordCount": 1865,
-          "title": "From Zero to main(): Bare metal C",
-          "imageUrl": "https://interrupt.memfault.com/img/interrupt-cover-1200px.png"
-        },
-        {
-          "id": "https://lilianweng.github.io/posts/2023-01-10-inference-optimization/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://lilianweng.github.io/posts/2023-01-10-inference-optimization/",
-          "publishedOn": "2023-01-20T19:27:07.000Z",
-          "wordCount": 12719,
-          "title": "Large Transformer Model Inference Optimization",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.science.org/doi/10.1126/science.abq7781",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.science.org/doi/10.1126/science.abq7781",
-          "publishedOn": "2023-01-20T18:54:38.000Z",
-          "wordCount": null,
-          "title": "Citizen scientists report global rapid reductions in the visibility of stars",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.energy.gov/ne/articles/nrc-certifies-first-us-small-modular-reactor-design",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.energy.gov/ne/articles/nrc-certifies-first-us-small-modular-reactor-design",
-          "publishedOn": "2023-01-20T18:40:33.000Z",
-          "wordCount": 989,
-          "title": "NRC Certifies First U.S. Small Modular Reactor Design",
-          "imageUrl": "https://www.energy.gov/sites/default/files/styles/photo_gallery_509_x_678_/public/2022-12/VOYGR_NuScale%20Power%20Plant.png?itok=a5dUktIL"
-        },
-        {
-          "id": "https://tapbots.com/tweetbot/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://tapbots.com/tweetbot/",
-          "publishedOn": "2023-01-20T18:39:41.000Z",
-          "wordCount": 273,
-          "title": "Tweetbot. April 2011 – January 2023",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.scriptkit.com/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.scriptkit.com/",
-          "publishedOn": "2023-01-20T18:31:35.000Z",
-          "wordCount": 2135,
-          "title": "Script Kit: cross-platform, scriptable, automatic shortcuts to everything",
-          "imageUrl": "https://scriptkit.com/card@2x.png"
-        },
-        {
-          "id": "https://f-droid.org/2023/01/15/towards-a-reproducible-fdroid.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://f-droid.org/2023/01/15/towards-a-reproducible-fdroid.html",
-          "publishedOn": "2023-01-20T18:08:50.000Z",
-          "wordCount": 698,
-          "title": "Towards a Reproducible F-Droid",
-          "imageUrl": "https://f-droid.org/assets/fdroid-logo_bfHl7nsLHOUQxzdU8-rGIhn4bAgl6z7k2mA3fWoCyT4=.png"
-        },
-        {
-          "id": "https://github.blog/2023-01-20-sunsetting-subversion-support/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.blog/2023-01-20-sunsetting-subversion-support/",
-          "publishedOn": "2023-01-20T18:07:54.000Z",
-          "wordCount": 1036,
-          "title": "GitHub Sunsetting Subversion Support",
-          "imageUrl": "https://github.blog/wp-content/uploads/2022/06/Product@2x.png?fit=2400%2C1260"
-        },
-        {
-          "id": "https://github.com/microsoft/LMOps",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/microsoft/LMOps",
-          "publishedOn": "2023-01-20T17:53:36.000Z",
-          "wordCount": 1054,
-          "title": "General technology for enabling AI capabilities with LLMs and Generative models",
-          "imageUrl": "https://opengraph.githubassets.com/4d547adc9cf75207b84de6ea62dc3b72de85ea58c148d6eb0ce9c1930bbe2633/microsoft/LMOps"
-        },
-        {
-          "id": "https://leanprover.github.io/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://leanprover.github.io/",
-          "publishedOn": "2023-01-20T17:34:55.000Z",
-          "wordCount": 54,
-          "title": "Lean – Theorem Prover",
-          "imageUrl": null
-        },
-        {
-          "id": "https://mhlakhani.com/blog/2023/01/tech-job-market/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://mhlakhani.com/blog/2023/01/tech-job-market/",
-          "publishedOn": "2023-01-20T17:24:13.000Z",
-          "wordCount": 3633,
-          "title": "Job Hunting in 2022",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.noemamag.com/the-exploited-labor-behind-artificial-intelligence/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.noemamag.com/the-exploited-labor-behind-artificial-intelligence/",
-          "publishedOn": "2023-01-20T16:35:56.000Z",
-          "wordCount": 4378,
-          "title": "The exploited labor behind artificial intelligence (2022)",
-          "imageUrl": "https://noemamag.imgix.net/2022/12/DAIR-scaled.jpg?fit=crop&fm=pjpg&h=628&ixlib=php-3.3.0&rect=0%2C1461%2C2048%2C1071&w=1200&wpsize=noema-social-facebook&s=714d257b595c8f3e06535034d04a0a6d"
-        },
-        {
-          "id": "https://xeiaso.net/blog/%F0%9F%A5%BA",
-          "author": null,
-          "description": "Comments",
-          "link": "https://xeiaso.net/blog/%F0%9F%A5%BA",
-          "publishedOn": "2023-01-20T15:14:15.000Z",
-          "wordCount": 1671,
-          "title": "🥺: the best sudo replacement",
-          "imageUrl": "https://cdn.xeiaso.net/file/christine-static/hero/aoi-flee-smol.png"
-        },
-        {
-          "id": "https://www.idris-lang.org/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.idris-lang.org/",
-          "publishedOn": "2023-01-20T15:13:39.000Z",
-          "wordCount": 436,
-          "title": "Idris: A language for type-driven development",
-          "imageUrl": null
-        },
-        {
-          "id": "https://arxiv.org/abs/2301.04655",
-          "author": null,
-          "description": "Comments",
-          "link": "https://arxiv.org/abs/2301.04655",
-          "publishedOn": "2023-01-20T14:51:32.000Z",
-          "wordCount": 647,
-          "title": "ChatGPT is not all you need. A SOTA Review of large Generative AI models",
-          "imageUrl": null
-        },
-        {
-          "id": "https://constructionphysics.substack.com/p/the-rise-of-steel-part-ii",
-          "author": null,
-          "description": "Comments",
-          "link": "https://constructionphysics.substack.com/p/the-rise-of-steel-part-ii",
-          "publishedOn": "2023-01-20T13:54:36.000Z",
-          "wordCount": 10924,
-          "title": "The Rise of Steel Part II",
-          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc3b44cc4-fe36-4a0e-b08d-cff5d920d074_602x602.png"
         }
       ]
     },
@@ -13528,16 +13498,6 @@
           "wordCount": 3401,
           "title": "Getting Started With SvelteKit",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/376610"
-        },
-        {
-          "id": "https://css-tricks.com/?p=376331",
-          "author": "Liam Johnston",
-          "description": "The :has() pseudo-class is, hands-down, my favorite new CSS feature. I know it is for many of you as well, at least those of you who took the State of CSS survey. The ability to write selectors upside down …\nMore Real-World Uses for :has() originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/more-real-world-uses-for-has/",
-          "publishedOn": "2023-01-20T15:34:09.000Z",
-          "wordCount": 1782,
-          "title": "More Real-World Uses for :has()",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/376331"
         }
       ]
     },
@@ -13860,21 +13820,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/has-selector-level-up-css-skills/has-selector-level-up-css-skills.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2023/01/key-good-component-design-selfishness/",
-          "author": "hello@smashingmagazine.com (Daniel Yuschick)",
-          "description": "In this article, Daniel Yuschick demonstrates that building selfish components is the key approach to avoiding different pitfalls on the way to good component design.",
-          "link": "https://smashingmagazine.com/2023/01/key-good-component-design-selfishness/",
-          "publishedOn": "2023-01-20T17:00:00.000Z",
-          "wordCount": 7152,
-          "title": "The Key To Good Component Design Is Selfishness",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/key-good-component-design-selfishness/sharing-image-key-good-component-design-selfishness.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/key-good-component-design-selfishness/sharing-image-key-good-component-design-selfishness.jpg"
         }
       ]
     },
@@ -14982,76 +14927,6 @@
           "wordCount": 1449,
           "title": "What Are CSS Pseudo-Classes?",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/pseudo-classes-thumbnail.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-submit-a-form-with-javascript/",
-          "author": "Joel Olawanle",
-          "description": "When building applications and websites on the internet, you’ll sometimes need your users to supply information by filling out a form. But then you might wonder – how do you get this data from the form? Well, you can do this with JavaScript. In this article, you will learn how",
-          "link": "https://www.freecodecamp.org/news/how-to-submit-a-form-with-javascript/",
-          "publishedOn": "2023-01-20T22:01:03.000Z",
-          "wordCount": 1429,
-          "title": "How to Submit a Form with JavaScript – JS Submit Button Example",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/cover-template--10-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-write-and-run-c-cpp-code-on-visual-studio-code/",
-          "author": "Md. Fahim Bin Amin",
-          "description": "Visual Studio Code (or VS Code for short) is a very common and widely used text editor and IDE (Integrated Development Environment). You can make VS Code very powerful like an IDE using a lot of extensions. Before approaching the process of running your first C or C++ code on",
-          "link": "https://www.freecodecamp.org/news/how-to-write-and-run-c-cpp-code-on-visual-studio-code/",
-          "publishedOn": "2023-01-20T21:45:48.000Z",
-          "wordCount": 1704,
-          "title": "How to Write And Run C and C++ Code in Visual Studio Code",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/asd.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/remove-from-string-in-python-how-to-remove-characters-from-a-string/",
-          "author": "Kolade Chris",
-          "description": "In Python, there are times when you might want to remove unnecessary characters from a string. Python provides two built-in methods you can use for that purpose – replace() and translate(). So, in this article, you will learn how to remove a character from a string with those two methods",
-          "link": "https://www.freecodecamp.org/news/remove-from-string-in-python-how-to-remove-characters-from-a-string/",
-          "publishedOn": "2023-01-20T20:20:23.000Z",
-          "wordCount": 1865,
-          "title": "Remove From String in Python – How to Remove Characters from a String",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/remove_char.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/react-native-networking-api-requests-using-fetchapi/",
-          "author": "Kingsley Ubah",
-          "description": "APIs, or application program interfaces, are essential mechanisms for businesses in all industries. They allow for a secure exchange of data between two different systems, such as a web application and a database. Think of when you are using a mobile app to order food from a restaurant. The restaurant's",
-          "link": "https://www.freecodecamp.org/news/react-native-networking-api-requests-using-fetchapi/",
-          "publishedOn": "2023-01-20T19:35:24.000Z",
-          "wordCount": 2272,
-          "title": "React Native Networking – How To Perform API Requests In React Native using the FetchAPI",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/pexels-pixabay-276502--1-.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/understanding-functions-in-javascript/",
-          "author": "Edeh Israel Chidera",
-          "description": "JavaScript is a widely-used programming language that is essential for web development. Its ability to run on both client-side and server-side makes it a versatile tool that has become an essential tool for web developers. JavaScript is a high-level, interpreted language used on the client side, meaning it runs in",
-          "link": "https://www.freecodecamp.org/news/understanding-functions-in-javascript/",
-          "publishedOn": "2023-01-20T17:52:37.000Z",
-          "wordCount": 1727,
-          "title": "How Functions Work in JavaScript – JS Function Code Examples",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/kevin-ku-w7ZyuGYNpRQ-unsplash-1.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/excel-tutorial-clean-data-with-the-trim-and-clean-functions/",
-          "author": "Eamonn Cottrell",
-          "description": "Without clean data, your spreadsheet is knocking on death's door. In this tutorial I will show you two fast ways to clean up the data in your Excel or Google Sheets spreadsheet. When dealing with data sets, especially large ones and/or those that you didn't create, it is likely that",
-          "link": "https://www.freecodecamp.org/news/excel-tutorial-clean-data-with-the-trim-and-clean-functions/",
-          "publishedOn": "2023-01-20T17:42:49.000Z",
-          "wordCount": 1907,
-          "title": "Excel Tutorial – How to Clean Data with the TRIM() and CLEAN() Functions",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/clean-and-trim-fcc.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/spell-check-on-your-linux-terminal/",
-          "author": "Arunachalam B",
-          "description": "Did you know you can use the terminal to check the spelling of a passage you've written?  The terminal has a lot of utility commands, but most people are unaware of many of them.  I've seen people using Microsoft Word or Google to check the spelling of a",
-          "link": "https://www.freecodecamp.org/news/spell-check-on-your-linux-terminal/",
-          "publishedOn": "2023-01-20T16:17:10.000Z",
-          "wordCount": 1889,
-          "title": "How to Use Spell Check on your Linux Terminal",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/BB---Spell-Check-in-Linux-Terminal.png"
         }
       ]
     }

@@ -6,6 +6,256 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
+          "id": "https://forums.macrumors.com/threads/m2-pro-ethernet-issues.2378455/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://forums.macrumors.com/threads/m2-pro-ethernet-issues.2378455/",
+          "publishedOn": "2023-02-20T23:25:37.000Z",
+          "wordCount": 4608,
+          "title": "Widespread ethernet issues reported on new M2 Pro Mac mini",
+          "imageUrl": "https://images.macrumors.com/social/?t=2378455&v=6"
+        },
+        {
+          "id": "https://github.com/containers/podman/releases/tag/v4.4.0",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/containers/podman/releases/tag/v4.4.0",
+          "publishedOn": "2023-02-20T22:55:04.000Z",
+          "wordCount": 2739,
+          "title": "Podman 4.4",
+          "imageUrl": "https://opengraph.githubassets.com/b133ab9edb5e0f8f47773d99b9cb1761e94c9c34e0aa4d93f9dbc878a1ae3a00/containers/podman/releases/tag/v4.4.0"
+        },
+        {
+          "id": "https://www.redhat.com/sysadmin/quadlet-podman",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.redhat.com/sysadmin/quadlet-podman",
+          "publishedOn": "2023-02-20T22:16:25.000Z",
+          "wordCount": 3850,
+          "title": "Make systemd better for Podman with Quadlet",
+          "imageUrl": "https://www.redhat.com/sysadmin/sites/default/files/styles/google_discover/public/2021-03/container-in-container-podman.jpg?itok=NiPfzTkW"
+        },
+        {
+          "id": "https://www.zdnet.com/article/linux-6-2-the-first-mainstream-linux-kernel-for-apple-m1-chips-arrives/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.zdnet.com/article/linux-6-2-the-first-mainstream-linux-kernel-for-apple-m1-chips-arrives/",
+          "publishedOn": "2023-02-20T21:43:44.000Z",
+          "wordCount": 12339,
+          "title": "Linux 6.2: The first mainstream Linux kernel for Apple M1 chips arrives",
+          "imageUrl": "https://www.zdnet.com/a/img/resize/fd07486d17e14b2986281467314b01eda0345a5d/2023/02/20/a47e561e-e086-4569-83c6-409f15242633/asahi-linux-with-apple-gpu-drivers.jpg?auto=webp&fit=crop&height=675&width=1200"
+        },
+        {
+          "id": "https://sphericalcowconsulting.com/2023/02/19/communication-as-a-critical-business-skill/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://sphericalcowconsulting.com/2023/02/19/communication-as-a-critical-business-skill/",
+          "publishedOn": "2023-02-20T21:42:00.000Z",
+          "wordCount": 4973,
+          "title": "Communication as a Critical Business Skill",
+          "imageUrl": "https://i0.wp.com/sphericalcowconsulting.com/wp-content/uploads/2023/02/iStock-1203408527.jpg?fit=1301%2C806&ssl=1"
+        },
+        {
+          "id": "https://abcnews.go.com/Health/5th-person-confirmed-cured-hiv/story?id=97323361",
+          "author": null,
+          "description": "Comments",
+          "link": "https://abcnews.go.com/Health/5th-person-confirmed-cured-hiv/story?id=97323361",
+          "publishedOn": "2023-02-20T20:40:26.000Z",
+          "wordCount": 4709,
+          "title": "5th person confirmed to be cured of HIV",
+          "imageUrl": "https://s.abcnews.com/images/US/hiv-virus-cure-blood-gty-mz-17-230219_1676836813742_hpMain_16x9_992.jpg"
+        },
+        {
+          "id": "https://blog.humphd.org/cheatgpt/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://blog.humphd.org/cheatgpt/",
+          "publishedOn": "2023-02-20T19:35:06.000Z",
+          "wordCount": 1487,
+          "title": "CheatGPT",
+          "imageUrl": null
+        },
+        {
+          "id": "https://plato.stanford.edu/entries/computer-science/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://plato.stanford.edu/entries/computer-science/",
+          "publishedOn": "2023-02-20T19:29:58.000Z",
+          "wordCount": 20525,
+          "title": "The Philosophy of Computer Science",
+          "imageUrl": null
+        },
+        {
+          "id": "https://tomhummel.com/posts/four-web-apps/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://tomhummel.com/posts/four-web-apps/",
+          "publishedOn": "2023-02-20T17:51:30.000Z",
+          "wordCount": 1831,
+          "title": "Four Ways to Build Web Apps",
+          "imageUrl": null
+        },
+        {
+          "id": "https://whynothugo.nl/journal/2023/02/18/in-praise-of-alpine-and-apk/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://whynothugo.nl/journal/2023/02/18/in-praise-of-alpine-and-apk/",
+          "publishedOn": "2023-02-20T17:37:26.000Z",
+          "wordCount": 1836,
+          "title": "In Praise of Alpine and APK",
+          "imageUrl": "https://whynothugo.nl/icons/android-chrome-192x192.png"
+        },
+        {
+          "id": "https://github.com/Ying1123/FlexGen",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/Ying1123/FlexGen",
+          "publishedOn": "2023-02-20T16:55:03.000Z",
+          "wordCount": 1722,
+          "title": "Running large language models like ChatGPT on a single GPU",
+          "imageUrl": "https://opengraph.githubassets.com/f70d1d5e97b5fb20680766d5b54fb6ff4bf07ea1f6be1d280b2d0cb5bd1c8195/Ying1123/FlexGen"
+        },
+        {
+          "id": "https://github.com/Kanaries/pygwalker",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/Kanaries/pygwalker",
+          "publishedOn": "2023-02-20T15:50:49.000Z",
+          "wordCount": 1126,
+          "title": "Show HN: Turn Your Pandas Dataframe into a Tableau-Style UI for Visual Analysis",
+          "imageUrl": "https://opengraph.githubassets.com/0a67003e46526619456b48ea59665994ff95c1c1cf46431ab0e0615f103e6bd2/Kanaries/pygwalker"
+        },
+        {
+          "id": "https://www.cnn.com/2023/02/20/world/australian-handfish-photograph-c2e-spc-intl-scn/index.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.cnn.com/2023/02/20/world/australian-handfish-photograph-c2e-spc-intl-scn/index.html",
+          "publishedOn": "2023-02-20T15:34:58.000Z",
+          "wordCount": 19878,
+          "title": "Photographer captures image of rare fish that walks on its ‘hands’",
+          "imageUrl": "https://media.cnn.com/api/v1/images/stellar/prod/230209142924-spotted-handfish-nicolas-remy-2.jpg?c=16x9&q=w_800,c_fill"
+        },
+        {
+          "id": "https://github.com/psilva261/opossum",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/psilva261/opossum",
+          "publishedOn": "2023-02-20T15:15:08.000Z",
+          "wordCount": 1016,
+          "title": "Opossum: Cross-platform web browser written in Golang, optimized for Plan 9",
+          "imageUrl": "https://opengraph.githubassets.com/dd8e81090aac5862d82246b59b0a5d5928d6bcbd7f8ef511ce6f56764a618869/psilva261/opossum"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=34868560",
+          "author": null,
+          "description": "Comments",
+          "link": "https://news.ycombinator.com/item?id=34868560",
+          "publishedOn": "2023-02-20T14:48:37.000Z",
+          "wordCount": 15243,
+          "title": "Ask HN: Where are laid off employees gathering?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://josem.co/creation-happens-in-silence/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://josem.co/creation-happens-in-silence/",
+          "publishedOn": "2023-02-20T14:28:12.000Z",
+          "wordCount": 543,
+          "title": "Creation happens in silence",
+          "imageUrl": "https://josem.co/images/avatar.png"
+        },
+        {
+          "id": "https://github.com/traceo-dev/traceo",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/traceo-dev/traceo",
+          "publishedOn": "2023-02-20T13:08:12.000Z",
+          "wordCount": 1256,
+          "title": "Traceo is now open source",
+          "imageUrl": "https://opengraph.githubassets.com/c4469a85ca51389adb5af6c1aa6e70bbf2236ac174d44842b00b2a0b033be7ee/traceo-dev/traceo"
+        },
+        {
+          "id": "https://blog.oddbit.com/post/2023-02-19-vrf-and-nat/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://blog.oddbit.com/post/2023-02-19-vrf-and-nat/",
+          "publishedOn": "2023-02-20T13:03:40.000Z",
+          "wordCount": 2357,
+          "title": "NAT between identical networks using VRF",
+          "imageUrl": "https://blog.oddbit.com/img/favicon/orange.png"
+        },
+        {
+          "id": "https://molodtsov.me/2023/02/how-to-start-your-blog-in-2023/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://molodtsov.me/2023/02/how-to-start-your-blog-in-2023/",
+          "publishedOn": "2023-02-20T12:01:21.000Z",
+          "wordCount": 1689,
+          "title": "How to Start Your Blog in 2023",
+          "imageUrl": "https://molodtsov.me/images/dall-e-2023-02-19-13-56-05-blogger-with-a-laptop-in-a-cafe-pencil-drawing.png"
+        },
+        {
+          "id": "https://okbjgm.weebly.com/uploads/3/1/5/0/31506003/11_laws_of_showrunning.pdf",
+          "author": null,
+          "description": "Comments",
+          "link": "https://okbjgm.weebly.com/uploads/3/1/5/0/31506003/11_laws_of_showrunning.pdf",
+          "publishedOn": "2023-02-20T11:32:31.000Z",
+          "wordCount": 7706,
+          "title": "The Eleven Laws of Showrunning [pdf]",
+          "imageUrl": null
+        },
+        {
+          "id": "https://about.gitlab.com/handbook/acquisitions/acquisition-process/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://about.gitlab.com/handbook/acquisitions/acquisition-process/",
+          "publishedOn": "2023-02-20T10:32:35.000Z",
+          "wordCount": 3749,
+          "title": "Gitlab’s Startup Acquisition Process",
+          "imageUrl": "https://about.gitlab.com/images/opengraph/gitlab-blog-cover.png"
+        },
+        {
+          "id": "https://github.com/DvorakDwarf/Infinite-Storage-Glitch",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/DvorakDwarf/Infinite-Storage-Glitch",
+          "publishedOn": "2023-02-20T10:17:41.000Z",
+          "wordCount": 1302,
+          "title": "Infinite-Storage-Glitch – Use YouTube as cloud storage for any files",
+          "imageUrl": "https://opengraph.githubassets.com/0d1c5a46ce6f92a6e598c98189b99866bbb83328364d5153e361cac58a059c5c/DvorakDwarf/Infinite-Storage-Glitch"
+        },
+        {
+          "id": "https://www.troyhunt.com/down-the-cloudflare-stripe-owasp-rabbit-hole-a-tale-of-6-rabbits-deep/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.troyhunt.com/down-the-cloudflare-stripe-owasp-rabbit-hole-a-tale-of-6-rabbits-deep/",
+          "publishedOn": "2023-02-20T09:05:39.000Z",
+          "wordCount": 3685,
+          "title": "Down the Cloudflare &#x2F; Stripe &#x2F; OWASP Rabbit Hole",
+          "imageUrl": "https://www.troyhunt.com/content/images/2023/02/image-11.png"
+        },
+        {
+          "id": "https://susam.github.io/pcface/src/demo.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://susam.github.io/pcface/src/demo.html",
+          "publishedOn": "2023-02-20T08:42:54.000Z",
+          "wordCount": 418,
+          "title": "PC Face Demo: Bitmap Arrays for Rendering CP437 Glyphs Using IBM PC OEM Fonts",
+          "imageUrl": null
+        },
+        {
+          "id": "https://llsoftsec.github.io/llsoftsecbook/#introduction",
+          "author": null,
+          "description": "Comments",
+          "link": "https://llsoftsec.github.io/llsoftsecbook/#introduction",
+          "publishedOn": "2023-02-20T05:34:32.000Z",
+          "wordCount": 17608,
+          "title": "Low-Level Software Security for Compiler Developers",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.mcgill.ca/oss/article/health-and-nutrition-history/vinyl-chloride-and-ohio-train-derailment",
           "author": null,
           "description": "Comments",
@@ -214,6 +464,16 @@
           "wordCount": 889,
           "title": "Whisper: Wraps any Go io.ReadWriter in a secure tunnel using Ed25519&#x2F;X25519",
           "imageUrl": "https://repository-images.githubusercontent.com/601083617/edf1698d-86dc-4429-8d5b-0c66310289f4"
+        },
+        {
+          "id": "http://polyducks.co.uk/what-is-textmode/",
+          "author": null,
+          "description": "Comments",
+          "link": "http://polyducks.co.uk/what-is-textmode/",
+          "publishedOn": "2023-02-19T13:20:00.000Z",
+          "wordCount": 1665,
+          "title": "What Is Textmode?",
+          "imageUrl": "http://polyducks.co.uk/what-is-textmode/anatomy.gif"
         },
         {
           "id": "https://antoinevastel.com/bot%20detection/2023/02/19/new-headless-chrome.html",
@@ -696,6 +956,16 @@
           "imageUrl": "https://maritime-executive.com/media/images/article/Photos/Miscellaneous/seaweed-farming-at-offshore-wind-farm.2810e9.jpg"
         },
         {
+          "id": "https://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Arundel_MS_263",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Arundel_MS_263",
+          "publishedOn": "2023-02-17T19:31:27.000Z",
+          "wordCount": null,
+          "title": "The Codex Arundel: A Collection of Papers in Italian by Leonardo da Vinci",
+          "imageUrl": null
+        },
+        {
           "id": "https://aasnova.org/2023/02/15/black-holes-as-the-source-of-dark-energy/",
           "author": null,
           "description": "Comments",
@@ -874,6 +1144,26 @@
           "wordCount": 930,
           "title": "&#x27;Protonema&#x27; Electronics Prototyping and Learning System",
           "imageUrl": "https://opengraph.githubassets.com/94dd544f51e3ac548113743261eb04a5c68378791bab9752c2cf0767deb99011/dslik/protonema"
+        },
+        {
+          "id": "https://github.com/Oxen-AI/oxen-release",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/Oxen-AI/oxen-release",
+          "publishedOn": "2023-02-17T06:35:49.000Z",
+          "wordCount": 3162,
+          "title": "Oxen.ai: Very Fast Unstructured Data Version Control",
+          "imageUrl": "https://opengraph.githubassets.com/6ec34aa9e709ff1c641381debea2751f736edc4f92548e7bf1fe70618380c6fc/Oxen-AI/oxen-release"
+        },
+        {
+          "id": "https://www.atlasobscura.com/articles/california-continental-shelf-ecosystem-cows",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.atlasobscura.com/articles/california-continental-shelf-ecosystem-cows",
+          "publishedOn": "2023-02-17T06:15:29.000Z",
+          "wordCount": 5875,
+          "title": "Cows Destroyed an Entire Marine Ecosystem in California",
+          "imageUrl": "https://img.atlasobscura.com/uX1W_CP2XgXdNTCPUHOhQtNj4T9cAS8thd9-OyQ2HsI/rt:fit/w:600/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy8xNTc2MWY5Yi1i/Mjg0LTQxMjctODE2/Ny04NGEyMTM1OWNh/NDEzOTE3ZGVjNjE1/ZjA5MWNmNmJfNDU3/MTk4NjY4NV9mYjMx/ZTg3YzNlX2suanBn.jpg"
         },
         {
           "id": "https://aeon.co/essays/what-was-it-like-to-grow-up-in-the-last-ice-age",
@@ -8504,306 +8794,6 @@
           "wordCount": 7324,
           "title": "Appalachian Apple hunter who rescued 1k ‘lost’ varieties (2021)",
           "imageUrl": "https://img.atlasobscura.com/1fTVDIvX-7KRjS929obDtC7e-LGQQ47cScEysnYq2OQ/rt:fit/w:600/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy82MWZkMzhhNi0w/MTg1LTQ1NGMtYWUy/Ny0wNDA0MzliNGJk/ODVjZWNjNTMyMTY1/NmI2YzJkNTdfVG9t/J3MgQXBwbGUgRXho/aWJpdCBhdCBGYWxs/IENyZWVrIEZhbGxz/IFN0YXRlIFBhcmss/IFROIDAwMS5KUEc.jpg"
-        },
-        {
-          "id": "https://blog.thinkst.com/2023/01/swipe-right-on-our-new-credit-card-tokens.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://blog.thinkst.com/2023/01/swipe-right-on-our-new-credit-card-tokens.html",
-          "publishedOn": "2023-01-22T11:57:18.000Z",
-          "wordCount": 2929,
-          "title": "Detect breaches with Canary credit cards",
-          "imageUrl": "https://i0.wp.com/blog.thinkst.com/wp-content/uploads/2023/01/2023-01-20_22-13-30-copy.png?fit=300%2C204&ssl=1"
-        },
-        {
-          "id": "https://www.hampsteadheath.net/about",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.hampsteadheath.net/about",
-          "publishedOn": "2023-01-22T11:15:44.000Z",
-          "wordCount": 1170,
-          "title": "Hampstead Heath",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.census.gov/library/stories/2020/05/america-a-nation-of-small-towns.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.census.gov/library/stories/2020/05/america-a-nation-of-small-towns.html",
-          "publishedOn": "2023-01-22T08:36:44.000Z",
-          "wordCount": 2956,
-          "title": "America: A Nation of Small Towns (2020)",
-          "imageUrl": "https://www.census.gov/content/dam/Census/library/stories/2020/05/america-a-nation-of-small-towns.jpg"
-        },
-        {
-          "id": "https://lawliberty.org/features/the-mystery-of-richard-posner/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://lawliberty.org/features/the-mystery-of-richard-posner/",
-          "publishedOn": "2023-01-22T07:10:56.000Z",
-          "wordCount": 4606,
-          "title": "The Mystery of Richard Posner",
-          "imageUrl": "https://lawliberty.org/app/uploads/2023/01/richard-posner-featured-art-v3.jpg"
-        },
-        {
-          "id": "https://github.com/brycedrennan/imaginAIry/blob/master/README.md",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/brycedrennan/imaginAIry/blob/master/README.md",
-          "publishedOn": "2023-01-22T04:25:45.000Z",
-          "wordCount": 3147,
-          "title": "Show HN: New AI edits images based on text instructions",
-          "imageUrl": "https://opengraph.githubassets.com/a8d241c1b9b7db9276f08acc03f77b5ed57227f313f8ca5410177a77f25cbe32/brycedrennan/imaginAIry"
-        },
-        {
-          "id": "http://www.cs.cmu.edu/~mjw/recipes/ethnic/historical/ant-rom-coll.html",
-          "author": null,
-          "description": "Comments",
-          "link": "http://www.cs.cmu.edu/~mjw/recipes/ethnic/historical/ant-rom-coll.html",
-          "publishedOn": "2023-01-22T03:17:43.000Z",
-          "wordCount": 2419,
-          "title": "Antique Roman Dishes – Collection (1993)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.smithsonianmag.com/smart-news/sensational-runestone-discovered-in-norway-may-be-the-worlds-oldest-180981470/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.smithsonianmag.com/smart-news/sensational-runestone-discovered-in-norway-may-be-the-worlds-oldest-180981470/",
-          "publishedOn": "2023-01-22T02:55:51.000Z",
-          "wordCount": 1719,
-          "title": "Runestone discovered in Norway may be the world’s oldest",
-          "imageUrl": "https://th-thumbnailer.cdn-si-edu.com/iHXykI4zhBdEa5s3ZRnG1nI1W3Y=/fit-in/1600x0/filters:focal(4320x2880:4321x2881)/https%3A%2F%2Ftf-cmsv2-smithsonianmag-media.s3.amazonaws.com%2Ffiler_public%2Ff4%2F5d%2Ff45d6a87-c6ee-4d22-8fb1-faab723acffa%2Fgettyimages-1246298389.jpg"
-        },
-        {
-          "id": "https://en.wikipedia.org/wiki/Astronautilia",
-          "author": null,
-          "description": "Comments",
-          "link": "https://en.wikipedia.org/wiki/Astronautilia",
-          "publishedOn": "2023-01-22T00:43:57.000Z",
-          "wordCount": 7220,
-          "title": "Astronautilia",
-          "imageUrl": "https://upload.wikimedia.org/wikipedia/en/8/85/Astronautilia.jpg"
-        },
-        {
-          "id": "https://practical.engineering/blog/2023/1/16/what-really-happened-with-the-substation-attack-in-north-carolina",
-          "author": null,
-          "description": "Comments",
-          "link": "https://practical.engineering/blog/2023/1/16/what-really-happened-with-the-substation-attack-in-north-carolina",
-          "publishedOn": "2023-01-21T23:39:35.000Z",
-          "wordCount": 2152,
-          "title": "What Happened with the Substation Attack in North Carolina?",
-          "imageUrl": "http://static1.squarespace.com/static/55ac34e4e4b0170ef54be632/55ac3907e4b03d1c8c9deff1/63c60e5d8edaf43cbce99c47/1673971701708/NC+Substations+Thumbnail2.jpg?format=1500w"
-        },
-        {
-          "id": "https://www.economist.com/business/2023/01/19/tsmc-is-making-the-best-of-a-bad-geopolitical-situation",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.economist.com/business/2023/01/19/tsmc-is-making-the-best-of-a-bad-geopolitical-situation",
-          "publishedOn": "2023-01-21T22:12:00.000Z",
-          "wordCount": 9344,
-          "title": "TSMC is making the best of a bad geopolitical situation",
-          "imageUrl": "https://www.economist.com/img/b/1280/720/90/media-assets/image/20230121_WBD000.jpg"
-        },
-        {
-          "id": "https://dmitrybrant.com/2023/01/21/ecc-ram-should-be-a-human-right",
-          "author": null,
-          "description": "Comments",
-          "link": "https://dmitrybrant.com/2023/01/21/ecc-ram-should-be-a-human-right",
-          "publishedOn": "2023-01-21T21:44:13.000Z",
-          "wordCount": 1348,
-          "title": "ECC RAM should be a human right",
-          "imageUrl": null
-        },
-        {
-          "id": "https://arxiv.org/abs/math/0212400",
-          "author": null,
-          "description": "Comments",
-          "link": "https://arxiv.org/abs/math/0212400",
-          "publishedOn": "2023-01-21T21:34:09.000Z",
-          "wordCount": 525,
-          "title": "Pattern Theory: The Mathematics of Perception (D. Mumford) (2002)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://gist.github.com/milesrichardson/8f1c9c7088f8a4e889019d7ce0559ec9",
-          "author": null,
-          "description": "Comments",
-          "link": "https://gist.github.com/milesrichardson/8f1c9c7088f8a4e889019d7ce0559ec9",
-          "publishedOn": "2023-01-21T21:20:58.000Z",
-          "wordCount": 589,
-          "title": "Inherit environment variables from PID 1 by reading /proc/1/environ",
-          "imageUrl": "https://github.githubassets.com/images/modules/gists/gist-og-image.png"
-        },
-        {
-          "id": "https://joostjansen.me/index",
-          "author": null,
-          "description": "Comments",
-          "link": "https://joostjansen.me/index",
-          "publishedOn": "2023-01-21T20:43:04.000Z",
-          "wordCount": 39,
-          "title": "Show HN: Names",
-          "imageUrl": "/images/logo/Logo-black@1x.png"
-        },
-        {
-          "id": "https://www.wsj.com/articles/why-paper-map-sales-are-booming-11674164824",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.wsj.com/articles/why-paper-map-sales-are-booming-11674164824",
-          "publishedOn": "2023-01-21T19:23:17.000Z",
-          "wordCount": 6860,
-          "title": "Paper map sales are booming",
-          "imageUrl": "https://images.wsj.net/im-704861/social"
-        },
-        {
-          "id": "https://eclecticlight.co/2023/01/18/is-apple-checking-images-we-view-in-the-finder/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://eclecticlight.co/2023/01/18/is-apple-checking-images-we-view-in-the-finder/",
-          "publishedOn": "2023-01-21T19:06:12.000Z",
-          "wordCount": 6871,
-          "title": "Is Apple checking images we view in the Finder?",
-          "imageUrl": "https://eclecticlightdotcom.files.wordpress.com/2023/01/vlu01.jpg"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=34469154",
-          "author": null,
-          "description": "Comments",
-          "link": "https://news.ycombinator.com/item?id=34469154",
-          "publishedOn": "2023-01-21T19:02:13.000Z",
-          "wordCount": 4589,
-          "title": "Ask HN: Great text based games to play?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://vikunja.io/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://vikunja.io/",
-          "publishedOn": "2023-01-21T18:53:12.000Z",
-          "wordCount": 395,
-          "title": "Vikunja – Open-source, self-hostable to-do app",
-          "imageUrl": "https://vikunja.io/images/vikunja.png"
-        },
-        {
-          "id": "https://www.usap.gov/videoclipsandmaps/mcmwebcam.cfm",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.usap.gov/videoclipsandmaps/mcmwebcam.cfm",
-          "publishedOn": "2023-01-21T18:15:44.000Z",
-          "wordCount": null,
-          "title": "The McMurdo Webcams",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.skyfi.com/pricing",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.skyfi.com/pricing",
-          "publishedOn": "2023-01-21T18:14:23.000Z",
-          "wordCount": 1593,
-          "title": "Buy hi-resolution satellite images of any place on earth",
-          "imageUrl": "http://images.ctfassets.net/txzhex5a1q7n/1PIPhgmA2JYw86VNZUbgt7/e5d06a54100cf7d823a241371f6584fe/Group_1048.png"
-        },
-        {
-          "id": "https://www.righto.com/2023/01/inside-globus-ink-mechanical-navigation.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.righto.com/2023/01/inside-globus-ink-mechanical-navigation.html",
-          "publishedOn": "2023-01-21T17:37:55.000Z",
-          "wordCount": 6908,
-          "title": "The Globus INK: a mechanical navigation computer for Soviet spaceflight",
-          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/ANbyha1Kz624x0CP8C_-70Y_-o5XmuDEPZZC0uSVX19TD56dxM73vG0W3hRoKp8QWbnqDGeKdxckX_PG7l-jIeKAaoErZcAgF_7q9i40uGluxY9Cpkp6NS5_qtb1n3hldVxZegRgDp0=w1200-h630-p-k-no-nu"
-        },
-        {
-          "id": "https://pradyunsg.me/blog/2023/01/21/thoughts-on-python-packaging/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://pradyunsg.me/blog/2023/01/21/thoughts-on-python-packaging/",
-          "publishedOn": "2023-01-21T17:16:01.000Z",
-          "wordCount": 10792,
-          "title": "Thoughts on the Python packaging ecosystem",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.theregister.com/2023/01/20/capital_one/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.theregister.com/2023/01/20/capital_one/",
-          "publishedOn": "2023-01-21T17:13:01.000Z",
-          "wordCount": 1666,
-          "title": "Capital One axes 1k tech roles",
-          "imageUrl": "https://regmedia.co.uk/2019/07/29/shutterstock_capone_card.jpg"
-        },
-        {
-          "id": "https://www.google.com/maps/place/Right+Way+Laboratory/@40.9957803,-74.2784512,15z/data=!3m1!5s0x89c303336bbaf299:0x341e1cb1b4d7560d!4m13!1m5!8m4!1e1!2s112286728424662092965!3m1!1e1!3m6!1s0x89c30351e348823d:0x6d3151713097139c!8m2!3d40.9929449!4d-74.2811153!9m1!1b1?hl=en-US",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.google.com/maps/place/Right+Way+Laboratory/@40.9957803,-74.2784512,15z/data=!3m1!5s0x89c303336bbaf299:0x341e1cb1b4d7560d!4m13!1m5!8m4!1e1!2s112286728424662092965!3m1!1e1!3m6!1s0x89c30351e348823d:0x6d3151713097139c!8m2!3d40.9929449!4d-74.2811153!9m1!1b1?hl=en-US",
-          "publishedOn": "2023-01-21T16:49:30.000Z",
-          "wordCount": 453,
-          "title": "A large network of fake Google Maps comments/reviews and fake businesses",
-          "imageUrl": "https://maps.google.com/maps/api/staticmap?center=40.9957803%2C-74.2784512&zoom=15&size=256x256&language=en&sensor=false&client=google-maps-frontend&signature=Gcwi5dZVnyyPZgGevli3l_QfxOM"
-        },
-        {
-          "id": "https://matthewc.dev/musings/unit-tests/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://matthewc.dev/musings/unit-tests/",
-          "publishedOn": "2023-01-21T16:26:07.000Z",
-          "wordCount": null,
-          "title": "An unexpected benefit of unit tests",
-          "imageUrl": null
-        },
-        {
-          "id": "https://vitalik.eth.limo/general/2023/01/20/stealth.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://vitalik.eth.limo/general/2023/01/20/stealth.html",
-          "publishedOn": "2023-01-21T16:25:28.000Z",
-          "wordCount": 3445,
-          "title": "An incomplete guide to stealth addresses",
-          "imageUrl": null
-        },
-        {
-          "id": "https://slate.com/technology/2023/01/streaming-libraries-dvds-blu-rays.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://slate.com/technology/2023/01/streaming-libraries-dvds-blu-rays.html",
-          "publishedOn": "2023-01-21T16:22:18.000Z",
-          "wordCount": 19917,
-          "title": "My husband was right about DVDs",
-          "imageUrl": "https://compote.slate.com/images/cfbbaec1-9cb1-4d3e-99f3-53e342701f80.jpeg?crop=5184%2C3456%2Cx0%2Cy216&width=1560"
-        },
-        {
-          "id": "https://people.ece.cornell.edu/land/courses/ece4760/RP2040/C_SDK_DMA_machine/DMA_machine_rp2040.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://people.ece.cornell.edu/land/courses/ece4760/RP2040/C_SDK_DMA_machine/DMA_machine_rp2040.html",
-          "publishedOn": "2023-01-21T15:20:35.000Z",
-          "wordCount": 7546,
-          "title": "Direct Memory Access computing machine RP2040",
-          "imageUrl": null
-        },
-        {
-          "id": "https://github.com/Scyne/stadiaRawBtFw",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/Scyne/stadiaRawBtFw",
-          "publishedOn": "2023-01-21T14:46:11.000Z",
-          "wordCount": 996,
-          "title": "A Dump of the Raw Stadia Controller BT Firmware",
-          "imageUrl": "https://repository-images.githubusercontent.com/590176383/34700315-e9e1-4787-81f6-6b24540c2a81"
-        },
-        {
-          "id": "https://www.theatlantic.com/books/archive/2023/01/truman-capote-true-crime-in-cold-blood/672747/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.theatlantic.com/books/archive/2023/01/truman-capote-true-crime-in-cold-blood/672747/",
-          "publishedOn": "2023-01-21T14:21:50.000Z",
-          "wordCount": 4928,
-          "title": "When Truman Capote’s lies caught up with him",
-          "imageUrl": "https://cdn.theatlantic.com/thumbor/4F_7cNRjvDHvIAD4PgFu4nMBLAQ=/0x953:4263x3173/1200x625/media/img/mt/2023/01/NYC35368/original.jpg"
         }
       ]
     },
@@ -13506,6 +13496,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2023/02/keys-accessibility-mindset/",
+          "author": "hello@smashingmagazine.com (Daniel Yuschick)",
+          "description": "An accessible product can be daunting to build as there’s so much nuance and technical depth to consider. In this article, Daniel Yuschick demonstrates three keys for approaching and developing accessible content without leaving you lost in the weeds.",
+          "link": "https://smashingmagazine.com/2023/02/keys-accessibility-mindset/",
+          "publishedOn": "2023-02-20T14:00:00.000Z",
+          "wordCount": 5586,
+          "title": "Keys To An Accessibility Mindset",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/keys-accessibility-mindset/keys-accessibility-mindset.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/keys-accessibility-mindset/keys-accessibility-mindset.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2023/02/guide-building-accessible-carousels/",
           "author": "hello@smashingmagazine.com (Sonja Weckenmann)",

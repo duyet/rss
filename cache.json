@@ -6,6 +6,256 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
+          "id": "https://lkml.org/lkml/2023/2/22/33",
+          "author": null,
+          "description": "Comments",
+          "link": "https://lkml.org/lkml/2023/2/22/33",
+          "publishedOn": "2023-02-28T23:56:57.000Z",
+          "wordCount": 561,
+          "title": "AMD ymm registers are rolling back",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.wsj.com/articles/apartment-rents-fall-as-crush-of-new-supply-hits-market-2403c6ea",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.wsj.com/articles/apartment-rents-fall-as-crush-of-new-supply-hits-market-2403c6ea",
+          "publishedOn": "2023-02-28T23:34:51.000Z",
+          "wordCount": 7751,
+          "title": "Apartment Rents Fall as Crush of New Supply Hits Market",
+          "imageUrl": "https://images.wsj.net/im-730784/social"
+        },
+        {
+          "id": "https://www.vodafone.com/news/technology/vodafone-unveils-prototype-5g-network-built-raspberry-pi-computer",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.vodafone.com/news/technology/vodafone-unveils-prototype-5g-network-built-raspberry-pi-computer",
+          "publishedOn": "2023-02-28T22:37:13.000Z",
+          "wordCount": 5901,
+          "title": "Vodafone unveils prototype 5G network built on a Raspberry Pi computer",
+          "imageUrl": "https://content.vodafone.com/sites/default/files/2023-02/vodafone-raspberry-pi.jpg"
+        },
+        {
+          "id": "https://onesignal.com/careers",
+          "author": null,
+          "description": "Comments",
+          "link": "https://onesignal.com/careers",
+          "publishedOn": "2023-02-28T21:00:48.000Z",
+          "wordCount": 945,
+          "title": "OneSignal (YC S11) Is Hiring Engineers to Work on Mobile Customer Engagement",
+          "imageUrl": "https://media-cms.onesignal.com/cms/_1200x630_crop_center-center_82_none/careers-social-thumbnail-2.png?mtime=1675110410"
+        },
+        {
+          "id": "https://kb.cert.org/vuls/id/782720",
+          "author": null,
+          "description": "Comments",
+          "link": "https://kb.cert.org/vuls/id/782720",
+          "publishedOn": "2023-02-28T20:31:08.000Z",
+          "wordCount": 38395,
+          "title": "TCG TPM2.0 implementations vulnerable to memory corruption",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cognitiverevolution.substack.com/p/openais-foundry-leaked-pricing-says",
+          "author": null,
+          "description": "Comments",
+          "link": "https://cognitiverevolution.substack.com/p/openais-foundry-leaked-pricing-says",
+          "publishedOn": "2023-02-28T19:26:45.000Z",
+          "wordCount": 8016,
+          "title": "OpenAI&#x27;s Foundry leaked pricing says a lot",
+          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFoNdu2raEAAVW4I.png"
+        },
+        {
+          "id": "https://www.jailbreakchat.com/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.jailbreakchat.com/",
+          "publishedOn": "2023-02-28T18:19:21.000Z",
+          "wordCount": 40,
+          "title": "Jailbreak Chat: A collection of ChatGPT jailbreaks",
+          "imageUrl": null
+        },
+        {
+          "id": "https://apuchitnis.substack.com/p/how-sms-fraud-works-and-how-to-guard-against-it",
+          "author": null,
+          "description": "Comments",
+          "link": "https://apuchitnis.substack.com/p/how-sms-fraud-works-and-how-to-guard-against-it",
+          "publishedOn": "2023-02-28T18:13:43.000Z",
+          "wordCount": 3477,
+          "title": "How SMS fraud works and how to guard against it",
+          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F56ae9b63-7f94-4aaa-9edc-4d3169615ed9_1024x1024.png"
+        },
+        {
+          "id": "https://www.infoq.com/presentations/Null-References-The-Billion-Dollar-Mistake-Tony-Hoare/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.infoq.com/presentations/Null-References-The-Billion-Dollar-Mistake-Tony-Hoare/",
+          "publishedOn": "2023-02-28T18:03:43.000Z",
+          "wordCount": 7676,
+          "title": "Null References: The Billion Dollar Mistake (2009) [video]",
+          "imageUrl": "https://res.infoq.com/presentations/Null-References-The-Billion-Dollar-Mistake-Tony-Hoare/en/mediumimage/tony-hoare-big.jpg"
+        },
+        {
+          "id": "https://www.righto.com/2023/02/how-8086-processor-determines-length-of.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.righto.com/2023/02/how-8086-processor-determines-length-of.html",
+          "publishedOn": "2023-02-28T17:56:49.000Z",
+          "wordCount": 5578,
+          "title": "How the 8086 processor determines the length of an instruction",
+          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/AHs97-kpeMdj6WMnuIdn3dKIFQOSx1ap_tazOPmvDa0eL1DM8FnvWdb37_zhoX57Thy3arWJIT36hR1sHEmQlLu6cL8-otqswx7O6IdGXmVOnmDm_JAppygzh23UhE04_Yij8CmLPxtB=w1200-h630-p-k-no-nu"
+        },
+        {
+          "id": "https://prog21.dadgum.com/29.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://prog21.dadgum.com/29.html",
+          "publishedOn": "2023-02-28T17:17:10.000Z",
+          "wordCount": 626,
+          "title": "A spellchecker used to be a major feat of software engineering (2008)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=34971883",
+          "author": null,
+          "description": "Comments",
+          "link": "https://news.ycombinator.com/item?id=34971883",
+          "publishedOn": "2023-02-28T17:14:59.000Z",
+          "wordCount": 2490,
+          "title": "Launch HN: Pyq (YC W23) – Simple APIs to Popular AI Models",
+          "imageUrl": null
+        },
+        {
+          "id": "https://census.dev/blog/diy-e-ink-badge",
+          "author": null,
+          "description": "Comments",
+          "link": "https://census.dev/blog/diy-e-ink-badge",
+          "publishedOn": "2023-02-28T16:56:04.000Z",
+          "wordCount": 1323,
+          "title": "The E-Ink Badge",
+          "imageUrl": "http://static1.squarespace.com/static/63d99fd7b81c80165cd55eda/t/63fe2fc7adaec549318d6bac/1677602762115/18-badge1.jpeg?format=1500w"
+        },
+        {
+          "id": "https://scribblediffusion.com/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://scribblediffusion.com/",
+          "publishedOn": "2023-02-28T16:52:12.000Z",
+          "wordCount": 39,
+          "title": "Show HN: Scribble Diffusion – Turn your sketch into a refined image using AI",
+          "imageUrl": "https://scribble-diffusion-2e4a4i8ps-replicate.vercel.app/og-b7xwc4g4wrdrtneilxnbngzvti.png"
+        },
+        {
+          "id": "https://krebsonsecurity.com/2023/02/hackers-claim-they-breached-t-mobile-more-than-100-times-in-2022/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://krebsonsecurity.com/2023/02/hackers-claim-they-breached-t-mobile-more-than-100-times-in-2022/",
+          "publishedOn": "2023-02-28T16:49:11.000Z",
+          "wordCount": 3862,
+          "title": "Hackers claim they breached T-Mobile more than 100 times in 2022",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.crul.com/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.crul.com/",
+          "publishedOn": "2023-02-28T16:12:58.000Z",
+          "wordCount": 473,
+          "title": "Show HN: Crul – Query Any Webpage or API",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.unum.cloud/blog/2023-02-20-efficient-multimodality",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.unum.cloud/blog/2023-02-20-efficient-multimodality",
+          "publishedOn": "2023-02-28T15:04:12.000Z",
+          "wordCount": 21,
+          "title": "Beating OpenAI CLIP with 100x less data and compute",
+          "imageUrl": "https://unum.cloud/assets/images/yerevan+singapore+sexy.png"
+        },
+        {
+          "id": "https://github.com/rosenpass/rosenpass",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/rosenpass/rosenpass",
+          "publishedOn": "2023-02-28T14:40:19.000Z",
+          "wordCount": 1244,
+          "title": "Rosenpass – formally verified post-quantum WireGuard",
+          "imageUrl": "https://opengraph.githubassets.com/06c9fada5db8b471710aa571026af6c4a4d8e1d3a0225b6aa84e34c2f3ff48bd/rosenpass/rosenpass"
+        },
+        {
+          "id": "https://phys.org/news/2023-02-rare-insect-arkansas-walmart-historic.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://phys.org/news/2023-02-rare-insect-arkansas-walmart-historic.html",
+          "publishedOn": "2023-02-28T14:27:49.000Z",
+          "wordCount": 2528,
+          "title": "Rare insect found at Arkansas Walmart",
+          "imageUrl": "https://scx2.b-cdn.net/gfx/news/hires/2023/rare-insect-found-at-a.jpg"
+        },
+        {
+          "id": "https://github.com/nalgeon/sqlean",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/nalgeon/sqlean",
+          "publishedOn": "2023-02-28T14:14:14.000Z",
+          "wordCount": 1299,
+          "title": "sqlean: A set of SQLite extensions",
+          "imageUrl": "https://repository-images.githubusercontent.com/343191804/5e00d0fc-d757-440b-a837-b2798de8e113"
+        },
+        {
+          "id": "https://twasink.net/2004/03/30/dtsttcpw-what-does-it-mean/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://twasink.net/2004/03/30/dtsttcpw-what-does-it-mean/",
+          "publishedOn": "2023-02-28T10:14:22.000Z",
+          "wordCount": 3846,
+          "title": "Do the simplest thing that can possibly work (2004)",
+          "imageUrl": "https://secure.gravatar.com/blavatar/f8273f7d498e037358d398b87150bde5?s=200&ts=1677629261"
+        },
+        {
+          "id": "https://www.x.org/wiki/Development/X12/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.x.org/wiki/Development/X12/",
+          "publishedOn": "2023-02-28T06:59:39.000Z",
+          "wordCount": 1932,
+          "title": "X12: Requirements for a successor to the X11 protocol (2013)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.computerenhance.com/p/clean-code-horrible-performance",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.computerenhance.com/p/clean-code-horrible-performance",
+          "publishedOn": "2023-02-28T05:55:18.000Z",
+          "wordCount": 9927,
+          "title": "“Clean” code, horrible performance",
+          "imageUrl": "https://substackcdn.com/image/youtube/w_728,c_limit/tD5NrevFtbU"
+        },
+        {
+          "id": "https://www.sciencedaily.com/releases/2023/02/230222141115.htm",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.sciencedaily.com/releases/2023/02/230222141115.htm",
+          "publishedOn": "2023-02-28T05:50:09.000Z",
+          "wordCount": null,
+          "title": "Archaeologists uncover early evidence of brain surgery in Ancient Near East",
+          "imageUrl": null
+        },
+        {
+          "id": "https://blog.plover.com/2023/02/27/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://blog.plover.com/2023/02/27/",
+          "publishedOn": "2023-02-28T04:18:31.000Z",
+          "wordCount": 1789,
+          "title": "Git branches are named sequences of commits",
+          "imageUrl": "https://pic.blog.plover.com/FIRST_IMAGE_DEFAULT.jpg"
+        },
+        {
           "id": "https://www.ftc.gov/business-guidance/blog/2023/02/keep-your-ai-claims-check",
           "author": null,
           "description": "Comments",
@@ -64,6 +314,16 @@
           "wordCount": 3996,
           "title": "Plutonium: The most dangerous substance known to man?",
           "imageUrl": "https://wip.gatspress.com/wp-content/uploads/2023/02/dan-meyers-F_DSvG5Fb0A-unsplash-scaled.jpg"
+        },
+        {
+          "id": "https://www.thedrive.com/news/future-fords-could-repossess-themselves-and-drive-away-if-you-miss-payments",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.thedrive.com/news/future-fords-could-repossess-themselves-and-drive-away-if-you-miss-payments",
+          "publishedOn": "2023-02-27T21:31:40.000Z",
+          "wordCount": 5870,
+          "title": "Future Fords could repossess themselves and drive away if you miss payments",
+          "imageUrl": "https://www.thedrive.com/uploads/2023/02/27/ford-repo-patent-lead-2.jpg?auto=webp"
         },
         {
           "id": "https://bitmovin.com/careers/",
@@ -246,6 +506,16 @@
           "imageUrl": "https://media.wired.com/photos/63f8ddfb58853a794e6869e4/191:100/w_1280,c_limit/Urbangardens_science_GettyImages-956840986.jpg"
         },
         {
+          "id": "https://www.daklang.com/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.daklang.com/",
+          "publishedOn": "2023-02-27T13:08:18.000Z",
+          "wordCount": 412,
+          "title": "Show HN: Dak – a Lisp-like language that transpiles to JavaScript",
+          "imageUrl": "https://www.daklang.com/assets/logo-T4645JP3.png"
+        },
+        {
           "id": "https://www.youtube.com/watch?v=GDa7hrbcCB8",
           "author": null,
           "description": "Comments",
@@ -284,6 +554,16 @@
           "wordCount": 815,
           "title": "The history of writing tech",
           "imageUrl": "https://i.imgur.com/QxKmXW5.jpg"
+        },
+        {
+          "id": "https://curtclifton.net/papers/MoseleyMarks06a.pdf",
+          "author": null,
+          "description": "Comments",
+          "link": "https://curtclifton.net/papers/MoseleyMarks06a.pdf",
+          "publishedOn": "2023-02-27T08:01:51.000Z",
+          "wordCount": 30316,
+          "title": "Out of the Tar Pit (2006) [pdf]",
+          "imageUrl": null
         },
         {
           "id": "https://www.theunconventionalroute.com/merino-wool-benefits-disadvantages/",
@@ -506,6 +786,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://pomax.github.io/1449777175633/opentype-let-s-learn-how-modern-fonts-actually-work",
+          "author": null,
+          "description": "Comments",
+          "link": "https://pomax.github.io/1449777175633/opentype-let-s-learn-how-modern-fonts-actually-work",
+          "publishedOn": "2023-02-26T09:48:05.000Z",
+          "wordCount": null,
+          "title": "OpenType: Let&#x27;s learn how modern fonts work",
+          "imageUrl": null
+        },
+        {
           "id": "https://webgl2fundamentals.org/",
           "author": null,
           "description": "Comments",
@@ -514,6 +804,16 @@
           "wordCount": 1261,
           "title": "WebGL2 Fundamentals",
           "imageUrl": "https://webgl2fundamentals.org/webgl/lessons/resources/webgl2fundamentals.jpg"
+        },
+        {
+          "id": "https://freelansations.medium.com/the-story-of-the-ps2s-backwards-compatibility-from-the-engineer-who-built-it-ec39cf5a0353",
+          "author": null,
+          "description": "Comments",
+          "link": "https://freelansations.medium.com/the-story-of-the-ps2s-backwards-compatibility-from-the-engineer-who-built-it-ec39cf5a0353",
+          "publishedOn": "2023-02-26T08:46:40.000Z",
+          "wordCount": 6393,
+          "title": "The PS2’s Backwards Compatibility from the Engineer Who Built It",
+          "imageUrl": "https://miro.medium.com/max/400/0*rTopLM7Y9cCvuGYI.jpeg"
         },
         {
           "id": "https://blog.joren.ga/gotophobia-harmful",
@@ -8514,256 +8814,6 @@
           "wordCount": 675,
           "title": "A Modern Compiler for the French Tax Code (2020)",
           "imageUrl": null
-        },
-        {
-          "id": "https://github.com/quchen/articles/blob/master/loeb-moeb.md",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/quchen/articles/blob/master/loeb-moeb.md",
-          "publishedOn": "2023-01-30T11:29:24.000Z",
-          "wordCount": 1530,
-          "title": "Löb and möb: strange loops in Haskell (2015)",
-          "imageUrl": "https://opengraph.githubassets.com/0d8ca22e81eaa6e59ba7e397ad6569c485686cd8ca9c406225ee4da721a6fd97/quchen/articles"
-        },
-        {
-          "id": "https://www.robinlinacre.com/recommend_sql/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.robinlinacre.com/recommend_sql/",
-          "publishedOn": "2023-01-30T11:15:20.000Z",
-          "wordCount": 1820,
-          "title": "SQL should be the default choice for data transformation logic",
-          "imageUrl": "https://www.robinlinacre.com/images/favicon-32x32.png"
-        },
-        {
-          "id": "https://github.com/alt-romes/programmer-calculator",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/alt-romes/programmer-calculator",
-          "publishedOn": "2023-01-30T09:56:49.000Z",
-          "wordCount": 1383,
-          "title": "TUI calculator for programmers working close to the bits",
-          "imageUrl": "https://opengraph.githubassets.com/8bc755518f90705a450f04e23627b60a9edeafcf55f4b5e7e8dbd79c1522fe50/alt-romes/programmer-calculator"
-        },
-        {
-          "id": "https://www.privatdozent.co/p/the-mathematical-center-of-the-universe-28f",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.privatdozent.co/p/the-mathematical-center-of-the-universe-28f",
-          "publishedOn": "2023-01-30T07:24:24.000Z",
-          "wordCount": 7154,
-          "title": "The Mathematical Center of the Universe (2021)",
-          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F13ba981e-f0e1-4ca4-93f6-840dd7095102_1434x596.png"
-        },
-        {
-          "id": "https://www.ideo.com/blog/learn-the-basics-of-code-with-a-needle-and-thread",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.ideo.com/blog/learn-the-basics-of-code-with-a-needle-and-thread",
-          "publishedOn": "2023-01-30T06:54:08.000Z",
-          "wordCount": 2062,
-          "title": "Learn the basics of coding with a needle and thread (2018)",
-          "imageUrl": "https://www.datocms-assets.com/63952/1654459640-sewmanyrules_header.jpg?auto=format&fit=max&w=1200"
-        },
-        {
-          "id": "https://www.health.harvard.edu/mens-health/ejaculation_frequency_and_prostate_cancer",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.health.harvard.edu/mens-health/ejaculation_frequency_and_prostate_cancer",
-          "publishedOn": "2023-01-29T23:20:50.000Z",
-          "wordCount": 1510,
-          "title": "Ejaculation Frequency and Prostate Cancer",
-          "imageUrl": "https://domf5oio6qrcr.cloudfront.net/medialibrary/12204/conversions/f86a066e-c12a-48c4-ab33-a86bb871b8e6-thumb.jpg"
-        },
-        {
-          "id": "https://www.mickmel.com/the-customer-is-always-right-in-matters-of-taste/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.mickmel.com/the-customer-is-always-right-in-matters-of-taste/",
-          "publishedOn": "2023-01-29T23:14:31.000Z",
-          "wordCount": 2028,
-          "title": "The customer is always right in matters of taste",
-          "imageUrl": "https://www.mickmel.com/wp-content/uploads/2021/08/maxresdefault-1.jpg"
-        },
-        {
-          "id": "https://faultlore.com/blah/swift-abi/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://faultlore.com/blah/swift-abi/",
-          "publishedOn": "2023-01-29T22:39:18.000Z",
-          "wordCount": 6232,
-          "title": "Swift Achieved Dynamic Linking Where Rust Couldn't",
-          "imageUrl": "https://gankra.github.io/blah/img/error-base.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=34572912",
-          "author": null,
-          "description": "Comments",
-          "link": "https://news.ycombinator.com/item?id=34572912",
-          "publishedOn": "2023-01-29T21:24:57.000Z",
-          "wordCount": 1723,
-          "title": "Ask HN: How can I get into cyber security research?",
-          "imageUrl": null
-        },
-        {
-          "id": "http://www.rampant.org/doors/linux-doors.pdf",
-          "author": null,
-          "description": "Comments",
-          "link": "http://www.rampant.org/doors/linux-doors.pdf",
-          "publishedOn": "2023-01-29T20:41:37.000Z",
-          "wordCount": 6689,
-          "title": "An Implementation of the Solaris Doors API for Linux (1998) [pdf]",
-          "imageUrl": null
-        },
-        {
-          "id": "https://build-your-own.org/blog/20230127_byor/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://build-your-own.org/blog/20230127_byor/",
-          "publishedOn": "2023-01-29T20:18:56.000Z",
-          "wordCount": 1778,
-          "title": "The “Build Your Own Redis” Book Is Completed",
-          "imageUrl": "https://build-your-own.org/byo_logo_256.png"
-        },
-        {
-          "id": "https://www.gimp.org/news/2023/01/29/2022-annual-report/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.gimp.org/news/2023/01/29/2022-annual-report/",
-          "publishedOn": "2023-01-29T20:05:34.000Z",
-          "wordCount": 2731,
-          "title": "GIMP's 2022 Annual Report",
-          "imageUrl": "https://www.gimp.org/news/2023/01/29/2022-annual-report//GIMP-2023-january-report.jpg"
-        },
-        {
-          "id": "https://hut.pm/nanogpt.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://hut.pm/nanogpt.html",
-          "publishedOn": "2023-01-29T20:02:33.000Z",
-          "wordCount": 1499,
-          "title": "Training NanoGPT on My Journal",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.airgradient.com/open-airgradient/instructions/diy-pro-v37/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.airgradient.com/open-airgradient/instructions/diy-pro-v37/",
-          "publishedOn": "2023-01-29T19:42:30.000Z",
-          "wordCount": 2675,
-          "title": "AirGradient Open Source Air Quality Monitor for CO2 and PM2.5 Measurements",
-          "imageUrl": null
-        },
-        {
-          "id": "https://gizmodo.com/tiktok-china-byte-dance-ban-viral-videos-privacy-1850034366",
-          "author": null,
-          "description": "Comments",
-          "link": "https://gizmodo.com/tiktok-china-byte-dance-ban-viral-videos-privacy-1850034366",
-          "publishedOn": "2023-01-29T19:19:52.000Z",
-          "wordCount": 5441,
-          "title": "Nationwide Ban on TikTok Inches Closer to Reality",
-          "imageUrl": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/56588556a8c47c096ba0b7070a5c3042.jpg"
-        },
-        {
-          "id": "https://www.ll.mit.edu/sites/default/files/other/doc/2022-09/TVO_Technology_Highlight_41_Toroidal_Propeller.pdf",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.ll.mit.edu/sites/default/files/other/doc/2022-09/TVO_Technology_Highlight_41_Toroidal_Propeller.pdf",
-          "publishedOn": "2023-01-29T19:12:51.000Z",
-          "wordCount": 29600,
-          "title": "Toroidal propeller allows a drone to operate more quietly [pdf]",
-          "imageUrl": null
-        },
-        {
-          "id": "https://djharper.dev/post/2023/01/29/intercepting-t.co-links-using-dns-rewrites/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://djharper.dev/post/2023/01/29/intercepting-t.co-links-using-dns-rewrites/",
-          "publishedOn": "2023-01-29T19:01:40.000Z",
-          "wordCount": 958,
-          "title": "Intercepting t.co links using DNS rewrites",
-          "imageUrl": null
-        },
-        {
-          "id": "http://mhpo.woz.com/letters/",
-          "author": null,
-          "description": "Comments",
-          "link": "http://mhpo.woz.com/letters/",
-          "publishedOn": "2023-01-29T18:37:28.000Z",
-          "wordCount": 6763,
-          "title": "Steve Wozniak's Letters",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cnn.com/2023/01/29/health/surgeon-general-social-media/index.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.cnn.com/2023/01/29/health/surgeon-general-social-media/index.html",
-          "publishedOn": "2023-01-29T18:17:25.000Z",
-          "wordCount": 18492,
-          "title": "Surgeon General says 13 is ‘too early’ to join social media",
-          "imageUrl": "https://media.cnn.com/api/v1/images/stellar/prod/230129092804-surgeon-general-social-media-cnn.jpg?c=16x9&q=w_800,c_fill"
-        },
-        {
-          "id": "https://commsrisk.com/fcc-threatens-to-disconnect-twilio-for-illegal-robocalls/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://commsrisk.com/fcc-threatens-to-disconnect-twilio-for-illegal-robocalls/",
-          "publishedOn": "2023-01-29T17:02:59.000Z",
-          "wordCount": 61056,
-          "title": "FCC threatens to disconnect Twilio for illegal robocalls",
-          "imageUrl": "https://commsrisk.com/wp-content/uploads/2022/01/phone-warning-message.jpg"
-        },
-        {
-          "id": "https://www.anandtech.com/show/18732/asrock-industrial-nucs-box1360pd4-review-raptor-lakep-ecc",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.anandtech.com/show/18732/asrock-industrial-nucs-box1360pd4-review-raptor-lakep-ecc",
-          "publishedOn": "2023-01-29T16:31:55.000Z",
-          "wordCount": 4634,
-          "title": "ASRock Industrial NUCS Box-1360P/D4 Review: Raptor Lake-P Plus Surprise ECC",
-          "imageUrl": "https://images.anandtech.com/doci/18732/carousel-final-2b_678x452.jpg"
-        },
-        {
-          "id": "https://www.schedium.net/2023/01/the-window-trick-of-las-vegas-hotels.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.schedium.net/2023/01/the-window-trick-of-las-vegas-hotels.html",
-          "publishedOn": "2023-01-29T14:52:14.000Z",
-          "wordCount": 6902,
-          "title": "The window trick of Las Vegas hotels",
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLMpMXY9UOL6DiCVJ8Bam3B2_kGObLKcMQv2maA1xl3-5JLMpXlBNFVQ7xkMypQviDbD7PLwe1qIqZRfGdRDj7cDREZ23R30-6N-fJp2AX9ntX8waEDVrwFX-GUQcJby6UfBSemYpS9tnYyuhzjEixec8YWurOcTs_fctc7GfTvIVCJLZCeSxkyiRVXQ/w1200-h630-p-k-no-nu/Interior_of_the_Yick_Cheong_Building_November_2016.jpg"
-        },
-        {
-          "id": "https://github.com/Vexu/bog",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/Vexu/bog",
-          "publishedOn": "2023-01-29T13:18:53.000Z",
-          "wordCount": 1225,
-          "title": "Bog – small, strongly typed, embeddable language",
-          "imageUrl": "https://opengraph.githubassets.com/89e711428e6a73d21036994ec506127df1108c93e74adb0a35731c527704d83e/Vexu/bog"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=34567704",
-          "author": null,
-          "description": "Comments",
-          "link": "https://news.ycombinator.com/item?id=34567704",
-          "publishedOn": "2023-01-29T13:02:38.000Z",
-          "wordCount": 5612,
-          "title": "Ask HN: What's with the DIY state of the art long-range Wi-Fi?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://clownswithoutborders.org/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://clownswithoutborders.org/",
-          "publishedOn": "2023-01-29T12:43:24.000Z",
-          "wordCount": 966,
-          "title": "Clowns Without Borders",
-          "imageUrl": null
         }
       ]
     },
@@ -12847,6 +12897,36 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2023/02/desktop-wallpaper-calendars-march-2023/",
+          "author": "hello@smashingmagazine.com (Cosima Mielke)",
+          "description": "Let’s get ready for March with some fresh wallpapers! Designed with love by the community for the community, the wallpaper designs in this collection are available in versions with and without a calendar. Enjoy!",
+          "link": "https://smashingmagazine.com/2023/02/desktop-wallpaper-calendars-march-2023/",
+          "publishedOn": "2023-02-28T14:30:00.000Z",
+          "wordCount": 4870,
+          "title": "Daydreaming In March (2023 Wallpapers Edition)",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-march-2023/mar-23-daydreaming-preview-opt.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "http://files.smashing.media/articles/desktop-wallpaper-calendars-march-2023/mar-23-daydreaming-preview-opt.png"
+        },
+        {
+          "id": "https://smashingmagazine.com/2023/02/meet-penpot-open-source-design-platform-designers-developers/",
+          "author": "hello@smashingmagazine.com (Mikołaj Dobrucki)",
+          "description": "In the ever-evolving design tools landscape, it can be difficult to keep up with the latest and greatest. In this article, we’ll take a closer look at Penpot, the first design and prototyping tool that’s fully open-source and based on open web standards, making it an ideal choice for both designers and developers.",
+          "link": "https://smashingmagazine.com/2023/02/meet-penpot-open-source-design-platform-designers-developers/",
+          "publishedOn": "2023-02-28T08:00:00.000Z",
+          "wordCount": 4204,
+          "title": "Meet Penpot, An Open-Source Design Platform Made For Designers And Developers Alike",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/meet-penpot-open-source-design-platform-designers-developers/meta-meet-penpot-open-source-design-platform-designers-developers.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/meet-penpot-open-source-design-platform-designers-developers/meta-meet-penpot-open-source-design-platform-designers-developers.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2023/02/guide-accessible-form-validation/",
           "author": "hello@smashingmagazine.com (Sandrina Pereira)",
           "description": "Each time we build a field validation from scratch, accessibility doesn’t come out of the box. In this guide, Sandrina breaks down what we need to take into consideration, so that nobody gets stuck on an inaccessible invalid field.",
@@ -13153,6 +13233,106 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/javascript-modules/",
+          "author": "Dapo Adedire",
+          "description": "JavaScript, like most programming languages, was initially used for small tasks. But as its popularity grew, so did the amount of code that needed to be written.  Having a large amount of code in a single file can be problematic, so it's helpful to split the code into multiple",
+          "link": "https://www.freecodecamp.org/news/javascript-modules/",
+          "publishedOn": "2023-02-28T20:42:29.000Z",
+          "wordCount": 1621,
+          "title": "JavaScript Modules – How to Create, Import, and Export a Module in JS",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/Add-a-subheading--1-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/tabs-in-jetpack-compose/",
+          "author": "Tomer Ben Rachel",
+          "description": "We’ve all seen it. We’ve all done it. Ain’t nothing like good ol’ tabs to organize content in a complex application. So how do we go about creating a tab layout in Jetpack Compose?  In this tutorial, we’ll go over all of the basics, but also show some things",
+          "link": "https://www.freecodecamp.org/news/tabs-in-jetpack-compose/",
+          "publishedOn": "2023-02-28T19:09:07.000Z",
+          "wordCount": 2831,
+          "title": "How to Create Tabs in Jetpack Compose",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/chiara-f-MI8He1NWPWg-unsplash.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/code-alphazero-machine-learning-algorithm/",
+          "author": "Beau Carnes",
+          "description": "AlphaZero is a game-playing algorithm that uses artificial intelligence and machine learning techniques to learn how to play board games at a superhuman level. We just published a machine learning course on the freeCodeCamp.org channel that will teach you how  to build AlphaZero from scratch. Robert Förster created this course.",
+          "link": "https://www.freecodecamp.org/news/code-alphazero-machine-learning-algorithm/",
+          "publishedOn": "2023-02-28T16:04:29.000Z",
+          "wordCount": 957,
+          "title": "Code an AlphaZero Machine Learning Algorithm to Play Games",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/alphazero.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/javascript-replace-how-to-replace-a-string-or-substring-in-js/",
+          "author": "Joel Olawanle",
+          "description": "When working with JavaScript, you might need to replace a string or substring with a new one. For example, you might want to replace a certain string (like \"color” — American English) or substring in a larger text or document with a different string (“colour” — British English). You may",
+          "link": "https://www.freecodecamp.org/news/javascript-replace-how-to-replace-a-string-or-substring-in-js/",
+          "publishedOn": "2023-02-28T02:24:34.000Z",
+          "wordCount": 1552,
+          "title": "JavaScript Replace – How to Replace a String or Substring in JS",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/cover-template--3-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/tailwindcss-vs-nextui-how-to-choose-a-ui-framework/",
+          "author": "Sophia Iroegbu",
+          "description": "If you're a developer, choosing the proper UI framework can be tough. This is partly because there are so many options to choose from, each with its strengths and weaknesses.  In this guide, I will discuss the differences between two popular frameworks: Tailwind CSS and NextUI.  Tailwind CSS",
+          "link": "https://www.freecodecamp.org/news/tailwindcss-vs-nextui-how-to-choose-a-ui-framework/",
+          "publishedOn": "2023-02-28T01:20:44.000Z",
+          "wordCount": 1858,
+          "title": "TailwindCSS vs NextUI – How to Choose a UI Framework",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/pexels-xxss-is-back-777001--2-.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-build-mobile-apps-with-flutter/",
+          "author": "Manish Shivanandhan",
+          "description": "Flutter is a mobile app development framework from Google that lets you build beautiful, high-performance iOS and Android applications.  In this article, let’s look at what Flutter is and how to work with it. What is Flutter? Flutter is an open-source mobile application development framework created by Google. It",
+          "link": "https://www.freecodecamp.org/news/how-to-build-mobile-apps-with-flutter/",
+          "publishedOn": "2023-02-28T01:10:15.000Z",
+          "wordCount": 1908,
+          "title": "How to Build Mobile Apps with Flutter",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/flutter.jpeg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/rtlo-in-hacking/",
+          "author": "Daniel Iwugo",
+          "description": "Let’s play a lovely game of hide your malware in plain sight. 🐴 Malicious hackers look for all kinds of underhanded tricks to make everyday users victims as a result of common mistakes. They might get someone to click the wrong link, open the wrong website, or execute the wrong",
+          "link": "https://www.freecodecamp.org/news/rtlo-in-hacking/",
+          "publishedOn": "2023-02-28T00:36:36.000Z",
+          "wordCount": 2327,
+          "title": "What is RTLO in Hacking? How to Use Right-to-Left Override and Defend Against it",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/image-249-1.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/git-revert-how-to-reset-a-file-or-commit/",
+          "author": "Ihechikara Vincent Abba",
+          "description": "When working on a project with a team or by yourself, it's important to track changes in the code base through version control.  Git provides you with different commands for tracking file changes. These commands will enable you to collaborate with other developers, access file history, manage code, and",
+          "link": "https://www.freecodecamp.org/news/git-revert-how-to-reset-a-file-or-commit/",
+          "publishedOn": "2023-02-28T00:21:11.000Z",
+          "wordCount": 1382,
+          "title": "Git Revert – How to Reset a File or Commit",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/roman-synkevych-wX2L8L-fGeA-unsplash--1-.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/add-to-dict-in-python/",
+          "author": "Shittu Olumide",
+          "description": "A dictionary in Python is a group of unordered items, each of which has a unique set of keys and values.  Any immutable data type, such as a string, number, or tuple, can be used as the key. It serves as an exclusive identifier for the value in the",
+          "link": "https://www.freecodecamp.org/news/add-to-dict-in-python/",
+          "publishedOn": "2023-02-28T00:17:11.000Z",
+          "wordCount": 1318,
+          "title": "Adding to Dict in Python – How to Append to a Dictionary",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/Shittu-Olumide-Adding-to-Dict-in-Python---How-to-Append-to-a-Dictionary-1.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/oss-security-best-practices/",
+          "author": "Sonya Moisset",
+          "description": "Christine Peterson coined the term \"Open Source software\" or OSS in 1998. It refers to software that is freely available for anyone to use, modify, and distribute.  The source code of OSS is openly available and anyone can modify it who has the necessary technical skills. This allows for",
+          "link": "https://www.freecodecamp.org/news/oss-security-best-practices/",
+          "publishedOn": "2023-02-27T22:19:21.000Z",
+          "wordCount": 10096,
+          "title": "Open Source Software Security Handbook – Best Practices for Securing Your Projects",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/2021-annoucment-PR2.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/how-to-use-the-ternary-operator-in-javascript/",
           "author": "Dionysia Lemonaki",

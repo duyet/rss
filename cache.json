@@ -6,6 +6,276 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
+          "id": "https://www.akitasoftware.com/blog-posts/launching-akitas-open-beta",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.akitasoftware.com/blog-posts/launching-akitas-open-beta",
+          "publishedOn": "2023-03-01T23:30:17.000Z",
+          "wordCount": 1905,
+          "title": "Drop-in endpoint observability for Docker and K8s",
+          "imageUrl": "https://uploads-ssl.webflow.com/605a51afe490919d95b491d6/63fe9cacf59555368af6fba8_jae-lee-c0VTrbsXtFU-unsplash.jpg"
+        },
+        {
+          "id": "https://standardnotes.com/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://standardnotes.com/",
+          "publishedOn": "2023-03-01T23:06:23.000Z",
+          "wordCount": 1595,
+          "title": "Standard Notes",
+          "imageUrl": null
+        },
+        {
+          "id": "https://talesofsyn.com/posts/creating-isometric-rpg-game-backgrounds",
+          "author": null,
+          "description": "Comments",
+          "link": "https://talesofsyn.com/posts/creating-isometric-rpg-game-backgrounds",
+          "publishedOn": "2023-03-01T22:47:05.000Z",
+          "wordCount": 4324,
+          "title": "Using Stable Diffusion techniques to create 2D game environments",
+          "imageUrl": "https://super-static-assets.s3.amazonaws.com/6fc853e0-4524-4e47-89b8-c8fc55cba56c/images/c7956659-472b-4c7c-9747-0c2eaecabb8b.webp?b=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAPCAIAAAAK4lpAAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAFoUlEQVQ4jQXBC2wSZwAA4F+dTm27QkUKBdpCoUB5lPej3HHcFQ4ob1iP0gfQUii0UAvVSrWtttraZj6WjGpco06iU6edSXWaLFljlhkXjZszPpLFzU1jlmnmYrbpli3pvg+cPo5OH+iYW8y5et1lLTDNba/maRqHgg2FsKtd1u9XjA8YwnYNoYG4NJ2IjXFpOhZFzaqCRHV2Rg1KqjOKsEBydhbqHNa/m/Inei2BTKNvUO7IWVqjAgQHQyfQ/nOxzEQsKvNQsWYKpqXMx4ULPaEiUSgGHCZRLmvIxJvGUsaE3WSoM5MqFDoOpGAi5SQ5k23CQ9GjSx9e+fJCZ2aoNz/uD6U91kFrYMg+WRg6PFcvaQDQpME+Zos34y6GUqU2yOYjwdsz/ee3xSZdtwo9CbuhJym/etF98VPC4lHFbJC2Xs/cpJSwYCHTxOFiM/v3vfrzyV//Pnv65vGp5WL3lhEvmk73DXblc22jW2vr+EAzqLB0qyFcqq0XOrQq141J+5G4LUtQr02Xbg875NZeh6o1oHCltYFWnVWjxbhNcqaeVKFgVKqkXFNuKPfTb9/88PTefyvPLl8/6ekiWpWRiMw2l88MT6UldQqgcPMCbZKET671q809LiTn9O9pcZyKUJazqw9GDfVI1mYcjDXlR02Tw0iWgJsb1XVkGZuqWF/WUEESw2pTPtlfU9PU1dW1M5eKQh0HS/xLPvjzQuiT95MpxApUWvZph+5jmx4a9/OPddvj5shuz/ZLqZEbKW3M2OcxvpeGt8Wt+3LYgZxlVxAbMEF+kVZPlwJAKyUJqe/Iq8tUjHJVRRlfXKU7AvzH6O6H496V39N3JnxHzE6gFHKzgHpfVdetVvMThP7YiKOYXDwX+/Gr1JlTxAezrl4/LBJqMy34qNs+jKBpvS4ig8QMKVjF3khqLCfJ6RQNiyqlU4RscmNyMxHiQ1/vgVdeEitnLPf3I6CWLs6DdUfBBjNLyoZR5Phc7u6Zubn40mzH8pxvV5857EV4XJjGhLB6o5vdZGWpqBsaQKkcVKIlzkWxWCYRqBh0K5Mpo1F0Xn57CNcuz5hWrjTfKXYs5KJAUyWfLCGlQAnqdNTOxpCRcFrSEq6Ao3rr3oTrcNyWdeI6Ad7AM28iKzhlyvWAA9Y0rNqgXP2OIZLdlk4ZRkfKvaicXWtg0kxtgcHkSMuJftMfeRusCjoqF0CQ0XkRMGJAYO/vN96Yz2igzwB9HkgizOatEvQYjh3yOwbUNj0HYzOgUiBaBQRvrZWtLoHWlsK9mfj3v4z+/IqY3cfFIP8mKhrSbYlY0TOdLVdnzBCC4bK9IEHGr1KQQwDxyFyxF98dt3TeBfRrgFoA9XlQc7JSXGzFFhMteZ0NZtmVVFxItbCrbKJqn00Zm9k5/vB+8Z+V85e+8MPi4Eayjkd1xpjBvAMf6zTKZRpU4wEiivLolCFB4fgsmYnXL4vu8BNQfReUXgJv719DKTJ4d6ONV9WqBY47IXRpq1GIjmvYQQm7R8Hu8xq37csVprPTgUA/1BRbX6qhkU2wxGs1xd2WDqkWbVTxAaesecJvaQeqwcSBsyuvi76uR9TqbwWbH0DrDq0hLSoUb26HVyaw5wLTwQp7m8gF1TgQXo+hvk/DTYtY3SZ+lpDvNtaGufxuhiAq4CaM4jS5yhoi5+5Pmp9d4oN2YShnbR0mtR7J7V98cWu3KfDG3PBATr/JIhcA6SOZ4t71KaeufYlIPmZaCzQkpfPbeV5HQ0Rc34ppok4oHWkfu5gdPLs9Qq6EyhkoQxqhcV072La/l9Ffb+DgyVRwgZgZxybGOvK+lgFplaPgdjzJNF1ezZgHzB08zYWxEaLGTwDkJt52E0aWlOopvTOv7LGJOjBDyuPNhCIDZkNfJ9ah5OPVDCWHKWfVNSn1luePJpI9xP+KydhoaRGogAAAAABJRU5ErkJggg=="
+        },
+        {
+          "id": "http://sensi.org/~svo/glasstty/",
+          "author": null,
+          "description": "Comments",
+          "link": "http://sensi.org/~svo/glasstty/",
+          "publishedOn": "2023-03-01T22:16:44.000Z",
+          "wordCount": 1020,
+          "title": "Hacking with Style: TrueType VT220 Font",
+          "imageUrl": null
+        },
+        {
+          "id": "https://github.com/ncrawforth/VT2040",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/ncrawforth/VT2040",
+          "publishedOn": "2023-03-01T22:10:57.000Z",
+          "wordCount": 1067,
+          "title": "VT2040: RP2040 based portable serial terminal",
+          "imageUrl": "https://opengraph.githubassets.com/0768070d93cf3e9ef727678ac175bca67f5e797becf0a7bbae0bbe90b0f130ee/ncrawforth/VT2040"
+        },
+        {
+          "id": "https://chicago.suntimes.com/city-hall/2022/5/26/23143356/chicago-parking-meters-75-year-lease-daley-city-council-audit-skyway-loop-garages-krislov",
+          "author": null,
+          "description": "Comments",
+          "link": "https://chicago.suntimes.com/city-hall/2022/5/26/23143356/chicago-parking-meters-75-year-lease-daley-city-council-audit-skyway-loop-garages-krislov",
+          "publishedOn": "2023-03-01T22:03:31.000Z",
+          "wordCount": 4161,
+          "title": "Chicago sold rights to 36k parking meters for $1.2B that generate $200M per year",
+          "imageUrl": "https://cst.brightspotcdn.com/dims4/default/d61b30c/2147483647/strip/true/crop/2160x1233+0+230/resize/1461x834!/quality/90/?url=https%3A%2F%2Fcdn.vox-cdn.com%2Fthumbor%2FEA8teD6wZ8XcPZodW_NYoURiULI%3D%2F0x0%3A2160x1694%2F2160x1694%2Ffilters%3Afocal%281080x847%3A1081x848%29%2Fcdn.vox-cdn.com%2Fuploads%2Fchorus_asset%2Ffile%2F22639071%2FPARKINGMETERS_060521_2c.jpg"
+        },
+        {
+          "id": "https://www.nature.com/articles/nature.2013.12219",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.nature.com/articles/nature.2013.12219",
+          "publishedOn": "2023-03-01T21:46:21.000Z",
+          "wordCount": 2466,
+          "title": "Aboriginal Australian genomes reveal Indian ancestry",
+          "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fnature.2013.12219/MediaObjects/41586_2013_Article_BFnature201312219_Figa_HTML.jpg"
+        },
+        {
+          "id": "https://github.com/openai/openai-python/blob/main/chatml.md",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/openai/openai-python/blob/main/chatml.md",
+          "publishedOn": "2023-03-01T21:42:29.000Z",
+          "wordCount": 884,
+          "title": "ChatML: ChatGPT API expects a structured format, called Chat Markup Language",
+          "imageUrl": "https://opengraph.githubassets.com/1d779970fe41049a86c62595b8b99a217e5898ee48322fca873542b6f454972f/openai/openai-python"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=34988505",
+          "author": null,
+          "description": "Comments",
+          "link": "https://news.ycombinator.com/item?id=34988505",
+          "publishedOn": "2023-03-01T21:20:04.000Z",
+          "wordCount": 2806,
+          "title": "Show HN: Usage 2.0 – Cut AWS Spend by 57% in 5 Minutes",
+          "imageUrl": null
+        },
+        {
+          "id": "https://jobs.ashbyhq.com/replit/bf72d80c-37d6-4831-8e42-7fd94668ac17",
+          "author": null,
+          "description": "Comments",
+          "link": "https://jobs.ashbyhq.com/replit/bf72d80c-37d6-4831-8e42-7fd94668ac17",
+          "publishedOn": "2023-03-01T21:00:48.000Z",
+          "wordCount": 1389,
+          "title": "Replit (YC W18) Is Hiring ML Engineers to Train Code Models",
+          "imageUrl": "https://app.ashbyhq.com/api/images/org-theme-logo/24b3623d-b96c-40a6-8c65-2c3a28b933dd/be7c967d-861b-48ea-b74c-21a7c4e3fe26.png"
+        },
+        {
+          "id": "https://www.bloomberg.com/news/articles/2023-02-28/spac-era-ends-as-companies-that-ipo-d-struggle",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.bloomberg.com/news/articles/2023-02-28/spac-era-ends-as-companies-that-ipo-d-struggle",
+          "publishedOn": "2023-03-01T20:52:33.000Z",
+          "wordCount": 576,
+          "title": "The SPAC Fad Is Ending in a Pile of Bankruptcies and Fire Sales",
+          "imageUrl": null
+        },
+        {
+          "id": "https://pencil.evolus.vn/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://pencil.evolus.vn/",
+          "publishedOn": "2023-03-01T20:43:11.000Z",
+          "wordCount": 199,
+          "title": "Pencil ­– an open-source GUI prototyping tool",
+          "imageUrl": null
+        },
+        {
+          "id": "https://aiguide.substack.com/p/why-the-abstraction-and-reasoning",
+          "author": null,
+          "description": "Comments",
+          "link": "https://aiguide.substack.com/p/why-the-abstraction-and-reasoning",
+          "publishedOn": "2023-03-01T20:29:05.000Z",
+          "wordCount": 4607,
+          "title": "Why the Abstraction and Reasoning Corpus is interesting and important for AI",
+          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb93b90d1-00b2-417c-9f3a-4008a74a1ef7_826x606.png"
+        },
+        {
+          "id": "https://spectrum.ieee.org/xerox-alto",
+          "author": null,
+          "description": "Comments",
+          "link": "https://spectrum.ieee.org/xerox-alto",
+          "publishedOn": "2023-03-01T20:14:16.000Z",
+          "wordCount": 10814,
+          "title": "50 Years Later, We’re Still Living in the Xerox Alto’s World",
+          "imageUrl": "https://spectrum.ieee.org/media-library/a-black-and-white-photo-of-a-vertical-computer-display-and-keyboard-and-mouse-on-a-desk-with-the-computer-itself-under-the-desk.png?id=33082984&width=1200&height=600&coordinates=0%2C299%2C0%2C300"
+        },
+        {
+          "id": "https://restofworld.org/2023/tinder-robberies-dating-apps-brazil/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://restofworld.org/2023/tinder-robberies-dating-apps-brazil/",
+          "publishedOn": "2023-03-01T19:47:32.000Z",
+          "wordCount": 1855,
+          "title": "90% of Kidnappings in São Paulo result from dates on Tinder and similar apps",
+          "imageUrl": "https://149346090.v2.pressablecdn.com/wp-content/uploads/2023/03/GettyImages-1245235553-1600x900.jpg"
+        },
+        {
+          "id": "https://tinkering.xyz/nix-docs/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://tinkering.xyz/nix-docs/",
+          "publishedOn": "2023-03-01T19:26:39.000Z",
+          "wordCount": 2034,
+          "title": "Nix journey part 0: Learning and reference materials",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://bravenewgeek.com/you-cannot-have-exactly-once-delivery/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://bravenewgeek.com/you-cannot-have-exactly-once-delivery/",
+          "publishedOn": "2023-03-01T18:52:43.000Z",
+          "wordCount": 4570,
+          "title": "You cannot have exactly-once delivery (2015)",
+          "imageUrl": "https://s0.wp.com/i/blank.jpg"
+        },
+        {
+          "id": "https://opensource.googleblog.com/2023/03/introducing-service-weaver-framework-for-writing-distributed-applications.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://opensource.googleblog.com/2023/03/introducing-service-weaver-framework-for-writing-distributed-applications.html",
+          "publishedOn": "2023-03-01T18:25:34.000Z",
+          "wordCount": 6107,
+          "title": "Service Weaver: A Framework for Writing Distributed Applications",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjggbjaR5G1VgZZRx2hg3keyBDWBT_vaUwefSu85QGVmYVvI4-CksJNGkVmb5YNC6YGklJhUgQoMr06Yh06j6Wv4QLyXRtkIUw2j7XOohcggAJ66V15Y2YVNaxJJFJeRYvs10aEiwBLcketb13obVO9OUSrlgS3uuUL6chwwe4kQVjTeNcLvVsFlHZb/w1200-h630-p-k-no-nu/Social%20-%20OSS%20-%20Introducing%20Service%20Weaver.png"
+        },
+        {
+          "id": "https://jemarch.net/poke",
+          "author": null,
+          "description": "Comments",
+          "link": "https://jemarch.net/poke",
+          "publishedOn": "2023-03-01T18:12:26.000Z",
+          "wordCount": 505,
+          "title": "GNU poke: The extensible editor for structured binary data",
+          "imageUrl": null
+        },
+        {
+          "id": "https://openai.com/blog/introducing-chatgpt-and-whisper-apis",
+          "author": null,
+          "description": "Comments",
+          "link": "https://openai.com/blog/introducing-chatgpt-and-whisper-apis",
+          "publishedOn": "2023-03-01T18:01:48.000Z",
+          "wordCount": 1498,
+          "title": "Introducing ChatGPT and Whisper APIs",
+          "imageUrl": "https://openaicom.imgix.net/44fefabe-41f8-4dbf-9218-b1e1c44dc319/introducing-chatgpt-and-whisper-apis.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=%2C%2C%2C"
+        },
+        {
+          "id": "https://www.welivesecurity.com/2023/03/01/blacklotus-uefi-bootkit-myth-confirmed/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.welivesecurity.com/2023/03/01/blacklotus-uefi-bootkit-myth-confirmed/",
+          "publishedOn": "2023-03-01T17:59:00.000Z",
+          "wordCount": 8379,
+          "title": "First in-the-wild UEFI bootkit bypassing UEFI Secure Boot",
+          "imageUrl": "https://www.welivesecurity.com/wp-content/uploads/2023/03/blacklotus-uefi-bootkit-secure-boot.jpg"
+        },
+        {
+          "id": "https://thoriumsim.com/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://thoriumsim.com/",
+          "publishedOn": "2023-03-01T17:13:48.000Z",
+          "wordCount": 1399,
+          "title": "Thorium – A Starship Bridge Simulator",
+          "imageUrl": null
+        },
+        {
+          "id": "https://journals.sagepub.com/stoken/rbtfl/Z10jaVH/60XQM/full",
+          "author": null,
+          "description": "Comments",
+          "link": "https://journals.sagepub.com/stoken/rbtfl/Z10jaVH/60XQM/full",
+          "publishedOn": "2023-03-01T16:04:45.000Z",
+          "wordCount": null,
+          "title": "Improving Students’ Learning with Effective Learning Techniques",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=34983767",
+          "author": null,
+          "description": "Comments",
+          "link": "https://news.ycombinator.com/item?id=34983767",
+          "publishedOn": "2023-03-01T16:01:15.000Z",
+          "wordCount": 28553,
+          "title": "Ask HN: Who is hiring? (March 2023)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=34983765",
+          "author": null,
+          "description": "Comments",
+          "link": "https://news.ycombinator.com/item?id=34983765",
+          "publishedOn": "2023-03-01T16:01:15.000Z",
+          "wordCount": 25605,
+          "title": "Ask HN: Who wants to be hired? (March 2023)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=34981946",
+          "author": null,
+          "description": "Comments",
+          "link": "https://news.ycombinator.com/item?id=34981946",
+          "publishedOn": "2023-03-01T13:08:05.000Z",
+          "wordCount": 2015,
+          "title": "Launch HN: EdgeBit (YC W23) – live software vulnerability analysis",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.alexcrompton.com/blog/time-thoughts-chess",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.alexcrompton.com/blog/time-thoughts-chess",
+          "publishedOn": "2023-03-01T12:44:07.000Z",
+          "wordCount": 3495,
+          "title": "What is Chess? What to think and for how long",
+          "imageUrl": "http://static1.squarespace.com/static/5c99f1fefd67931df8317924/t/63630154861cae2d908870ba/1667432792053/unsplash-image-ZbGDY5MSDG4.jpg?format=1500w"
+        },
+        {
           "id": "https://lkml.org/lkml/2023/2/22/33",
           "author": null,
           "description": "Comments",
@@ -46,6 +316,16 @@
           "imageUrl": "https://media-cms.onesignal.com/cms/_1200x630_crop_center-center_82_none/careers-social-thumbnail-2.png?mtime=1675110410"
         },
         {
+          "id": "https://news.uci.edu/2023/02/27/early-life-stress-can-disrupt-maturation-of-brains-reward-circuits-promoting-disorders/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://news.uci.edu/2023/02/27/early-life-stress-can-disrupt-maturation-of-brains-reward-circuits-promoting-disorders/",
+          "publishedOn": "2023-02-28T20:59:22.000Z",
+          "wordCount": 1402,
+          "title": "Early-life stress can disrupt maturation of brain’s reward circuits",
+          "imageUrl": "https://news.uci.edu/files/2023/02/Baram_032219_0058_sz-1-768x522-1-720x480.jpg"
+        },
+        {
           "id": "https://kb.cert.org/vuls/id/782720",
           "author": null,
           "description": "Comments",
@@ -64,6 +344,16 @@
           "wordCount": 8016,
           "title": "OpenAI&#x27;s Foundry leaked pricing says a lot",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FFoNdu2raEAAVW4I.png"
+        },
+        {
+          "id": "https://blog.eladgil.com/p/startup-decoupling-and-reckoning",
+          "author": null,
+          "description": "Comments",
+          "link": "https://blog.eladgil.com/p/startup-decoupling-and-reckoning",
+          "publishedOn": "2023-02-28T18:47:02.000Z",
+          "wordCount": 8873,
+          "title": "Startup Decoupling and Reckoning",
+          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F10f166be-a9da-4ed0-91a0-817225994ca9_1344x892.png"
         },
         {
           "id": "https://www.jailbreakchat.com/",
@@ -124,6 +414,16 @@
           "wordCount": 2490,
           "title": "Launch HN: Pyq (YC W23) – Simple APIs to Popular AI Models",
           "imageUrl": null
+        },
+        {
+          "id": "https://gist.github.com/cb372/5f6bf16ca0682541260ae52fc11ea3bb",
+          "author": null,
+          "description": "Comments",
+          "link": "https://gist.github.com/cb372/5f6bf16ca0682541260ae52fc11ea3bb",
+          "publishedOn": "2023-02-28T17:06:14.000Z",
+          "wordCount": 4202,
+          "title": "Writing an OS in Rust to run on RISC-V",
+          "imageUrl": "https://github.githubassets.com/images/modules/gists/gist-og-image.png"
         },
         {
           "id": "https://census.dev/blog/diy-e-ink-badge",
@@ -8534,286 +8834,6 @@
           "wordCount": 4272,
           "title": "How to smooth and spread A* paths for an RTS",
           "imageUrl": "https://construct-static.com/92/v1053/shareimage/1608/ogg/share.png"
-        },
-        {
-          "id": "https://www.danielsieger.com/blog/2021/01/03/generating-platonic-solids.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.danielsieger.com/blog/2021/01/03/generating-platonic-solids.html",
-          "publishedOn": "2023-01-31T11:53:08.000Z",
-          "wordCount": 1822,
-          "title": "Generating Platonic Solids in C++ (2021)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://lajili.com/posts/post-1/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://lajili.com/posts/post-1/",
-          "publishedOn": "2023-01-31T11:07:10.000Z",
-          "wordCount": 674,
-          "title": "Japanese explained to programmers",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.bitrex.com/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.bitrex.com/",
-          "publishedOn": "2023-01-31T07:01:18.000Z",
-          "wordCount": 594,
-          "title": "Bitrex – the brand name of the bitterest substance in the world",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.x.org/releases/X11R7.6/doc/man/man1/twm.1.xhtml",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.x.org/releases/X11R7.6/doc/man/man1/twm.1.xhtml",
-          "publishedOn": "2023-01-31T05:45:56.000Z",
-          "wordCount": 8400,
-          "title": "TWM − Tab Window Manager for the X Window System",
-          "imageUrl": null
-        },
-        {
-          "id": "https://techxplore.com/news/2023-01-fairy-like-robot-flies-power.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://techxplore.com/news/2023-01-fairy-like-robot-flies-power.html",
-          "publishedOn": "2023-01-31T01:17:05.000Z",
-          "wordCount": 1973,
-          "title": "A fairy-like robot flies by the power of wind and light",
-          "imageUrl": "https://scx2.b-cdn.net/gfx/news/2023/a-fairy-like-robot-fli.jpg"
-        },
-        {
-          "id": "https://phys.org/news/2023-01-mathematical-body-potassium.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://phys.org/news/2023-01-mathematical-body-potassium.html",
-          "publishedOn": "2023-01-31T01:16:03.000Z",
-          "wordCount": 1754,
-          "title": "New mathematical model shows how the body regulates potassium",
-          "imageUrl": "https://scx2.b-cdn.net/gfx/news/hires/2022/banana.jpg"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=34587955",
-          "author": null,
-          "description": "Comments",
-          "link": "https://news.ycombinator.com/item?id=34587955",
-          "publishedOn": "2023-01-30T23:06:37.000Z",
-          "wordCount": 881,
-          "title": "Ask HN: How to ensure your water is safe to drink?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://mctoon.net/interesting/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://mctoon.net/interesting/",
-          "publishedOn": "2023-01-30T22:39:24.000Z",
-          "wordCount": 3694,
-          "title": "Proving Earth is a globe",
-          "imageUrl": "https://mctoon27.files.wordpress.com/2023/01/jeran-correct-globe-prediction-5.png?w=1200"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=34587360",
-          "author": null,
-          "description": "Comments",
-          "link": "https://news.ycombinator.com/item?id=34587360",
-          "publishedOn": "2023-01-30T22:24:05.000Z",
-          "wordCount": 752,
-          "title": "Ask HN: Do you use JSON Schema? Help us shape its future stability guarantees",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.amazon.co.uk/s?k=portable+ssd+10tb&crid=3B5JCJDW98CMX&sprefix=portable+ssd+10tb%2Caps%2C149&ref=nb_sb_noss_1",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.amazon.co.uk/s?k=portable+ssd+10tb&crid=3B5JCJDW98CMX&sprefix=portable+ssd+10tb%2Caps%2C149&ref=nb_sb_noss_1",
-          "publishedOn": "2023-01-30T22:19:17.000Z",
-          "wordCount": null,
-          "title": "10TB portable SSDs on Amazon UK are scams",
-          "imageUrl": null
-        },
-        {
-          "id": "https://github.blog/changelog/2023-01-30-git-archive-checksums-may-change/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.blog/changelog/2023-01-30-git-archive-checksums-may-change/",
-          "publishedOn": "2023-01-30T21:48:15.000Z",
-          "wordCount": 663,
-          "title": "Git archive checksums may change",
-          "imageUrl": "https://github.blog/wp-content/uploads/2022/04/Engineering-Security.png?fit=1200%2C630"
-        },
-        {
-          "id": "https://automerge.org/blog/automerge-2/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://automerge.org/blog/automerge-2/",
-          "publishedOn": "2023-01-30T21:10:13.000Z",
-          "wordCount": 2259,
-          "title": "Automerge 2.0",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.businessinsider.com/san-francisco-firefighters-smashed-window-driverless-cruise-taxi-stop-it-2023-1",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.businessinsider.com/san-francisco-firefighters-smashed-window-driverless-cruise-taxi-stop-it-2023-1",
-          "publishedOn": "2023-01-30T20:53:06.000Z",
-          "wordCount": 3279,
-          "title": "Firefighters forced to smash window of driverless Cruise taxi to stop it",
-          "imageUrl": "https://i.insider.com/63d677cafc18470019553e52?width=1200&format=jpeg"
-        },
-        {
-          "id": "https://simson.net/ref/1993/cubefire.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://simson.net/ref/1993/cubefire.html",
-          "publishedOn": "2023-01-30T20:17:08.000Z",
-          "wordCount": 5964,
-          "title": "Burning a NeXTCube (1993)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://simulavr.com/blog/fpga-image-processing-pipeline/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://simulavr.com/blog/fpga-image-processing-pipeline/",
-          "publishedOn": "2023-01-30T18:45:29.000Z",
-          "wordCount": 1306,
-          "title": "SimulaVR FPGA Image Processing Pipeline",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.wsj.com/articles/j-js-talc-bankruptcy-case-thrown-out-by-appeals-court-11675096308",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.wsj.com/articles/j-js-talc-bankruptcy-case-thrown-out-by-appeals-court-11675096308",
-          "publishedOn": "2023-01-30T17:56:43.000Z",
-          "wordCount": 7536,
-          "title": "J&J can’t use bankruptcy to resolve talc-injury lawsuits, appeals court rules",
-          "imageUrl": "https://images.wsj.net/im-713063/social"
-        },
-        {
-          "id": "https://berkeleygraphics.com/public-affairs/bulletins/BT-002/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://berkeleygraphics.com/public-affairs/bulletins/BT-002/",
-          "publishedOn": "2023-01-30T17:46:37.000Z",
-          "wordCount": null,
-          "title": "Berkeley Mono Ligatures Release",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=34583080",
-          "author": null,
-          "description": "Comments",
-          "link": "https://news.ycombinator.com/item?id=34583080",
-          "publishedOn": "2023-01-30T17:22:46.000Z",
-          "wordCount": 1497,
-          "title": "Show HN: Asdf Clone Written in Rust",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.themuse.com/jobs/themuse/manager-business-development-strategic-partnerships",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.themuse.com/jobs/themuse/manager-business-development-strategic-partnerships",
-          "publishedOn": "2023-01-30T17:00:28.000Z",
-          "wordCount": 3005,
-          "title": "The Muse (YC W12) Is Hiring a BD Manager for Strategic Partnerships",
-          "imageUrl": "https://www.themuse.com/static/images/muse-og-image.png"
-        },
-        {
-          "id": "https://computer.rip/2023-01-29-the-parallel-port.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://computer.rip/2023-01-29-the-parallel-port.html",
-          "publishedOn": "2023-01-30T16:45:52.000Z",
-          "wordCount": 3746,
-          "title": "The Parallel Port",
-          "imageUrl": null
-        },
-        {
-          "id": "https://tigerbeetle.com/blog/2023-01-30-series-seed-announcement/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://tigerbeetle.com/blog/2023-01-30-series-seed-announcement/",
-          "publishedOn": "2023-01-30T16:34:57.000Z",
-          "wordCount": 1134,
-          "title": "TigerBeetle raises $6.4M to power the future of financial accounting infra",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://wasmlabs.dev/articles/python-wasm32-wasi/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://wasmlabs.dev/articles/python-wasm32-wasi/",
-          "publishedOn": "2023-01-30T16:02:24.000Z",
-          "wordCount": 2057,
-          "title": "WebAssembly: Adding Python support to WASM language runtimes",
-          "imageUrl": "https://wasmlabs.dev/static/images/og/python-wasm32-wasi.png"
-        },
-        {
-          "id": "https://www.quantamagazine.org/astronomers-say-they-have-spotted-the-universes-first-stars-20230130/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.quantamagazine.org/astronomers-say-they-have-spotted-the-universes-first-stars-20230130/",
-          "publishedOn": "2023-01-30T15:31:54.000Z",
-          "wordCount": 6680,
-          "title": "Light from a rare isotope of helium in a distant galaxy",
-          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2023/01/POPULATION-III-STARSbyMerrillSherman_1200x630.webp"
-        },
-        {
-          "id": "https://mbork.pl/2023-01-30_The_benefits_of_everything_being_a_buffer",
-          "author": null,
-          "description": "Comments",
-          "link": "https://mbork.pl/2023-01-30_The_benefits_of_everything_being_a_buffer",
-          "publishedOn": "2023-01-30T15:31:47.000Z",
-          "wordCount": 316,
-          "title": "The benefits of everything being a buffer in Emacs",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.elidourado.com/p/cargo-airships",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.elidourado.com/p/cargo-airships",
-          "publishedOn": "2023-01-30T14:24:10.000Z",
-          "wordCount": 13651,
-          "title": "Cargo airships could be big",
-          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F294e0452-6e2d-4794-ba14-9f920a524ed7_1500x956.jpeg"
-        },
-        {
-          "id": "https://www.theregister.com/2023/01/30/wan_router_ip_address_change/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.theregister.com/2023/01/30/wan_router_ip_address_change/",
-          "publishedOn": "2023-01-30T13:53:58.000Z",
-          "wordCount": 1371,
-          "title": "WAN router IP address change blamed for global Microsoft 365 outage",
-          "imageUrl": "https://regmedia.co.uk/2022/06/08/shutterstock_server_worker.jpg"
-        },
-        {
-          "id": "https://patrick.georgi.family/2021/02/13/on-microcode/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://patrick.georgi.family/2021/02/13/on-microcode/",
-          "publishedOn": "2023-01-30T13:45:46.000Z",
-          "wordCount": 1587,
-          "title": "On “I don't trust microcode” (2021)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://arxiv.org/abs/2011.07966",
-          "author": null,
-          "description": "Comments",
-          "link": "https://arxiv.org/abs/2011.07966",
-          "publishedOn": "2023-01-30T13:22:51.000Z",
-          "wordCount": 675,
-          "title": "A Modern Compiler for the French Tax Code (2020)",
-          "imageUrl": null
         }
       ]
     },
@@ -13195,36 +13215,6 @@
             "type": "image/png"
           },
           "imageUrl": "http://files.smashing.media/articles/desktop-wallpaper-calendars-february-2023/feb-23-plants-preview-opt.png"
-        },
-        {
-          "id": "https://smashingmagazine.com/2023/01/b2b-sales-understand-role-ux-designers-better/",
-          "author": "hello@smashingmagazine.com (Paul Boag)",
-          "description": "Throughout a customer journey (particularly in B2B), there will be interactions that are primarily between two people rather than a human and an interface. In this article, Paul Boag explains why you cannot improve the user experience without considering the entirety of the UX journey.",
-          "link": "https://smashingmagazine.com/2023/01/b2b-sales-understand-role-ux-designers-better/",
-          "publishedOn": "2023-01-31T08:30:00.000Z",
-          "wordCount": 4203,
-          "title": "How B2B Sales Help Us Understand Our Role As UX Designers Better",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/b2b-sales-understand-role-ux-designers-better/meta-sharing-image-b2b-sales-understand-role-ux-designers-better.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/b2b-sales-understand-role-ux-designers-better/meta-sharing-image-b2b-sales-understand-role-ux-designers-better.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2023/01/svg-customization-animation-practical-guide/",
-          "author": "hello@smashingmagazine.com (Adrian Bece)",
-          "description": "Developers often feel discouraged from editing SVG markup and experimenting with SVG animations, thinking it’s a significant time investment or they need to use a complex animation library to do so. In this article, Adrian showcases his favorite tricks, which make the process streamlined and fun.",
-          "link": "https://smashingmagazine.com/2023/01/svg-customization-animation-practical-guide/",
-          "publishedOn": "2023-01-30T14:00:00.000Z",
-          "wordCount": 8877,
-          "title": "Easy SVG Customization And Animation: A Practical Guide",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/svg-customization-animation-practical-guide/meta-sharing-image-svg-customization-animation-practical-guide.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/svg-customization-animation-practical-guide/meta-sharing-image-svg-customization-animation-practical-guide.jpg"
         }
       ]
     },
@@ -13233,6 +13223,86 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/python-vs-c-plus-plus-time-complexity-analysis/",
+          "author": "Anthony Behery",
+          "description": "Speed is important in programming languages, and some execute much faster than others. For example, you might know that C++ is faster than Python. So why is this the case? Well, C++ is a language that uses a compiler, not to mention it is a much lower-level programming language than",
+          "link": "https://www.freecodecamp.org/news/python-vs-c-plus-plus-time-complexity-analysis/",
+          "publishedOn": "2023-03-01T19:07:56.000Z",
+          "wordCount": 2255,
+          "title": "Python VS C++ Time Complexity Analysis",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/aron-visuals-BXOXnQ26B7o-unsplash.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/automate-excel-tasks-with-python/",
+          "author": "Oluseye Jeremiah",
+          "description": "",
+          "link": "https://www.freecodecamp.org/news/automate-excel-tasks-with-python/",
+          "publishedOn": "2023-03-01T19:04:17.000Z",
+          "wordCount": 2677,
+          "title": "How to Automate Excel Tasks with Python",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/FreecodeCamp.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/understanding-security-and-privacy-8-10/",
+          "author": "David Clinton",
+          "description": "I've talked a lot about security and privacy in my \"A Beginners Guide to Digital Security [/news/understanding-digital-security/]\" and \"What Is Digital Privacy [/news/beginners-guide-to-digital-privacy/]\" articles. So why are we flogging this certifiably dead horse now? Because it's not dead. Security and privacy are as or more important than anything else in",
+          "link": "https://www.freecodecamp.org/news/understanding-security-and-privacy-8-10/",
+          "publishedOn": "2023-03-01T18:36:46.000Z",
+          "wordCount": 2664,
+          "title": "Security and Privacy – What You Should Know to Protect Your Data",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/pexels-photomix-company-96612.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-import-a-regular-expression-in-python/",
+          "author": "Kolade Chris",
+          "description": "Virtually all the programming languages out there support regular expressions. Regex is built into languages like JavaScript and Pearl, while others like Java and Python have standard libraries for working with it. In this article, we’ll look at how you can import regular expressions in Python and use it. We’ll",
+          "link": "https://www.freecodecamp.org/news/how-to-import-a-regular-expression-in-python/",
+          "publishedOn": "2023-03-01T17:28:02.000Z",
+          "wordCount": 2095,
+          "title": "Python RegEx – How to Import a Regular Expression in Python",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/regexpy.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/python-dictionary-how-to-create-a-dict-in-python/",
+          "author": "Shittu Olumide",
+          "description": "Welcome to this Python article on creating a dictionary (also called a hashmap).  A dictionary or hashmap is an unordered grouping of key-value pairs in Python. Since each value can be accessed by its corresponding key, it offers a practical means of storing and retrieving data. We'll cover the",
+          "link": "https://www.freecodecamp.org/news/python-dictionary-how-to-create-a-dict-in-python/",
+          "publishedOn": "2023-03-01T15:44:00.000Z",
+          "wordCount": 1343,
+          "title": "Python Dictionary – How to Create a Dict in Python (Hashmap)",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/Shittu-Olumide-Python-Dictionary---How-to-Create-a-Dict-in-Python--Hashmap--1.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-create-a-csv-file-in-python/",
+          "author": "Damilola Oladele",
+          "description": "CSV is an acronym for comma-separated values. It's a file format that you can use to store tabular data, such as in a spreadsheet. You can also use it to store data from a tabular database.  You can refer to each row in a CSV file as a data",
+          "link": "https://www.freecodecamp.org/news/how-to-create-a-csv-file-in-python/",
+          "publishedOn": "2023-03-01T00:43:48.000Z",
+          "wordCount": 1969,
+          "title": "How to Create a CSV File Using Python",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/csv-article-cover-image-2.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/linux-server-tutorial/",
+          "author": "Arunachalam B",
+          "description": "Did you know that 96% of the top 1 million web servers [https://www.zdnet.com/home-and-office/networking/can-the-internet-exist-without-linux/]  are running Linux?  Yes. You heard that right. So being able to work with Linux servers is a great skill to have. In this article, you'll learn how to connect to a Linux server using",
+          "link": "https://www.freecodecamp.org/news/linux-server-tutorial/",
+          "publishedOn": "2023-02-28T23:55:22.000Z",
+          "wordCount": 2392,
+          "title": "Linux Server Tutorial – How to Login, Communicate, and Transfer Files",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/Server-Commands---Brief-2.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/nodejs-callbacks/",
+          "author": "Aditya Gupta",
+          "description": "Node.js callbacks are a special type of function passed as an argument to another function.  They're called when the function that contains the callback as an argument completes its execution, and allows the code in the callback to run in the meantime. Callbacks help us make asynchronous calls. Even",
+          "link": "https://www.freecodecamp.org/news/nodejs-callbacks/",
+          "publishedOn": "2023-02-28T22:53:02.000Z",
+          "wordCount": 1239,
+          "title": "How Callbacks Work in Node.js",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/pexels-chepte--cormani-1416530.jpg"
+        },
         {
           "id": "https://www.freecodecamp.org/news/javascript-modules/",
           "author": "Dapo Adedire",
@@ -14452,116 +14522,6 @@
           "wordCount": 3239,
           "title": "Web Scraping in JavaScript – How to Use Puppeteer to Scrape Web Pages",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/web-scraping-in-javascript-with-puppeteer.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-write-unit-tests-for-instance-methods-in-python/",
-          "author": "Bala Priya C",
-          "description": "This tutorial will teach you how to write unit tests for instance methods in Python. In a previous tutorial [/news/how-to-write-unit-tests-for-python-functions/], we covered how to write unit tests for Python functions. While unit testing for instance methods works similarly, you may have some challenges creating and managing objects (instances of a",
-          "link": "https://www.freecodecamp.org/news/how-to-write-unit-tests-for-instance-methods-in-python/",
-          "publishedOn": "2023-01-31T00:13:54.000Z",
-          "wordCount": 1705,
-          "title": "How to Write Unit Tests for Instance Methods in Python",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/instance-methods-python.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-use-the-javascript-require-function/",
-          "author": "Joel Olawanle",
-          "description": "In JavaScript, modules refer to a file that holds JavaScript code which performs a specific purpose. Modules are self-contained, making it easy to add, remove, and update functionalities without affecting your entire code because they are decoupled from other pieces of code. When you have these modules in separate JavaScript",
-          "link": "https://www.freecodecamp.org/news/how-to-use-the-javascript-require-function/",
-          "publishedOn": "2023-01-31T00:07:43.000Z",
-          "wordCount": 1239,
-          "title": "JavaScript Require – How to Use the require() Function in JS",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/cover-template--11-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-dockerize-an-adonisjs-application/",
-          "author": "Solomon Eseme",
-          "description": "Creating software is hard. So you want to build it once and run it everywhere without adjusting configurations for different operating systems and machines every time. Well, this is one problem that dockerizing your application can help solve. Here's what we'll cover in this tutorial:  * What is Docker?",
-          "link": "https://www.freecodecamp.org/news/how-to-dockerize-an-adonisjs-application/",
-          "publishedOn": "2023-01-31T00:00:41.000Z",
-          "wordCount": 2461,
-          "title": "How to Dockerize an AdonisJS Application",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/pexels-pixabay-163726--1-.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/usereducer-hook-react/",
-          "author": "Kunal Nalawade",
-          "description": "State is an important part of a React application. Most functionalities involve making state updates in your component.  But as your application grows, state updates become more and more complex. These complex state updates might get overwhelming when you revisit your code. There is a different way of handling",
-          "link": "https://www.freecodecamp.org/news/usereducer-hook-react/",
-          "publishedOn": "2023-01-30T23:15:08.000Z",
-          "wordCount": 1587,
-          "title": "React Hooks Tutorial – How to Use the useReducer Hook",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/photo-1672309046475-4cce2039f342.jpeg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-get-a-remote-developer-job/",
-          "author": "George Field",
-          "description": "As the world continues to adapt to the new normal of remote work, the demand for remote developers has never been higher.  Companies are now realizing the benefits of hiring remote workers, including cost savings and access to a wider pool of talent.  If you're looking for a",
-          "link": "https://www.freecodecamp.org/news/how-to-get-a-remote-developer-job/",
-          "publishedOn": "2023-01-30T22:09:18.000Z",
-          "wordCount": 1974,
-          "title": "How to Find a Remote Developer Job in 2023",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/pexels-ekaterina-bolovtsova-4049459.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-lists-work-in-java/",
-          "author": "Ihechikara Vincent Abba",
-          "description": "You can use the Java List interface to store objects/elements in a an ordered collection. It extends the Collection interface.  TheList interface provides us with various methods for inserting, accessing, and deleting elements in a collection. In this article, you'll learn how to extend and implement the List interface",
-          "link": "https://www.freecodecamp.org/news/how-lists-work-in-java/",
-          "publishedOn": "2023-01-30T18:09:11.000Z",
-          "wordCount": 1310,
-          "title": "Java List – Example Lists in Java",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/java-list-interface-cover.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/google-sheets-multiple-data-validation-selections/",
-          "author": "Eamonn Cottrell",
-          "description": "In this article I will show you how to allow for multiple items to be selected using the drop-down data validation feature in Google Sheets. Here's the Google Sheet [https://docs.google.com/spreadsheets/d/1yxc4k1x5idcS_moQ1Bq8LnHGZF2nm9dpARglY7Rv0UI/edit#gid=390071620]  we'll use for the example. You can make a copy of this to edit yourself by clicking File ->",
-          "link": "https://www.freecodecamp.org/news/google-sheets-multiple-data-validation-selections/",
-          "publishedOn": "2023-01-30T17:30:58.000Z",
-          "wordCount": 2261,
-          "title": "Google Sheets Tutorial – How to Enable Multiple Selection Data Validation Using Apps Script",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/multiple-selection-data-validation.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/where-hot-tech-trends-go-to-die/",
-          "author": "David Clinton",
-          "description": "If you're interested in technology, you may also have an active interest in learning about hot technology trends.  But you don't want to take every last one of these gadgets and business fads too seriously: some are bound to disappoint.  (Although don't think you can hold me personally",
-          "link": "https://www.freecodecamp.org/news/where-hot-tech-trends-go-to-die/",
-          "publishedOn": "2023-01-30T17:17:50.000Z",
-          "wordCount": 2343,
-          "title": "Where Hot Trends Go to Die – What We Can Learn from Failed Tech Products",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/pexels-francesco-ungaro-998646.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/using-typescript-in-react-apps/",
-          "author": "Germán Cocca",
-          "description": "Hi everyone! A while ago I wrote an article about TypeScript [/news/an-introduction-to-typescript/], explaining its main features and why it's a good idea to use it in large projects.  Today we're going to take a quick look at how we can use TypeScript in a React app, so you can",
-          "link": "https://www.freecodecamp.org/news/using-typescript-in-react-apps/",
-          "publishedOn": "2023-01-30T16:59:27.000Z",
-          "wordCount": 1856,
-          "title": "How to Use TypeScript in React Apps",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/bruno-martins-OhJmwB4XWLE-unsplash.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/http-networking-protocol-course/",
-          "author": "Beau Carnes",
-          "description": "HTTP (Hypertext Transfer Protocol) is the foundation of data communication on the World Wide Web. It is used to transfer data from the client (web browser) to the server (web host) and vice versa. Understanding the basics of HTTP networking is crucial for anyone who wants to pursue a career",
-          "link": "https://www.freecodecamp.org/news/http-networking-protocol-course/",
-          "publishedOn": "2023-01-30T16:54:31.000Z",
-          "wordCount": 952,
-          "title": "Master the HTTP Networking Protocol",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/httpnetworking.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/vim-beginners-guide/",
-          "author": "Arunachalam B",
-          "description": "Vim is one of the most popular text editors among Linux users. Linux System Administrators especially often prefer it to other editors.  In this article, you'll learn a lot about Vim and see how you can quickly start using Vim as a developer. What is Vim?  Vim is",
-          "link": "https://www.freecodecamp.org/news/vim-beginners-guide/",
-          "publishedOn": "2023-01-30T16:08:32.000Z",
-          "wordCount": 2900,
-          "title": "How to Use Vim – Tutorial for Beginners",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/BB---Vim---A-Quick-Beginner-s-Guide.png"
         }
       ]
     }

@@ -2,10 +2,331 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://duyet.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-06T00:10:53.118Z</updated>
+    <updated>2023-03-07T00:11:21.950Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://duyet.github.io/rss/index.html"/>
     <link rel="self" href="https://duyet.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Five ways to soothe a mind overstimulated by anxiety, stress and information]]></title>
+        <id>https://www.nytimes.com/2022/03/14/well/mind/stress-anxiety-mind.html</id>
+        <link href="https://www.nytimes.com/2022/03/14/well/mind/stress-anxiety-mind.html"/>
+        <updated>2023-03-06T23:31:06.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cross-Domain Thinking Drives Insights and Innovation]]></title>
+        <id>https://markmcneilly.substack.com/p/cross-domain-thinking-drives-insights</id>
+        <link href="https://markmcneilly.substack.com/p/cross-domain-thinking-drives-insights"/>
+        <updated>2023-03-06T22:18:05.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What&#x27;s that smell? Detecting air quality with Python, Raspberry Pi, and Redis]]></title>
+        <id>https://2023.pythonwebconf.com/presentations/whats-that-smell-detecting-air-quality-with-python-raspberry-pi-and-redis</id>
+        <link href="https://2023.pythonwebconf.com/presentations/whats-that-smell-detecting-air-quality-with-python-raspberry-pi-and-redis"/>
+        <updated>2023-03-06T22:12:32.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use scanf( ) in C to Read and Store User Input]]></title>
+        <id>https://www.freecodecamp.org/news/using-scanf-in-c/</id>
+        <link href="https://www.freecodecamp.org/news/using-scanf-in-c/"/>
+        <updated>2023-03-06T21:59:30.000Z</updated>
+        <summary type="html"><![CDATA[The scanf() function is a commonly used input function in the C programming language. It allows you to read input from the user or from a file and store that input in variables of different data types.  Input is an essential part of most programs, and the scanf() function]]></summary>
+        <author>
+            <name>Valentine Gatwiri</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pedestrian Traffic Fatalities by State: 2022 Preliminary Data]]></title>
+        <id>https://www.ghsa.org/resources/Pedestrians23</id>
+        <link href="https://www.ghsa.org/resources/Pedestrians23"/>
+        <updated>2023-03-06T21:58:40.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Europe&#x27;s big tech bill is coming to fruition]]></title>
+        <id>https://www.technologyreview.com/2023/03/06/1069391/safer-internet-dsa-dma-eu/</id>
+        <link href="https://www.technologyreview.com/2023/03/06/1069391/safer-internet-dsa-dma-eu/"/>
+        <updated>2023-03-06T20:40:18.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Open-source Stable Diffusion plug-in for Photoshop]]></title>
+        <id>https://github.com/AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin</id>
+        <link href="https://github.com/AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin"/>
+        <updated>2023-03-06T19:54:16.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Total.js – Low-code development (Node-RED alternative)]]></title>
+        <id>https://www.totaljs.com/flow/</id>
+        <link href="https://www.totaljs.com/flow/"/>
+        <updated>2023-03-06T19:09:55.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rendering Patterns for Web Apps – Server-Side, Client-Side, and SSG Explained]]></title>
+        <id>https://www.freecodecamp.org/news/rendering-patterns/</id>
+        <link href="https://www.freecodecamp.org/news/rendering-patterns/"/>
+        <updated>2023-03-06T18:22:40.000Z</updated>
+        <summary type="html"><![CDATA[Hi everyone! In this article we're going to take a look at the different rendering pattern options available nowadays for web applications. I'll start by explaining what a rendering pattern is, then go through each of the main options available. Finally we'll compare them, explaining the pros and cons and]]></summary>
+        <author>
+            <name>Germán Cocca</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rux: A JSX-inspired way to render view components in Ruby]]></title>
+        <id>https://github.com/camertron/rux</id>
+        <link href="https://github.com/camertron/rux"/>
+        <updated>2023-03-06T18:18:37.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Extract Data from PDF Files with Python]]></title>
+        <id>https://www.freecodecamp.org/news/extract-data-from-pdf-files-with-python/</id>
+        <link href="https://www.freecodecamp.org/news/extract-data-from-pdf-files-with-python/"/>
+        <updated>2023-03-06T17:51:46.000Z</updated>
+        <summary type="html"><![CDATA[Data is present in all areas of the modern digital world, and it takes many different forms.  One of the most common formats for data is PDF. Invoices, reports, and other forms are frequently stored in Portable Document Format (PDF) files by businesses and institutions.  It can be]]></summary>
+        <author>
+            <name>Shittu Olumide</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reliability: It’s Not Great]]></title>
+        <id>https://community.fly.io/t/reliability-its-not-great/11253</id>
+        <link href="https://community.fly.io/t/reliability-its-not-great/11253"/>
+        <updated>2023-03-06T17:47:28.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cities: Skylines II]]></title>
+        <id>https://store.steampowered.com/app/949230/Cities_Skylines_II/</id>
+        <link href="https://store.steampowered.com/app/949230/Cities_Skylines_II/"/>
+        <updated>2023-03-06T17:41:06.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Autonomous restructuring of asteroids into rotating space stations]]></title>
+        <id>https://arxiv.org/abs/2302.12353</id>
+        <link href="https://arxiv.org/abs/2302.12353"/>
+        <updated>2023-03-06T17:06:42.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Skio (YC S20) Is Hiring – Subscriptions for Shopify, ReCharge migrations]]></title>
+        <id>https://skio.com/careers/</id>
+        <link href="https://skio.com/careers/"/>
+        <updated>2023-03-06T17:00:12.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Understanding people matters more than understanding tech]]></title>
+        <id>https://letterstoanewdeveloper.com/2023/03/06/understanding-people-matters-more-than-understanding-tech/</id>
+        <link href="https://letterstoanewdeveloper.com/2023/03/06/understanding-people-matters-more-than-understanding-tech/"/>
+        <updated>2023-03-06T16:57:38.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Excel – How to Use Data Validation and Conditional Formatting to Prevent Errors]]></title>
+        <id>https://www.freecodecamp.org/news/excel-use-data-validation-and-conditional-formatting-to-prevent-errors/</id>
+        <link href="https://www.freecodecamp.org/news/excel-use-data-validation-and-conditional-formatting-to-prevent-errors/"/>
+        <updated>2023-03-06T16:41:05.000Z</updated>
+        <summary type="html"><![CDATA[I've been using Microsoft Excel and Google Sheets in my business for over a decade. And as I've learned better ways to clean and validate data, it's increased productivity, decreased human errors, and generally caused a lot of joy! 🥳 In this article, we'll look at two ways to validate]]></summary>
+        <author>
+            <name>Eamonn Cottrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Launch HN: Vellum (YC W23) – Dev Platform for LLM Apps]]></title>
+        <id>https://news.ycombinator.com/item?id=35042836</id>
+        <link href="https://news.ycombinator.com/item?id=35042836"/>
+        <updated>2023-03-06T16:20:38.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Inspiring Web Design And UX Showcases]]></title>
+        <id>https://smashingmagazine.com/2023/03/inspiring-web-design-ux-showcases/</id>
+        <link href="https://smashingmagazine.com/2023/03/inspiring-web-design-ux-showcases/"/>
+        <updated>2023-03-06T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Do you sometimes feel that all websites look the same? In this post, we compiled web design showcases that prove differently. They highlight some of the finest web designs, well-crafted experiences, and delightful interactions from across the web. Inspiration is guaranteed.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Waluigi Effect]]></title>
+        <id>https://www.lesswrong.com/posts/D7PumeYTDPfBTp3i7/the-waluigi-effect-mega-post</id>
+        <link href="https://www.lesswrong.com/posts/D7PumeYTDPfBTp3i7/the-waluigi-effect-mega-post"/>
+        <updated>2023-03-06T15:50:17.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Faster FastAPI with simdjson and io_uring on Linux 5.19]]></title>
+        <id>https://github.com/unum-cloud/ujrpc</id>
+        <link href="https://github.com/unum-cloud/ujrpc"/>
+        <updated>2023-03-06T15:41:23.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Managing Fonts in WordPress Block Themes]]></title>
+        <id>https://css-tricks.com/?p=377123</id>
+        <link href="https://css-tricks.com/managing-fonts-in-wordpress-block-themes/"/>
+        <updated>2023-03-06T15:26:31.000Z</updated>
+        <summary type="html"><![CDATA[Fonts are a defining characteristic of the design of any site. That includes WordPress themes, where it’s common for theme developers to integrate a service like Google Fonts into the WordPress Customizer settings for a “classic” PHP-based theme. That hasn’t …
+Managing Fonts in WordPress Block Themes originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Ganesh Dahal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Basic terminology and practices related to graph databases and graph modeling]]></title>
+        <id>https://memgraph.com/docs/memgraph/tutorials/graph-modeling</id>
+        <link href="https://memgraph.com/docs/memgraph/tutorials/graph-modeling"/>
+        <updated>2023-03-06T15:09:25.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I spent a week without IPv4 to understand IPv6 transition mechanisms]]></title>
+        <id>https://www.apalrd.net/posts/2023/network_ipv6/</id>
+        <link href="https://www.apalrd.net/posts/2023/network_ipv6/"/>
+        <updated>2023-03-06T15:06:14.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Search Files Effectively in the Linux Terminal – Advanced Guide]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-search-files-effectively-in-linux/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-search-files-effectively-in-linux/"/>
+        <updated>2023-03-06T14:58:04.000Z</updated>
+        <summary type="html"><![CDATA[Hello everyone! Thanks for your great feedback on my tutorial about the basics of the find command [/news/how-to-search-files-in-the-linux-terminal/]. After reading it, many people requested that I write a more advanced version about the  find command.  Well, here it is! Now, it's time to take your skills to the]]></summary>
+        <author>
+            <name>Arunachalam B</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Can ChatGPT Ensure Secure Coding Practices?]]></title>
+        <id>https://www.freecodecamp.org/news/chat-gpt-and-secure-coding/</id>
+        <link href="https://www.freecodecamp.org/news/chat-gpt-and-secure-coding/"/>
+        <updated>2023-03-06T14:56:56.000Z</updated>
+        <summary type="html"><![CDATA[ChatGPT has been in the news a lot recently. The hype around it continues, and many are concerned that this AI service might put many out of work.  Developers in particular feel threatened by this AI bot’s ability to write code on the fly. The general consensus is, however,]]></summary>
+        <author>
+            <name>Andrej Kovacevic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cargo cult science (1974)]]></title>
+        <id>http://calteches.library.caltech.edu/51/2/CargoCult.htm</id>
+        <link href="http://calteches.library.caltech.edu/51/2/CargoCult.htm"/>
+        <updated>2023-03-06T14:41:04.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Want an unfair advantage in your tech career? Consume content for other roles]]></title>
+        <id>https://matthewgrohman.substack.com/p/want-an-unfair-advantage-in-your</id>
+        <link href="https://matthewgrohman.substack.com/p/want-an-unfair-advantage-in-your"/>
+        <updated>2023-03-06T12:27:06.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Simple Log Alerts to Slack]]></title>
+        <id>https://profitview.net/blog/simple-effective-system-alerts</id>
+        <link href="https://profitview.net/blog/simple-effective-system-alerts"/>
+        <updated>2023-03-06T10:10:42.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mr. Rodgers&#x27;s Neighborhood (2011)]]></title>
+        <id>http://www.nilerodgers.com/about/press/3-new-york-times-mr-rodgerss-neighborhood</id>
+        <link href="http://www.nilerodgers.com/about/press/3-new-york-times-mr-rodgerss-neighborhood"/>
+        <updated>2023-03-06T06:21:21.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Purple-Teams: MS Teams Plugin for Pidgin (2022)]]></title>
+        <id>https://github.com/EionRobb/purple-teams</id>
+        <link href="https://github.com/EionRobb/purple-teams"/>
+        <updated>2023-03-06T04:46:50.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Word-as-image for semantic typography]]></title>
+        <id>https://wordasimage.github.io/Word-As-Image-Page/</id>
+        <link href="https://wordasimage.github.io/Word-As-Image-Page/"/>
+        <updated>2023-03-06T03:28:36.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Nomos Tangente: 30 năm chẳng cần thay đổi thiết kế]]></title>
         <id>https://tinhte.vn/thread/3639937/</id>
@@ -331,6 +652,16 @@ Hầu hết các smartphone gập đến từ...]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Social media is changing, and paid accounts are the response]]></title>
+        <id>https://www.bigtechnology.com/p/social-media-is-changing-and-paid</id>
+        <link href="https://www.bigtechnology.com/p/social-media-is-changing-and-paid"/>
+        <updated>2023-03-05T17:46:13.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Chủ sàn FTX muốn tại ngoại phải dùng điện thoại cơ bản, không internet]]></title>
         <id>https://tinhte.vn/thread/3641288/</id>
         <link href="https://tinhte.vn/thread/chu-san-ftx-muon-tai-ngoai-phai-dung-dien-thoai-co-ban-khong-internet.3641288/"/>
@@ -464,6 +795,16 @@ Nâng cấp đầu tiên và cũng đáng chú ý nhất là...]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[You just gotta tell a good story]]></title>
+        <id>https://kampheyapproved.medium.com/is-great-story-the-same-as-great-education-495d06cc097e</id>
+        <link href="https://kampheyapproved.medium.com/is-great-story-the-same-as-great-education-495d06cc097e"/>
+        <updated>2023-03-05T13:31:01.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Contexto: Find the Secret Word]]></title>
         <id>https://contexto.me/</id>
         <link href="https://contexto.me/"/>
@@ -478,6 +819,16 @@ Nâng cấp đầu tiên và cũng đáng chú ý nhất là...]]></summary>
         <id>https://www.abortretry.fail/p/so-powerful-its-kind-of-ridiculous</id>
         <link href="https://www.abortretry.fail/p/so-powerful-its-kind-of-ridiculous"/>
         <updated>2023-03-05T04:13:32.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mina Miller Edison]]></title>
+        <id>https://www.smithsonianmag.com/history/mina-miller-edison-was-more-than-the-wife-of-the-wizard-of-menlo-park-180981726/</id>
+        <link href="https://www.smithsonianmag.com/history/mina-miller-edison-was-more-than-the-wife-of-the-wizard-of-menlo-park-180981726/"/>
+        <updated>2023-03-05T03:45:19.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -824,6 +1175,16 @@ Taxi đầu tiên chạy bằng ngựa của London xuất hiện vào thế k�
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[From Function Level Semantics to Program Transformation and Optimization (1985)]]></title>
+        <id>https://link.springer.com/content/pdf/10.1007/3-540-15198-2_5.pdf?pdf=inline%20link</id>
+        <link href="https://link.springer.com/content/pdf/10.1007/3-540-15198-2_5.pdf?pdf=inline%20link"/>
+        <updated>2023-03-04T13:37:06.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Cây cầu độc đáo ở Anh, có thể lăn 180 độ cho tàu thuyền lưu thông]]></title>
         <id>https://tinhte.vn/thread/3640945/</id>
         <link href="https://tinhte.vn/thread/cay-cau-doc-dao-o-anh-co-the-lan-180-do-cho-tau-thuyen-luu-thong.3640945/"/>
@@ -878,6 +1239,16 @@ Taxi đầu tiên chạy bằng ngựa của London xuất hiện vào thế k�
         <id>https://www.collabora.com/news-and-blog/blog/2023/03/03/oxidizing-bmap-tools-rewriting-a-python-project-in-rust/</id>
         <link href="https://www.collabora.com/news-and-blog/blog/2023/03/03/oxidizing-bmap-tools-rewriting-a-python-project-in-rust/"/>
         <updated>2023-03-04T11:43:13.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Inverted computer culture: A thought experiment]]></title>
+        <id>http://viznut.fi/texts-en/inverted_computer_culture.html</id>
+        <link href="http://viznut.fi/texts-en/inverted_computer_culture.html"/>
+        <updated>2023-03-04T07:59:09.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -1238,6 +1609,16 @@ Taxi đầu tiên chạy bằng ngựa của London xuất hiện vào thế k�
         <id>https://signia.tldraw.dev/docs/what-are-signals</id>
         <link href="https://signia.tldraw.dev/docs/what-are-signals"/>
         <updated>2023-03-03T13:38:21.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nalanda University flourished for more than seven centuries]]></title>
+        <id>https://www.bbc.com/travel/article/20230222-nalanda-the-university-that-changed-the-world</id>
+        <link href="https://www.bbc.com/travel/article/20230222-nalanda-the-university-that-changed-the-world"/>
+        <updated>2023-03-03T13:08:43.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -13732,16 +14113,6 @@ The Double Emphasis Thing originally published on CSS-Tricks, which is part of t
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A patch to enable Windows Subsystem for Android to run on Windows 10]]></title>
-        <id>https://github.com/cinit/WSAPatch</id>
-        <link href="https://github.com/cinit/WSAPatch"/>
-        <updated>2023-02-05T12:06:33.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Nghiên cứu: Nạn săn trộm voi không phải do lòng tham con người, mà do cái nghèo]]></title>
         <id>https://tinhte.vn/thread/3630335/</id>
         <link href="https://tinhte.vn/thread/nghien-cuu-nan-san-trom-voi-khong-phai-do-long-tham-con-nguoi-ma-do-cai-ngheo.3630335/"/>
@@ -13749,226 +14120,6 @@ The Double Emphasis Thing originally published on CSS-Tricks, which is part of t
         <summary type="html"><![CDATA[Một nghiên cứu kéo dài gần 20 năm trên hàng ngàn vụ săn trộm voi ở 30 quốc gia Châu Phi, thực hiện bởi ĐH Oxford, ĐH Cape Town và Liên Hợp Quốc, đưa ra kết luận rằng nạn săn trộm voi có liên quan...]]></summary>
         <author>
             <name>Nam Air</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Missing Piece Meets the Big O]]></title>
-        <id>https://newsletter.butwhatfor.com/p/takeaway-tuesday-the-missing-piece</id>
-        <link href="https://newsletter.butwhatfor.com/p/takeaway-tuesday-the-missing-piece"/>
-        <updated>2023-02-05T11:28:06.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lightweight Kubernetes Operators with WebAssembly – FOSDEM 2023 [video]]]></title>
-        <id>https://www.youtube.com/watch?v=E5o81Wldshk</id>
-        <link href="https://www.youtube.com/watch?v=E5o81Wldshk"/>
-        <updated>2023-02-05T11:24:51.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Antarctica as a ‘natural laboratory’ for assessment of early stone tool sites]]></title>
-        <id>https://www.cambridge.org/core/journals/antiquity/article/antarctica-as-a-natural-laboratory-for-the-critical-assessment-of-the-archaeological-validity-of-early-stone-tool-sites/EFFB15FEC38834385862AE8F3DDE1462</id>
-        <link href="https://www.cambridge.org/core/journals/antiquity/article/antarctica-as-a-natural-laboratory-for-the-critical-assessment-of-the-archaeological-validity-of-early-stone-tool-sites/EFFB15FEC38834385862AE8F3DDE1462"/>
-        <updated>2023-02-04T22:33:09.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Go-like channels in 10 lines of JavaScript]]></title>
-        <id>https://pedrocattori.dev/blog/go-like-channels-in-10-lines-of-javascript</id>
-        <link href="https://pedrocattori.dev/blog/go-like-channels-in-10-lines-of-javascript"/>
-        <updated>2023-02-04T22:20:19.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Augmenting Human Intellect: A Conceptual Framework]]></title>
-        <id>https://www.dougengelbart.org/pubs/augment-3906.html</id>
-        <link href="https://www.dougengelbart.org/pubs/augment-3906.html"/>
-        <updated>2023-02-04T20:19:14.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[U.S. military shoots down suspected Chinese surveillance balloon]]></title>
-        <id>https://www.cnbc.com/2023/02/04/us-military-prepares-to-take-down-suspected-chinese-surveillance-balloon.html</id>
-        <link href="https://www.cnbc.com/2023/02/04/us-military-prepares-to-take-down-suspected-chinese-surveillance-balloon.html"/>
-        <updated>2023-02-04T20:04:46.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sussman Explains the End of SICP]]></title>
-        <id>https://irreal.org/blog/?p=11127</id>
-        <link href="https://irreal.org/blog/?p=11127"/>
-        <updated>2023-02-04T19:53:10.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Magic of Sampling, and Its Limitations]]></title>
-        <id>https://research.swtch.com/sample</id>
-        <link href="https://research.swtch.com/sample"/>
-        <updated>2023-02-04T19:53:02.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I hired 5 people to sit behind me and make me productive for a month]]></title>
-        <id>https://simonberens.co/</id>
-        <link href="https://simonberens.co/"/>
-        <updated>2023-02-04T19:46:53.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nostr.how – A Complete Guide to Nostr]]></title>
-        <id>https://www.nostr.how/</id>
-        <link href="https://www.nostr.how/"/>
-        <updated>2023-02-04T18:49:23.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Scalability is overrated]]></title>
-        <id>https://waseem.substack.com/p/scalability-is-overrated</id>
-        <link href="https://waseem.substack.com/p/scalability-is-overrated"/>
-        <updated>2023-02-04T18:32:48.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Libostree]]></title>
-        <id>https://ostreedev.github.io/ostree/</id>
-        <link href="https://ostreedev.github.io/ostree/"/>
-        <updated>2023-02-04T18:28:49.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fulcrum: an ergo-mechanical split keyboard with extra thumb functionality]]></title>
-        <id>https://github.com/dschil138/Fulcrum</id>
-        <link href="https://github.com/dschil138/Fulcrum"/>
-        <updated>2023-02-04T18:18:22.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Solar Kiln to dry wood. Overview, design and build (2019)]]></title>
-        <id>https://www.adrianpreda.com/blog/solar-kiln</id>
-        <link href="https://www.adrianpreda.com/blog/solar-kiln"/>
-        <updated>2023-02-04T17:26:44.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[yq: command-line YAML, JSON, XML, CSV and properties processor]]></title>
-        <id>https://github.com/mikefarah/yq</id>
-        <link href="https://github.com/mikefarah/yq"/>
-        <updated>2023-02-04T17:09:33.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Understanding the limits of large language models]]></title>
-        <id>https://inorris.com/Blog/GPT/</id>
-        <link href="https://inorris.com/Blog/GPT/"/>
-        <updated>2023-02-04T17:08:39.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Patterns (YC S21) is hiring to build the best AI app dev platform]]></title>
-        <id>https://www.ycombinator.com/companies/patterns</id>
-        <link href="https://www.ycombinator.com/companies/patterns"/>
-        <updated>2023-02-04T17:00:50.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mantis shrimp eyes]]></title>
-        <id>https://ryanblakeley.net/p/mantis-shrimp-eyes</id>
-        <link href="https://ryanblakeley.net/p/mantis-shrimp-eyes"/>
-        <updated>2023-02-04T16:51:03.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LVFS – Linux Vendor Firmware Service]]></title>
-        <id>https://fwupd.org/</id>
-        <link href="https://fwupd.org/"/>
-        <updated>2023-02-04T15:41:10.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Open Assistant – project meant to give everyone access to a great chat based LLM]]></title>
-        <id>https://github.com/LAION-AI/Open-Assistant</id>
-        <link href="https://github.com/LAION-AI/Open-Assistant"/>
-        <updated>2023-02-04T14:56:35.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Open Assistant: Conversational AI for Everyone]]></title>
-        <id>https://open-assistant.io/</id>
-        <link href="https://open-assistant.io/"/>
-        <updated>2023-02-04T14:39:35.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[De-Bloated Windows 11 Build Runs on 2GB of RAM]]></title>
-        <id>https://www.tomshardware.com/news/tiny11-lean-windows-11</id>
-        <link href="https://www.tomshardware.com/news/tiny11-lean-windows-11"/>
-        <updated>2023-02-04T14:17:25.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
         </author>
     </entry>
 </feed>

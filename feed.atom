@@ -2,10 +2,361 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://duyet.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-13T00:10:37.350Z</updated>
+    <updated>2023-03-14T00:09:44.202Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://duyet.github.io/rss/index.html"/>
     <link rel="self" href="https://duyet.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Instagram Is Disabling Its NFT Features]]></title>
+        <id>https://nftnow.com/news/breaking-instagram-is-sunsetting-digital-collectibles-nfts/</id>
+        <link href="https://nftnow.com/news/breaking-instagram-is-sunsetting-digital-collectibles-nfts/"/>
+        <updated>2023-03-13T22:41:51.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Switching from C++ to Rust]]></title>
+        <id>https://laplab.me/posts/switching-from-cpp-to-rust/</id>
+        <link href="https://laplab.me/posts/switching-from-cpp-to-rust/"/>
+        <updated>2023-03-13T22:01:07.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Matplotlib Add Color – How To Change Line Color in Matplotlib]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-change-color-in-matplotlip/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-change-color-in-matplotlip/"/>
+        <updated>2023-03-13T21:55:25.000Z</updated>
+        <summary type="html"><![CDATA[Matplotlib is a Python library used for data visualization [/news/data-visualization-tools-guide], and creating interactive plots and graphs.  In this article, you'll learn how to add colors to your Matplotlib plots using parameter values provided by the Matplotlib plot() function. You'll learn how to change the color of a plot using:]]></summary>
+        <author>
+            <name>Ihechikara Vincent Abba</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[pandas.DataFrame.sort_values - How To Sort Values in Pandas]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-sort-values-in-pandas/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-sort-values-in-pandas/"/>
+        <updated>2023-03-13T21:52:10.000Z</updated>
+        <summary type="html"><![CDATA[When analyzing and manipulating data using Pandas, you might want to sort the data in a certain order. This makes it easier to understand and visualize data. In this article, you'll learn how to sort data in ascending and descending order using Pandas' sort_values() method.  How To Sort Values]]></summary>
+        <author>
+            <name>Ihechikara Vincent Abba</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pandas round() Method – How To Round a Float in Pandas]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-round-a-float-in-pandas/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-round-a-float-in-pandas/"/>
+        <updated>2023-03-13T21:49:09.000Z</updated>
+        <summary type="html"><![CDATA[You can use the Pandas library in Python to manipulate and analyze data. In most cases, it is used for manipulating and analyzing tabular data.  In this article, you'll learn how to use the Pandas round() method to round a float value to a specified number of decimal places.]]></summary>
+        <author>
+            <name>Ihechikara Vincent Abba</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask HN: Has anyone made the transition from app development to ML&#x2F;AI work?]]></title>
+        <id>https://news.ycombinator.com/item?id=35143213</id>
+        <link href="https://news.ycombinator.com/item?id=35143213"/>
+        <updated>2023-03-13T21:40:00.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Counter – Simple and Free Web Analytics]]></title>
+        <id>https://counter.dev/</id>
+        <link href="https://counter.dev/"/>
+        <updated>2023-03-13T21:29:21.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LNER Peppercorn Class A1 60163 Tornado]]></title>
+        <id>https://en.wikipedia.org/wiki/LNER_Peppercorn_Class_A1_60163_Tornado</id>
+        <link href="https://en.wikipedia.org/wiki/LNER_Peppercorn_Class_A1_60163_Tornado"/>
+        <updated>2023-03-13T21:25:44.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Experian is a pile of dark pattern garbage]]></title>
+        <id>https://blog.benton.io/post/711712394255138816/experian-is-a-pile-of-dark-pattern-garbage</id>
+        <link href="https://blog.benton.io/post/711712394255138816/experian-is-a-pile-of-dark-pattern-garbage"/>
+        <updated>2023-03-13T21:14:53.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gitlab loses one-third of its value after company issues weak rev forecast]]></title>
+        <id>https://www.cnbc.com/2023/03/13/gitlab-gtlb-earnings-q4-2023.html</id>
+        <link href="https://www.cnbc.com/2023/03/13/gitlab-gtlb-earnings-q4-2023.html"/>
+        <updated>2023-03-13T21:14:31.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SVB insider says employees are angry with CEO]]></title>
+        <id>https://www.cnn.com/2023/03/13/business/svb-employees-angry-at-ceo/index.html</id>
+        <link href="https://www.cnn.com/2023/03/13/business/svb-employees-angry-at-ceo/index.html"/>
+        <updated>2023-03-13T21:05:34.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Generating aerial imagery with your iPhone&#x27;s Lidar sensor]]></title>
+        <id>https://jakecoppinger.com/2023/03/generating-aerial-imagery-with-your-iphones-lidar-sensor/</id>
+        <link href="https://jakecoppinger.com/2023/03/generating-aerial-imagery-with-your-iphones-lidar-sensor/"/>
+        <updated>2023-03-13T21:03:41.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bitmovin (YC S15) is hiring a senior customer success manager in the US]]></title>
+        <id>https://bitmovin.com/careers/6626296002/</id>
+        <link href="https://bitmovin.com/careers/6626296002/"/>
+        <updated>2023-03-13T21:00:17.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[California cancels salmon fishing season]]></title>
+        <id>https://www.cbsnews.com/sanfrancisco/news/california-cancels-salmon-fishing-season/</id>
+        <link href="https://www.cbsnews.com/sanfrancisco/news/california-cancels-salmon-fishing-season/"/>
+        <updated>2023-03-13T20:57:22.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Changes at YC]]></title>
+        <id>https://www.ycombinator.com/blog/changes-at-yc/</id>
+        <link href="https://www.ycombinator.com/blog/changes-at-yc/"/>
+        <updated>2023-03-13T20:42:55.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stanford Alpaca, and the acceleration of on-device LLM development]]></title>
+        <id>https://simonwillison.net/2023/Mar/13/alpaca/</id>
+        <link href="https://simonwillison.net/2023/Mar/13/alpaca/"/>
+        <updated>2023-03-13T19:54:37.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mock Data Science Job Interview]]></title>
+        <id>https://www.freecodecamp.org/news/mock-data-science-job-interview/</id>
+        <link href="https://www.freecodecamp.org/news/mock-data-science-job-interview/"/>
+        <updated>2023-03-13T19:52:54.000Z</updated>
+        <summary type="html"><![CDATA[Are you currently in the job market for a data-focused role? Or perhaps you are looking to expand your understanding of the machine learning process? If so, then we have just the video for you! We just published a mock data science job interview on the freeCodeCamp.org YouTube channel. This]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Common Errors in Python and How to Fix Them]]></title>
+        <id>https://www.freecodecamp.org/news/common-errors-in-python-and-how-to-fix-them/</id>
+        <link href="https://www.freecodecamp.org/news/common-errors-in-python-and-how-to-fix-them/"/>
+        <updated>2023-03-13T19:07:43.000Z</updated>
+        <summary type="html"><![CDATA[Python is a popular programming language that is easy to learn and use. But like any programming language, Python is prone to errors.  In this tutorial, we'll cover some of the most common errors in Python and how to fix them. Syntax Errors in Python Syntax errors occur when]]></summary>
+        <author>
+            <name>Oluseye Jeremiah</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a React App – A Walkthrough of the Many Different Ways]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-build-a-react-app-different-ways/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-a-react-app-different-ways/"/>
+        <updated>2023-03-13T19:01:24.000Z</updated>
+        <summary type="html"><![CDATA[Hi everyone! In this article we're going to take a look at some of the many ways you can build a React application these days. We'll compare their main characteristics, along with their pros and cons. We'll start by explaining what React is and what improvements it brought over the]]></summary>
+        <author>
+            <name>Germán Cocca</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Create Custom Named Functions in Google Sheets]]></title>
+        <id>https://www.freecodecamp.org/news/google-sheets-how-to-create-custom-named-functions/</id>
+        <link href="https://www.freecodecamp.org/news/google-sheets-how-to-create-custom-named-functions/"/>
+        <updated>2023-03-13T17:56:24.000Z</updated>
+        <summary type="html"><![CDATA[There are 513 built-in functions in Google Sheets at the time of this writing. But what if you needed a custom function that wasn't included?  In this tutorial, I'll show you how to create and use your own custom function in Google Sheets. Why would you need a custom]]></summary>
+        <author>
+            <name>Eamonn Cottrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Integer Array in C – How to Declare Int Arrays with C Programming]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-declare-integer-arrays-with-c-programming/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-declare-integer-arrays-with-c-programming/"/>
+        <updated>2023-03-13T17:22:07.000Z</updated>
+        <summary type="html"><![CDATA[In this article, you will learn how to work with arrays in C. I will first explain how to declare and initialize arrays. Then, I will also go over how to access and change items in an array in C with the help of code examples along the way. Let's]]></summary>
+        <author>
+            <name>Dionysia Lemonaki</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Write Common Date Functions in SQL with Examples]]></title>
+        <id>https://www.freecodecamp.org/news/common-date-functions-in-sql-with-examples/</id>
+        <link href="https://www.freecodecamp.org/news/common-date-functions-in-sql-with-examples/"/>
+        <updated>2023-03-13T16:49:25.000Z</updated>
+        <summary type="html"><![CDATA[When querying data from a database, you will frequently encounter the date datatype. Depending on what you want to achieve, you may need to extract subset information from the date column, perform some operation, and so on.  SQL provides a variety of date functions that can assist you with]]></summary>
+        <author>
+            <name>Ibrahim Abayomi Ogunbiyi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Launch HN: Electric Air (YC W23) – Heat pump sold directly to homeowners]]></title>
+        <id>https://news.ycombinator.com/item?id=35138319</id>
+        <link href="https://news.ycombinator.com/item?id=35138319"/>
+        <updated>2023-03-13T16:45:07.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Launch HN: Pynecone (YC W23) – Web Apps in Pure Python]]></title>
+        <id>https://news.ycombinator.com/item?id=35136827</id>
+        <link href="https://news.ycombinator.com/item?id=35136827"/>
+        <updated>2023-03-13T15:14:02.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Alpaca: A strong open-source instruction-following model]]></title>
+        <id>https://crfm.stanford.edu/2023/03/13/alpaca.html</id>
+        <link href="https://crfm.stanford.edu/2023/03/13/alpaca.html"/>
+        <updated>2023-03-13T15:01:23.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Medicare Advantage plans use algorithms to cut off care]]></title>
+        <id>https://www.statnews.com/2023/03/13/medicare-advantage-plans-denial-artificial-intelligence/</id>
+        <link href="https://www.statnews.com/2023/03/13/medicare-advantage-plans-denial-artificial-intelligence/"/>
+        <updated>2023-03-13T14:11:33.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Web0.cc – Generate clutter, ad and tracker free article pages to share]]></title>
+        <id>https://web0.cc/</id>
+        <link href="https://web0.cc/"/>
+        <updated>2023-03-13T13:55:49.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Making Calendars With Accessibility and Internationalization in Mind]]></title>
+        <id>https://css-tricks.com/?p=376950</id>
+        <link href="https://css-tricks.com/making-calendars-with-accessibility-and-internationalization-in-mind/"/>
+        <updated>2023-03-13T13:23:52.000Z</updated>
+        <summary type="html"><![CDATA[Doing a quick search here on CSS-Tricks shows just how many different ways there are to approach calendars. Some show how CSS Grid can create the layout efficiently. Some attempt to bring actual data into the mix. Some …
+Making Calendars With Accessibility and Internationalization in Mind originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Mads Stoumann</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Facebook confirms it will drop news sharing in Canada under bill C-18]]></title>
+        <id>https://www.michaelgeist.ca/2023/03/the-consequence-of-mandated-payments-for-links-facebook-confirms-it-will-drop-news-sharing-in-canada-under-bill-c-18/</id>
+        <link href="https://www.michaelgeist.ca/2023/03/the-consequence-of-mandated-payments-for-links-facebook-confirms-it-will-drop-news-sharing-in-canada-under-bill-c-18/"/>
+        <updated>2023-03-13T12:25:40.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Peppercorn (law)]]></title>
+        <id>https://en.wikipedia.org/wiki/Peppercorn_(law)</id>
+        <link href="https://en.wikipedia.org/wiki/Peppercorn_(law)"/>
+        <updated>2023-03-13T12:16:20.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An end to typographic widows on the web]]></title>
+        <id>https://clagnut.com/blog/2424</id>
+        <link href="https://clagnut.com/blog/2424"/>
+        <updated>2023-03-13T11:16:15.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tiny-C Compiler (2001)]]></title>
+        <id>http://www.iro.umontreal.ca/~felipe/IFT2030-Automne2002/Complements/tinyc.c</id>
+        <link href="http://www.iro.umontreal.ca/~felipe/IFT2030-Automne2002/Complements/tinyc.c"/>
+        <updated>2023-03-13T10:30:48.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bunki, a C Coroutine Library]]></title>
+        <id>https://github.com/Keith-Cancel/Bunki</id>
+        <link href="https://github.com/Keith-Cancel/Bunki"/>
+        <updated>2023-03-13T09:16:34.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Things I learned after getting users]]></title>
+        <id>https://basementcommunity.bearblog.dev/things-i-learned/</id>
+        <link href="https://basementcommunity.bearblog.dev/things-i-learned/"/>
+        <updated>2023-03-13T07:15:06.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Python virtual environments work]]></title>
+        <id>https://snarky.ca/how-virtual-environments-work/</id>
+        <link href="https://snarky.ca/how-virtual-environments-work/"/>
+        <updated>2023-03-13T05:10:12.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Một ngày với iPhone 14 Pro]]></title>
         <id>https://tinhte.vn/thread/3640294/</id>
@@ -211,6 +562,16 @@
         <id>https://tromp.github.io/cl/cl.html</id>
         <link href="https://tromp.github.io/cl/cl.html"/>
         <updated>2023-03-12T20:29:20.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Interpreting Eric Hobsbawm&#x27;s History of the Fin de Siècle ‘Twilight Zone’]]></title>
+        <id>https://www.cambridge.org/core/journals/historical-journal/article/interpreting-eric-hobsbawms-history-of-the-fin-de-siecle-twilight-zone/E961FE213282697D3E6853E9924940FC</id>
+        <link href="https://www.cambridge.org/core/journals/historical-journal/article/interpreting-eric-hobsbawms-history-of-the-fin-de-siecle-twilight-zone/E961FE213282697D3E6853E9924940FC"/>
+        <updated>2023-03-12T20:09:12.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -424,6 +785,16 @@ Người...]]></summary>
         <id>https://github.com/pgrok/pgrok</id>
         <link href="https://github.com/pgrok/pgrok"/>
         <updated>2023-03-12T12:23:19.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Baldwin Lee on his rediscovered images of the deep south]]></title>
+        <id>https://www.theguardian.com/artanddesign/2023/mar/11/it-stunned-me-that-people-had-to-live-like-this-baldwin-lee-rediscovered-images-deep-south-southern-portrait</id>
+        <link href="https://www.theguardian.com/artanddesign/2023/mar/11/it-stunned-me-that-people-had-to-live-like-this-baldwin-lee-rediscovered-images-deep-south-southern-portrait"/>
+        <updated>2023-03-12T12:07:33.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -660,10 +1031,30 @@ Người...]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[The Uncanny Failures of A.I.-Generated Hands]]></title>
+        <id>https://www.newyorker.com/culture/rabbit-holes/the-uncanny-failures-of-ai-generated-hands</id>
+        <link href="https://www.newyorker.com/culture/rabbit-holes/the-uncanny-failures-of-ai-generated-hands"/>
+        <updated>2023-03-11T14:57:36.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Common Beginner Mistakes with React]]></title>
         <id>https://www.joshwcomeau.com/react/common-beginner-mistakes/</id>
         <link href="https://www.joshwcomeau.com/react/common-beginner-mistakes/"/>
         <updated>2023-03-11T14:48:55.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Knots smaller than human hair make materials unusually tough]]></title>
+        <id>https://www.caltech.edu/about/news/knots-smaller-than-human-hair-make-materials-unusually-tough</id>
+        <link href="https://www.caltech.edu/about/news/knots-smaller-than-human-hair-make-materials-unusually-tough"/>
+        <updated>2023-03-11T14:20:37.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -714,6 +1105,16 @@ Người...]]></summary>
         <id>https://github.com/ptitSeb/box64</id>
         <link href="https://github.com/ptitSeb/box64"/>
         <updated>2023-03-11T11:27:02.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Debugging Architects]]></title>
+        <id>https://architectelevator.com/transformation/debugging-architect/</id>
+        <link href="https://architectelevator.com/transformation/debugging-architect/"/>
+        <updated>2023-03-11T10:14:03.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -12958,36 +13359,6 @@ Nội dung được...]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Simple Physics-based Flight Simulation with C++]]></title>
-        <id>https://www.jakobmaier.at/posts/flight-simulation/</id>
-        <link href="https://www.jakobmaier.at/posts/flight-simulation/"/>
-        <updated>2023-02-12T09:46:54.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[On Being the Ideal Reader of Tom Wolfe’s School of New Journalism (2018)]]></title>
-        <id>https://www.newyorker.com/culture/cultural-comment/on-being-the-ideal-reader-of-tom-wolfes-school-of-new-journalism</id>
-        <link href="https://www.newyorker.com/culture/cultural-comment/on-being-the-ideal-reader-of-tom-wolfes-school-of-new-journalism"/>
-        <updated>2023-02-12T07:08:06.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mirror Fever: The history of mirror halls in France and China]]></title>
-        <id>https://www.laphamsquarterly.org/roundtable/mirror-fever</id>
-        <link href="https://www.laphamsquarterly.org/roundtable/mirror-fever"/>
-        <updated>2023-02-12T02:50:19.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Ảnh chụp dưới nước bằng iPhone 14 Pro Max, chưa đã nhưng dùng được]]></title>
         <id>https://tinhte.vn/thread/3632471/</id>
         <link href="https://tinhte.vn/thread/anh-chup-duoi-nuoc-bang-iphone-14-pro-max-chua-da-nhung-dung-duoc.3632471/"/>
@@ -13005,16 +13376,6 @@ Nội dung được...]]></summary>
         <summary type="html"><![CDATA[Mời anh em xem qua hình ảnh chụp bởi 4 chiếc điện thoại cao cấp trong đó chiếc Samsung Galaxy S23 Ultra mới ra mắt so sánh với 3 chiếc điện thoại là iPhone 14 Pro, top 10 DxO Mark là Vivo X90...]]></summary>
         <author>
             <name>Hoàng Hải.</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Toll of Layoff Anxiety]]></title>
-        <id>https://www.bbc.com/worklife/article/20230203-stress-anxiety-global-layoffs</id>
-        <link href="https://www.bbc.com/worklife/article/20230203-stress-anxiety-global-layoffs"/>
-        <updated>2023-02-11T23:50:32.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
         </author>
     </entry>
     <entry>
@@ -13037,16 +13398,6 @@ Disney vừa công bố báo cáo tài chính Q1 năm tài khóa 2023, tương �
         <summary type="html"><![CDATA[Vào thời nội chiến Mỹ đã có một sự kiện thú vị mà gần 140 năm sau mới được giải đáp. Đó là những người lính của cả 2 phe bị thương trong trận Shiloh (6 - 7 tháng 4 năm 1862) phát hiện ra vết...]]></summary>
         <author>
             <name>bk9sw</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Another UFO shot down over Canada by US]]></title>
-        <id>https://www.reuters.com/world/us/us-still-gives-no-details-about-alaska-ufo-new-object-seen-over-canada-2023-02-11/</id>
-        <link href="https://www.reuters.com/world/us/us-still-gives-no-details-about-alaska-ufo-new-object-seen-over-canada-2023-02-11/"/>
-        <updated>2023-02-11T23:28:23.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
         </author>
     </entry>
     <entry>
@@ -13079,16 +13430,6 @@ Hộp của...]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Toolformer: Language Models Can Teach Themselves to Use Tools]]></title>
-        <id>https://arxiv.org/abs/2302.04761</id>
-        <link href="https://arxiv.org/abs/2302.04761"/>
-        <updated>2023-02-11T22:52:17.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Hình ảnh: Cứu hộ nạn nhân động đất hôm 6/2 ở Syria & Thổ Nhĩ Kỳ]]></title>
         <id>https://tinhte.vn/thread/3631277/</id>
         <link href="https://tinhte.vn/thread/hinh-anh-cuu-ho-nan-nhan-dong-dat-hom-6-2-o-syria-tho-nhi-ky.3631277/"/>
@@ -13109,36 +13450,6 @@ Hộp của...]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[British woman undertakes trip from London to Edinburgh using only £2 local buses]]></title>
-        <id>https://www.theguardian.com/uk-news/2023/feb/11/twitter-gets-behind-womans-london-to-edinburgh-local-bus-expedition</id>
-        <link href="https://www.theguardian.com/uk-news/2023/feb/11/twitter-gets-behind-womans-london-to-edinburgh-local-bus-expedition"/>
-        <updated>2023-02-11T22:24:44.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PM ordered take down of an unidentified object that violated Canadian airspace]]></title>
-        <id>https://twitter.com/JustinTrudeau/status/1624527581331554306</id>
-        <link href="https://twitter.com/JustinTrudeau/status/1624527581331554306"/>
-        <updated>2023-02-11T22:11:26.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why does the SARS-Cov2 genome end in aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa? (2020)]]></title>
-        <id>https://bioinformatics.stackexchange.com/questions/11227/why-does-the-sars-cov2-coronavirus-genome-end-in-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</id>
-        <link href="https://bioinformatics.stackexchange.com/questions/11227/why-does-the-sars-cov2-coronavirus-genome-end-in-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"/>
-        <updated>2023-02-11T22:05:12.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Luật sư ở Brazil thiệt mạng vì đeo súng lục vô phòng chụp MRI, từ trường làm súng cướp cò]]></title>
         <id>https://tinhte.vn/thread/3632425/</id>
         <link href="https://tinhte.vn/thread/luat-su-o-brazil-thiet-mang-vi-deo-sung-luc-vo-phong-chup-mri-tu-truong-lam-sung-cuop-co.3632425/"/>
@@ -13149,16 +13460,6 @@ Hộp của...]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Deep learning for twelve hour precipitation forecasts]]></title>
-        <id>https://www.nature.com/articles/s41467-022-32483-x</id>
-        <link href="https://www.nature.com/articles/s41467-022-32483-x"/>
-        <updated>2023-02-11T21:26:24.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Tổng hợp thông tin về Apple CarPlay thế hệ mới: thiết kế mới, tích hợp sâu hơn với xe ô tô…]]></title>
         <id>https://tinhte.vn/thread/3630662/</id>
         <link href="https://tinhte.vn/thread/tong-hop-thong-tin-ve-apple-carplay-the-he-moi-thiet-ke-moi-tich-hop-sau-hon-voi-xe-o-to.3630662/"/>
@@ -13166,56 +13467,6 @@ Hộp của...]]></summary>
         <summary type="html"><![CDATA[Apple đã công bố “thế hệ tiếp theo của CarPlay” tại WWDC vào tháng 6 năm ngoái. Giao diện CarPlay mới này sẽ ra mắt trên những chiếc ô tô thế hệ mới ngay sau năm nay và mang đến những sự thay đổi...]]></summary>
         <author>
             <name>vn_ninja</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pangram]]></title>
-        <id>https://en.wikipedia.org/wiki/Pangram</id>
-        <link href="https://en.wikipedia.org/wiki/Pangram"/>
-        <updated>2023-02-11T20:51:39.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Log collector that runs on a $4 VPS]]></title>
-        <id>https://github.com/Nevin1901/erlog</id>
-        <link href="https://github.com/Nevin1901/erlog"/>
-        <updated>2023-02-11T20:44:32.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The creator of North Korean hackers’ new favorite crypto privacy service]]></title>
-        <id>https://www.wired.com/story/sinbad-crypto-mixer-north-korean-hackers/</id>
-        <link href="https://www.wired.com/story/sinbad-crypto-mixer-north-korean-hackers/"/>
-        <updated>2023-02-11T20:27:54.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Silurian Hypothesis]]></title>
-        <id>https://en.wikipedia.org/wiki/Silurian_hypothesis</id>
-        <link href="https://en.wikipedia.org/wiki/Silurian_hypothesis"/>
-        <updated>2023-02-11T20:23:05.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Billions of celestial objects revealed in survey of the Milky Way]]></title>
-        <id>https://noirlab.edu/public/news/noirlab2301/</id>
-        <link href="https://noirlab.edu/public/news/noirlab2301/"/>
-        <updated>2023-02-11T20:16:01.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
         </author>
     </entry>
     <entry>
@@ -13231,76 +13482,6 @@ Hộp của...]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Toward policy for open-source software as infrastructure]]></title>
-        <id>https://www.atlanticcouncil.org/in-depth-research-reports/report/open-source-software-as-infrastructure/</id>
-        <link href="https://www.atlanticcouncil.org/in-depth-research-reports/report/open-source-software-as-infrastructure/"/>
-        <updated>2023-02-11T19:18:12.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Legend of Abraham Wald]]></title>
-        <id>https://www.privatdozent.co/p/the-legend-of-abraham-wald</id>
-        <link href="https://www.privatdozent.co/p/the-legend-of-abraham-wald"/>
-        <updated>2023-02-11T18:53:04.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An FDA-approved asthma drug has shown the ability to restore memories in mice]]></title>
-        <id>https://thedebrief.org/magic-drug-restores-lost-memories-and-unleashes-hidden-knowledge/</id>
-        <link href="https://thedebrief.org/magic-drug-restores-lost-memories-and-unleashes-hidden-knowledge/"/>
-        <updated>2023-02-11T18:35:08.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I had ChatGPT write a Decemberists song and recorded it]]></title>
-        <id>https://colinmeloy.substack.com/p/i-had-chatgpt-write-a-decemberists</id>
-        <link href="https://colinmeloy.substack.com/p/i-had-chatgpt-write-a-decemberists"/>
-        <updated>2023-02-11T18:09:57.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I made ChatGPT and Bing AI have a conversation]]></title>
-        <id>https://moritz.pm/posts/chatgpt-bing</id>
-        <link href="https://moritz.pm/posts/chatgpt-bing"/>
-        <updated>2023-02-11T18:07:38.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Silicon reverse-engineering: the Intel 8086 processor's flag circuitry]]></title>
-        <id>http://www.righto.com/2023/02/silicon-reverse-engineering-intel-8086.html</id>
-        <link href="http://www.righto.com/2023/02/silicon-reverse-engineering-intel-8086.html"/>
-        <updated>2023-02-11T17:54:02.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WW2 Bomb Explodes in England]]></title>
-        <id>https://www.cbsnews.com/news/wwii-era-bomb-explodes-in-england-in-unplanned-detonation/</id>
-        <link href="https://www.cbsnews.com/news/wwii-era-bomb-explodes-in-england-in-unplanned-detonation/"/>
-        <updated>2023-02-11T17:38:06.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Xe tự hành Curiosity tìm ra bằng chứng rõ ràng về việc sao Hỏa từng có nước]]></title>
         <id>https://tinhte.vn/thread/3632689/</id>
         <link href="https://tinhte.vn/thread/xe-tu-hanh-curiosity-tim-ra-bang-chung-ro-rang-ve-viec-sao-hoa-tung-co-nuoc.3632689/"/>
@@ -13308,26 +13489,6 @@ Hộp của...]]></summary>
         <summary type="html"><![CDATA[Những đoạn gợn trên mảng đất anh em thấy trên cover được coi là bằng chứng xác thực nhất về việc sao Hỏa từng có nước trên bề mặt. Đây có thể là 1 hồ nước vào hồi xưa và có sóng đánh để tạo thành...]]></summary>
         <author>
             <name>Hassler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trove of spices from around the world on sunken fifteenth-century Norse ship]]></title>
-        <id>https://phys.org/news/2023-02-trove-spices-world-sunken-fifteenth-century.html</id>
-        <link href="https://phys.org/news/2023-02-trove-spices-world-sunken-fifteenth-century.html"/>
-        <updated>2023-02-11T17:27:02.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Heisenbug lurking in async Python]]></title>
-        <id>https://textual.textualize.io/blog/2023/02/11/the-heisenbug-lurking-in-your-async-code/</id>
-        <link href="https://textual.textualize.io/blog/2023/02/11/the-heisenbug-lurking-in-your-async-code/"/>
-        <updated>2023-02-11T17:25:46.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
         </author>
     </entry>
     <entry>
@@ -13348,16 +13509,6 @@ Hộp của...]]></summary>
         <summary type="html"><![CDATA[Trên phim ảnh, chúng ta thường thấy điệp viên, đặc vụ được được trang bị những món đồ vô cùng đặc biệt để giúp đỡ họ trong những nhiệm vụ nguy hiểm. Có chung đặc điểm là vô cùng độc đáo và cực kỳ...]]></summary>
         <author>
             <name>Rubi Lee</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Shfmt – format shell programs]]></title>
-        <id>https://github.com/mvdan/sh/blob/master/cmd/shfmt/shfmt.1.scd</id>
-        <link href="https://github.com/mvdan/sh/blob/master/cmd/shfmt/shfmt.1.scd"/>
-        <updated>2023-02-11T17:08:45.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
         </author>
     </entry>
     <entry>
@@ -13414,26 +13565,6 @@ Ngôn ngữ thiết kế của...]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Generate unique drum samples using artificial intelligence]]></title>
-        <id>https://audialab.com/</id>
-        <link href="https://audialab.com/"/>
-        <updated>2023-02-11T14:41:42.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to train large models on many GPUs? (2021)]]></title>
-        <id>https://lilianweng.github.io/posts/2021-09-25-train-large/</id>
-        <link href="https://lilianweng.github.io/posts/2021-09-25-train-large/"/>
-        <updated>2023-02-11T14:22:23.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Herman Miller Passport: Bàn làm việc cá nhân nhỏ gọn, nâng hạ và di chuyển được, giá 600$]]></title>
         <id>https://tinhte.vn/thread/3632394/</id>
         <link href="https://tinhte.vn/thread/herman-miller-passport-ban-lam-viec-ca-nhan-nho-gon-nang-ha-va-di-chuyen-duoc-gia-600.3632394/"/>
@@ -13444,36 +13575,6 @@ Ngôn ngữ thiết kế của...]]></summary>
 Mặt bàn có kiểu...]]></summary>
         <author>
             <name>Trần Hoàng Long.</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[QwikTape: Do calculations, annotate like you would on a paper]]></title>
-        <id>https://github.com/4silvertooth/QwikTape</id>
-        <link href="https://github.com/4silvertooth/QwikTape"/>
-        <updated>2023-02-11T13:47:12.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Geogram: Programming Library with Geometric Algorithms]]></title>
-        <id>https://github.com/BrunoLevy/geogram</id>
-        <link href="https://github.com/BrunoLevy/geogram"/>
-        <updated>2023-02-11T13:42:14.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Siliwiz – A Semiconductor Simulator]]></title>
-        <id>https://app.siliwiz.com/</id>
-        <link href="https://app.siliwiz.com/"/>
-        <updated>2023-02-11T13:32:32.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
         </author>
     </entry>
 </feed>

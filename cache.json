@@ -6,6 +6,246 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
+          "id": "https://alexhollender.com/wikipedia-2023-redesign",
+          "author": null,
+          "description": "Comments",
+          "link": "https://alexhollender.com/wikipedia-2023-redesign",
+          "publishedOn": "2023-03-18T22:27:29.000Z",
+          "wordCount": 16,
+          "title": "Design notes on the 2023 Wikipedia redesign",
+          "imageUrl": "/social.jpg"
+        },
+        {
+          "id": "https://build-your-own.org/redis/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://build-your-own.org/redis/",
+          "publishedOn": "2023-03-18T20:11:01.000Z",
+          "wordCount": 1335,
+          "title": "Build Your Own Redis with C&#x2F;C++",
+          "imageUrl": "https://build-your-own.org/redis/img/book_byor_banner.jpg"
+        },
+        {
+          "id": "https://giannirosato.com/blog/post/image-comparison/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://giannirosato.com/blog/post/image-comparison/",
+          "publishedOn": "2023-03-18T19:56:15.000Z",
+          "wordCount": 2181,
+          "title": "JPEG-XL vs. AVIF and Others: 27 Images Compared",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.desiderata.com/desiderata.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.desiderata.com/desiderata.html",
+          "publishedOn": "2023-03-18T19:47:27.000Z",
+          "wordCount": 925,
+          "title": "Desiderata: Original Text",
+          "imageUrl": null
+        },
+        {
+          "id": "https://discourse.llvm.org/t/llvm-16-0-0-release/69326",
+          "author": null,
+          "description": "Comments",
+          "link": "https://discourse.llvm.org/t/llvm-16-0-0-release/69326",
+          "publishedOn": "2023-03-18T18:04:14.000Z",
+          "wordCount": 176,
+          "title": "LLVM 16.0.0 Release",
+          "imageUrl": "https://global.discourse-cdn.com/business4/uploads/llvm/original/1X/6ac54669f4b30cb07094375cbd65d24163b5b6e0.jpeg"
+        },
+        {
+          "id": "https://github.com/SNBSLibs/Licensing.ActivationKeys",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/SNBSLibs/Licensing.ActivationKeys",
+          "publishedOn": "2023-03-18T18:03:57.000Z",
+          "wordCount": 2715,
+          "title": "Show HN: Easy-to-use licensing library for .NET apps",
+          "imageUrl": "https://opengraph.githubassets.com/0f33535e58ea039af04208f54d37f22e4dae8bf81acaf587fc441cb14b33eafe/SNBSLibs/Licensing.ActivationKeys"
+        },
+        {
+          "id": "https://en.wikipedia.org/wiki/Zero_one_infinity_rule",
+          "author": null,
+          "description": "Comments",
+          "link": "https://en.wikipedia.org/wiki/Zero_one_infinity_rule",
+          "publishedOn": "2023-03-18T18:01:48.000Z",
+          "wordCount": 2302,
+          "title": "Zero one infinity rule",
+          "imageUrl": null
+        },
+        {
+          "id": "https://webrtchacks.com/real-time-video-processing-with-webcodecs-and-streams-processing-pipelines-part-1/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://webrtchacks.com/real-time-video-processing-with-webcodecs-and-streams-processing-pipelines-part-1/",
+          "publishedOn": "2023-03-18T17:29:44.000Z",
+          "wordCount": 6528,
+          "title": "Real-Time Video Processing with WebCodecs and Streams",
+          "imageUrl": "http://webrtchacks.com/wp-content/uploads/2023/03/The-future-of-real-time-video-processing-md.png"
+        },
+        {
+          "id": "https://build-your-own.org/blog/20230316_go_full_slice/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://build-your-own.org/blog/20230316_go_full_slice/",
+          "publishedOn": "2023-03-18T16:53:03.000Z",
+          "wordCount": 1938,
+          "title": "a[low:high:max] in Golang – A Rare Slice Trick",
+          "imageUrl": "https://build-your-own.org/byo_logo_256.png"
+        },
+        {
+          "id": "https://www.wsj.com/articles/more-students-are-turning-away-from-college-and-toward-apprenticeships-15f3a05d",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.wsj.com/articles/more-students-are-turning-away-from-college-and-toward-apprenticeships-15f3a05d",
+          "publishedOn": "2023-03-18T16:27:57.000Z",
+          "wordCount": 6541,
+          "title": "More students are turning away from college and toward apprenticeships",
+          "imageUrl": "https://images.wsj.net/im-737183/social"
+        },
+        {
+          "id": "https://www.theguardian.com/technology/2023/mar/16/voice-system-used-to-verify-identity-by-centrelink-can-be-fooled-by-ai",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.theguardian.com/technology/2023/mar/16/voice-system-used-to-verify-identity-by-centrelink-can-be-fooled-by-ai",
+          "publishedOn": "2023-03-18T15:44:25.000Z",
+          "wordCount": 5333,
+          "title": "AI fooled voice recognition to verify identity used by Australian tax office",
+          "imageUrl": "https://i.guim.co.uk/img/media/fdc3be3cd8ab51000c9b21ceb48fa6b109a5ce81/56_0_1800_1080/master/1800.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=cf6e6fc13f0e167301f0c4514e9b4501"
+        },
+        {
+          "id": "https://thenybble.de/posts/json-analysis/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://thenybble.de/posts/json-analysis/",
+          "publishedOn": "2023-03-18T15:41:06.000Z",
+          "wordCount": 4456,
+          "title": "Analyzing multi-gigabyte JSON files locally",
+          "imageUrl": null
+        },
+        {
+          "id": "https://abouttolearn.substack.com/p/anki-fy-your-life",
+          "author": null,
+          "description": "Comments",
+          "link": "https://abouttolearn.substack.com/p/anki-fy-your-life",
+          "publishedOn": "2023-03-18T15:19:54.000Z",
+          "wordCount": 2446,
+          "title": "Anki-fy your life",
+          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3bb82b4c-0bb3-491c-a474-475d7e174c27_1200x1200.png"
+        },
+        {
+          "id": "https://www.nytimes.com/2023/03/17/dining/tavern-thin-crust-pizza-chicago.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.nytimes.com/2023/03/17/dining/tavern-thin-crust-pizza-chicago.html",
+          "publishedOn": "2023-03-18T14:32:43.000Z",
+          "wordCount": null,
+          "title": "Kenji López-Alt spent 5 months studying Chicago thin-crust pizza",
+          "imageUrl": null
+        },
+        {
+          "id": "https://en.wikipedia.org/wiki/Simulations_and_games_in_economics_education",
+          "author": null,
+          "description": "Comments",
+          "link": "https://en.wikipedia.org/wiki/Simulations_and_games_in_economics_education",
+          "publishedOn": "2023-03-18T14:08:40.000Z",
+          "wordCount": 2300,
+          "title": "Simulations and games in economics education",
+          "imageUrl": null
+        },
+        {
+          "id": "https://oberon-lang.github.io/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://oberon-lang.github.io/",
+          "publishedOn": "2023-03-18T13:48:05.000Z",
+          "wordCount": 571,
+          "title": "The Oberon+ Programming Language",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.da.vidbuchanan.co.uk/blog/exploiting-acropalypse.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.da.vidbuchanan.co.uk/blog/exploiting-acropalypse.html",
+          "publishedOn": "2023-03-18T12:58:23.000Z",
+          "wordCount": 2317,
+          "title": "Exploiting aCropalypse: Recovering truncated PNGs",
+          "imageUrl": null
+        },
+        {
+          "id": "https://arstechnica.com/gadgets/2023/03/plato-how-an-educational-computer-system-from-the-60s-shaped-the-future/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://arstechnica.com/gadgets/2023/03/plato-how-an-educational-computer-system-from-the-60s-shaped-the-future/",
+          "publishedOn": "2023-03-18T11:52:28.000Z",
+          "wordCount": 2010,
+          "title": "PLATO: An educational computer system from the 60s shaped the future",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/03/plato-iv-76ab9800cba086f244887e6523b84cfba9cfc1ab-760x380.jpg"
+        },
+        {
+          "id": "https://github.com/0x6b/libgsqlite",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/0x6b/libgsqlite",
+          "publishedOn": "2023-03-18T11:24:49.000Z",
+          "wordCount": 1344,
+          "title": "Libgsqlite: A SQLite extension which loads a Google Sheet as a virtual table",
+          "imageUrl": "https://opengraph.githubassets.com/1024fafea317bcd09e035911e53fe385e9e2c816f1ee2322f63c01ccf056818a/0x6b/libgsqlite"
+        },
+        {
+          "id": "https://thomask.sdf.org/blog/2023/03/18/the-dark-defaults-of-microsoft-edge.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://thomask.sdf.org/blog/2023/03/18/the-dark-defaults-of-microsoft-edge.html",
+          "publishedOn": "2023-03-18T10:26:48.000Z",
+          "wordCount": 1045,
+          "title": "The dark defaults of Microsoft Edge",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nature.com/articles/d41586-023-00831-6",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.nature.com/articles/d41586-023-00831-6",
+          "publishedOn": "2023-03-18T09:54:01.000Z",
+          "wordCount": 4453,
+          "title": "Strife at eLife: inside a journal’s quest to upend science publishing",
+          "imageUrl": "https://media.nature.com/lw1024/magazine-assets/d41586-023-00831-6/d41586-023-00831-6_24631030.jpg"
+        },
+        {
+          "id": "http://blog.archive.org/2023/03/17/heres-how-to-participate-in-mondays-oral-arguments/",
+          "author": null,
+          "description": "Comments",
+          "link": "http://blog.archive.org/2023/03/17/heres-how-to-participate-in-mondays-oral-arguments/",
+          "publishedOn": "2023-03-18T08:46:46.000Z",
+          "wordCount": 8998,
+          "title": "How to participate in Monday’s oral arguments re: Internet Archive",
+          "imageUrl": "http://blog.archive.org/wp-content/uploads/2023/03/InternetArchivebw.jpg"
+        },
+        {
+          "id": "https://genodians.org/nfeske/2022-01-27-browser-odyssey",
+          "author": null,
+          "description": "Comments",
+          "link": "https://genodians.org/nfeske/2022-01-27-browser-odyssey",
+          "publishedOn": "2023-03-18T06:21:18.000Z",
+          "wordCount": 4499,
+          "title": "Genode&#x27;s Browser Odyssey (2022)",
+          "imageUrl": "https://genodians.org/nfeske/author.png"
+        },
+        {
+          "id": "https://www.noemamag.com/a-parliament-of-earthlings/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.noemamag.com/a-parliament-of-earthlings/",
+          "publishedOn": "2023-03-18T03:46:56.000Z",
+          "wordCount": 4276,
+          "title": "Listening to the Creatures of the World",
+          "imageUrl": "https://noemamag.imgix.net/2023/03/AC_NOEMA_WHALES_LANDSCAPE_FINAL_02.jpg?fit=crop&fm=pjpg&h=628&ixlib=php-3.3.0&w=1200&wpsize=noema-social-facebook&s=d532ae383b835e690c628ce1ca543adb"
+        },
+        {
           "id": "https://www.ft.com/content/17892f24-4ca0-417f-9093-289b019a0852",
           "author": null,
           "description": "Comments",
@@ -236,6 +476,36 @@
           "imageUrl": null
         },
         {
+          "id": "http://www.osta.org/technology/pdf/cdr_cdrw.pdf",
+          "author": null,
+          "description": "Comments",
+          "link": "http://www.osta.org/technology/pdf/cdr_cdrw.pdf",
+          "publishedOn": "2023-03-17T01:38:20.000Z",
+          "wordCount": 55588,
+          "title": "Understanding CD-R and CD-RW (2003) [pdf]",
+          "imageUrl": null
+        },
+        {
+          "id": "https://github.com/Isysxp/Pico_1140",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/Isysxp/Pico_1140",
+          "publishedOn": "2023-03-17T01:08:19.000Z",
+          "wordCount": 2062,
+          "title": "Pico_1140: A PDP11&#x2F;40 emulator that will run Unix v5&#x2F;v6 on a Raspberry Pi RP2040",
+          "imageUrl": "https://opengraph.githubassets.com/5e808ba265cb7c8edff05024cf1e2fd1b1a013b033b43d932f984760dea2840c/Isysxp/Pico_1140"
+        },
+        {
+          "id": "https://cyberscoop.com/boston-l0pht-hackers-tech-scene/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://cyberscoop.com/boston-l0pht-hackers-tech-scene/",
+          "publishedOn": "2023-03-17T00:25:55.000Z",
+          "wordCount": 5059,
+          "title": "The early 90s tech scene that created L0pht, the legendary hackerspace",
+          "imageUrl": "https://cyberscoop.com/wp-content/uploads/sites/3/2023/02/02_OldL0pht0061.jpg"
+        },
+        {
           "id": "https://twitter.com/alexalbert__/status/1636488551817965568",
           "author": null,
           "description": "Comments",
@@ -446,6 +716,16 @@
           "imageUrl": "https://karat.com/wp-content/uploads/2023/03/Karat_Blog_Triplebyte_THUMBNAIL_3.16.2023_1200x628.png"
         },
         {
+          "id": "https://en.wikipedia.org/wiki/St_Scholastica_Day_riot",
+          "author": null,
+          "description": "Comments",
+          "link": "https://en.wikipedia.org/wiki/St_Scholastica_Day_riot",
+          "publishedOn": "2023-03-16T16:29:10.000Z",
+          "wordCount": 5299,
+          "title": "St Scholastica Day Riot (1355)",
+          "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/60/St_Scholastica_Day_riot.jpg"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=35184120",
           "author": null,
           "description": "Comments",
@@ -523,6 +803,26 @@
           "publishedOn": "2023-03-16T08:08:12.000Z",
           "wordCount": 476,
           "title": "The model for coins in Super Mario Odyssey is simpler than in Super Mario Galaxy",
+          "imageUrl": null
+        },
+        {
+          "id": "https://abuseofnotation.github.io/category-theory-illustrated/00_about/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://abuseofnotation.github.io/category-theory-illustrated/00_about/",
+          "publishedOn": "2023-03-16T06:10:14.000Z",
+          "wordCount": 1590,
+          "title": "Category Theory Illustrated",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.historytoday.com/archive/head-head/what-was-impact-julius-caesars-murder",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.historytoday.com/archive/head-head/what-was-impact-julius-caesars-murder",
+          "publishedOn": "2023-03-16T05:36:32.000Z",
+          "wordCount": 1986,
+          "title": "What was the impact of Julius Caesar’s murder?",
           "imageUrl": null
         },
         {
@@ -8534,316 +8834,6 @@
           "wordCount": 2011,
           "title": "Creating a search engine for my music streaming platform",
           "imageUrl": null
-        },
-        {
-          "id": "https://tailscale.com/blog/macos-binary-size/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://tailscale.com/blog/macos-binary-size/",
-          "publishedOn": "2023-02-17T11:25:14.000Z",
-          "wordCount": 1018,
-          "title": "Reducing Tailscale’s binary size on macOS",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.xythobuz.de/trackball_v1.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.xythobuz.de/trackball_v1.html",
-          "publishedOn": "2023-02-17T10:42:04.000Z",
-          "wordCount": 2991,
-          "title": "Show HN: I built a custom USB Trackball",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.npr.org/2023/02/16/1157430021/titanic-wreck-new-footage-1986",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.npr.org/2023/02/16/1157430021/titanic-wreck-new-footage-1986",
-          "publishedOn": "2023-02-17T10:34:29.000Z",
-          "wordCount": 1408,
-          "title": "Newly released footage of a 1986 Titanic dive reveals the ship&#x27;s interior",
-          "imageUrl": "https://media.npr.org/assets/img/2023/02/16/titanic-footage_wide-443db22e11d4f50c572526f4d0de19d75b017c63-s1400-c100.jpg"
-        },
-        {
-          "id": "https://www.caltech.edu/about/news/leonardo-da-vincis-forgotten-experiments-explored-gravity-as-a-form-of-acceleration",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.caltech.edu/about/news/leonardo-da-vincis-forgotten-experiments-explored-gravity-as-a-form-of-acceleration",
-          "publishedOn": "2023-02-17T09:51:27.000Z",
-          "wordCount": 1469,
-          "title": "Leonardo da Vinci’s experiments explored gravity as a form of acceleration",
-          "imageUrl": "https://caltech-prod.s3.amazonaws.com/main/images/Gharib-Leonardo_DaVinci-GravityExperiment-1440.width-600.jpg"
-        },
-        {
-          "id": "https://itamargilad.com/velocity-vs-impact/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://itamargilad.com/velocity-vs-impact/",
-          "publishedOn": "2023-02-17T09:31:01.000Z",
-          "wordCount": 5424,
-          "title": "Velocity vs. Impact",
-          "imageUrl": "https://itamargilad.com/wp-content/uploads/2021/02/Hamster.jpg"
-        },
-        {
-          "id": "https://github.com/dslik/protonema",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/dslik/protonema",
-          "publishedOn": "2023-02-17T07:55:38.000Z",
-          "wordCount": 930,
-          "title": "&#x27;Protonema&#x27; Electronics Prototyping and Learning System",
-          "imageUrl": "https://opengraph.githubassets.com/94dd544f51e3ac548113743261eb04a5c68378791bab9752c2cf0767deb99011/dslik/protonema"
-        },
-        {
-          "id": "https://github.com/Oxen-AI/oxen-release",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/Oxen-AI/oxen-release",
-          "publishedOn": "2023-02-17T06:35:49.000Z",
-          "wordCount": 3162,
-          "title": "Oxen.ai: Very Fast Unstructured Data Version Control",
-          "imageUrl": "https://opengraph.githubassets.com/6ec34aa9e709ff1c641381debea2751f736edc4f92548e7bf1fe70618380c6fc/Oxen-AI/oxen-release"
-        },
-        {
-          "id": "https://www.atlasobscura.com/articles/california-continental-shelf-ecosystem-cows",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.atlasobscura.com/articles/california-continental-shelf-ecosystem-cows",
-          "publishedOn": "2023-02-17T06:15:29.000Z",
-          "wordCount": 5875,
-          "title": "Cows Destroyed an Entire Marine Ecosystem in California",
-          "imageUrl": "https://img.atlasobscura.com/uX1W_CP2XgXdNTCPUHOhQtNj4T9cAS8thd9-OyQ2HsI/rt:fit/w:600/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy8xNTc2MWY5Yi1i/Mjg0LTQxMjctODE2/Ny04NGEyMTM1OWNh/NDEzOTE3ZGVjNjE1/ZjA5MWNmNmJfNDU3/MTk4NjY4NV9mYjMx/ZTg3YzNlX2suanBn.jpg"
-        },
-        {
-          "id": "https://aeon.co/essays/what-was-it-like-to-grow-up-in-the-last-ice-age",
-          "author": null,
-          "description": "Comments",
-          "link": "https://aeon.co/essays/what-was-it-like-to-grow-up-in-the-last-ice-age",
-          "publishedOn": "2023-02-17T04:29:30.000Z",
-          "wordCount": 11648,
-          "title": "Children of the Ice Age",
-          "imageUrl": "https://alpha.aeon.co/images/90058eec-47f1-4384-9c93-185a11b44451/header_essay-final-palaeolithic_pretending_tbaeon.jpg"
-        },
-        {
-          "id": "https://www.sec.gov/news/press-release/2023-32",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.sec.gov/news/press-release/2023-32",
-          "publishedOn": "2023-02-16T23:18:22.000Z",
-          "wordCount": 1917,
-          "title": "SEC Charges Terraform and CEO Do Kwon with Defrauding Investors InCrypto Schemes",
-          "imageUrl": null
-        },
-        {
-          "id": "https://jayacunzo.com/blog/chatgpt-generative-ai-replace-creators",
-          "author": null,
-          "description": "Comments",
-          "link": "https://jayacunzo.com/blog/chatgpt-generative-ai-replace-creators",
-          "publishedOn": "2023-02-16T23:10:33.000Z",
-          "wordCount": 2711,
-          "title": "The reason content creators worry about ChatGPT",
-          "imageUrl": "http://static1.squarespace.com/static/5feca30531a19847227af3bb/6005a26bbbe04a3784dc3b53/63dcfb1c117b8f4466bdc065/1675438182727/Screen+Shot+2023-02-03+at+7.46.18+AM.png?format=1500w"
-        },
-        {
-          "id": "https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/frebniis-malware-iis",
-          "author": null,
-          "description": "Comments",
-          "link": "https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/frebniis-malware-iis",
-          "publishedOn": "2023-02-16T22:16:55.000Z",
-          "wordCount": 1253,
-          "title": "New Malware Abuses Microsoft IIS Feature to Establish Backdoor",
-          "imageUrl": "https://symantec-enterprise-blogs.security.com/sites/default/files/styles/social_media_meta/public/2023-02/Hero-1133924836.jpg?h=de4f113c&itok=12VHe1kP"
-        },
-        {
-          "id": "https://incaptions.com/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://incaptions.com/",
-          "publishedOn": "2023-02-16T21:51:54.000Z",
-          "wordCount": 204,
-          "title": "InCaptions: Search in YouTube Captions",
-          "imageUrl": null
-        },
-        {
-          "id": "https://blog.entropy.observer/sorting-400-tabs-in-60-seconds/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://blog.entropy.observer/sorting-400-tabs-in-60-seconds/",
-          "publishedOn": "2023-02-16T21:48:19.000Z",
-          "wordCount": 2927,
-          "title": "Sorting 400+ Chrome tabs in seconds",
-          "imageUrl": "https://blog.entropy.observer/content/images/2023/02/000021.27965652.1921725045-1.png"
-        },
-        {
-          "id": "https://www.rubydoc.info/gems/minitest/Minitest%2FTest.i_suck_and_my_tests_are_order_dependent!",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.rubydoc.info/gems/minitest/Minitest%2FTest.i_suck_and_my_tests_are_order_dependent!",
-          "publishedOn": "2023-02-16T21:44:26.000Z",
-          "wordCount": 177,
-          "title": "I_suck_and_my_tests_are_order_dependent",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.science.org/content/article/hidden-hydrogen-earth-may-hold-vast-stores-renewable-carbon-free-fuel",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.science.org/content/article/hidden-hydrogen-earth-may-hold-vast-stores-renewable-carbon-free-fuel",
-          "publishedOn": "2023-02-16T21:43:39.000Z",
-          "wordCount": 6490,
-          "title": "Hydrogen: Does Earth hold vast stores of a renewable, carbon-free fuel?",
-          "imageUrl": "https://www.science.org/do/10.1126/science.adh1460/abs/_20230217nf_hydrogen_flamechimaera_1600_1x1_2.jpg"
-        },
-        {
-          "id": "https://workspace.google.com/blog/product-announcements/pricing-updates-and-more-flexible-payment-options-google-workspace",
-          "author": null,
-          "description": "Comments",
-          "link": "https://workspace.google.com/blog/product-announcements/pricing-updates-and-more-flexible-payment-options-google-workspace",
-          "publishedOn": "2023-02-16T21:22:36.000Z",
-          "wordCount": 2757,
-          "title": "Google Workspace increasing prices from April 11, 2023",
-          "imageUrl": "https://storage.googleapis.com/gweb-cloudblog-publish/images/GWS_Blog_header_Product_announcements.max-2500x2500.jpg"
-        },
-        {
-          "id": "https://basementcommunity.com/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://basementcommunity.com/",
-          "publishedOn": "2023-02-16T21:02:14.000Z",
-          "wordCount": 756,
-          "title": "Show HN: I made an early 2000s-inspired internet forum",
-          "imageUrl": null
-        },
-        {
-          "id": "https://jvns.ca/blog/2023/02/16/writing-javascript-without-a-build-system/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://jvns.ca/blog/2023/02/16/writing-javascript-without-a-build-system/",
-          "publishedOn": "2023-02-16T20:38:56.000Z",
-          "wordCount": 1475,
-          "title": "Writing JavaScript without a build system",
-          "imageUrl": null
-        },
-        {
-          "id": "https://nymag.com/intelligencer/2023/02/the-silicon-valley-loop-malcolm-harriss-palo-alto.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://nymag.com/intelligencer/2023/02/the-silicon-valley-loop-malcolm-harriss-palo-alto.html",
-          "publishedOn": "2023-02-16T20:33:11.000Z",
-          "wordCount": 32959,
-          "title": "The Silicon Valley Loop",
-          "imageUrl": "https://pyxis.nymag.com/v1/imgs/fab/3ea/5eb3743e617693ed4a6b8e9b8492354570-silicon-valley-loop.1x.rsocial.w1200.jpg"
-        },
-        {
-          "id": "https://buttondown.email/hillelwayne/archive/programming-ais-worry-me/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://buttondown.email/hillelwayne/archive/programming-ais-worry-me/",
-          "publishedOn": "2023-02-16T20:32:37.000Z",
-          "wordCount": 1570,
-          "title": "Programming AIs worry me",
-          "imageUrl": "https://buttondown-attachments.s3.us-west-2.amazonaws.com/images/8fcba356-854f-4465-902c-f9bc8178fbfb.png"
-        },
-        {
-          "id": "https://www.theverge.com/2023/2/16/23602718/microsoft-windows-11-apple-mac-m1-m2-support-parallels-virtual-machines",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.theverge.com/2023/2/16/23602718/microsoft-windows-11-apple-mac-m1-m2-support-parallels-virtual-machines",
-          "publishedOn": "2023-02-16T20:17:42.000Z",
-          "wordCount": 8232,
-          "title": "Microsoft to support Windows 11 on M1 and M2 Macs through Parallels partnership",
-          "imageUrl": "https://cdn.vox-cdn.com/thumbor/ufqZjeHJYvn2P81JJfH_CZgEYRg=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/22046476/vpavic_4291_20201113_0366.0.jpg"
-        },
-        {
-          "id": "https://aviationweek.com/defense-space/aircraft-propulsion/hobby-clubs-missing-balloon-feared-shot-down-usaf",
-          "author": null,
-          "description": "Comments",
-          "link": "https://aviationweek.com/defense-space/aircraft-propulsion/hobby-clubs-missing-balloon-feared-shot-down-usaf",
-          "publishedOn": "2023-02-16T19:44:29.000Z",
-          "wordCount": 3534,
-          "title": "Hobby Club’s Missing Balloon Feared Shot Down by USAF",
-          "imageUrl": null
-        },
-        {
-          "id": "https://codesandbox.io/blog/announcing-sandpack-2",
-          "author": null,
-          "description": "Comments",
-          "link": "https://codesandbox.io/blog/announcing-sandpack-2",
-          "publishedOn": "2023-02-16T19:43:32.000Z",
-          "wordCount": 7544,
-          "title": "Nodebox: A Node.js runtime that runs in any browser",
-          "imageUrl": "https://codesandbox.io/new/blog/announcing-sandpack-2/banner.jpg"
-        },
-        {
-          "id": "https://jonpauluritis.com/articles/does-your-office-have-a-library/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://jonpauluritis.com/articles/does-your-office-have-a-library/",
-          "publishedOn": "2023-02-16T19:12:46.000Z",
-          "wordCount": 630,
-          "title": "Does Your Office Have a Library?",
-          "imageUrl": "https://jonpauluritis.com/img/horsehead.jpg"
-        },
-        {
-          "id": "https://www.science.org/content/article/exclusive-controversial-experiments-make-bird-flu-more-risky-poised-resume",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.science.org/content/article/exclusive-controversial-experiments-make-bird-flu-more-risky-poised-resume",
-          "publishedOn": "2023-02-16T18:37:27.000Z",
-          "wordCount": 2946,
-          "title": "Controversial experiments that could make bird flu more risky to resume (2019)",
-          "imageUrl": "https://www.science.org/do/10.1126/science.aaw9566/abs/15702_1280x720px.jpg"
-        },
-        {
-          "id": "https://webkit.org/blog/13878/web-push-for-web-apps-on-ios-and-ipados/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://webkit.org/blog/13878/web-push-for-web-apps-on-ios-and-ipados/",
-          "publishedOn": "2023-02-16T18:36:41.000Z",
-          "wordCount": 1866,
-          "title": "Web Push for Web Apps on iOS and iPadOS",
-          "imageUrl": "https://webkit.org/wp-content/uploads/Web_Push_on_iOS-1024x576.png"
-        },
-        {
-          "id": "https://www.cnbc.com/2023/02/16/tesla-recalls-362758-vehicles-says-full-self-driving-beta-software-may-cause-crashes.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.cnbc.com/2023/02/16/tesla-recalls-362758-vehicles-says-full-self-driving-beta-software-may-cause-crashes.html",
-          "publishedOn": "2023-02-16T17:52:54.000Z",
-          "wordCount": 16503,
-          "title": "Tesla recalls 360k vehicles, says full self-driving beta may cause crashes",
-          "imageUrl": "https://image.cnbcfm.com/api/v1/image/105060149-_sites_default_files_images_105060149-GettyImages-930443290.jpg?v=1676570001&w=1920&h=1080"
-        },
-        {
-          "id": "https://oalexanderdk.substack.com/p/blowing-holes-in-seymour-hershs-pipe",
-          "author": null,
-          "description": "Comments",
-          "link": "https://oalexanderdk.substack.com/p/blowing-holes-in-seymour-hershs-pipe",
-          "publishedOn": "2023-02-16T17:26:06.000Z",
-          "wordCount": 10293,
-          "title": "Blowing holes in Seymour Hersh’s pipe dream",
-          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd3c7f1b0-6ec5-42a4-a5b5-5e0313965fb5_1200x720.jpeg"
-        },
-        {
-          "id": "https://clementneo.com/posts/2023/02/11/we-found-an-neuron",
-          "author": null,
-          "description": "Comments",
-          "link": "https://clementneo.com/posts/2023/02/11/we-found-an-neuron",
-          "publishedOn": "2023-02-16T17:01:47.000Z",
-          "wordCount": 1676947,
-          "title": "We Found an Neuron in GPT-2",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=34818706",
-          "author": null,
-          "description": "Comments",
-          "link": "https://news.ycombinator.com/item?id=34818706",
-          "publishedOn": "2023-02-16T14:02:37.000Z",
-          "wordCount": 10611,
-          "title": "Launch HN: Neptyne (YC W23) – A programmable spreadsheet that runs Python",
-          "imageUrl": null
         }
       ]
     },
@@ -12355,36 +12345,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/keys-accessibility-mindset/keys-accessibility-mindset.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2023/02/guide-building-accessible-carousels/",
-          "author": "hello@smashingmagazine.com (Sonja Weckenmann)",
-          "description": "Most carousels come along with usability and accessibility issues. To avoid these issues, this article addresses step-by-step design considerations as well as semantic requirements for carousels to be accessible. It is intended to create an in-depth understanding of the implementation and its impact on users.",
-          "link": "https://smashingmagazine.com/2023/02/guide-building-accessible-carousels/",
-          "publishedOn": "2023-02-17T12:00:00.000Z",
-          "wordCount": 6508,
-          "title": "A Step-By-Step Guide To Building Accessible Carousels",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/guide-building-accessible-carousels/guide-building-accessible-carousels.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/guide-building-accessible-carousels/guide-building-accessible-carousels.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2023/02/putting-gears-motion-animating-cars-with-html-svg/",
-          "author": "hello@smashingmagazine.com (Paul Scanlon)",
-          "description": "SVG `` provides a way to define how an element moves along a motion path. In this article, Paul Scanlon shares an idea of how to use it by animating race cars in an infinite loop as easy as one-two-three!",
-          "link": "https://smashingmagazine.com/2023/02/putting-gears-motion-animating-cars-with-html-svg/",
-          "publishedOn": "2023-02-16T13:00:00.000Z",
-          "wordCount": 3296,
-          "title": "Putting Gears In Motion: Animating Cars With HTML And SVG",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/animate-race-cars-using-html/putting-gears-motion-animating-cars-with-html-svg.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/animate-race-cars-using-html/putting-gears-motion-animating-cars-with-html-svg.jpg"
         }
       ]
     },
@@ -13842,96 +13802,6 @@
           "wordCount": 1425,
           "title": "How to Set Dynamic Object Properties using Computed Property Names",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/20.-dynamic-object-properties-1.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/filter-arrays-in-javascript/",
-          "author": "Joel Olawanle",
-          "description": "When building a dynamic and interactive program, you may need to add some interactive features. For example, where a user clicks a button to filter through a long list of items. You may also need to manipulate a large array of data to return only items that match your specified",
-          "link": "https://www.freecodecamp.org/news/filter-arrays-in-javascript/",
-          "publishedOn": "2023-02-17T01:13:56.000Z",
-          "wordCount": 1704,
-          "title": "How to Filter an Array in JavaScript – JS Filtering for Arrays and Objects",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/cover-template--2-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/enhanced-for-loops-in-java-how-to-use-foreach-loops-on-arrays/",
-          "author": "Ihechikara Vincent Abba",
-          "description": "You can use enhanced loops in Java to achieve the same results as a for loop [/news/java-for-loop-example/]. An enhanced loop is also known as a for-each  loop in Java.  Enhanced loops simplify the way you create for loops. They are mostly used to iterate through an array or",
-          "link": "https://www.freecodecamp.org/news/enhanced-for-loops-in-java-how-to-use-foreach-loops-on-arrays/",
-          "publishedOn": "2023-02-17T00:55:10.000Z",
-          "wordCount": 1216,
-          "title": "Enhanced For Loops in Java – How to Use ForEach Loops on Arrays",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/java-enhanced-loop.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-print-array-elements-in-given-order-with-and-without-function/",
-          "author": "Md. Fahim Bin Amin",
-          "description": "If you are learning to solve problems using a programming language, you've likely faced the problem of printing array elements in a given order or in reverse order. You might have also needed to do this by either using a user-defined function or not using any function at all. If",
-          "link": "https://www.freecodecamp.org/news/how-to-print-array-elements-in-given-order-with-and-without-function/",
-          "publishedOn": "2023-02-16T21:58:53.000Z",
-          "wordCount": 2208,
-          "title": "How to Print Array Elements in a Given Order with or without a Function",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/func.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/force-pull-in-github-how-to-overwrite-on-local-changes-with-git/",
-          "author": "Dionysia Lemonaki",
-          "description": "While working on a project as part of a team, you may get an error message telling you that you can't execute git pull on your repository because you have local changes. Why does this happen? This error usually occurs when several people are introducing updates to the same file.",
-          "link": "https://www.freecodecamp.org/news/force-pull-in-github-how-to-overwrite-on-local-changes-with-git/",
-          "publishedOn": "2023-02-16T17:32:02.000Z",
-          "wordCount": 1146,
-          "title": "Force Pull in GitHub – How to Overwrite on Local Changes with Git",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/jannis-brandt-4mHaSX8zvJI-unsplash.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/list-within-a-list-in-python-initialize-a-nested-list/",
-          "author": "Shittu Olumide",
-          "description": "Lists are a built-in data type in Python. And you can use them to store a collection of elements.  Lists are ordered, mutable, and contain elements of different data types, such as strings, integers, and other lists.  In Python, lists are a fundamental type of data structure that",
-          "link": "https://www.freecodecamp.org/news/list-within-a-list-in-python-initialize-a-nested-list/",
-          "publishedOn": "2023-02-16T17:24:40.000Z",
-          "wordCount": 1845,
-          "title": "List Within a List in Python – How to Initialize a Nested List",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/List-Within-a-List-in-Python---How-to-Initialize-a-Nested-List-1.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/solid-design-principles-in-software-development/",
-          "author": "Kolade Chris",
-          "description": "SOLID is a set of five design principles. These principles help software developers design robust, testable, extensible, and maintainable object-oriented software systems. Each of these five design principles solves a particular problem that might arise while developing the software systems. In this article, I’ll show you what the SOLID principles",
-          "link": "https://www.freecodecamp.org/news/solid-design-principles-in-software-development/",
-          "publishedOn": "2023-02-16T17:11:16.000Z",
-          "wordCount": 2930,
-          "title": "SOLID Design Principles in Software Development",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/start-graph--1-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/grainy-css-backgrounds-using-svg-filters/",
-          "author": "Eamonn Cottrell",
-          "description": "In this article we're going to create more interesting website backgrounds by using grainy effects.  There's a full video walkthrough at the bottom of the article 👇, as well as a 15 second video in the middle for those of you who just want a quick soundbite. We'll cover",
-          "link": "https://www.freecodecamp.org/news/grainy-css-backgrounds-using-svg-filters/",
-          "publishedOn": "2023-02-16T16:00:47.000Z",
-          "wordCount": 1571,
-          "title": "How to Create Grainy CSS Backgrounds Using SVG Filters",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/fCC-thumbp.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/message-queues-in-distributed-systesms/",
-          "author": "Nyior Clement",
-          "description": "From town criers to written letters and now real-time chat applications, humanity has always been on the lookout for innovative ways to communicate. And we can say the same about computers. There's an even greater need to allow computers to communicate with the increasing adoption of distributed architecture. This also",
-          "link": "https://www.freecodecamp.org/news/message-queues-in-distributed-systesms/",
-          "publishedOn": "2023-02-16T15:54:17.000Z",
-          "wordCount": 2811,
-          "title": "How Message Queues Work in Distributed Systems",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/cover2.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/develop-database-driven-web-apps-with-python-flask-and-mysql/",
-          "author": "Beau Carnes",
-          "description": "Are you ready to take your web development skills to the next level? Do you want to learn how to build dynamic database-driven web applications with Python, Flask, and MySQL?  We just published a comprehensive video course on the freeCodeCamp.org YouTube channel that is designed to teach you how",
-          "link": "https://www.freecodecamp.org/news/develop-database-driven-web-apps-with-python-flask-and-mysql/",
-          "publishedOn": "2023-02-16T14:00:00.000Z",
-          "wordCount": 1002,
-          "title": "Develop Database-Driven Web Apps with Python, Flask, and MySQL",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/pyweb.png"
         }
       ]
     }

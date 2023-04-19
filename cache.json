@@ -6,6 +6,256 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
+          "id": "https://www.fcc.gov/broadbandlabels",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.fcc.gov/broadbandlabels",
+          "publishedOn": "2023-04-18T23:18:43.000Z",
+          "wordCount": 1230,
+          "title": "Broadband Consumer Labels",
+          "imageUrl": "https://www.fcc.gov/sites/default/files/social-media-sharing-fcc-logo.jpg"
+        },
+        {
+          "id": "https://xenodium.com/my-emacs-eye-candy/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://xenodium.com/my-emacs-eye-candy/",
+          "publishedOn": "2023-04-18T22:39:07.000Z",
+          "wordCount": 1684,
+          "title": "My Emacs eye candy",
+          "imageUrl": null
+        },
+        {
+          "id": "https://today.duke.edu/2023/04/brain-images-just-got-64-million-times-sharper",
+          "author": null,
+          "description": "Comments",
+          "link": "https://today.duke.edu/2023/04/brain-images-just-got-64-million-times-sharper",
+          "publishedOn": "2023-04-18T22:28:26.000Z",
+          "wordCount": 1356,
+          "title": "MRI Brain Images Just Got 64M Times Sharper",
+          "imageUrl": "https://today.duke.edu/sites/default/files/styles/1200_x_630px/public/2023-04/CoronalTDI.866_72.jpg?itok=jlVpv3p4"
+        },
+        {
+          "id": "https://nodejs.org/en/blog/announcements/v20-release-announce",
+          "author": null,
+          "description": "Comments",
+          "link": "https://nodejs.org/en/blog/announcements/v20-release-announce",
+          "publishedOn": "2023-04-18T22:23:52.000Z",
+          "wordCount": 1827,
+          "title": "Node.js 20 is now available",
+          "imageUrl": "/static/images/logo-hexagon-card.png"
+        },
+        {
+          "id": "https://llava-vl.github.io/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://llava-vl.github.io/",
+          "publishedOn": "2023-04-18T22:06:00.000Z",
+          "wordCount": 2311,
+          "title": "LLaVA: Large Language and Vision Assistant",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.vox.com/technology/2023/4/18/23688627/meta-layoffs-mark-zuckerberg-facebook-instagram-whatsapp",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.vox.com/technology/2023/4/18/23688627/meta-layoffs-mark-zuckerberg-facebook-instagram-whatsapp",
+          "publishedOn": "2023-04-18T21:22:35.000Z",
+          "wordCount": 2187,
+          "title": "Meta is about to start its next round of layoffs",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/XkOjiHkwJdENKJ0i_eV2UyEa0dY=/0x0:4000x2094/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24594314/GettyImages_1245747106.jpg"
+        },
+        {
+          "id": "https://oimo.io/works/clock/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://oimo.io/works/clock/",
+          "publishedOn": "2023-04-18T21:14:39.000Z",
+          "wordCount": 54,
+          "title": "Clock",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=35620078",
+          "author": null,
+          "description": "Comments",
+          "link": "https://news.ycombinator.com/item?id=35620078",
+          "publishedOn": "2023-04-18T21:00:20.000Z",
+          "wordCount": 190,
+          "title": "Toko (YC W22) Is Hiring a Founding Engineer to Teach English with AI",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2023/04/18/business/media/netflix-dvds-earnings.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.nytimes.com/2023/04/18/business/media/netflix-dvds-earnings.html",
+          "publishedOn": "2023-04-18T20:28:44.000Z",
+          "wordCount": null,
+          "title": "Netflix will end its DVD service after 25 years",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.ghacks.net/2023/04/17/firefox-may-interact-with-cookie-prompts-automatically-soon/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.ghacks.net/2023/04/17/firefox-may-interact-with-cookie-prompts-automatically-soon/",
+          "publishedOn": "2023-04-18T20:06:32.000Z",
+          "wordCount": null,
+          "title": "Firefox may soon reject Cookie prompts automatically",
+          "imageUrl": null
+        },
+        {
+          "id": "https://github.com/allenai/mmc4",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/allenai/mmc4",
+          "publishedOn": "2023-04-18T19:55:02.000Z",
+          "wordCount": 1235,
+          "title": "MMC4: An open, billion-scale corpus of images interleaved with text",
+          "imageUrl": "https://opengraph.githubassets.com/1649ec7bfb3bb2dcb01732ab1db176547bd3de36328775a21667b474ff8a10b1/allenai/mmc4"
+        },
+        {
+          "id": "https://dl.acm.org/doi/pdf/10.1145/3582016.3582024",
+          "author": null,
+          "description": "Comments",
+          "link": "https://dl.acm.org/doi/pdf/10.1145/3582016.3582024",
+          "publishedOn": "2023-04-18T19:51:54.000Z",
+          "wordCount": 82335,
+          "title": "Skybox: Open-Source Graphic Rendering on Programmable RISC-V GPUs",
+          "imageUrl": null
+        },
+        {
+          "id": "https://github.com/rvs/planD",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/rvs/planD",
+          "publishedOn": "2023-04-18T19:32:04.000Z",
+          "wordCount": 1678,
+          "title": "PlanD: Plan9 from Containerspace",
+          "imageUrl": "https://opengraph.githubassets.com/87caa475ee89abab6de1aa5c4db06ca137ed4cd21f3d1e6bf8b787111dce29e0/rvs/planD"
+        },
+        {
+          "id": "https://github.com/little-brother/sqlite-gui",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/little-brother/sqlite-gui",
+          "publishedOn": "2023-04-18T19:06:57.000Z",
+          "wordCount": 764,
+          "title": "Lightweight SQLite Editor for Windows",
+          "imageUrl": "https://opengraph.githubassets.com/280b25b9edc65035d96bc23490b4fec1f6178c17cc05f7c5834d7582b3422ee1/little-brother/sqlite-gui"
+        },
+        {
+          "id": "https://www.washingtonpost.com/technology/2023/04/18/nso-apple-iphones-citizen-lab/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.washingtonpost.com/technology/2023/04/18/nso-apple-iphones-citizen-lab/",
+          "publishedOn": "2023-04-18T18:31:52.000Z",
+          "wordCount": 8883,
+          "title": "NSO developed 3 new ways to hack iPhones, Citizen Lab says",
+          "imageUrl": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BZGZWIF5ZJDVZA4OSC2TICCSMU.jpg&w=1440"
+        },
+        {
+          "id": "https://www.theguardian.com/uk-news/2023/apr/18/french-publisher-arrested-london-counter-terrorism-police-ernest-moret",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.theguardian.com/uk-news/2023/apr/18/french-publisher-arrested-london-counter-terrorism-police-ernest-moret",
+          "publishedOn": "2023-04-18T18:20:50.000Z",
+          "wordCount": 4783,
+          "title": "French publisher arrested in London for refusal to tell police his passcodes",
+          "imageUrl": "https://i.guim.co.uk/img/media/c095f4cf815aa24971905fb612b90a58ff35fbd3/0_328_4873_2925/master/4873.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=38c2c88844e4e740840b816e0362962d"
+        },
+        {
+          "id": "https://www.nytimes.com/2023/04/18/technology/reddit-ai-openai-google.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.nytimes.com/2023/04/18/technology/reddit-ai-openai-google.html",
+          "publishedOn": "2023-04-18T18:20:03.000Z",
+          "wordCount": null,
+          "title": "Reddit will begin charging for access to its API",
+          "imageUrl": null
+        },
+        {
+          "id": "https://astral.sh/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://astral.sh/",
+          "publishedOn": "2023-04-18T17:38:28.000Z",
+          "wordCount": 1554,
+          "title": "Astral",
+          "imageUrl": "https://astral.sh/static/OpenGraph/Astral.jpg"
+        },
+        {
+          "id": "https://www.nist.gov/privacy-framework",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.nist.gov/privacy-framework",
+          "publishedOn": "2023-04-18T15:47:31.000Z",
+          "wordCount": 1572,
+          "title": "NIST Privacy Framework",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.quantamagazine.org/a-new-kind-of-symmetry-shakes-up-physics-20230418/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.quantamagazine.org/a-new-kind-of-symmetry-shakes-up-physics-20230418/",
+          "publishedOn": "2023-04-18T14:24:59.000Z",
+          "wordCount": 8440,
+          "title": "A new kind of symmetry shakes up physics",
+          "imageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2023/04/HigherFormSymmetries-bySamuelVelasco-Social.webp"
+        },
+        {
+          "id": "https://www.cnbc.com/2023/04/18/software-firms-face-huge-tax-bills-that-threaten-tech-startup-survival.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.cnbc.com/2023/04/18/software-firms-face-huge-tax-bills-that-threaten-tech-startup-survival.html",
+          "publishedOn": "2023-04-18T14:13:19.000Z",
+          "wordCount": 25243,
+          "title": "Software firms across US facing tax bills that threaten survival",
+          "imageUrl": "https://image.cnbcfm.com/api/v1/image/107213297-1679501641021-gettyimages-1246514121-AFP_337R7B4.jpeg?v=1681822104&w=1920&h=1080"
+        },
+        {
+          "id": "https://www.theregister.com/2023/04/17/microsoft_windows_start_ads/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.theregister.com/2023/04/17/microsoft_windows_start_ads/",
+          "publishedOn": "2023-04-18T14:03:09.000Z",
+          "wordCount": 1558,
+          "title": "Microsoft plugging more ads into Windows 11 Start Menu",
+          "imageUrl": "https://regmedia.co.uk/2016/08/17/shutterstock_ads_times_sq.jpg"
+        },
+        {
+          "id": "https://www.amightygirl.com/blog?p=25020",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.amightygirl.com/blog?p=25020",
+          "publishedOn": "2023-04-18T12:45:12.000Z",
+          "wordCount": null,
+          "title": "A WWII spy who hid codes in her knitting",
+          "imageUrl": null
+        },
+        {
+          "id": "https://martinfowler.com/articles/2023-chatgpt-xu-hao.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://martinfowler.com/articles/2023-chatgpt-xu-hao.html",
+          "publishedOn": "2023-04-18T11:21:44.000Z",
+          "wordCount": 2863,
+          "title": "An example of LLM prompting for programming",
+          "imageUrl": "https://martinfowler.com/articles/2023-chatgpt-xu-hao/xu-chat-final.png"
+        },
+        {
+          "id": "https://search.marginalia.nu/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://search.marginalia.nu/",
+          "publishedOn": "2023-04-18T09:53:10.000Z",
+          "wordCount": 950,
+          "title": "Marginalia: DIY search engine that focuses on non-commercial content",
+          "imageUrl": null
+        },
+        {
           "id": "https://github.com/atrosinenko/qemujs",
           "author": null,
           "description": "Comments",
@@ -64,6 +314,16 @@
           "wordCount": 1506,
           "title": "Now, you can embed Mastodon posts in Medium stories",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*iAegNOCsR7U5wgaEtycnrw@2x.png"
+        },
+        {
+          "id": "https://www.vulture.com/article/dracula-movie-performances-ranked.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.vulture.com/article/dracula-movie-performances-ranked.html",
+          "publishedOn": "2023-04-17T19:46:52.000Z",
+          "wordCount": 27472,
+          "title": "Draculas, Ranked",
+          "imageUrl": "https://pyxis.nymag.com/v1/imgs/ef4/60c/f87f7cb9f12efb5969ad6eb3f0aaf240e8-dracula.1x.rsocial.w1200.jpg"
         },
         {
           "id": "https://www.newyorker.com/magazine/2023/04/24/crooks-mistaken-bet-on-encrypted-phones",
@@ -223,6 +483,36 @@
           "publishedOn": "2023-04-17T08:08:24.000Z",
           "wordCount": 576,
           "title": "There are no fees at America’s smallest bank",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.theartnewspaper.com/2023/03/17/podcast-inside-the-biggest-art-fraud-in-history-what-the-alleged-mass-forgery-tells-us-about-the-market-for-first-nations-art-in-canada",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.theartnewspaper.com/2023/03/17/podcast-inside-the-biggest-art-fraud-in-history-what-the-alleged-mass-forgery-tells-us-about-the-market-for-first-nations-art-in-canada",
+          "publishedOn": "2023-04-17T08:00:13.000Z",
+          "wordCount": 1297,
+          "title": "The &#x27;biggest art fraud in history&#x27;",
+          "imageUrl": "https://cdn.sanity.io/images/cxgd3urn/production/c0d4df489dc6a188aa0280334896a8fc13feca05-1920x1559.jpg?rect=405,372,1376,826&w=1200&h=720&q=85&fit=crop&auto=format"
+        },
+        {
+          "id": "https://www.hopsworks.ai/mlops-dictionary",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.hopsworks.ai/mlops-dictionary",
+          "publishedOn": "2023-04-17T07:51:21.000Z",
+          "wordCount": 3074,
+          "title": "The Big Dictionary of MLOps",
+          "imageUrl": "https://assets.website-files.com/5f6353590bb01cacbcecfbac/64393d8f95d50d0265ed8d8e_Dictionary%20Open%20Graph%2000.png"
+        },
+        {
+          "id": "http://runtimeterror.com/blog/borland-c-builder.html",
+          "author": null,
+          "description": "Comments",
+          "link": "http://runtimeterror.com/blog/borland-c-builder.html",
+          "publishedOn": "2023-04-17T07:12:15.000Z",
+          "wordCount": 3026,
+          "title": "Borland C++ Builder (2015)",
           "imageUrl": null
         },
         {
@@ -504,6 +794,16 @@
           "wordCount": 216,
           "title": "The fastest math typesetting library for the web",
           "imageUrl": "https://katex.org/img/og_logo.png"
+        },
+        {
+          "id": "https://samwho.dev/load-balancing/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://samwho.dev/load-balancing/",
+          "publishedOn": "2023-04-16T10:34:12.000Z",
+          "wordCount": 2287,
+          "title": "Load Balancing",
+          "imageUrl": null
         },
         {
           "id": "https://lemire.me/blog/2023/04/12/19-random-digits-is-not-enough-to-uniquely-identify-all-human-beings/",
@@ -8404,296 +8704,6 @@
           "wordCount": 11008,
           "title": "Cyclists now outnumber motorists in City of London",
           "imageUrl": "https://imageio.forbes.com/specials-images/imageserve/63ff2785e19773eb94ec6824/0x0.jpg?format=jpg&width=1200"
-        },
-        {
-          "id": "https://www.nationthailand.com/thailand/general/40025846",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.nationthailand.com/thailand/general/40025846",
-          "publishedOn": "2023-03-20T09:54:17.000Z",
-          "wordCount": 2912,
-          "title": "Cesium-137 missing and found in junk yard in Thailand",
-          "imageUrl": "https://media.nationthailand.com/uploads/images/md/2023/03/7mL2uENqMGOdHXX8uUKI.webp"
-        },
-        {
-          "id": "https://www.pbs.org/newshour/economy/federal-reserve-lent-300-billion-in-emergency-funds-to-banks-in-the-past-week",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.pbs.org/newshour/economy/federal-reserve-lent-300-billion-in-emergency-funds-to-banks-in-the-past-week",
-          "publishedOn": "2023-03-19T23:52:48.000Z",
-          "wordCount": 1181,
-          "title": "Federal Reserve lent $300B in emergency funds to banks in the past week",
-          "imageUrl": "https://d3i6fh83elv35t.cloudfront.net/static/2023/03/2023-03-10T174319Z_291082919_RC25RZ9HZV4A_RTRMADP_3_GLOBAL-MARKETS-BANKS-1024x683.jpg"
-        },
-        {
-          "id": "https://bansheesthegame.com/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://bansheesthegame.com/",
-          "publishedOn": "2023-03-19T23:37:44.000Z",
-          "wordCount": 106,
-          "title": "Banshees of Inisherin: The Game",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.nytimes.com/2023/03/13/science/brown-widows-black-widows.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.nytimes.com/2023/03/13/science/brown-widows-black-widows.html",
-          "publishedOn": "2023-03-19T23:11:58.000Z",
-          "wordCount": null,
-          "title": "Brown Widows Are Winning the Fight for Your Attic and Garage",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/brdskggs/status/1637114268876144640",
-          "author": null,
-          "description": "Comments",
-          "link": "https://twitter.com/brdskggs/status/1637114268876144640",
-          "publishedOn": "2023-03-19T23:02:20.000Z",
-          "wordCount": 509,
-          "title": "Anti-recruiter prompt injection attack in LinkedIn profile",
-          "imageUrl": null
-        },
-        {
-          "id": "https://mastodon.social/@mastodonusercount/110051957865629817",
-          "author": null,
-          "description": "Comments",
-          "link": "https://mastodon.social/@mastodonusercount/110051957865629817",
-          "publishedOn": "2023-03-19T22:28:18.000Z",
-          "wordCount": 119,
-          "title": "Mastodon Hit 10M Users",
-          "imageUrl": "https://files.mastodon.social/media_attachments/files/110/051/957/759/088/819/original/06fa694b93db98ab.png"
-        },
-        {
-          "id": "https://glaze.cs.uchicago.edu/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://glaze.cs.uchicago.edu/",
-          "publishedOn": "2023-03-19T22:12:27.000Z",
-          "wordCount": null,
-          "title": "Glaze (Poisoning AI Artists)",
-          "imageUrl": null
-        },
-        {
-          "id": "http://www.fosspatents.com/2023/03/us-states-epic-games-others-accuse.html",
-          "author": null,
-          "description": "Comments",
-          "link": "http://www.fosspatents.com/2023/03/us-states-epic-games-others-accuse.html",
-          "publishedOn": "2023-03-19T22:04:46.000Z",
-          "wordCount": 3156,
-          "title": "Epic Games, others accuse Sundar Pichai of violating retention obligations",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/doctorow/status/1637443442921066497",
-          "author": null,
-          "description": "Comments",
-          "link": "https://twitter.com/doctorow/status/1637443442921066497",
-          "publishedOn": "2023-03-19T21:40:01.000Z",
-          "wordCount": 509,
-          "title": "My new hobby: finding public domain images that Getty sells for $500",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20230319a.htm",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20230319a.htm",
-          "publishedOn": "2023-03-19T21:14:07.000Z",
-          "wordCount": 1343,
-          "title": "Coordinated central bank action to enhance the provision of US dollar liquidity",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://cyberscoop.com/atlassian-hack-employee-data-seigedsec/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://cyberscoop.com/atlassian-hack-employee-data-seigedsec/",
-          "publishedOn": "2023-03-19T21:10:58.000Z",
-          "wordCount": 2410,
-          "title": "Data from Atlassian dumped online after apparent hack",
-          "imageUrl": "https://cyberscoop.com/wp-content/uploads/sites/3/2023/02/GettyImages-1419722385.jpg"
-        },
-        {
-          "id": "https://old.reddit.com/r/Android/comments/11t16lk/qualcomm_has_open_sourced_its_aptx_and_aptx_hd/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://old.reddit.com/r/Android/comments/11t16lk/qualcomm_has_open_sourced_its_aptx_and_aptx_hd/",
-          "publishedOn": "2023-03-19T20:32:18.000Z",
-          "wordCount": 11337,
-          "title": "Qualcomm has open sourced its aptX and aptX HD encoders",
-          "imageUrl": "https://external-preview.redd.it/MYvUC-YikEpob8CjY8YNqgj8MyF9_UzH7C7pbDFq6Oo.jpg?width=140&height=73.2984293194&auto=webp&crop=140:73.2984293194,smart&v=enabled&s=c16c178ee71e6ca74c0c52f16becb1a3b8f4173d"
-        },
-        {
-          "id": "https://hakaimagazine.com/news/the-toxic-threat-in-thawing-permafrost/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://hakaimagazine.com/news/the-toxic-threat-in-thawing-permafrost/",
-          "publishedOn": "2023-03-19T20:11:35.000Z",
-          "wordCount": 1843,
-          "title": "Methylmercury in thawing permafrost",
-          "imageUrl": "https://hakaimagazine.com/wp-content/uploads/facebook-permafrost-mercury.jpg"
-        },
-        {
-          "id": "https://apnews.com/article/un-oceans-biodiversity-treaty-0b024fa07e8c1947236d8b8491ebf92c",
-          "author": null,
-          "description": "Comments",
-          "link": "https://apnews.com/article/un-oceans-biodiversity-treaty-0b024fa07e8c1947236d8b8491ebf92c",
-          "publishedOn": "2023-03-19T20:07:20.000Z",
-          "wordCount": 9673,
-          "title": "Nations reach accord to protect marine life on high seas",
-          "imageUrl": "https://storage.googleapis.com/afs-prod/media/8eade011c36d4c95a64c3b334614c5bc/3000.webp"
-        },
-        {
-          "id": "https://cirw.in/blog/bracketed-paste",
-          "author": null,
-          "description": "Comments",
-          "link": "https://cirw.in/blog/bracketed-paste",
-          "publishedOn": "2023-03-19T20:06:42.000Z",
-          "wordCount": 4387,
-          "title": "Bracketed paste mode (2013)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.tomshardware.com/news/fake-samsung-980-pro",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.tomshardware.com/news/fake-samsung-980-pro",
-          "publishedOn": "2023-03-19T19:50:33.000Z",
-          "wordCount": 8408,
-          "title": "Fake Samsung 980 Pro SSDs are spreading around",
-          "imageUrl": "https://cdn.mos.cms.futurecdn.net/V5NRmWGwVJQBX3shxTp34g-1200-80.jpg"
-        },
-        {
-          "id": "https://www.reuters.com/business/finance/ubs-take-over-credit-suisse-central-bank-2023-03-19/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.reuters.com/business/finance/ubs-take-over-credit-suisse-central-bank-2023-03-19/",
-          "publishedOn": "2023-03-19T19:38:21.000Z",
-          "wordCount": 4790,
-          "title": "UBS agrees to buy Credit Suisse in Swiss-assisted bid to calm markets",
-          "imageUrl": "https://www.reuters.com/resizer/rGeyn-uNNnPE9VB7_j5BnKjTEeE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/CE5JKFOSLJIATAXVUU6W4XKS3E.jpg"
-        },
-        {
-          "id": "https://en.wikipedia.org/wiki/Jaccard_index",
-          "author": null,
-          "description": "Comments",
-          "link": "https://en.wikipedia.org/wiki/Jaccard_index",
-          "publishedOn": "2023-03-19T19:33:41.000Z",
-          "wordCount": 5029,
-          "title": "Jaccard Index",
-          "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Intersection_of_sets_A_and_B.svg/1200px-Intersection_of_sets_A_and_B.svg.png"
-        },
-        {
-          "id": "https://www.scientificamerican.com/article/the-little-known-origin-story-behind-the-2022-nobel-prize-in-physics/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.scientificamerican.com/article/the-little-known-origin-story-behind-the-2022-nobel-prize-in-physics/",
-          "publishedOn": "2023-03-19T18:32:56.000Z",
-          "wordCount": 7877,
-          "title": "The little-known story behind the 2022 Nobel Prize in physics",
-          "imageUrl": "https://static.scientificamerican.com/sciam/cache/file/7F258F6A-763C-4FD0-9BC4CA890CC024A2.jpg"
-        },
-        {
-          "id": "https://www.persuasion.community/p/leaving-china",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.persuasion.community/p/leaving-china",
-          "publishedOn": "2023-03-19T18:02:26.000Z",
-          "wordCount": 3801,
-          "title": "Leaving China",
-          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdcb86702-b001-4930-b834-1a0ff5e72728_2481x1654.jpeg"
-        },
-        {
-          "id": "https://slatestarcodex.com/2014/07/30/meditations-on-moloch/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://slatestarcodex.com/2014/07/30/meditations-on-moloch/",
-          "publishedOn": "2023-03-19T17:48:51.000Z",
-          "wordCount": 84993,
-          "title": "Meditations on Moloch (2014)",
-          "imageUrl": "https://slatestarcodex.com/wp-content/themes/two_column_pujugama/images/codex_spotlight.png"
-        },
-        {
-          "id": "https://kottke.org/13/11/plane-landstakes-off-in-only-20-feet",
-          "author": null,
-          "description": "Comments",
-          "link": "https://kottke.org/13/11/plane-landstakes-off-in-only-20-feet",
-          "publishedOn": "2023-03-19T16:57:25.000Z",
-          "wordCount": 315,
-          "title": "Plane Lands&#x2F;Takes Off in Only 20 Feet (2013)",
-          "imageUrl": "https://img.youtube.com/vi/f7u1jzjFL8s/0.jpg"
-        },
-        {
-          "id": "https://www.amusingplanet.com/2023/03/the-1967-experiment-that-proved-anyone.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.amusingplanet.com/2023/03/the-1967-experiment-that-proved-anyone.html",
-          "publishedOn": "2023-03-19T16:49:47.000Z",
-          "wordCount": 8382,
-          "title": "A 1967 experiment that proved anyone can design a nuclear weapon",
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEheKCW-SnQgQ74MqKcNRb_sKdsPEIvABp7Vevq6WWhGYQBSAdAGUYC1GGAICoNWOfqbsyb5PldoD7nVp8up6v2kWhNs-Wr1PdzOv-_GmsbNFc5CaKms-Ql1WNMNh1NhrapROTFZpge8AiLEo_1ywM7VYGU7ZM9tKxj7VBORI6GwS8Jg6PYWArw9woFK/w600-h314-p-k-no-nu/nulcear-explosion.jpg"
-        },
-        {
-          "id": "https://en.wikipedia.org/wiki/Baumol_effect",
-          "author": null,
-          "description": "Comments",
-          "link": "https://en.wikipedia.org/wiki/Baumol_effect",
-          "publishedOn": "2023-03-19T16:39:00.000Z",
-          "wordCount": 7415,
-          "title": "The Baumol effect",
-          "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/91/US_CPI.jpg"
-        },
-        {
-          "id": "https://www.theguardian.com/world/2021/oct/24/why-germany-is-building-risk-into-its-playgrounds",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.theguardian.com/world/2021/oct/24/why-germany-is-building-risk-into-its-playgrounds",
-          "publishedOn": "2023-03-19T16:06:08.000Z",
-          "wordCount": 5265,
-          "title": "Learning the ropes: why Germany is building risk into its playgrounds (2021)",
-          "imageUrl": "https://i.guim.co.uk/img/media/e8d6b159a4fb645cb4aebd20dcf28dbd4fb2cbbf/0_1580_3024_1814/master/3024.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMjEucG5n&enable=upscale&s=8e867363589f4be214937c8732980190"
-        },
-        {
-          "id": "https://www.smithsonianmag.com/smart-news/people-had-to-be-convinced-of-the-usefulness-of-electricity-21221094/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.smithsonianmag.com/smart-news/people-had-to-be-convinced-of-the-usefulness-of-electricity-21221094/",
-          "publishedOn": "2023-03-19T15:16:59.000Z",
-          "wordCount": 1275,
-          "title": "People had to be convinced of the usefulness of electricity",
-          "imageUrl": "https://th-thumbnailer.cdn-si-edu.com/uYQKHjFvZF-rbwyN7pNM2WG93Dg=/fit-in/1600x0/https%3A%2F%2Ftf-cmsv2-smithsonianmag-media.s3.amazonaws.com%2Ffiler%2FElectricity-advertisement-edison-470.jpg"
-        },
-        {
-          "id": "https://www.wsj.com/articles/for-long-term-health-and-happiness-marriage-still-matters-86114ced",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.wsj.com/articles/for-long-term-health-and-happiness-marriage-still-matters-86114ced",
-          "publishedOn": "2023-03-19T15:10:01.000Z",
-          "wordCount": 7538,
-          "title": "For long-term health and happiness, marriage still matters",
-          "imageUrl": "https://images.wsj.net/im-744986/social"
-        },
-        {
-          "id": "https://ambiso.github.io/bitwarden-pin/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://ambiso.github.io/bitwarden-pin/",
-          "publishedOn": "2023-03-19T14:29:52.000Z",
-          "wordCount": 1086,
-          "title": "Bitwarden PINs can be brute-forced",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=kaandEt_pKw",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.youtube.com/watch?v=kaandEt_pKw",
-          "publishedOn": "2023-03-19T12:54:06.000Z",
-          "wordCount": null,
-          "title": "Ken Thompson&#x27;s keynote talk about a jukebox he built [video]",
-          "imageUrl": null
         }
       ]
     },
@@ -8702,6 +8712,206 @@
       "feedUrl": "https://www.tinhte.vn/rss",
       "siteUrl": "https://tinhte.vn/lists/trang-chu.1/",
       "articles": [
+        {
+          "id": "https://tinhte.vn/thread/3658790/",
+          "author": "Hoàng Hải.",
+          "description": "Mới đây thì một thông tin khá bất ngờ rằng nhà sản xuất Trung Quốc Meike mới là công ty đầu tiên công bố chiếc lens thuộc bên thứ 3 có khả năng lấy nét tự động cho ngàm Canon RF chứ không phải là...",
+          "link": "https://tinhte.vn/thread/that-bat-ngo-meike-moi-la-nha-san-xuat-dau-tien-lam-ong-kinh-lay-net-tu-dong-cho-canon-rf.3658790/",
+          "publishedOn": "2023-04-19T00:09:33.000Z",
+          "wordCount": 37361,
+          "title": "Thật bất ngờ, Meike mới là nhà sản xuất đầu tiên làm ống kính lấy nét tự động cho Canon RF",
+          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2023/04/6400477_Meike_85_f14_canon_RF.jpg"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3655651/",
+          "author": "Pnghuy",
+          "description": "Xiaomi Vaccum E10 (Xiaomi E10) là con robot hút bụi lau nhà rẻ nhất của Xiaomi mà anh em có thể tiếp cận được, cũng như đây là con robot hút bụi lau nhà rất phù hợp với những anh em vừa bước chân...",
+          "link": "https://tinhte.vn/thread/tren-tay-robot-hut-bui-lau-nha-xiaomi-vaccum-e10-luc-hut-4000pa-phu-hop-de-bat-dau-chi-voi-6-trieu.3655651/",
+          "publishedOn": "2023-04-19T00:09:31.000Z",
+          "wordCount": 77791,
+          "title": "Trên tay robot hút bụi lau nhà Xiaomi Vaccum E10: lực hút 4000Pa, phù hợp để bắt đầu chỉ với 6 triệu",
+          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2023/04/6400622_cover_trentay_xiaomi_Vacuum-E10_tinhte_pnghuy.jpg"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3658962/",
+          "author": "Pnghuy",
+          "description": "Sau nhiều thông tin rò rỉ thì cuối cùng Xiaomi cũng ra mắt chính thức chiếc điện thoại mạnh mẽ nhất, nhiều công nghệ nhất, xịn nhất của họ tính đến thời điểm hiện tại - Xiaomi 13 Ultra, chiếc điện...",
+          "link": "https://tinhte.vn/thread/xiaomi-ra-mat-xiaomi-13-ultra-camera-leica-1-inch-man-hinh-do-sang-2600nit-thiet-ke-vuong-vuc.3658962/",
+          "publishedOn": "2023-04-19T00:08:37.000Z",
+          "wordCount": 61417,
+          "title": "Xiaomi ra mắt Xiaomi 13 Ultra: camera Leica 1 inch, màn hình độ sáng 2600nit, thiết kế vuông vức",
+          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2023/04/6400811_cover_xiaomi13ultra_8.jpg"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3658884/",
+          "author": "Pnghuy",
+          "description": "Vào lúc 14h ngày thứ 7, 22 tháng 4 năm 2023, tại Capella Hall, số 24 đường 3 tháng 2 quận 10, TP.HCM sẽ diễn ra sự kiện trải nghiệm sản phẩm công nghệ của HP Việt Nam, mời anh em Tinh tế tham dự...",
+          "link": "https://tinhte.vn/thread/moi-anh-em-tham-du-su-kien-trai-nghiem-san-pham-cong-nghe-cua-hp-viet-nam-thu-7-ngay-22-4-luc-14h.3658884/",
+          "publishedOn": "2023-04-19T00:07:52.000Z",
+          "wordCount": 36558,
+          "title": "Mời anh em tham dự sự kiện trải nghiệm sản phẩm công nghệ của HP Việt Nam, thứ 7 ngày 22/4, lúc 14h",
+          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2023/04/6400600_cover_HPOffline_230422_1.jpg"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3658711/",
+          "author": "Lê Phú Khương",
+          "description": "Để ý từ khi cập nhật lên iOS 16.5, điện thoại của mình (iPhone 13 Pro Max) thường xuyên bị mất sóng. Tình trạng này diễn ra với cả SIM vật lý và eSIM, mình có thử đổi qua các nhà mạng khác cũng...",
+          "link": "https://tinhte.vn/thread/ios-16-5-thuong-xuyen-khien-dien-thoai-mat-song-anh-em-co-bi-khong.3658711/",
+          "publishedOn": "2023-04-19T00:07:22.000Z",
+          "wordCount": 51826,
+          "title": "iOS 16.5 thường xuyên khiến điện thoại mất sóng, anh em có bị không?",
+          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2023/04/6399985_cover-ip.jpg"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3658883/",
+          "author": "Trần Hoàng Long.",
+          "description": "watchOS 10 sẽ được ra mắt tại sự kiện WWDC 2023 tháng 6 sắp tới và nhiều nguồn tin cho biết rằng đây sẽ là bản nâng cấp phần mềm lớn nhất kể từ lúc Apple Watch ra mắt năm 2015 đến nay. Anh em mong...",
+          "link": "https://tinhte.vn/thread/anh-em-mong-cho-gi-o-watchos-10.3658883/",
+          "publishedOn": "2023-04-19T00:07:21.000Z",
+          "wordCount": 44108,
+          "title": "Anh em mong chờ gì ở watchOS 10 ?",
+          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2023/04/6400441_9F7F863F-1325-434E-8E8C-E690B881A832.jpeg"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3657341/",
+          "author": "Nam Air",
+          "description": "Tất cả chúng ta đều sẽ có lúc thấy ngứa và đưa tay gãi. Thực tế, hầu hết các loài động vật đều làm điều đó! Nhưng tại sao? Ngứa là gì và tại sao gãi lại làm nó biến mất? Mình tìm thấy câu trả lời...",
+          "link": "https://tinhte.vn/thread/vi-sao-ta-lai-thay-da-ngua-khi-gai.3657341/",
+          "publishedOn": "2023-04-19T00:07:13.000Z",
+          "wordCount": 45840,
+          "title": "Vì sao ta lại thấy đã ngứa khi gãi?",
+          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2023/04/6398944_cover.jpg"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3658912/",
+          "author": "cuhiep",
+          "description": "Mình đã từng làm điều này khi đi xe hơi, gần ngã ba Bà Rịa. Khi mình đang đi với tốc độ cho phép, xung quanh cũng đông người, con chó bất ngờ lao nhanh qua đường… Mình đã chọn giải pháp tông thẳng...",
+          "link": "https://tinhte.vn/thread/minh-se-giu-vung-tay-lai-tang-toc-tong-thang-vao-cho-neu-thay-no-qua-duong-bat-ngo.3658912/",
+          "publishedOn": "2023-04-19T00:06:59.000Z",
+          "wordCount": 48939,
+          "title": "Mình sẽ giữ vững tay lái, tăng tốc tông thẳng vào chó nếu thấy nó qua đường bất ngờ",
+          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2023/04/6400489_can_cho.jpg"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3658730/",
+          "author": "Hoàng Hải.",
+          "description": "Đó là lời khẳng định trong đoạn video dài 38 giây được đăng tải lên chính trang Youtube của Xiaomi từ nhiếp ảnh ảnh gia Matt Stuart. Ông là một nhiếp ảnh gia đường phố, thương mại người Anh chuyên...",
+          "link": "https://tinhte.vn/thread/xiaomi-13-ultra-khong-phai-la-dien-thoai-co-kha-nang-chup-anh-ma-la-mot-chiec-camera-phone.3658730/",
+          "publishedOn": "2023-04-19T00:05:21.000Z",
+          "wordCount": 87888,
+          "title": "Xiaomi 13 Ultra không phải là điện thoại có khả năng chụp ảnh, mà là một chiếc camera phone",
+          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2023/04/6400015_Xiaomi-13-ultra-camera-tinhte.jpg"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3658734/",
+          "author": "Rubi Lee",
+          "description": "Lần đầu khai trương vào năm 705 SCN, khách sạn Nishiyama Onsen Keiunkan đã truyền qua 52 thế hệ của một gia đình. Năm 2011, nó đã được Kỷ lục Guinness Thế giới công nhận là khách sạn hoạt động...",
+          "link": "https://tinhte.vn/thread/day-la-khach-san-lau-doi-nhat-the-gioi-da-hoat-dong-lien-tuc-1318-nam.3658734/",
+          "publishedOn": "2023-04-18T23:48:51.000Z",
+          "wordCount": 58205,
+          "title": "Đây là khách sạn lâu đời nhất thế giới, đã hoạt động liên tục 1318 năm",
+          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2023/04/6400016_Nishiyama-Onsen-Keiunkan-1.jpg"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3658942/",
+          "author": "thanhtung6868",
+          "description": "VinFast vừa công bố khai trương cửa hàng đầu tiên tại Vancouver, British Colombia - Canada. Cửa hàng mới nhất của VinFast Canada nằm tại trung tâm thương mại Park Royal, Bắc Vancouver. Không gian...",
+          "link": "https://tinhte.vn/thread/vinfast-khai-truong-cua-hang-thu-tam-tai-canada.3658942/",
+          "publishedOn": "2023-04-18T23:15:49.000Z",
+          "wordCount": 46937,
+          "title": "VinFast khai trương cửa hàng thứ tám tại Canada",
+          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2023/04/6400491_vinfast_store_canada.jpg"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3658757/",
+          "author": "Minh Dự.",
+          "description": "Mời anh em chia sẻ thêm những ưu đãi giảm giá từ các trang thương mại điện tử lớn tại Việt Nam. Những deal nổi bật được cập nhật hàng ngày có giá trị theo giờ, theo ngày hoặc đến khi hết sản phẩm....",
+          "link": "https://tinhte.vn/thread/tong-hop-deal-khuyen-mai-18-04.3658757/",
+          "publishedOn": "2023-04-18T22:13:16.000Z",
+          "wordCount": 55976,
+          "title": "Tổng hợp deal khuyến mãi 18/04",
+          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2023/04/6400317_cover_deal-ngon-hom-nay-Recovered.jpg"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3658632/",
+          "author": "MinhTriND",
+          "description": "Apple được cho là sẽ trang bị màn hình OLED cho iPad Pro thế hệ ra mắt năm 2024, và điều quan trọng là công nghệ OLED đó tiên tiến hơn hiện tại nhưng lại có chi phí sản xuất thấp hơn, nhờ quy...",
+          "link": "https://tinhte.vn/thread/ipad-pro-2024-se-duoc-trang-bi-tam-nen-oled-hybrid-mong-hon-chi-phi-thap-hon.3658632/",
+          "publishedOn": "2023-04-18T22:07:39.000Z",
+          "wordCount": 50277,
+          "title": "iPad Pro 2024 sẽ được trang bị tấm nền OLED Hybrid mỏng hơn, chi phí thấp hơn?",
+          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2023/04/6399749_Cover-iPad-OLED.jpg"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3525895/",
+          "author": "Wishley",
+          "description": "Nhiều người thường ngộ nhận rằng nhiệt độ điều hoà để bao nhiêu thì nhiệt độ phòng là bấy nhiêu. Đây là một suy nghĩ rất sai lầm. Đôi khi sự chênh lệch giữa nhiệt độ cài đặt trên điều khiển điều...",
+          "link": "https://tinhte.vn/thread/review-nhiet-am-ke-beurer-hm-16.3525895/",
+          "publishedOn": "2023-04-18T22:07:27.000Z",
+          "wordCount": 84641,
+          "title": "Review Nhiệt Ẩm Kế Beurer HM 16",
+          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2022/06/6009500_IMG_20220603_104146.jpg"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3658881/",
+          "author": "Trung Dt",
+          "description": "Các sản phẩm gia dụng được Beko ra mắt năm 2023 gồm thiết bị nhà bếp như bếp từ, lò nướng, máy rửa chén cho đến thiết bị gia dụng cỡ vừa, cỡ lớn như  tủ lạnh, máy giặt, máy giặt sấy, máy nước...",
+          "link": "https://tinhte.vn/thread/beko-ra-mat-loat-thiet-bi-gia-dung-moi-ky-vong-tang-truong-manh-trong-nhom-thuong-hieu-chau-au.3658881/",
+          "publishedOn": "2023-04-18T21:34:50.000Z",
+          "wordCount": 47922,
+          "title": "Beko ra mắt loạt thiết bị gia dụng mới, kỳ vọng tăng trưởng mạnh trong nhóm thương hiệu châu Âu",
+          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2023/04/6400464_cover_beko.jpg"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3658306/",
+          "author": "TTKM",
+          "description": "Sự mở rộng liên tục của hạ tầng Internet tại Việt Nam, các dịch vụ dựa trên điện toán đám mây và máy chủ từ xa được nhiều chuyên gia nhận định là cơ hội phát triển, đổi mới không thể bỏ qua cho...",
+          "link": "https://tinhte.vn/thread/qc-tan-dung-loi-the-cong-nghe-de-day-nhanh-toc-do-phat-trien-cua-doanh-nghiep.3658306/",
+          "publishedOn": "2023-04-18T21:32:55.000Z",
+          "wordCount": 34861,
+          "title": "[QC] Tận dụng lợi thế công nghệ để đẩy nhanh tốc độ phát triển của doanh nghiệp",
+          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2023/04/6398788_cv.jpg"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3658853/",
+          "author": "Hoàng Hải.",
+          "description": "Todd Salat gần như đã chết lặng khi một hình xoắn ốc khổng lồ màu xanh xuất hiện phía trên đầu của mình khi nhiếp ảnh gia này đang chụp ảnh cực quang ở Alaska. “Tôi nghĩ, cái quái gì vậy?! Tôi bắt...",
+          "link": "https://tinhte.vn/thread/elon-musk-tao-ra-xoan-oc-mau-xanh-ky-la-tren-bau-troi-alaska.3658853/",
+          "publishedOn": "2023-04-18T18:09:08.000Z",
+          "wordCount": 47804,
+          "title": "Elon Musk \"tạo ra\" xoắn ốc màu xanh kỳ lạ trên bầu trời Alaska",
+          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2023/04/6400315_cuc_quang_falcon_9_elon_musk_tinhte-3.jpg"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3658627/",
+          "author": "MinhTriND",
+          "description": "Mặc dù đồng hồ đếm ngược chỉ còn 40 giây, song, sự cố kỹ thuật xảy ra 10 phút trước đó có thể đe doạ đến toàn bộ sứ mệnh đã khiến cho đội ngũ điều hành bay ở SpaceX quyết định tạm ngưng thực hiện...",
+          "link": "https://tinhte.vn/thread/spacex-tam-hoan-phong-tau-starship-vi-ly-do-ky-thuat-co-the-phong-lai-sau-48-tieng.3658627/",
+          "publishedOn": "2023-04-18T17:39:17.000Z",
+          "wordCount": 61421,
+          "title": "SpaceX tạm hoãn phóng tàu Starship vì lý do kỹ thuật, có thể phóng lại sau 48 tiếng",
+          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2023/04/6399744_Cover-starship-tinhte-2.jpg"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3658512/",
+          "author": "Nam Air",
+          "description": "Rất nhanh sau khi tin Saramonic giới thiệu micro không dây BlinkMe  thì QuickAccess đã có và cho Tinhte.vn mượn sản phẩm, quá nhanh luôn!!!!! Mình làm trên tay nhanh gởi đến anh em nhé anh em....",
+          "link": "https://tinhte.vn/thread/tren-tay-bo-micro-khong-day-saramonic-blinkme-thiet-ke-doc-dao-chat-am-hay.3658512/",
+          "publishedOn": "2023-04-18T15:15:11.000Z",
+          "wordCount": 71108,
+          "title": "Trên tay bộ micro không dây Saramonic BlinkMe: thiết kế độc đáo, chất âm hay",
+          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2023/04/6399391_Cover.jpg"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3658792/",
+          "author": "Hoàng Hải.",
+          "description": "Cuối cùng thì Nikon cũng đã công bố ống kính Nikkor Z DX 12-28mm f/3.5-5.6 PZ VR, một ống kính zoom góc siêu rộng được thiết kế cho các anh chị em chuyên quay vlog hay các nhà sáng tạo nội dung  1...",
+          "link": "https://tinhte.vn/thread/nikon-gioi-thieu-chiec-nikkor-dx-12-28mm-f-3-5-5-6-power-zoom-vr-cho-ngam-z.3658792/",
+          "publishedOn": "2023-04-18T14:03:54.000Z",
+          "wordCount": 44828,
+          "title": "Nikon giới thiệu chiếc Nikkor DX 12-28mm f/3.5-5.6 Power Zoom VR cho ngàm Z",
+          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2023/04/6400205_Nikkor_DX_12-28mm_f-3.5-5.6_Power_Zoom_VR_tinhte-4.jpg"
+        },
         {
           "id": "https://tinhte.vn/thread/3658338/",
           "author": "cuhiep",
@@ -13491,16 +13701,6 @@
           "wordCount": 44664,
           "title": "Diablo IV Beta có khả năng biến RTX 3080 Ti thành đồ chặn giấy?",
           "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2023/03/6364344_cover-diablo-iv-rtx-3080-ti-tinhte.jpg"
-        },
-        {
-          "id": "https://tinhte.vn/thread/3646634/",
-          "author": "Lê Huyền Vân",
-          "description": "Sony FES Watch U có màn hình e-ink ở cả mặt đồng hồ và dây đeo. Nó có thiết kế hiện đại nhưng không phải là một chiếc smartwacth, nó đơn thuần là một chiếc đồng hồ thời trang, món phụ kiện đeo để...",
-          "link": "https://tinhte.vn/thread/tren-tay-sony-fes-watch-u-mat-va-day-deo-e-ink-doc-dao-thay-doi-nhieu-kieu-thoi-trang.3646634/",
-          "publishedOn": "2023-03-20T10:40:02.000Z",
-          "wordCount": 55989,
-          "title": "Trên tay Sony FES Watch U: Mặt và dây đeo e-ink độc đáo, thay đổi nhiều kiểu thời trang",
-          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2023/03/6363652_tinhte---cover-Sony-FES23.jpg"
         }
       ]
     },
@@ -13536,6 +13736,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2023/04/smashing-podcast-episode-59/",
+          "author": "hello@smashingmagazine.com (Drew McLellan)",
+          "description": "In this episode of The Smashing Podcast, we take a look at design storytelling. What is it, and how can it help us shape digital experiences? Vitaly talks to Chiara Aliotta to find out.",
+          "link": "https://smashingmagazine.com/2023/04/smashing-podcast-episode-59/",
+          "publishedOn": "2023-04-18T12:00:00.000Z",
+          "wordCount": 10291,
+          "title": "Smashing Podcast Episode 59 With Chiara Aliotta: What Is Design Storytelling?",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/smashing-podcast-episode-59/smashing-podcast-episode-59.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "http://files.smashing.media/articles/smashing-podcast-episode-59/smashing-podcast-episode-59.png"
+        },
         {
           "id": "https://smashingmagazine.com/2023/04/what-is-design-thinking/",
           "author": "hello@smashingmagazine.com (Krithika Subramanian)",
@@ -13685,21 +13900,6 @@
             "type": "image/png"
           },
           "imageUrl": "http://files.smashing.media/articles/smashing-podcast-episode-58/meta-smashing-podcast-episode-58.png"
-        },
-        {
-          "id": "https://smashingmagazine.com/2023/03/free-fonts-interface-designers/",
-          "author": "hello@smashingmagazine.com (Cosima Mielke)",
-          "description": "Just a few beautiful, well-crafted fonts for headings and body text that you probably haven’t spotted before. Free for personal and commercial use. Enjoy!",
-          "link": "https://smashingmagazine.com/2023/03/free-fonts-interface-designers/",
-          "publishedOn": "2023-03-20T09:00:00.000Z",
-          "wordCount": 4660,
-          "title": "Free Fonts For Interface Designers",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/open-source-fonts-roundup/meta-free-fonts-interface-designers.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/open-source-fonts-roundup/meta-free-fonts-interface-designers.jpg"
         }
       ]
     },
@@ -13708,6 +13908,76 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/deploy-nodejs-app-with-cloudformation/",
+          "author": "Arunachalam B",
+          "description": "Imagine you have built a great product and its user base is growing rapidly. You want to scale your product to be available to people around the world. To do this, you'll need good cloud infrastructure. But managing your cloud infrastructure manually can be exhausting. You might start wondering, \"how",
+          "link": "https://www.freecodecamp.org/news/deploy-nodejs-app-with-cloudformation/",
+          "publishedOn": "2023-04-18T18:03:26.000Z",
+          "wordCount": 3101,
+          "title": "How to Deploy a NodeJS App with AWS CloudFormation",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/CloudFormation.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/invalid-html-syntax-examples-and-fixes/",
+          "author": "CHRISTINE T. BELZIE",
+          "description": "Remember those treehouses that we had as children and how the wood would wear, tear, and eventually collapse because we just would not stop jumping around inside it? Well that's kind of like HTML. This markup language is like the wood to your coding project. If it’s invalid, your solution",
+          "link": "https://www.freecodecamp.org/news/invalid-html-syntax-examples-and-fixes/",
+          "publishedOn": "2023-04-18T16:51:50.000Z",
+          "wordCount": 1682,
+          "title": "Common Causes of Invalid HTML Syntax – and How to Fix Them",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/Blog-post-cover-for-FCC---2-1.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/what-does-the-dollar-sign-mean-in-python/",
+          "author": "Ihechikara Vincent Abba",
+          "description": "Operators are special symbols you can use to perform different operations on variables (operands) in programming.  Python has different operators like arithmetic operators, assignment operators, logical operators, boolean operators, comparison operators, bitwise operators, and so on.  Although you'll not come across the dollar sign ($) operator when learning",
+          "link": "https://www.freecodecamp.org/news/what-does-the-dollar-sign-mean-in-python/",
+          "publishedOn": "2023-04-18T16:39:34.000Z",
+          "wordCount": 1320,
+          "title": "What Does $ Mean in Python? Operator Meaning + String Formatting Examples",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/what-does-the-dollar-sign-mean-in-python.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/javascript-assigning-values-vs-assigning-references/",
+          "author": "Germán Cocca",
+          "description": "Hi everyone! In JavaScript, variables can hold two types of data: primitive values and reference values. Understanding the difference between these two types of data is crucial for writing efficient and bug-free code.  In this short article, we will explore the difference between values and references in JavaScript. Table",
+          "link": "https://www.freecodecamp.org/news/javascript-assigning-values-vs-assigning-references/",
+          "publishedOn": "2023-04-18T16:31:17.000Z",
+          "wordCount": 2123,
+          "title": "JavaScript Primitive Values vs Reference Values – Explained with Examples",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/pexels-pedro-figueras-681447.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/python-module-not-found-error-solved/",
+          "author": "Shittu Olumide",
+          "description": "Errors are an inevitable part of programming, and every programmer will encounter them at some point in their career.  Errors in programming can take various forms, including syntax errors, logic errors, and runtime errors, and they can have a significant impact on the functioning of a program. Understanding the",
+          "link": "https://www.freecodecamp.org/news/python-module-not-found-error-solved/",
+          "publishedOn": "2023-04-17T23:55:53.000Z",
+          "wordCount": 1064,
+          "title": "ModuleNotFoundError: no module named 'requests' [Solved in Python Django]",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/Shittu-Olumide-ModuleNotFoundError-no-module-named--requests---Solved-in-Python-Django-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-devops-works/",
+          "author": "Satyam Tripathi",
+          "description": "When developers and operations teams work together, they can identify and solve problems more quickly. This helps them deliver software to users faster and with fewer errors.  This general practice is called DevOps. It involves using tools and techniques to automate tasks and make software development and deployment more",
+          "link": "https://www.freecodecamp.org/news/how-devops-works/",
+          "publishedOn": "2023-04-17T23:37:44.000Z",
+          "wordCount": 1782,
+          "title": "What is DevOps? How Development + Operations Helps Teams Work More Efficiently",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/Getting-Started-With-DevOps--3--1.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-use-git-rebase/",
+          "author": "Nick Abbene",
+          "description": "The software engineering landscape is constantly changing. Staying up to date on new technologies is absolutely critical. But as developers, sometimes we forget how important it is to dig a bit deeper into the tried and true technologies that are the backbone of software development – such as version control",
+          "link": "https://www.freecodecamp.org/news/how-to-use-git-rebase/",
+          "publishedOn": "2023-04-17T22:17:32.000Z",
+          "wordCount": 1384,
+          "title": "How to Use Git Rebase – Tutorial for Beginners",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/Screenshot-2023-04-15-at-10.58.48-PM.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/how-to-protect-your-pwa/",
           "author": "Rahul",

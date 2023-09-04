@@ -1,0 +1,789 @@
+{
+  "sources": [
+    {
+      "title": "Hacker News",
+      "feedUrl": "https://news.ycombinator.com/rss",
+      "siteUrl": "https://news.ycombinator.com/",
+      "articles": [
+        {
+          "id": "https://blog.nearlyfreespeech.net/2023/08/22/bigger-better-faster-more/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://blog.nearlyfreespeech.net/2023/08/22/bigger-better-faster-more/",
+          "publishedOn": "2023-09-03T23:27:48.000Z",
+          "wordCount": 3102,
+          "title": "Bigger, better, faster, more",
+          "imageUrl": null
+        },
+        {
+          "id": "https://en.wikipedia.org/wiki/Dihydrogen_monoxide_parody",
+          "author": null,
+          "description": "Comments",
+          "link": "https://en.wikipedia.org/wiki/Dihydrogen_monoxide_parody",
+          "publishedOn": "2023-09-03T23:16:18.000Z",
+          "wordCount": 2582,
+          "title": "Dihydrogen Monoxide Parody",
+          "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Water_molecule_%281%29.svg/1200px-Water_molecule_%281%29.svg.png"
+        },
+        {
+          "id": "https://ragntune.com/blog/guide-fine-tuning-code-llama",
+          "author": null,
+          "description": "Comments",
+          "link": "https://ragntune.com/blog/guide-fine-tuning-code-llama",
+          "publishedOn": "2023-09-03T22:41:02.000Z",
+          "wordCount": 3232,
+          "title": "A complete guide to fine-tuning Code Llama",
+          "imageUrl": "https://ragntune.com/static/images/twitter-card.png"
+        },
+        {
+          "id": "https://en.wikipedia.org/wiki/Invented_tradition",
+          "author": null,
+          "description": "Comments",
+          "link": "https://en.wikipedia.org/wiki/Invented_tradition",
+          "publishedOn": "2023-09-03T22:37:43.000Z",
+          "wordCount": 2872,
+          "title": "Invented Tradition",
+          "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Ye_principal_clovris_of_ye_clanne_Stewart_tartan_%28Vestiarium_Scoticum%29.png"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=gR0SYhG76fw",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.youtube.com/watch?v=gR0SYhG76fw",
+          "publishedOn": "2023-09-03T22:35:03.000Z",
+          "wordCount": null,
+          "title": "Lego 3-axis styrofoam cutter [video]",
+          "imageUrl": null
+        },
+        {
+          "id": "https://arstechnica.com/culture/2023/08/i-try-synthetic-salmon-and-enter-the-uncanny-valley-of-taste/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://arstechnica.com/culture/2023/08/i-try-synthetic-salmon-and-enter-the-uncanny-valley-of-taste/",
+          "publishedOn": "2023-09-03T22:17:30.000Z",
+          "wordCount": 2409,
+          "title": "I try synthetic salmon and enter the “uncanny valley” of taste",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/1-760x380.jpg"
+        },
+        {
+          "id": "https://claremontreviewofbooks.com/the-containment-of-george-kennan/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://claremontreviewofbooks.com/the-containment-of-george-kennan/",
+          "publishedOn": "2023-09-03T20:13:06.000Z",
+          "wordCount": 7228,
+          "title": "The containment of George Kennan (2022)",
+          "imageUrl": "https://claremontreviewofbooks.com/wp-content/uploads/2023/03/Anton-600x400.jpg"
+        },
+        {
+          "id": "https://betterprogramming.pub/a-taste-of-coq-and-correct-code-by-construction-111bf74d3b98",
+          "author": null,
+          "description": "Comments",
+          "link": "https://betterprogramming.pub/a-taste-of-coq-and-correct-code-by-construction-111bf74d3b98",
+          "publishedOn": "2023-09-03T20:10:00.000Z",
+          "wordCount": 14047,
+          "title": "How to write correct code by construction using the Coq Proof Assistant",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*Eux7Vu5yvbMcJXnR7W4a3w.png"
+        },
+        {
+          "id": "https://en.wikipedia.org/wiki/Yenish_people",
+          "author": null,
+          "description": "Comments",
+          "link": "https://en.wikipedia.org/wiki/Yenish_people",
+          "publishedOn": "2023-09-03T19:59:48.000Z",
+          "wordCount": 2275,
+          "title": "Yenish people",
+          "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Jenische1928e.jpg"
+        },
+        {
+          "id": "https://nomad.foo/blog/cola",
+          "author": null,
+          "description": "Comments",
+          "link": "https://nomad.foo/blog/cola",
+          "publishedOn": "2023-09-03T19:53:04.000Z",
+          "wordCount": 4457,
+          "title": "Cola: A text CRDT for real-time collaborative editing",
+          "imageUrl": "https://nomad.foo/media/8d17c986735ba78d101eea3bfaada2b5a29ea0f8665ecf742a454dcb56396911.png"
+        },
+        {
+          "id": "https://torrentfreak.com/google-preemptively-banned-hundreds-of-millions-of-pirate-urls-last-year-230903/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://torrentfreak.com/google-preemptively-banned-hundreds-of-millions-of-pirate-urls-last-year-230903/",
+          "publishedOn": "2023-09-03T19:03:23.000Z",
+          "wordCount": 3698,
+          "title": "Google preemptively banned hundreds of millions of 'pirate' URLs last year",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.ian-leslie.com/p/stories-are-bad-for-your-intelligence",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.ian-leslie.com/p/stories-are-bad-for-your-intelligence",
+          "publishedOn": "2023-09-03T19:00:56.000Z",
+          "wordCount": 5274,
+          "title": "Historians have an increasingly strong incentive to tell dramatic stories",
+          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5b102b0d-13ee-4cf2-b431-74991ebfccc7_445x556.jpeg"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=VMkdnj698-0",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.youtube.com/watch?v=VMkdnj698-0",
+          "publishedOn": "2023-09-03T17:17:32.000Z",
+          "wordCount": null,
+          "title": "Coherer Effect [video]",
+          "imageUrl": null
+        },
+        {
+          "id": "https://vale.sh/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://vale.sh/",
+          "publishedOn": "2023-09-03T15:58:18.000Z",
+          "wordCount": 152,
+          "title": "Vale.sh – A Linter for Prose",
+          "imageUrl": "https://user-images.githubusercontent.com/8785025/167473311-6de8c59b-ccb3-41e1-b887-4a17b2cb74fd.png"
+        },
+        {
+          "id": "https://rssfeedasap.com/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://rssfeedasap.com/",
+          "publishedOn": "2023-09-03T15:37:29.000Z",
+          "wordCount": 88,
+          "title": "Show HN: Extract an RSS feed from almost anything",
+          "imageUrl": "https://rssfeedasap.com/rssfeedasap.png"
+        },
+        {
+          "id": "https://scitechdaily.com/a-whiff-of-genius-simple-fragrance-method-boosts-cognitive-capacity-by-226/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://scitechdaily.com/a-whiff-of-genius-simple-fragrance-method-boosts-cognitive-capacity-by-226/",
+          "publishedOn": "2023-09-03T15:16:56.000Z",
+          "wordCount": 4295,
+          "title": "Simple fragrance method boosts cognitive capacity: study",
+          "imageUrl": "https://scitechdaily.com/images/Old-Man-Inhaling-Scent.jpg"
+        },
+        {
+          "id": "https://neladunato.com/blog/why-wont-grow-freelance-studio-into-agency/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://neladunato.com/blog/why-wont-grow-freelance-studio-into-agency/",
+          "publishedOn": "2023-09-03T15:16:54.000Z",
+          "wordCount": 4962,
+          "title": "I don’t want to grow my freelance design studio into an agency",
+          "imageUrl": "https://neladunato.com/wp-content/uploads/grow-freelance-studio-agency.jpg"
+        },
+        {
+          "id": "https://www.w3.org/TR/html-design-principles/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.w3.org/TR/html-design-principles/",
+          "publishedOn": "2023-09-03T15:08:05.000Z",
+          "wordCount": 3112,
+          "title": "HTML Design Principles (2007)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://thetaoofwealth.wordpress.com/2013/02/17/harry-brownes-17-golden-rules-of-financial-safety/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://thetaoofwealth.wordpress.com/2013/02/17/harry-brownes-17-golden-rules-of-financial-safety/",
+          "publishedOn": "2023-09-03T14:47:02.000Z",
+          "wordCount": 8506,
+          "title": "Harry Browne’s Rules of Financial Safety (1999)",
+          "imageUrl": "https://s0.wp.com/i/blank.jpg"
+        },
+        {
+          "id": "https://theferret.scot/pesticide-safety-limit-industry-lobbying/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://theferret.scot/pesticide-safety-limit-industry-lobbying/",
+          "publishedOn": "2023-09-03T13:55:12.000Z",
+          "wordCount": 5688,
+          "title": "Pesticide safety limit for salmon farms watered down after industry lobbying",
+          "imageUrl": "https://ez9mxwef6ut.exactdn.com/wp-content/uploads/2023/05/iStock-1281993327.jpg"
+        },
+        {
+          "id": "https://kevinlynagh.com/newsletter/2023_09_hardware_prototyping/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://kevinlynagh.com/newsletter/2023_09_hardware_prototyping/",
+          "publishedOn": "2023-09-03T13:26:24.000Z",
+          "wordCount": 3306,
+          "title": "Interfaces for prototyping hardware",
+          "imageUrl": null
+        },
+        {
+          "id": "https://raft.github.io/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://raft.github.io/",
+          "publishedOn": "2023-09-03T12:22:35.000Z",
+          "wordCount": 1879,
+          "title": "The Raft Consensus Algorithm (2015)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://replit.com/site/careers",
+          "author": null,
+          "description": "Comments",
+          "link": "https://replit.com/site/careers",
+          "publishedOn": "2023-09-03T12:00:21.000Z",
+          "wordCount": null,
+          "title": "Replit (YC W18) Is Hiring Engineers in AI, Platform, and Product",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.historytoday.com/archive/review/psychonauts-mike-jay-review",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.historytoday.com/archive/review/psychonauts-mike-jay-review",
+          "publishedOn": "2023-09-03T05:08:53.000Z",
+          "wordCount": 1344,
+          "title": "‘Psychonauts’ by Mike Jay review",
+          "imageUrl": "https://www.historytoday.com/sites/default/files/inline-images/Pyschonauts%20by%20Mike%20Jay%20review%20History%20Today.jpg"
+        },
+        {
+          "id": "https://www.os2museum.com/wp/learn-something-old-every-day-part-ix-aha-154xb-and-aspi4dos-sys/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.os2museum.com/wp/learn-something-old-every-day-part-ix-aha-154xb-and-aspi4dos-sys/",
+          "publishedOn": "2023-09-03T02:40:58.000Z",
+          "wordCount": 2091,
+          "title": "Learn Something Old Every Day, Part IX: Aha-154xB and ASPI4DOS.SYS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nationalgeographic.com/history/article/last-voyage-of-the-demeter-dracula-dmitry",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.nationalgeographic.com/history/article/last-voyage-of-the-demeter-dracula-dmitry",
+          "publishedOn": "2023-09-02T23:35:49.000Z",
+          "wordCount": 9600,
+          "title": "A little-known shipwreck that inspired ‘Dracula’",
+          "imageUrl": "https://i.natgeofe.com/n/0c83fcf8-8860-42bd-a1e1-7a03bce1826a/GettyImages-90765832_16x9.jpg?w=1200"
+        },
+        {
+          "id": "https://splice.com/blog/amen-break/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://splice.com/blog/amen-break/",
+          "publishedOn": "2023-09-02T13:00:09.000Z",
+          "wordCount": 1873,
+          "title": "A History of the Amen Break: From the Winstons to Futurama and Om Unit",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cari.institute/aesthetics",
+          "author": null,
+          "description": "Comments",
+          "link": "https://cari.institute/aesthetics",
+          "publishedOn": "2023-09-02T11:29:00.000Z",
+          "wordCount": 261,
+          "title": "Index of Aesthetics",
+          "imageUrl": null
+        },
+        {
+          "id": "https://tylervigen.com/the-mystery-of-the-bloomfield-bridge",
+          "author": null,
+          "description": "Comments",
+          "link": "https://tylervigen.com/the-mystery-of-the-bloomfield-bridge",
+          "publishedOn": "2023-09-02T07:12:34.000Z",
+          "wordCount": 12833,
+          "title": "The Mystery of the Bloomfield Bridge",
+          "imageUrl": "https://tylervigen.com/images/494-pedestrian-bridge/bloomfield-bridge-aerial-from-northeast_share-image.png"
+        },
+        {
+          "id": "https://goto.ucsd.edu/~ucsdpl-blog/liquidtypes/2015/09/19/liquid-types/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://goto.ucsd.edu/~ucsdpl-blog/liquidtypes/2015/09/19/liquid-types/",
+          "publishedOn": "2023-09-01T11:12:30.000Z",
+          "wordCount": 1113,
+          "title": "A Gentle Introduction to Liquid Types",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "Trang chủ",
+      "feedUrl": "https://www.tinhte.vn/rss",
+      "siteUrl": "https://tinhte.vn/lists/trang-chu.1/",
+      "articles": [
+        {
+          "id": "https://tinhte.vn/thread/3711723/",
+          "author": "Hải Đăng (boygia)",
+          "description": "Nhiều người khuyên không nên đáp gót chân, tuy nhiên các nghiên cứu mới cho thấy chạy bộ tuỳ thuộc vào thói quen cá nhân.\n \nKhi mình nói Adidas Switch FWD dành cho người chạy bộ đáp gót (cũng chỉ...",
+          "link": "https://tinhte.vn/thread/chay-bo-nen-dap-got-dap-mui-hay-long-ban-chan.3711723/",
+          "publishedOn": "2023-09-03T23:47:31.000Z",
+          "wordCount": 39132,
+          "title": "Chạy bộ nên đáp gót, đáp mũi, hay lòng bàn chân?",
+          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2023/09/8105437_6423521-amazfit-GTR-Mini-tinhte-14.jpg"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3712219/",
+          "author": "Didu",
+          "description": "Apple Watch có tính năng tự động phát hiện tai nạn (Crash Detection) và nó vừa giúp phát hiện một vụ tai nạn xe hơi và cứu sống tài xế tại Mỹ. Một thành viên đội giải cứu nói nếu không có sự trợ...",
+          "link": "https://tinhte.vn/thread/tinh-nang-phat-hien-tai-nan-cua-apple-watch-tiep-tuc-cuu-song-nguoi.3712219/",
+          "publishedOn": "2023-09-03T23:29:58.000Z",
+          "wordCount": 39947,
+          "title": "Tính năng phát hiện tai nạn của Apple Watch tiếp tục cứu sống người",
+          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2023/09/8106321_371323099-671986724953756-362410166121742824-n-2.jpg"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3712072/",
+          "author": "MinhTriND",
+          "description": "One Piece bản live action (do diễn viên đóng) không phải là bộ phim đầu tiên được chuyển thể từ truyện tranh mà Netflix nhưng có lẽ đây sẽ là một trong những bản chuyển thể thành công nhất từ...",
+          "link": "https://tinhte.vn/thread/one-piece-phien-ban-dien-vien-dong-dang-chieu-tren-netflix-banh-cuon-that-su-anh-em-a.3712072/",
+          "publishedOn": "2023-09-03T23:21:21.000Z",
+          "wordCount": 53758,
+          "title": "One Piece phiên bản diễn viên đóng đang chiếu trên Netflix “bánh cuốn” thật sự anh em ạ",
+          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2023/09/8105902_Cover.jpg"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3711827/",
+          "author": "cuhiep",
+          "description": "Từ trước đến nay những chiếc robot hút bụi và lau nhà chủ yếu đều đến từ các thương hiệu Trung Quốc như Dreame, Ecovacs, Roborock…còn Anh thì có Dyson và Mỹ là iRobot. Riêng Karcher vốn nổi tiếng...",
+          "link": "https://tinhte.vn/thread/ifa23-karcher-lam-robot-hut-bui-lau-nha-chua-toi-dau.3711827/",
+          "publishedOn": "2023-09-03T23:19:39.000Z",
+          "wordCount": 40016,
+          "title": "IFA23: Karcher làm robot hút bụi lau nhà chưa tới đâu",
+          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2023/09/8106458_cover-Karcher.jpg"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3712195/",
+          "author": "Lư Thế Nghĩa",
+          "description": "Gần như ngay sau khi AMD ra mắt chính thức 2 đại diện card đồ họa mới trên nền RDNA 3 - Radeon RX 7700 XT và RX 7800 XT, NVIDIA đã có động thái đối đầu về giá. Khác với phân khúc siêu cao cấp của...",
+          "link": "https://tinhte.vn/thread/doi-dau-amd-radeon-rx-7700-xt-nvidia-am-tham-giam-gia-rtx-4060-ti-16-gb.3712195/",
+          "publishedOn": "2023-09-03T23:15:09.000Z",
+          "wordCount": 51619,
+          "title": "Đối đầu AMD Radeon RX 7700 XT, NVIDIA âm thầm giảm giá RTX 4060 Ti 16 GB",
+          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2023/09/8106214_cover-nvidia-geforce-rtx-4060-ti-founders-edition-tinhte.jpg"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3697693/",
+          "author": "Hoàng Hải.",
+          "description": "Mod Vân nói dạo này kinh tế xuống quá, nghề làm chiếu ở quê bà con đang bỏ dần, phần vì không còn nhiều con cháu nối nghiệp, phần nữa cũng là vì giờ còn ai nằm chiếu đâu. Mình mới hỏi hay đi xuống...",
+          "link": "https://tinhte.vn/thread/trai-nghiem-camera-oppo-reno10-pro-5g-chan-dung-chan-dung-nua-chan-dung-mai.3697693/",
+          "publishedOn": "2023-09-03T22:35:24.000Z",
+          "wordCount": 40491,
+          "title": "Trải nghiệm camera OPPO Reno10 Pro+ 5G: Chân dung, chân dung nữa, chân dung mãi!",
+          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2023/07/6514046_cover-trai-nghiem-oppo-reno10-pro-5g-tinhte.jpg"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3711826/",
+          "author": "cuhiep",
+          "description": "Belkin đang trình diễn 3 bộ đến sạc mới nhất của mình ở IFA23 theo tiêu chuẩn Qi2 tại triển lãm IFA23\n \n[MEDIA]\n \nĐặc điểm nổi bật nhất của Qi2 là có đế sạc nam châm khi anh em để điện thoại lên,...",
+          "link": "https://tinhte.vn/thread/ifa23-tren-tay-bo-sac-qi2-tu-belkin.3711826/",
+          "publishedOn": "2023-09-03T22:13:01.000Z",
+          "wordCount": 65520,
+          "title": "IFA23: Trên tay bộ sạc QI2 từ Belkin",
+          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2023/09/8106468_cover-sac_QI2.jpg"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3711966/",
+          "author": "P.W",
+          "description": "iPhone 15 phải 10 ngày nữa mới ra mắt, nhưng tờ The Elec của Hàn Quốc đã đưa tin, Apple đang có kế hoạch ứng dụng micro-lens để màn hình iPhone 16 có độ sáng tăng đáng kể nhưng tiêu thụ điện năng...",
+          "link": "https://tinhte.vn/thread/dung-micro-lens-cho-man-hinh-oled-dien-thoai-hoac-man-sang-hon-hoac-tiet-kiem-pin-hon.3711966/",
+          "publishedOn": "2023-09-03T19:45:43.000Z",
+          "wordCount": 33237,
+          "title": "Dùng micro-lens cho màn hình OLED điện thoại: Hoặc màn sáng hơn, hoặc tiết kiệm pin hơn",
+          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2023/09/8105723_cover-iPhone.jpg"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3712094/",
+          "author": "Pnghuy",
+          "description": "Theo nguồn tin từ NOLA.com, Globalstar đã ký một thoả thuận trị giá 64 triệu đô với SpaceX trong việc phóng các vệ tinh để phục vụ cho tính năng liên lạc khẩn cấp Emergency SOS trên Apple iPhone...",
+          "link": "https://tinhte.vn/thread/spacex-se-phong-ve-tinh-phuc-vu-cho-tinh-nang-sos-khan-cap-tren-iphone-14-hop-dong-gia-64-trieu-do.3712094/",
+          "publishedOn": "2023-09-03T19:05:40.000Z",
+          "wordCount": 34880,
+          "title": "SpaceX sẽ phóng vệ tinh phục vụ cho tính năng SOS khẩn cấp trên iPhone 14, hợp đồng giá 64 triệu đô",
+          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2023/09/8106000_IMG-1293.jpeg"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3712022/",
+          "author": "cuhiep",
+          "description": "Y Brush là bản chải điện với thiết kế mới, sử dụng rung siêu âm, hướng đến mục tiêu của thể chải sạch toàn diện các bề mặt của răng, chỉ trong vòng 10 giây.\n \n[MEDIA]\n \nĐầu bàn chải có thiết kế...",
+          "link": "https://tinhte.vn/thread/ifa23-tren-tay-ban-chai-danh-ca-ham-rang-y-brush.3712022/",
+          "publishedOn": "2023-09-03T17:42:27.000Z",
+          "wordCount": 37981,
+          "title": "IFA23: trên tay bàn chải đánh cả hàm răng Y Brush",
+          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2023/09/8106599_cover-Y_Brush.jpg"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3710690/",
+          "author": "MinhTriND",
+          "description": "Porsche Macan thuần điện có thể được giới thiệu vào năm 2024. Càng gần ngày ra mắt, hình ảnh của xe lộ diện càng nhiều, không còn bị che chắn nữa.\nMacan điện có thể sẽ là một chiếc SUV Coupue...",
+          "link": "https://tinhte.vn/thread/porsche-macan-dien-lo-anh-chay-thu-la-mot-chiec-suv-coupe-ban-ra-tu-nam-sau.3710690/",
+          "publishedOn": "2023-09-03T17:32:24.000Z",
+          "wordCount": 37347,
+          "title": "Porsche Macan điện lộ ảnh chạy thử: là một chiếc SUV Coupe, bán ra từ năm sau",
+          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2023/08/8103047_Cover-Porsche-Macan-dien-tinhte-1.jpg"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3711962/",
+          "author": "Tuanhtran",
+          "description": "Một vài bữa trước là Anker còn bây giờ thì tới Mophie, Mophie đã ra mắt một số phụ kiện mới có chuẩn sạc Qi2 và MagSafe với công suất sạc 15W. Nhiều người cho rằng các hãng phụ kiện đang “chạy...",
+          "link": "https://tinhte.vn/thread/ifa23-mophie-ra-mat-loat-phu-kien-chuan-qi2-voi-cong-suat-sac-15w.3711962/",
+          "publishedOn": "2023-09-03T17:18:02.000Z",
+          "wordCount": 40116,
+          "title": "IFA23: Mophie ra mắt loạt phụ kiện chuẩn Qi2 với công suất sạc 15W",
+          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2023/09/8105697_Cover-mophie-ra-mat-loat-phu-kien-chuan-qi2-voi-cong-suat-sac-15w-tinhte-tuanhtran.png"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3711660/",
+          "author": "Lê Huyền Vân",
+          "description": "Tại IFA23, thương hiệu âm thanh Jabra đã ra mắt 2 dòng tai nghe Elite mới của mình là Elite 10 và Elite 8 Active.\n \nJabra Elite 10\n \nTrong đó, Jabra Elite 10 là dòng tai nghe không dây đầu tiên...",
+          "link": "https://tinhte.vn/thread/ifa23-jabra-ra-mat-tai-nghe-elite-10-va-elite-8-active.3711660/",
+          "publishedOn": "2023-09-03T16:58:24.000Z",
+          "wordCount": 38224,
+          "title": "IFA23: Jabra ra mắt tai nghe Elite 10 và Elite 8 Active",
+          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2023/09/8104859_cover-jabra.jpg"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3709534/",
+          "author": "BaroTo",
+          "description": "Vào ngày 12 tháng 1 năm 1967, James Bedford qua đời. Nhưng trước đó ông đã có một kế hoạch để tái sinh. Bedford là người đầu tiên sử dụng công nghệ đóng băng cơ thể. Quá trình này hứa hẹn bảo quản...",
+          "link": "https://tinhte.vn/thread/co-the-ban-chua-biet-phuong-phap-dong-bang-co-the-de-cho-hoi-sinh-co-thuc-su-ton-tai.3709534/",
+          "publishedOn": "2023-09-03T16:19:45.000Z",
+          "wordCount": 41469,
+          "title": "[Có thể bạn chưa biết] Phương pháp đóng băng cơ thể để chờ hồi sinh có thực sự tồn tại?",
+          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2023/09/8105909_cover-ngu-dong.png"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3711395/",
+          "author": "Nam Air",
+          "description": "Công nghệ cao không chỉ được ứng dụng trong sản xuất điện thoại, laptop mà anh em sử dụng hàng ngày, chúng còn được ứng dụng trong ngành nông nghiệp để tăng sản lượng trồng trọt lẫn năng suất thu...",
+          "link": "https://tinhte.vn/thread/video-may-phan-loai-trai-con-xanh-khi-thu-hoach.3711395/",
+          "publishedOn": "2023-09-03T16:05:52.000Z",
+          "wordCount": 41868,
+          "title": "Video: Máy phân loại trái còn xanh khi thu hoạch",
+          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2023/08/8104321_cover.gif"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3711824/",
+          "author": "cuhiep",
+          "description": "Ecovacs AirBot Z2 là chiếc robot lọc không khí có khả năng tự di chuyển xung quanh nhà nhờ cảm biến được tích hợp để định vị và tránh va chạm.\n \n[MEDIA]\n \nCụ thể, ecovacs thiết kế một khung sườn...",
+          "link": "https://tinhte.vn/thread/ifa23-tren-tay-robot-loc-khong-khi-airbot-z2.3711824/",
+          "publishedOn": "2023-09-03T14:51:59.000Z",
+          "wordCount": 24507,
+          "title": "IFA23: Trên tay robot lọc không khí AirBot Z2",
+          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2023/09/8106002_cover-AirBot-Z2-IFA23-tinhte.jpg"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3711780/",
+          "author": "Lư Thế Nghĩa",
+          "description": "Tại sự kiện IFA 2023, Verbatim sẽ trình diễn mẫu SSD PCIe 5.0 mới nhất của hãng - model Vi12000 - với tốc độ đọc ghi tuần tự lên tới 12,300 MBps và 11,888 MBps. Không chỉ vậy, các sản phẩm lưu trữ...",
+          "link": "https://tinhte.vn/thread/ifa23-verbatim-ra-mat-pcie-5-0-ssd-vi12000-man-hinh-di-dong-va-phu-kien.3711780/",
+          "publishedOn": "2023-09-03T13:48:16.000Z",
+          "wordCount": 37059,
+          "title": "IFA23: Verbatim ra mắt PCIe 5.0 SSD Vi12000, màn hình di động và phụ kiện",
+          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2023/09/8105205_cover-verbatim-ifa23-tinhte.jpg"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3711823/",
+          "author": "cuhiep",
+          "description": "Winbot W2 Pro là một chiếc robot lau kính mới của Ecovacs. Máy có thiết kế mang tính di động, tiện lợi, chạy bằng pin, không cần phụ thuộc ổ cắm nhưng vẫn đảm bảo an toàn khi rơi.\n \n[MEDIA]...",
+          "link": "https://tinhte.vn/thread/ifa23-tren-tay-robot-lau-kinh-winbot-w2-pro-khong-can-cam-dien.3711823/",
+          "publishedOn": "2023-09-03T12:57:06.000Z",
+          "wordCount": 61499,
+          "title": "IFA23: Trên tay robot lau kính Winbot W2 Pro: không cần cắm điện",
+          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2023/09/8105831_cover-Winbot_W2_Pro.jpg"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3711950/",
+          "author": "P.W",
+          "description": "Những nguồn tin của Reuters vừa cho biết, khi ARM chào bán cổ phiếu ra công chúng lần đầu tiên, những tập đoàn công nghệ lớn nhất hành tinh đều đã đồng ý đầu tư cho hãng chip xử lý Anh Quốc. Những...",
+          "link": "https://tinhte.vn/thread/apple-amd-samsung-nvidia-intel-va-google-se-dau-tu-vao-arm-khi-hang-chip-thuc-hien-ipo.3711950/",
+          "publishedOn": "2023-09-03T12:43:22.000Z",
+          "wordCount": 46483,
+          "title": "Apple, AMD, Samsung, Nvidia, Intel và Google sẽ đầu tư vào ARM khi hãng chip thực hiện IPO",
+          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2023/09/8105662_cover-ARM.jpg"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3711960/",
+          "author": "Lê Huyền Vân",
+          "description": "Triển lãm công nghệ lớn nhất châu Âu IFA23 đã chính thức diễn ra, có hàng ngàn sản phẩm đến từ các thương hiệu lớn nhỏ đã được giới thiệu tại triển lãm. @cuhiep cũng đã có mặt tại Berlin để tham...",
+          "link": "https://tinhte.vn/thread/ifa23-ngay-1-rat-nhieu-robot-hut-bui-lau-nha-may-choi-game-cam-tay-cua-lenovo-sony-xperia-5-v.3711960/",
+          "publishedOn": "2023-09-03T07:05:28.000Z",
+          "wordCount": 38427,
+          "title": "IFA23 ngày 1: rất nhiều robot hút bụi lau nhà, máy chơi game cầm tay của Lenovo, Sony Xperia 5 V,...",
+          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2023/09/8106113_cover-tong-hop-ifa23.jpg"
+        }
+      ]
+    },
+    {
+      "title": "CSS-Tricks",
+      "feedUrl": "https://css-tricks.com/feed/",
+      "siteUrl": "https://css-tricks.com",
+      "articles": []
+    },
+    {
+      "title": "Articles on Smashing Magazine — For Web Designers And Developers",
+      "feedUrl": "https://www.smashingmagazine.com/feed/",
+      "siteUrl": "https://www.smashingmagazine.com/",
+      "articles": [
+        {
+          "id": "https://smashingmagazine.com/2023/08/desktop-wallpaper-calendars-september-2023/",
+          "author": "hello@smashingmagazine.com (Cosima Mielke)",
+          "description": "Let’s get ready for September with some fresh wallpaper designs! Created with love by artists and designers from across the globe, the wallpapers in this collection come in versions with and without a calendar. Enjoy!",
+          "link": "https://smashingmagazine.com/2023/08/desktop-wallpaper-calendars-september-2023/",
+          "publishedOn": "2023-08-31T08:15:00.000Z",
+          "wordCount": 4796,
+          "title": "A September Of Never Ending Adventures (2023 Wallpapers Edition)",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-september-2023/sep-23-palette-of-autumn-preview-opt.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "http://files.smashing.media/articles/desktop-wallpaper-calendars-september-2023/sep-23-palette-of-autumn-preview-opt.png"
+        },
+        {
+          "id": "https://smashingmagazine.com/2023/08/oklch-color-spaces-gamuts-css/",
+          "author": "hello@smashingmagazine.com (Geoff Graham)",
+          "description": "The CSS Color Module Level 4 specification defined a slew of new color features when it became a candidate recommendation in 2022, including Oklab and Oklch, which have widened the field of color we have to work with. Explore the Oklch color space and how to start using it in CSS today.",
+          "link": "https://smashingmagazine.com/2023/08/oklch-color-spaces-gamuts-css/",
+          "publishedOn": "2023-08-28T13:30:00.000Z",
+          "wordCount": 5782,
+          "title": "Falling For Oklch: A Love Story Of Color Spaces, Gamuts, And CSS",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/oklch-color-spaces-gamuts-css/oklch-color-spaces-gamuts-css.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/oklch-color-spaces-gamuts-css/oklch-color-spaces-gamuts-css.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2023/08/improving-double-diamond-design-process/",
+          "author": "hello@smashingmagazine.com (Andy Budd)",
+          "description": "The so-called “Double Diamond” is a great way of visualizing an ideal design process — but it’s just not the way most companies deliver new projects or services. Andy Budd proposes a new “Double Diamond” idea that better aligns with the way work actually gets done and highlights the place where design has the most leverage.",
+          "link": "https://smashingmagazine.com/2023/08/improving-double-diamond-design-process/",
+          "publishedOn": "2023-08-25T11:00:00.000Z",
+          "wordCount": 5934,
+          "title": "Improving The Double Diamond Design Process",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/improving-double-diamond-design-process/improving-double-diamond-design-process.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/improving-double-diamond-design-process/improving-double-diamond-design-process.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2023/08/interesting-ways-use-css-shadows/",
+          "author": "hello@smashingmagazine.com (Preethi Sam)",
+          "description": "We often think of shadows in CSS as something to reach for when we want to add depth to a design. But shadows can be used for more than depth. Let’s experiment with different shadows — two CSS properties and a filter — to make interesting hover effects, different text styles, and even casting shadows on other shadows.",
+          "link": "https://smashingmagazine.com/2023/08/interesting-ways-use-css-shadows/",
+          "publishedOn": "2023-08-23T15:00:00.000Z",
+          "wordCount": 4484,
+          "title": "A Few Interesting Ways To Use CSS Shadows For More Than Depth",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/interesting-ways-use-css-shadows/interesting-ways-use-css-shadows.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/interesting-ways-use-css-shadows/interesting-ways-use-css-shadows.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2023/08/better-context-menus-safe-triangles/",
+          "author": "hello@smashingmagazine.com (Costa Alexoglou)",
+          "description": "Discover how to improve the user experience of nested menus and tackle a minor yet common issue with them when the user’s pointer leaves the menu item for a moment, and the nested menu goes away, requiring the user to re-hover and try again. A well-known concept called the “safe triangle” solves this problem.",
+          "link": "https://smashingmagazine.com/2023/08/better-context-menus-safe-triangles/",
+          "publishedOn": "2023-08-21T08:00:00.000Z",
+          "wordCount": 4645,
+          "title": "Better Context Menus With Safe Triangles",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/better-context-menus-safe-triangles/better-context-menus-safe-triangles.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/better-context-menus-safe-triangles/better-context-menus-safe-triangles.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2023/08/methods-improving-drupal-largest-contentful-paint-core-web-vital/",
+          "author": "hello@smashingmagazine.com (Mike Herchel)",
+          "description": "The background image used in the hero component, which is slow to load, is a very common problem with any component that uses a large image file as a background image. In this article, Mike Herchel walks you through how to tackle this common performance issue using modern techniques.",
+          "link": "https://smashingmagazine.com/2023/08/methods-improving-drupal-largest-contentful-paint-core-web-vital/",
+          "publishedOn": "2023-08-15T10:00:00.000Z",
+          "wordCount": 4545,
+          "title": "Modern Methods For Improving Drupal’s Largest Contentful Paint Core Web Vital",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/methods-improving-drupal-largest-contentful-paint-core-web-vital/methods-improving-drupal-largest-contentful-paint-core-web-vital.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/methods-improving-drupal-largest-contentful-paint-core-web-vital/methods-improving-drupal-largest-contentful-paint-core-web-vital.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2023/08/knip-automated-tool-find-unused-files-exports-dependencies/",
+          "author": "hello@smashingmagazine.com (Lars Kappert)",
+          "description": "Most of the projects have at least a few unused files, exports, and dependencies lying around, often because it’s difficult knowing when one thing relies on another and scary removing something you’re not sure is in use. Lars Kappert shares a tool he’s been working on that offers a solution.",
+          "link": "https://smashingmagazine.com/2023/08/knip-automated-tool-find-unused-files-exports-dependencies/",
+          "publishedOn": "2023-08-14T10:00:00.000Z",
+          "wordCount": 4740,
+          "title": "Knip: An Automated Tool For Finding Unused Files, Exports, And Dependencies",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/knip-automated-tool-find-unused-files-exports-dependencies/knip-automated-tool-find-unused-files-exports-dependencies.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/knip-automated-tool-find-unused-files-exports-dependencies/knip-automated-tool-find-unused-files-exports-dependencies.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2023/08/designing-accessible-text-over-images-part2/",
+          "author": "hello@smashingmagazine.com (Hannah Milan)",
+          "description": "In part 2 of the series, Hannah Milan reviews various accessible text over images techniques for designing your content, including framing the image, soft-colored gradients technique, text styles and text position, solid color shapes, and use of colored backgrounds.",
+          "link": "https://smashingmagazine.com/2023/08/designing-accessible-text-over-images-part2/",
+          "publishedOn": "2023-08-11T13:00:00.000Z",
+          "wordCount": 5095,
+          "title": "Designing Accessible Text Over Images: Best Practices, Techniques And Resources (Part 2)",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/designing-accessible-text-over-images-part2/designing-accessible-text-over-images-part2.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/designing-accessible-text-over-images-part2/designing-accessible-text-over-images-part2.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2023/08/running-page-speed-test-monitoring-versus-measuring/",
+          "author": "hello@smashingmagazine.com (Geoff Graham)",
+          "description": "What does your performance “stack” look like? There are all kinds of tools available for measuring page speed, but what data and assumptions do they use to measure performance? And speaking of *measuring* performance, there’s quite a difference between that and *monitoring* performance. Let’s dig in!",
+          "link": "https://smashingmagazine.com/2023/08/running-page-speed-test-monitoring-versus-measuring/",
+          "publishedOn": "2023-08-10T08:00:00.000Z",
+          "wordCount": 4415,
+          "title": "Running A Page Speed Test: Monitoring vs. Measuring",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/running-page-speed-test-monitoring-versus-measuring/running-page-speed-test-monitoring-versus-measuring.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/running-page-speed-test-monitoring-versus-measuring/running-page-speed-test-monitoring-versus-measuring.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2023/08/friction-feature-machine-learning-algorithms/",
+          "author": "hello@smashingmagazine.com (Maximillian Piras)",
+          "description": "Friction often has a negative connotation in user experience design, but it actually has many benefits. Its best-known use case is mitigating unintended consequences in high-risk scenarios, yet it has a new place in the age of artificial intelligence. Adding strategic friction to interfaces can lead to profound efficiency gains in machine learning algorithms.",
+          "link": "https://smashingmagazine.com/2023/08/friction-feature-machine-learning-algorithms/",
+          "publishedOn": "2023-08-07T14:00:00.000Z",
+          "wordCount": 6411,
+          "title": "Using Friction As A Feature In Machine Learning Algorithms",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/friction-feature-machine-learning-algorithms/friction-feature-machine-learning-algorithms.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/friction-feature-machine-learning-algorithms/friction-feature-machine-learning-algorithms.jpg"
+        }
+      ]
+    },
+    {
+      "title": "freeCodeCamp.org",
+      "feedUrl": "https://www.freecodecamp.org/news/rss/",
+      "siteUrl": "https://www.freecodecamp.org/news/",
+      "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/graphql-database-tutorial/",
+          "author": "Beau Carnes",
+          "description": "GraphQL has been transforming the way that developers interact with APIs and data-driven applications. And there is a good chance you will need to know about it as a developer. We just posted a full GraphQL course on the freeCodeCamp.org YouTube channel. In this comprehensive course, designed especially for those",
+          "link": "https://www.freecodecamp.org/news/graphql-database-tutorial/",
+          "publishedOn": "2023-09-01T20:47:21.000Z",
+          "wordCount": 884,
+          "title": "How to Use GraphQL",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/09/graphql.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/podcast-95-malindi-colyer/",
+          "author": "Quincy Larson",
+          "description": "Today I'm joined by Malindi Colyer. Among her many skills, she's a Python developer and AI engineer. Malindi grew up on a farm in rural Kansas, in the middle of the US. She trained to become a diplomat, and volunteered overseas. But along the way, she discovered a love of",
+          "link": "https://www.freecodecamp.org/news/podcast-95-malindi-colyer/",
+          "publishedOn": "2023-09-01T15:48:09.000Z",
+          "wordCount": 783,
+          "title": "Podcast: Automate Your Job Then Keep Climbing with Malindi Colyer",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/09/andre-benz-zeZxd1ItwpA-unsplash.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/deployment-strategies-for-nextjs-apps/",
+          "author": "Tobenna Okeke",
+          "description": "Many projects are migrating from React to Next.js in 2023. So now's the right time to understand an important step in creating a Next.js application: deployment. Deploying a Next.js application is an essential step in the lifecycle of your web product. And since various deployment strategies exist, picking the right",
+          "link": "https://www.freecodecamp.org/news/deployment-strategies-for-nextjs-apps/",
+          "publishedOn": "2023-09-01T14:19:51.000Z",
+          "wordCount": 5135,
+          "title": "How to Choose a Deployment Strategy for Your Next.js Application",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/08/Grey-Minimalist-Tips-Blog-Banner--1-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/mern-stack-crash-course/",
+          "author": "Beau Carnes",
+          "description": "The MERN stack is a set of technologies often used to build full stack web apps.  We just released a crash course on the freeCodeCamp.org YouTube channel that will teach you how to create full stack apps with the MERN stack. In this comprehensive course, we will take you",
+          "link": "https://www.freecodecamp.org/news/mern-stack-crash-course/",
+          "publishedOn": "2023-08-31T19:03:05.000Z",
+          "wordCount": 989,
+          "title": "MERN Stack Crash Course – Build a Book Store App",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/08/merncrash.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-build-a-secure-django-web-app/",
+          "author": "Isah Jacob",
+          "description": "Web security is an important aspect of the web application development process. Especially as more data is stored, managed, and shared.  As a web developer, it's essential to prioritize security measures to protect your company’s users and data from potential threats.  In this article, I will demonstrate web",
+          "link": "https://www.freecodecamp.org/news/how-to-build-a-secure-django-web-app/",
+          "publishedOn": "2023-08-31T18:52:53.000Z",
+          "wordCount": 2763,
+          "title": "Web Security in Django – How to Build a Secure Web Application",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/08/Web-Security-in-Django---How-to-Build-a-Secure-Web-Application.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/ai-and-cybersecurity-handbook/",
+          "author": "Sonya Moisset",
+          "description": "Artificial intelligence (AI) has become one of the most talked about technologies in cybersecurity. Driven by the rising sophistication of cyber threats and large talent shortages, organizations are turning to AI as a force multiplier for security teams.  But integrating AI into security workflows requires thoughtful planning and evaluation.",
+          "link": "https://www.freecodecamp.org/news/ai-and-cybersecurity-handbook/",
+          "publishedOn": "2023-08-31T16:36:20.000Z",
+          "wordCount": 6094,
+          "title": "The AI and Cybersecurity Handbook – Past the Hype and Onto the ROI",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/08/The-AI-and-Cibersecurity-Handbook-Cover--1-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/javascript-array-handbook/",
+          "author": "Nathan Sebhastian",
+          "description": "In programming, an array is a data structure that contains a collection of elements. Arrays are very useful because you can store, access, and manipulate multiple elements in a single array. In this handbook, you'll learn how to work with arrays in JavaScript. We'll cover the specific rules you need",
+          "link": "https://www.freecodecamp.org/news/javascript-array-handbook/",
+          "publishedOn": "2023-08-31T14:22:03.000Z",
+          "wordCount": 5217,
+          "title": "JavaScript Array Handbook – Learn How JS Array Methods Work With Examples and Cheat Sheet",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/08/JavaScript-Array-for-Beginners-Cover.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/social-media-based-web-authentication-with-firebase/",
+          "author": "Jaja Ibifubara David",
+          "description": "User authentication is extremely important in the context of web development. The way users log in affects their overall experience and engagement with an application. It also affects how they initially perceive it. Authentication techniques are continually evolving as social media sites continue to grow in popularity. The ability to",
+          "link": "https://www.freecodecamp.org/news/social-media-based-web-authentication-with-firebase/",
+          "publishedOn": "2023-08-31T00:12:32.000Z",
+          "wordCount": 4615,
+          "title": "How to Set Up Social Media Web Authentication using Firebase",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/08/Article-Cover--3.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/owasp-api-security-top-10-secure-your-apis/",
+          "author": "Beau Carnes",
+          "description": "The OWASP API Security Top 10 is a standard reference guide highlighting the most critical web API vulnerabilities to help developers and organizations understand and mitigate potential security threats. We just published a course on the freeCodeCamp.org YouTube channel that will teach you about each security risk and techniques to",
+          "link": "https://www.freecodecamp.org/news/owasp-api-security-top-10-secure-your-apis/",
+          "publishedOn": "2023-08-30T19:27:18.000Z",
+          "wordCount": 13857,
+          "title": "OWASP API Security Top 10 – Secure Your APIs",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/08/owaslp.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/build-an-online-image-to-pdf-converter-with-html-css-js-nodejs/",
+          "author": "Gideon Akinsanmi",
+          "description": "An online image-to-PDF converter is a website that helps you convert your images to PDFs. This tool is useful because it provides an efficient way to store your images. In this tutorial, you'll learn how you can create your online image-to-pdf converter with HTML, CSS, JavaScript, and NodeJS. Table of",
+          "link": "https://www.freecodecamp.org/news/build-an-online-image-to-pdf-converter-with-html-css-js-nodejs/",
+          "publishedOn": "2023-08-30T17:03:33.000Z",
+          "wordCount": 4464,
+          "title": "How to Build an Online Image-to-PDF Converter with HTML, CSS, JS, and NodeJS",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/08/png-img-pdf.png"
+        }
+      ]
+    }
+  ],
+  "cliVersion": "1.15.1"
+}

@@ -6,6 +6,226 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
+          "id": "https://medicalxpress.com/news/2024-05-doctors-endorsing-drugs-paid.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://medicalxpress.com/news/2024-05-doctors-endorsing-drugs-paid.html",
+          "publishedOn": "2024-06-04T22:51:48.000Z",
+          "wordCount": 1850,
+          "title": "Study shows most doctors endorsing drugs on X are paid to do so",
+          "imageUrl": "https://scx2.b-cdn.net/gfx/news/hires/2019/5-money.jpg"
+        },
+        {
+          "id": "https://www.ycombinator.com/companies/continue/jobs/smcxRnM-founding-engineer",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.ycombinator.com/companies/continue/jobs/smcxRnM-founding-engineer",
+          "publishedOn": "2024-06-04T22:15:16.000Z",
+          "wordCount": 722,
+          "title": "Continue (YC S23) is hiring a founding engineer in San Francisco",
+          "imageUrl": "/images/original/missing.png"
+        },
+        {
+          "id": "https://www.andreinc.net/2024/04/24/from-the-circle-to-epicycles",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.andreinc.net/2024/04/24/from-the-circle-to-epicycles",
+          "publishedOn": "2024-06-04T20:39:52.000Z",
+          "wordCount": 3813,
+          "title": "An animated introduction to Fourier series",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lcamtuf.substack.com/p/some-notes-on-influenceering",
+          "author": null,
+          "description": "Comments",
+          "link": "https://lcamtuf.substack.com/p/some-notes-on-influenceering",
+          "publishedOn": "2024-06-04T20:34:30.000Z",
+          "wordCount": null,
+          "title": "Some notes on influenceering",
+          "imageUrl": null
+        },
+        {
+          "id": "https://gothamist.com/news/things-the-guys-who-stole-my-phone-have-texted-me-to-try-to-get-me-to-unlock-it",
+          "author": null,
+          "description": "Comments",
+          "link": "https://gothamist.com/news/things-the-guys-who-stole-my-phone-have-texted-me-to-try-to-get-me-to-unlock-it",
+          "publishedOn": "2024-06-04T20:10:23.000Z",
+          "wordCount": 13791,
+          "title": "Things the guys who stole my phone have texted me to try to get me to unlock it",
+          "imageUrl": "https://api-prod.gothamist.com/images/345239/fill-1200x650|format-webp|webpquality-85/"
+        },
+        {
+          "id": "https://lwn.net/SubscriberLink/975565/bcce68a68d82d63a/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://lwn.net/SubscriberLink/975565/bcce68a68d82d63a/",
+          "publishedOn": "2024-06-04T20:05:24.000Z",
+          "wordCount": 11973,
+          "title": "Debian's /tmpest in a teapot",
+          "imageUrl": null
+        },
+        {
+          "id": "https://dougallj.wordpress.com/2020/01/13/bit-twiddling-addition-with-unknown-bits/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://dougallj.wordpress.com/2020/01/13/bit-twiddling-addition-with-unknown-bits/",
+          "publishedOn": "2024-06-04T19:42:02.000Z",
+          "wordCount": 3295,
+          "title": "Bit-twiddling abstract addition with unknown bits",
+          "imageUrl": "https://s0.wp.com/i/blank.jpg"
+        },
+        {
+          "id": "https://www.moore.org/article-detail?newsUrlName=particle-accelerators-for-the-microchip-era",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.moore.org/article-detail?newsUrlName=particle-accelerators-for-the-microchip-era",
+          "publishedOn": "2024-06-04T19:39:26.000Z",
+          "wordCount": 1594,
+          "title": "Particle accelerators for the microchip era",
+          "imageUrl": "https://www.moore.org/images/default-source/news/science/achip-team-meeting-in-germany-touring-the-desy-news-thumb.png?sfvrsn=8498620c_0"
+        },
+        {
+          "id": "https://github.com/EwenQuim/entropy",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/EwenQuim/entropy",
+          "publishedOn": "2024-06-04T19:25:47.000Z",
+          "wordCount": 2035,
+          "title": "Entropy, a CLI that scans files to find high entropy lines (might be secrets)",
+          "imageUrl": "https://opengraph.githubassets.com/d1718f564a606e4f0fc07120695e9582435fe22275add0a53f00d57c76ad2a9d/EwenQuim/entropy"
+        },
+        {
+          "id": "https://herbie.uwplse.org/demo/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://herbie.uwplse.org/demo/",
+          "publishedOn": "2024-06-04T18:59:40.000Z",
+          "wordCount": 148,
+          "title": "Herbie: Optimize Floating-Point Expressions",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cepr.org/voxeu/columns/how-influencer-cartels-manipulate-social-media-fraudulent-behaviour-hidden-plain",
+          "author": null,
+          "description": "Comments",
+          "link": "https://cepr.org/voxeu/columns/how-influencer-cartels-manipulate-social-media-fraudulent-behaviour-hidden-plain",
+          "publishedOn": "2024-06-04T18:51:34.000Z",
+          "wordCount": 2524,
+          "title": "Influencer cartels manipulate social media",
+          "imageUrl": null
+        },
+        {
+          "id": "https://androidoffsec.withgoogle.com/posts/attacking-android-binder-analysis-and-exploitation-of-cve-2023-20938/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://androidoffsec.withgoogle.com/posts/attacking-android-binder-analysis-and-exploitation-of-cve-2023-20938/",
+          "publishedOn": "2024-06-04T18:41:02.000Z",
+          "wordCount": 6829,
+          "title": "Attacking Android Binder",
+          "imageUrl": null
+        },
+        {
+          "id": "https://digilent.com/blog/why-do-electronic-components-have-such-odd-values/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://digilent.com/blog/why-do-electronic-components-have-such-odd-values/",
+          "publishedOn": "2024-06-04T16:20:49.000Z",
+          "wordCount": 2998,
+          "title": "Why do electronic components have such odd values? (2021)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.shortbreadapp.com/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.shortbreadapp.com/",
+          "publishedOn": "2024-06-04T15:22:31.000Z",
+          "wordCount": 69,
+          "title": "Show HN: Shortbread App – AI-powered, romantic comics for women",
+          "imageUrl": null
+        },
+        {
+          "id": "https://github.com/DrDroidLab/PlayBooks",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/DrDroidLab/PlayBooks",
+          "publishedOn": "2024-06-04T12:29:16.000Z",
+          "wordCount": 3947,
+          "title": "Show HN: PlayBooks – Jupyter Notebooks style on-call investigation documents",
+          "imageUrl": "https://opengraph.githubassets.com/e1359bff1259eced85f0850875e295c4e939fd6101f36bdb3905ab9b8392d9e1/DrDroidLab/PlayBooks"
+        },
+        {
+          "id": "https://www.daveperrett.com/articles/2012/05/16/underscores-are-stupid-get-a-japanese-keyboard/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.daveperrett.com/articles/2012/05/16/underscores-are-stupid-get-a-japanese-keyboard/",
+          "publishedOn": "2024-06-04T11:44:39.000Z",
+          "wordCount": 1152,
+          "title": "Underscores are stupid? Get a Japanese keyboard (2012)",
+          "imageUrl": "https://www.daveperrett.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E"
+        },
+        {
+          "id": "https://mathstodon.xyz/@tao/112557248794707738",
+          "author": null,
+          "description": "Comments",
+          "link": "https://mathstodon.xyz/@tao/112557248794707738",
+          "publishedOn": "2024-06-04T08:25:19.000Z",
+          "wordCount": 122,
+          "title": "A breakthrough towards the Riemann hypothesis",
+          "imageUrl": null
+        },
+        {
+          "id": "https://emildziewanowski.com/flat-planets/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://emildziewanowski.com/flat-planets/",
+          "publishedOn": "2024-06-04T07:42:01.000Z",
+          "wordCount": 3334,
+          "title": "Sphere Rendering: Flat Planets",
+          "imageUrl": "https://emildziewanowski.com/wp-content/uploads/2024/01/FlatPlanetsFeaturedImage.jpg"
+        },
+        {
+          "id": "https://huewords.snellman.net/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://huewords.snellman.net/",
+          "publishedOn": "2024-06-04T07:01:58.000Z",
+          "wordCount": 87,
+          "title": "Show HN: Huewords, a Word and Logic Puzzle",
+          "imageUrl": "https://huewords.snellman.net/stc/share-big.png"
+        },
+        {
+          "id": "https://unherd.com/2024/05/dont-be-terrified-of-pale-fire/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://unherd.com/2024/05/dont-be-terrified-of-pale-fire/",
+          "publishedOn": "2024-06-04T06:48:55.000Z",
+          "wordCount": 14975,
+          "title": "Don't be terrified of Pale Fire",
+          "imageUrl": "https://unherd.com/wp-content/uploads/2024/05/GettyImages-613510730-e1716812387152.jpg"
+        },
+        {
+          "id": "https://alexwlchan.net/2024/creating-a-safari-webarchive/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://alexwlchan.net/2024/creating-a-safari-webarchive/",
+          "publishedOn": "2024-06-04T06:24:39.000Z",
+          "wordCount": 2104,
+          "title": "Creating a Safari webarchive from the command line",
+          "imageUrl": "https://alexwlchan.net/images/cards/2024/creating-a-safari-webarchive.jpg"
+        },
+        {
+          "id": "https://github.com/jstrieb/poker-chipper",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/jstrieb/poker-chipper",
+          "publishedOn": "2024-06-04T00:29:37.000Z",
+          "wordCount": 4060,
+          "title": "Show HN: Allocate poker chips optimally with mixed-integer nonlinear programming",
+          "imageUrl": "https://repository-images.githubusercontent.com/757515971/88a5d570-deeb-49ea-8d64-17cc235cb7f3"
+        },
+        {
           "id": "https://www.aisnakeoil.com/p/scientists-should-use-ai-as-a-tool",
           "author": null,
           "description": "Comments",
@@ -94,6 +314,16 @@
           "wordCount": 1679,
           "title": "Cirkoban: Sokoban meets cellular automata written in Scheme",
           "imageUrl": "https://spritely.institute/static/images/spritely-institute-logo-300px.png"
+        },
+        {
+          "id": "https://www.mdpi.com/1424-8220/24/11/3349",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.mdpi.com/1424-8220/24/11/3349",
+          "publishedOn": "2024-06-03T16:45:01.000Z",
+          "wordCount": 6450,
+          "title": "The state of the art in copter drones and flight control systems",
+          "imageUrl": "https://pub.mdpi-res.com/img/journals/sensors-logo-social.png?8600e93ff98dbf14"
         },
         {
           "id": "https://www.youtube.com/watch?v=EKWGGDXe5MA",
@@ -216,6 +446,26 @@
           "imageUrl": "https://cdn.sstatic.net/Sites/physics/Img/apple-touch-icon@2.png?v=f58801408228"
         },
         {
+          "id": "https://www.theregister.com/2024/05/31/fifty_years_of_sql/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.theregister.com/2024/05/31/fifty_years_of_sql/",
+          "publishedOn": "2024-06-03T11:04:06.000Z",
+          "wordCount": 3358,
+          "title": "Half a century of SQL",
+          "imageUrl": "https://regmedia.co.uk/2024/05/31/shutterstock_sql.jpg"
+        },
+        {
+          "id": "https://poets.org/text/poets-odd-jobs",
+          "author": null,
+          "description": "Comments",
+          "link": "https://poets.org/text/poets-odd-jobs",
+          "publishedOn": "2024-06-03T09:51:37.000Z",
+          "wordCount": 4597,
+          "title": "Poets' Odd Jobs",
+          "imageUrl": "https://api.poets.org/sites/default/files/poets-twitter.png"
+        },
+        {
           "id": "https://awesomekling.substack.com/p/forking-ladybird-and-stepping-down-serenityos",
           "author": null,
           "description": "Comments",
@@ -234,6 +484,26 @@
           "wordCount": 4462,
           "title": "Making USB devices – end to end guide to your first gadget",
           "imageUrl": "https://popovicu.com/Making%20USB%20devices%20-%20end%20to%20end%20guide%20to%20your%20first%20gadget.png"
+        },
+        {
+          "id": "https://samcurry.net/hacking-millions-of-modems",
+          "author": null,
+          "description": "Comments",
+          "link": "https://samcurry.net/hacking-millions-of-modems",
+          "publishedOn": "2024-06-03T06:51:24.000Z",
+          "wordCount": 11105,
+          "title": "Hacking millions of modems and investigating who hacked my modem",
+          "imageUrl": "https://samcurry-jm6pabd5c-sam-currys-projects.vercel.app/images/hacking-millions-of-modems/cover.png"
+        },
+        {
+          "id": "https://boz.com/articles/inbox-ten",
+          "author": null,
+          "description": "Comments",
+          "link": "https://boz.com/articles/inbox-ten",
+          "publishedOn": "2024-06-03T04:22:18.000Z",
+          "wordCount": 1878,
+          "title": "Inbox Ten",
+          "imageUrl": "https://boz.com/inbox-ten.png"
         },
         {
           "id": "https://notes.eatonphil.com/eight-years-of-tech-meetups.html",
@@ -386,6 +656,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://blog.winter-software.com/2024/06/02/ctr-cart-protocol",
+          "author": null,
+          "description": "Comments",
+          "link": "https://blog.winter-software.com/2024/06/02/ctr-cart-protocol",
+          "publishedOn": "2024-06-02T16:39:31.000Z",
+          "wordCount": 2749,
+          "title": "A Brief Look at the 3DS Cartridge Protocol",
+          "imageUrl": "http://blog.winter-software.com/api/user/pfp/7ebcc3a6-37e1-4b60-945c-cf2f657e6e6b"
+        },
+        {
           "id": "https://interconnected.org/home/2024/05/31/camera",
           "author": null,
           "description": "Comments",
@@ -484,6 +764,16 @@
           "wordCount": 11757,
           "title": "How to Walk and Talk: Everything We Know [pdf]",
           "imageUrl": null
+        },
+        {
+          "id": "https://github.com/andyk/ht",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/andyk/ht",
+          "publishedOn": "2024-06-02T07:53:14.000Z",
+          "wordCount": 5160,
+          "title": "ht: Headless Terminal",
+          "imageUrl": "https://opengraph.githubassets.com/72af5861fe4c02fb7f6b1c172b28d4b6000c0af3c9c0ec00d75bc81af85600f6/andyk/ht"
         },
         {
           "id": "https://danluu.com/algorithms-interviews/",
@@ -644,6 +934,16 @@
           "wordCount": 6102,
           "title": "Everything I know about the fast inverse square root algorithm",
           "imageUrl": "https://opengraph.githubassets.com/df1979e4410d3f8707b50ffcff5eb74b21ccea7ce67940eaa5467f01e6ada390/francisrstokes/githublog"
+        },
+        {
+          "id": "https://worldsensorium.com/learning-to-grow-with-the-hamptons-pepper-professionals/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://worldsensorium.com/learning-to-grow-with-the-hamptons-pepper-professionals/",
+          "publishedOn": "2024-06-01T10:48:00.000Z",
+          "wordCount": 3284,
+          "title": "Learning to grow with the Hampton's pepper professionals",
+          "imageUrl": "https://worldsensorium.com/wp-content/uploads/2024/05/hamptonspeppers.jpg"
         },
         {
           "id": "https://www.futilitycloset.com/2024/05/31/footwork-10/",
@@ -2083,6 +2383,206 @@
       "siteUrl": "https://tinhte.vn/lists/trang-chu.1/",
       "articles": [
         {
+          "id": "https://tinhte.vn/thread/3793892/",
+          "author": "Lư Thế Nghĩa",
+          "description": "Hãng sản xuất chip x86 vừa tung ra dòng sản phẩm đầu tiên mang thương hiệu Xeon 6, chính thức loại bỏ tên gọi Scalable tồn tại từ nhiều năm trước.\n \nCuối năm ngoái, Intel tung ra Emerald Rapids...",
+          "link": "https://tinhte.vn/thread/computex-2024-intel-ra-mat-xeon-6-e-core-duoc-len-may.3793892/",
+          "publishedOn": "2024-06-05T00:07:45.000Z",
+          "wordCount": 61228,
+          "title": "Computex 2024: Intel ra mắt Xeon 6 - E-core được 'lên mây'",
+          "imageUrl": "https://storage-tinhte.vncdn.vn/data/attachment-files/vnetwork/2024/06/8353442_b1571e095924d7962c19628d7b7e2bcd.jpg"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3793966/",
+          "author": "Lư Thế Nghĩa",
+          "description": "Bên cạnh Xeon 6 và Gaudi 3, sự kiện Computex cũng là dịp để Intel \"khoe\" kiến trúc Lunar Lake (LNL) với toàn bộ giới công nghệ, nhất là trên PC.\n \nAI có thể nói đang là \"hot trend\" của công nghệ....",
+          "link": "https://tinhte.vn/thread/computex-2024-kien-truc-intel-lunar-lake-nen-tang-ai-ca-nhan-120-tops.3793966/",
+          "publishedOn": "2024-06-05T00:01:29.000Z",
+          "wordCount": 81288,
+          "title": "Computex 2024: Kiến trúc Intel Lunar Lake - Nền tảng AI cá nhân 120 TOPS",
+          "imageUrl": "https://storage-tinhte.vncdn.vn/data/attachment-files/vnetwork/2024/06/8353766_876bfb45a8a5cba2d0c27f5a6a961357.jpg"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3792613/",
+          "author": "htevn",
+          "description": "Mất iPhone là một việc không ai trong chúng ta mong muốn nó xảy ra với mình. Tuy nhiên đó chưa phải là tồi tệ nhất đến khi bạn phát hiện ra tên trộm iPhone bằng một cách “thần kì” nào đó đã lấy...",
+          "link": "https://tinhte.vn/thread/ban-can-lam-gi-de-bao-ve-du-lieu-tren-iphone-khi-dien-thoai-roi-vao-tay-ke-xau.3792613/",
+          "publishedOn": "2024-06-04T23:47:05.000Z",
+          "wordCount": 45587,
+          "title": "Bạn cần làm gì để bảo vệ dữ liệu trên iPhone khi điện thoại rơi vào tay kẻ xấu?",
+          "imageUrl": "https://storage-tinhte.vncdn.vn/data/attachment-files/vnetwork/2024/06/8353970_4ec764ff9d5a5f66822fa499bb90711e.jpeg"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3794091/",
+          "author": "Nhà Của Cáo",
+          "description": "Sản phẩm VinDr của VinBigdata là sản phẩm AI đầu tiên và duy nhất tại Việt Nam sở hữu chứng nhận của Cục quản lý Thực phẩm và Dược phẩm Hoa Kỳ (FDA) ở hạng mục phân tích ảnh X-quang tuyến vú....",
+          "link": "https://tinhte.vn/thread/san-pham-ai-cua-vinbigdata-dat-chung-nhan-cua-fda-chinh-thuc-tien-vao-thi-truong-my.3794091/",
+          "publishedOn": "2024-06-04T23:42:47.000Z",
+          "wordCount": 70960,
+          "title": "Sản phẩm AI của VinBigdata đạt chứng nhận của FDA, chính thức tiến vào thị trường Mỹ",
+          "imageUrl": "https://storage-tinhte.vncdn.vn/data/attachment-files/vnetwork/2024/06/8353945_2ee5f35c24ec0ef221beadb1c71b0ff6.jpg"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3794010/",
+          "author": "P.W",
+          "description": "Bên cạnh việc công bố kiến trúc chip xử lý máy tính cá nhân Lunar Lake, Intel cũng đã công bố luôn cả kiến trúc chip GPU xử lý đồ họa Xe2 mới toanh của họ tại Computex 2024. Đầu tiên, Xe2 sẽ hiện...",
+          "link": "https://tinhte.vn/thread/computex24-kien-truc-gpu-intel-xe2-chinh-thuc-hieu-nang-tang-50-nhan-ray-tracing-moi.3794010/",
+          "publishedOn": "2024-06-04T23:24:09.000Z",
+          "wordCount": 85377,
+          "title": "Computex24: Kiến trúc GPU Intel Xe2 chính thức: Hiệu năng tăng 50%, nhân ray tracing mới",
+          "imageUrl": "https://storage-tinhte.vncdn.vn/data/attachment-files/vnetwork/2024/06/8353817_e8eefc2b7b99fc4f084d3ad4739106a4.jpg"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3791072/",
+          "author": "cuhiep",
+          "description": "Theo quan sát của mình thì có 3 mức độ “ngon” khác nhau của món cà phê trong quán Starbucks. Hy vọng mình liệt kê ra thì anh em thích cafe sẽ chọn đúng món anh em cần. Starbucks có hơn 30 ngàn...",
+          "link": "https://tinhte.vn/thread/3-muc-do-khac-nhau-cua-cafe-o-starbucks-do-ngon-va-dac-biet.3791072/",
+          "publishedOn": "2024-06-04T23:22:06.000Z",
+          "wordCount": 88116,
+          "title": "3 mức độ khác nhau của cafe ở Starbucks: dở, ngon và đặc biệt",
+          "imageUrl": "https://storage-tinhte.vncdn.vn/data/attachment-files/vnetwork/2024/06/8353533_cb4d0f4fb621e75f4b40819f7128bbd6.png"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3793463/",
+          "author": "Lê Bình Phương",
+          "description": "Giới thiệu về nhà thờ Saint Petersburg\nNhà thờ Saint Petersburg, còn được biết đến với tên gọi Nhà thờ Chúa Cứu Thế hoặc Nhà thờ Trên Máu Đổ, là một trong những địa danh mang tính biểu tượng nhất...",
+          "link": "https://tinhte.vn/thread/lam-mo-hinh-nha-tho-saint-petersburg-voi-may-cat-laser-xtool-p2.3793463/",
+          "publishedOn": "2024-06-04T22:54:29.000Z",
+          "wordCount": 52872,
+          "title": "Làm mô hình nhà thờ Saint Petersburg với máy cắt laser xTool P2.",
+          "imageUrl": "https://storage-tinhte.vncdn.vn/data/attachment-files/vnetwork/2024/06/8351842_98a771670b6c16da1f954661fc023354.JPG"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3794007/",
+          "author": "Frozen Cat",
+          "description": "Sáng Chủ nhật 2/6, Tàu đổ bộ Hằng Nga 6 (Chang'e-6) của Trung Quốc đã đáp thành công xuống nửa tối Mặt trăng. Cơ quan Vũ trụ Quốc gia Trung Quốc (CNSA) cho biết tàu thăm dò đã hạ cánh xuống miệng...",
+          "link": "https://tinhte.vn/thread/tq-tuyen-bo-hang-nga-6-da-dap-xuong-nua-toi-cua-mat-trang-va-thu-thap-mau-vat-thanh-cong.3794007/",
+          "publishedOn": "2024-06-04T22:20:28.000Z",
+          "wordCount": 60428,
+          "title": "TQ tuyên bố Hằng Nga 6 đã đáp xuống nửa tối của Mặt trăng và thu thập mẫu vật thành công",
+          "imageUrl": "https://storage-tinhte.vncdn.vn/data/attachment-files/vnetwork/2024/06/8353833_40b337add0f46fab48d240c40eb6dad1.jpg"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3794149/",
+          "author": "AudioPsycho",
+          "description": "Hôm 1/6/2024, tại showroom số 51 Ung Văn Khiêm, Phường 25, Q. Bình Thạnh, TP.HCM, Công ty TNHH Phong Cách Âm Thanh VibeStyle (VibeStyle) tổ chức sự kiện công bố thương hiệu VibeStyle, đồng thời...",
+          "link": "https://tinhte.vn/thread/vai-chia-se-ve-loa-di-dong-chat-luong-cao-cabasse-the-pearl-myuki.3794149/",
+          "publishedOn": "2024-06-04T21:53:21.000Z",
+          "wordCount": 28095,
+          "title": "Vài chia sẽ về loa di động chất lượng cao Cabasse The Pearl Myuki",
+          "imageUrl": "https://storage-tinhte.vncdn.vn/data/attachment-files/vnetwork/2024/06/8354083_aaaefd957354108a595cc0989b966e07.JPG"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3794064/",
+          "author": "P.W",
+          "description": "Tại Computex 2024, hàng loạt những sản phẩm đón đầu thời kỳ AI PC của MSI đã và sẽ được trình diễn, trưng bày cho khách tham quan hội chợ công nghệ tổ chức thường niên. Bên cạnh đó, những công...",
+          "link": "https://tinhte.vn/thread/computex24-loat-pc-va-linh-kien-moi-tu-msi-man-hinh-qd-oled-tuyet-dep-va-gaming-gear.3794064/",
+          "publishedOn": "2024-06-04T21:38:33.000Z",
+          "wordCount": 55476,
+          "title": "Computex24: Loạt PC và linh kiện mới từ MSI, màn hình QD-OLED tuyệt đẹp và gaming gear...",
+          "imageUrl": "https://storage-tinhte.vncdn.vn/data/attachment-files/vnetwork/2024/06/8353967_4aec36f4dce35ed39427050fe75ae9d7.jpg"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3793950/",
+          "author": "ND Minh Đức",
+          "description": "Từ lâu Nvidia luôn dùng tên các nhà khoa học nổi tiếng để đặt tên cho những con chip mới của họ và con chip mới sau Blackwell là Rubin vừa được CEO Jensen Huang tiết lộ cách đây không lâu cũng...",
+          "link": "https://tinhte.vn/thread/rubin-ten-chip-moi-cua-nvidia-cung-la-ten-nha-khoa-hoc-da-dat-cau-hoi-mai-mai-ve-vat-chat-toi.3793950/",
+          "publishedOn": "2024-06-04T20:24:20.000Z",
+          "wordCount": 70030,
+          "title": "Rubin: tên chip mới của Nvidia, cũng là tên nhà khoa học đã đặt câu hỏi \"mãi mãi\" về Vật chất tối",
+          "imageUrl": "https://storage-tinhte.vncdn.vn/data/attachment-files/vnetwork/2024/06/8353636_49d71b50b1437cd0d32c67ee5ac183d0.jpg"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3793854/",
+          "author": "Nhà Của Cáo",
+          "description": "Sigma vừa ra mắt ống kính 28-45mm F1.8 DG DN Art dành cho máy ảnh Fullframe ngàm E và Leica L.\n \nNếu như máy MRL crop có 18-35mm F1.8 toàn dải thì 28-45mm F1.8 là lựa chọn với tinh thần tương tự...",
+          "link": "https://tinhte.vn/thread/sigma-ra-mat-28-45mm-f1-8-dg-dn-art-cho-fullframe.3793854/",
+          "publishedOn": "2024-06-04T19:42:48.000Z",
+          "wordCount": 77571,
+          "title": "Sigma ra mắt 28-45mm f1.8 DG DN Art cho Fullframe",
+          "imageUrl": "https://storage-tinhte.vncdn.vn/data/attachment-files/vnetwork/2024/06/8353027_b622935269a160dd9df7641db54b4ca3.jpg"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3793524/",
+          "author": "Ngon Bổ Xẻ",
+          "description": "Bộ chuyển đổi nguồn, hay củ sạc, mà chúng ta chúng ta thường dùng cho laptop, điện thoại, hay các thiết bị điện tử, sẽ có chức năng chính là chuyển đổi dòng điện xoay chiều AC 100V, 240V sang điện...",
+          "link": "https://tinhte.vn/thread/ripple-and-noise-la-gi-va-anh-huong-the-nao-den-thiet-bi.3793524/",
+          "publishedOn": "2024-06-04T18:33:02.000Z",
+          "wordCount": 123465,
+          "title": "Ripple and Noise là gì và ảnh hưởng thế nào đến thiết bị",
+          "imageUrl": "https://storage-tinhte.vncdn.vn/data/attachment-files/vnetwork/2024/06/8352009_57e51c7c6c8b6e9f3dbcc103cce4d3e9.jpg"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3794112/",
+          "author": "Anh Tú.",
+          "description": "Apple được cho là đang tập trung giải quyết các vấn đề về nếp gấp và độ bền trên các thiết bị gập trước khi ra mắt iPhone màn hình gập. Nhiều nhà phân tích còn cho rằng chỉ khi mà iPhone gập đạt...",
+          "link": "https://tinhte.vn/thread/trendforce-iphone-man-hinh-gap-se-co-tac-dong-lon-vao-thi-truong-dien-thoai-gap.3794112/",
+          "publishedOn": "2024-06-04T18:07:54.000Z",
+          "wordCount": 32618,
+          "title": "TrendForce: iPhone màn hình gập sẽ có tác động lớn vào thị trường điện thoại gập",
+          "imageUrl": "https://storage-tinhte.vncdn.vn/data/attachment-files/vnetwork/2024/06/8354021_de3688219192c5c72db0ba794c10476b.jpg"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3793991/",
+          "author": "P.W",
+          "description": "Bộ nguồn máy tính dành cho những hệ thống desktop high-end cao cấp nhất thị trường, công suất 1600W vừa được giới thiệu. Không giống như phiên bản ROG Thor II ra mắt trước đó, ROG THOR 1600W...",
+          "link": "https://tinhte.vn/thread/computex24-asus-rog-thor-1600w-titanium-iii-nguon-danh-rieng-cho-nhung-dan-pc-high-end.3793991/",
+          "publishedOn": "2024-06-04T16:27:53.000Z",
+          "wordCount": 65252,
+          "title": "Computex24: Asus ROG THOR 1600W Titanium III, nguồn dành riêng cho những dàn PC high-end",
+          "imageUrl": "https://storage-tinhte.vncdn.vn/data/attachment-files/vnetwork/2024/06/8353814_7402253d7d9eec2e279e64c7410fcd2e.jpg"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3793432/",
+          "author": "cuhiep",
+          "description": "Lâu rồi mới làm nhiệm vụ giới thiệu ghế văn phòng cho anh em. Hôm nay, mình sẽ trên tay giới thiệu chiếc Manson Atum, đặc điểm nổi bật của chiếc này là tuy giá rẻ nhưng lại được trang bị rất nhiều...",
+          "link": "https://tinhte.vn/thread/tren-tay-ghe-cong-thai-hoc-manson-atum-nhieu-tinh-nang-gia-re.3793432/",
+          "publishedOn": "2024-06-04T16:24:35.000Z",
+          "wordCount": 32729,
+          "title": "Trên tay ghế công thái học Manson Atum: nhiều tính năng, giá rẻ",
+          "imageUrl": "https://storage-tinhte.vncdn.vn/data/attachment-files/vnetwork/2024/06/8351765_b6e7e7ca01863d9a71797bab2b351c27.jpg"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3793849/",
+          "author": "Pnghuy",
+          "description": "Không phải Zenbook cũng không phải ProArt hay một mẫu laptop gaming nào, Vivobook S 15 OLED S5507 là mẫu laptop đầu tiên của ASUS được trang bị nền tảng Qualcomm Snapdragon X Elite, mang lại cho...",
+          "link": "https://tinhte.vn/thread/computex24-tren-tay-asus-vivobook-s-15-s5507-chay-chip-snapdragon-x-elite.3793849/",
+          "publishedOn": "2024-06-04T15:23:30.000Z",
+          "wordCount": 75004,
+          "title": "Computex24: Trên tay ASUS Vivobook S 15 S5507 chạy chip Snapdragon X Elite",
+          "imageUrl": "https://storage-tinhte.vncdn.vn/data/attachment-files/vnetwork/2024/06/8353099_cf82e6e4378e68efd2ce4a40029a9516.jpg"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3793997/",
+          "author": "Cáo - Foxtek",
+          "description": "Theo thông tin được trích dẫn từ trang IGN trong ngày 4/6/2024, ông Hermen Hulst và Hideaki Nishino (các CEO - Giám Đốc Điều Hành mới của Sony PlayStation) đã đưa ra một số chia sẻ đầu tiên kể từ...",
+          "link": "https://tinhte.vn/thread/tai-sao-sony-playstation-lai-can-den-hai-ceo-cung-luc-la-hermen-hulst-va-hideaki-nishino.3793997/",
+          "publishedOn": "2024-06-04T14:02:19.000Z",
+          "wordCount": 78530,
+          "title": "Tại sao Sony PlayStation lại cần đến hai CEO cùng lúc là Hermen Hulst và Hideaki Nishino?",
+          "imageUrl": "https://storage-tinhte.vncdn.vn/data/attachment-files/vnetwork/2024/06/8353772_28eea053b50b49fd2bf5ef03857b1b1f.jpg"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3794110/",
+          "author": "P.W",
+          "description": "Tại Computex 2024, MSI đã giới thiệu hàng loạt mẫu laptop thế hệ mới đạt chuẩn AI+ tại sự kiện COMPUTEX 2024, được trang bị vi xử lý mới nhất từ cả Intel lẫn AMD. Những mẫu laptop này có năng lực...",
+          "link": "https://tinhte.vn/thread/computex24-loat-laptop-don-dau-xu-huong-ai-pc-cua-msi-vua-duoc-he-lo.3794110/",
+          "publishedOn": "2024-06-04T13:11:34.000Z",
+          "wordCount": 62494,
+          "title": "Computex24: Loạt laptop đón đầu xu hướng AI PC của MSI vừa được hé lộ",
+          "imageUrl": "https://storage-tinhte.vncdn.vn/data/attachment-files/vnetwork/2024/06/8353972_5432d0f3860e403a0b56727c6466abea.jpg"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3793922/",
+          "author": "TTKM",
+          "description": "Với nỗ lực củng cố vị thế trên thị trường và mở rộng phạm vi tiếp cận khách hàng trong khu vực ASEAN, vào ngày 04/06/2024, các doanh nghiệp viễn thông và dịch vụ trung tâm dữ liệu hàng đầu khu vực...",
+          "link": "https://tinhte.vn/thread/qc-lien-minh-aseanconnect-one-sang-kien-nang-tam-dich-vu-ket-noi-va-trung-tam-du-lieu-khu-vuc.3793922/",
+          "publishedOn": "2024-06-04T03:09:16.000Z",
+          "wordCount": 29928,
+          "title": "[QC] Liên Minh AseanConnect.One - Sáng Kiến Nâng Tầm Dịch Vụ Kết Nối và Trung Tâm Dữ Liệu Khu Vực",
+          "imageUrl": "https://storage-tinhte.vncdn.vn/data/attachment-files/vnetwork/2024/06/8353531_5d4861309a3f44653d5e8db778383f5b.jpg"
+        },
+        {
           "id": "https://tinhte.vn/thread/3793613/",
           "author": "cuhiep",
           "description": "Nam Air cho mình cái Apple TV 4K này nhưng mình có rồi nên mang tặng anh em làm quen. Để tham gia game này anh em cần làm member của Group Ecovacs mà mình đang làm admin trên đó. Mình để link...",
@@ -3467,6 +3967,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2024/06/scaling-success-key-insights-pratical-takeaways/",
+          "author": "hello@smashingmagazine.com (Addy Osmani)",
+          "description": "The web is still a young platform, and we’re only now beginning to recognize what “success” looks like for large projects. In his recent Smashing book, [Success at Scale](https://www.smashingmagazine.com/printed-books/success-at-scale/), Addy Osmani presents practical case studies featuring the web’s most renowned companies and their efforts to make big changes to existing apps and sites. In this article, Addy shows some of the key insights he has learned.",
+          "link": "https://smashingmagazine.com/2024/06/scaling-success-key-insights-pratical-takeaways/",
+          "publishedOn": "2024-06-04T12:00:00.000Z",
+          "wordCount": 6262,
+          "title": "Scaling Success: Key Insights And Practical Takeaways",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/scaling-success-mindsets-decisions-learnings/scaling-success-mindsets-decisions-learnings.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/scaling-success-mindsets-decisions-learnings/scaling-success-mindsets-decisions-learnings.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2024/05/desktop-wallpaper-calendars-june-2024/",
           "author": "hello@smashingmagazine.com (Cosima Mielke)",
           "description": "Let’s kick off June with some fresh inspiration! Artists and designers from across the globe once again tickled their creativity to celebrate the beginning of the new month with a collection of beautiful and unique wallpaper calendars.",
@@ -3705,21 +4220,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/how-run-ux-research-without-access-users/how-run-ux-research-without-access-users.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2024/05/harness-mouse-interaction-data-machine-learning/",
-          "author": "hello@smashingmagazine.com (Eduard Kuric)",
-          "description": "In this article, Eduard Kuric discusses mouse interaction data, what kind of magic can be done with it, and some of the hidden pitfalls to watch out for so you get a head start incorporating them in your solutions.",
-          "link": "https://smashingmagazine.com/2024/05/harness-mouse-interaction-data-machine-learning/",
-          "publishedOn": "2024-05-06T10:00:00.000Z",
-          "wordCount": 6337,
-          "title": "How To Harness Mouse Interaction Data For Practical Machine Learning Solutions",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/harness-mouse-interaction-data-machine-learning/harness-mouse-interaction-data-machine-learning.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/harness-mouse-interaction-data-machine-learning/harness-mouse-interaction-data-machine-learning.jpg"
         }
       ]
     },
@@ -3728,6 +4228,86 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/linear-algebra-roadmap/",
+          "author": "Tatev Aslanyan",
+          "description": "> \"In God we trust; all others bring data.\" – W. Edwards Deming This famous quote from Edwards Deming perfectly captures the essence of modern Data Science and AI.  Data is the lifeblood of Data Science and AI fields – Machine Learning, Deep Learning, Generative AI and much more.",
+          "link": "https://www.freecodecamp.org/news/linear-algebra-roadmap/",
+          "publishedOn": "2024-06-04T20:22:06.000Z",
+          "wordCount": 4155,
+          "title": "Practical Guide to Linear Algebra in Data Science and AI",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/06/image--12-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/python-coding-challenges-for-beginners/",
+          "author": "Abhilekh Gautam",
+          "description": "Learning Python can be challenging, especially if you're not actually writing enough code. As a beginner, you may go through lessons and tutorials without practicing on your own – and this makes it harder to learn the language. The truth is, you cannot truly learn programming without writing code. It",
+          "link": "https://www.freecodecamp.org/news/python-coding-challenges-for-beginners/",
+          "publishedOn": "2024-06-04T20:18:55.000Z",
+          "wordCount": 2710,
+          "title": "Python Coding Challenges For Beginner Developers – Code and Explanations",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/06/pexels-pixabay-139392.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/build-a-youtube-clone-with-flutter-firebase-and-riverpod/",
+          "author": "Beau Carnes",
+          "description": "We just released a new course on the freeCodeCamp.org YouTube channel that will teach you how to build a full stack application. This beginner-friendly course will guide you through the process of creating a fully functional YouTube clone app, utiliz...",
+          "link": "https://www.freecodecamp.org/news/build-a-youtube-clone-with-flutter-firebase-and-riverpod/",
+          "publishedOn": "2024-06-04T19:07:51.000Z",
+          "wordCount": 993,
+          "title": "Build a YouTube Clone with Flutter, Firebase, and Riverpod",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1717528055287/2d275515-89ff-4385-bde1-611eff506f94.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/learn-to-code-rest-apis-using-nextjs-14/",
+          "author": "Beau Carnes",
+          "description": "We just posted a new course on the freeCodeCamp.org YouTube channel that is designed to help you master the creation of RESTful APIs using Next.js 14, a popular React framework. Umair Jameel developed this course. Next.js is a framework built on top ...",
+          "link": "https://www.freecodecamp.org/news/learn-to-code-rest-apis-using-nextjs-14/",
+          "publishedOn": "2024-06-04T19:01:49.000Z",
+          "wordCount": 871,
+          "title": "Learn to Code REST APIs using Next.js 14",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1717527696192/1bc5ab3c-8c43-41d9-aa97-890c70938a27.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/applied-data-science-with-python-book/",
+          "author": "Vahe Aslanyan",
+          "description": "In the high-stakes game of modern business, data isn't just an asset – it's the power you need to outpace your competition. But as a developer, you know that turning raw data into actionable insights can be a frustrating battle. Imagine having the power to effortlessly transform raw data into",
+          "link": "https://www.freecodecamp.org/news/applied-data-science-with-python-book/",
+          "publishedOn": "2024-06-04T17:14:03.000Z",
+          "wordCount": 42460,
+          "title": "Applied Data Science with Python – Business Intelligence for Developers [Full Book]",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/06/Applied-Data-Science-with-Python-Cover-Version-2--1-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/build-and-deploy-smart-contract-rust-gear-protocol/",
+          "author": "Rocky Essel",
+          "description": "Smart contracts are like digital agreements that run on blockchain technology, making transactions automatic and secure. While many people use Ethereum and Solidity to create these contracts, there are other options that can be just as powerful.  One great combination is using Rust with the Gear Protocol. In this",
+          "link": "https://www.freecodecamp.org/news/build-and-deploy-smart-contract-rust-gear-protocol/",
+          "publishedOn": "2024-06-04T10:36:01.000Z",
+          "wordCount": 12028,
+          "title": "How to Build and Deploy a Smart Contract With Rust and the Gear Protocol",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/06/How-to-Build-and-Deploy-a-Smart-Contract-With-Rust-and-the-Gear-Protocol-Cover.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-build-a-rating-component-with-the-react-compound-component-pattern/",
+          "author": "Jaja Ibifubara David",
+          "description": "Have you ever watched a captivating movie or used a fantastic product and wanted to share your experience? In today's world, feedback is critical, and ratings are like currency.  Rating systems are everywhere, from the classic star ratings on movie review websites to the ubiquitous thumbs up/down on streaming",
+          "link": "https://www.freecodecamp.org/news/how-to-build-a-rating-component-with-the-react-compound-component-pattern/",
+          "publishedOn": "2024-06-03T22:03:41.000Z",
+          "wordCount": 3571,
+          "title": "How to Build a Rating Component with the React Compound Component Pattern",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/06/Group-341.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/comparing-iac-tools-aws-cdk-cloudformation-terraform/",
+          "author": "Ifeanyi Otuonye",
+          "description": "Infrastructure as Code (IaC) has become a cornerstone of modern cloud resource management. It enables developers and engineers to manage their cloud resources with the same level of control and precision as application code.  When you're working with AWS, among the tools at the forefront of utilizing IaC are",
+          "link": "https://www.freecodecamp.org/news/comparing-iac-tools-aws-cdk-cloudformation-terraform/",
+          "publishedOn": "2024-06-03T21:27:31.000Z",
+          "wordCount": 3283,
+          "title": "How to Choose the Right IaC Tool – AWS CDK, CloudFormation, and Terraform Compared",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/06/Level-Up-Tech-Design-Portfolio.jpg"
+        },
         {
           "id": "https://www.freecodecamp.org/news/add-auth-to-flutter-apps-with-supabase-auth-ui/",
           "author": "Fatuma Abdullahi",

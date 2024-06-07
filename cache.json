@@ -6,6 +6,246 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
+          "id": "https://www.androidauthority.com/spotify-car-thing-open-source-3449487/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.androidauthority.com/spotify-car-thing-open-source-3449487/",
+          "publishedOn": "2024-06-06T23:38:12.000Z",
+          "wordCount": 2099,
+          "title": "Turns out Spotify can't open-source Car Thing because it's a potato",
+          "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2021/12/Spotify-stock-photo-1.jpg"
+        },
+        {
+          "id": "https://www.bloomberg.com/news/features/2024-06-04/uganda-yoweri-museveni-s-critics-targeted-via-biometric-id-system",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.bloomberg.com/news/features/2024-06-04/uganda-yoweri-museveni-s-critics-targeted-via-biometric-id-system",
+          "publishedOn": "2024-06-06T23:36:20.000Z",
+          "wordCount": 576,
+          "title": "Uganda's Sweeping Surveillance State Is Built on National ID Cards",
+          "imageUrl": null
+        },
+        {
+          "id": "https://brooker.co.za/blog/2014/12/06/random.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://brooker.co.za/blog/2014/12/06/random.html",
+          "publishedOn": "2024-06-06T23:28:41.000Z",
+          "wordCount": 1176,
+          "title": "Make Your Program Slower with Threads",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2024/06/06/realestate/oklahoma-tallest-building.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.nytimes.com/2024/06/06/realestate/oklahoma-tallest-building.html",
+          "publishedOn": "2024-06-06T22:56:05.000Z",
+          "wordCount": null,
+          "title": "Oklahoma Stakes Its Claim to the Tallest Building in the U.S.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.ycombinator.com/companies/driver-ai/jobs/V2OQgdd-senior-frontend-engineer",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.ycombinator.com/companies/driver-ai/jobs/V2OQgdd-senior-frontend-engineer",
+          "publishedOn": "2024-06-06T22:44:52.000Z",
+          "wordCount": 1647,
+          "title": "Driver AI (YC W24) Is Hiring a Senior Front-End Engineer",
+          "imageUrl": "https://yc-workatastartup-production.s3.amazonaws.com/jobs_company_jobs/images/66798/54c8ba8f6cad4f7e8deb540d2aa514426988842d.png?1717084490"
+        },
+        {
+          "id": "https://materialize.com/blog/engineering/keeping-track-lies/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://materialize.com/blog/engineering/keeping-track-lies/",
+          "publishedOn": "2024-06-06T21:26:16.000Z",
+          "wordCount": 5265,
+          "title": "The Problem with Lying Is Keeping Track of All the Lies",
+          "imageUrl": "https://res.cloudinary.com/mzimgcdn/image/upload/v1717694363/the_problem_with_lying1.png"
+        },
+        {
+          "id": "https://www.martinfowler.com/bliki/ShuHaRi.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.martinfowler.com/bliki/ShuHaRi.html",
+          "publishedOn": "2024-06-06T20:40:58.000Z",
+          "wordCount": 407,
+          "title": "Shu Ha Ri",
+          "imageUrl": "https://martinfowler.com/logo-sq.png"
+        },
+        {
+          "id": "https://www.together.ai/blog/dragonfly-v1",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.together.ai/blog/dragonfly-v1",
+          "publishedOn": "2024-06-06T18:31:04.000Z",
+          "wordCount": 4506,
+          "title": "Dragonfly: A large vision-language model with multi-resolution zoom",
+          "imageUrl": "https://cdn.prod.website-files.com/650c3b59079d92475f37b68f/6661ef8f5827511d47cce0b4_llama-3-8b-dragonfly_downsized.png"
+        },
+        {
+          "id": "https://codeandbitters.com/main-as-usize/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://codeandbitters.com/main-as-usize/",
+          "publishedOn": "2024-06-06T17:55:28.000Z",
+          "wordCount": 871,
+          "title": "Let rand = main as usize (2022)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://openai.com/index/extracting-concepts-from-gpt-4/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://openai.com/index/extracting-concepts-from-gpt-4/",
+          "publishedOn": "2024-06-06T17:01:37.000Z",
+          "wordCount": null,
+          "title": "Extracting concepts from GPT-4",
+          "imageUrl": null
+        },
+        {
+          "id": "https://xpipe.io/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://xpipe.io/",
+          "publishedOn": "2024-06-06T16:34:31.000Z",
+          "wordCount": 2851,
+          "title": "Show HN: XPipe, a brand-new type of remote file browser and shell connection hub",
+          "imageUrl": "https://xpipe.io/social.png"
+        },
+        {
+          "id": "https://qwenlm.github.io/blog/qwen2/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://qwenlm.github.io/blog/qwen2/",
+          "publishedOn": "2024-06-06T16:01:13.000Z",
+          "wordCount": 4609,
+          "title": "Qwen2 LLM Released",
+          "imageUrl": "http://qwenlm.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E"
+        },
+        {
+          "id": "https://github.com/hackerb9/lsix",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/hackerb9/lsix",
+          "publishedOn": "2024-06-06T15:29:56.000Z",
+          "wordCount": 6830,
+          "title": "lsix: Like \"ls\", but for images",
+          "imageUrl": "https://opengraph.githubassets.com/de65f542c33ad1fb2e405a6b699f6ad44a607887af720c39d34fedc5c734cefd/hackerb9/lsix"
+        },
+        {
+          "id": "https://link.springer.com/article/10.1007/s13347-023-00616-9",
+          "author": null,
+          "description": "Comments",
+          "link": "https://link.springer.com/article/10.1007/s13347-023-00616-9",
+          "publishedOn": "2024-06-06T14:03:17.000Z",
+          "wordCount": 13467,
+          "title": "The right not to be subjected to AI profiling based on publicly available data",
+          "imageUrl": "https://media.springernature.com/full/springer-static/cover-hires/journal/13347"
+        },
+        {
+          "id": "https://www.smithsonianmag.com/history/martha-gellhorn-was-the-only-woman-to-report-on-the-d-day-landings-from-the-ground-180984456/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.smithsonianmag.com/history/martha-gellhorn-was-the-only-woman-to-report-on-the-d-day-landings-from-the-ground-180984456/",
+          "publishedOn": "2024-06-06T13:35:24.000Z",
+          "wordCount": 4565,
+          "title": "Martha Gellhorn, the only woman to report on the D-Day landings from the ground",
+          "imageUrl": "https://th-thumbnailer.cdn-si-edu.com/MY_jdD44lv8UZiwlFgGVSPQpw2I=/fit-in/1600x0/filters:focal(2366x1791:2367x1792)/https%3A%2F%2Ftf-cmsv2-smithsonianmag-media.s3.amazonaws.com%2Ffiler_public%2F08%2Fab%2F08ab62c1-94b2-439e-a819-08637c67ce7e%2Fgettyimages-1354476446.jpg"
+        },
+        {
+          "id": "https://sashamaps.net/docs/maps/roman-roads-original/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://sashamaps.net/docs/maps/roman-roads-original/",
+          "publishedOn": "2024-06-06T13:32:36.000Z",
+          "wordCount": 1028,
+          "title": "Roman Roads (2017)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/SpaceX/status/1798701489097183286",
+          "author": null,
+          "description": "Comments",
+          "link": "https://twitter.com/SpaceX/status/1798701489097183286",
+          "publishedOn": "2024-06-06T13:02:48.000Z",
+          "wordCount": 6,
+          "title": "Super Heavy has splashed down in The Gulf of Mexico",
+          "imageUrl": null
+        },
+        {
+          "id": "https://github.com/potamides/DeTikZify",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/potamides/DeTikZify",
+          "publishedOn": "2024-06-06T12:42:13.000Z",
+          "wordCount": 3273,
+          "title": "Show HN: Synthesize TikZ Graphics Programs for Scientific Figures and Sketches",
+          "imageUrl": "https://opengraph.githubassets.com/bdc254500f6c2a22ae70c4c6ec489815e1aa32dde15d761d5bb304a65ba0cbed/potamides/DeTikZify"
+        },
+        {
+          "id": "https://github.com/nikitabobko/AeroSpace",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/nikitabobko/AeroSpace",
+          "publishedOn": "2024-06-06T12:39:01.000Z",
+          "wordCount": 3767,
+          "title": "AeroSpace is an i3-like tiling window manager for macOS",
+          "imageUrl": "https://opengraph.githubassets.com/ae1ab145557ae46ea714763fcae080c0d83fba5701747d3c4c31a90a31bb0802/nikitabobko/AeroSpace"
+        },
+        {
+          "id": "https://medicalxpress.com/news/2024-06-brain-overgrowth-dictates-autism-severity.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://medicalxpress.com/news/2024-06-brain-overgrowth-dictates-autism-severity.html",
+          "publishedOn": "2024-06-06T12:18:39.000Z",
+          "wordCount": 2324,
+          "title": "Brain overgrowth dictates autism severity, new research suggests",
+          "imageUrl": "https://scx2.b-cdn.net/gfx/news/hires/2024/brain-overgrowth-dicta-2.jpg"
+        },
+        {
+          "id": "https://every.to/the-crazy-ones/the-misfit-who-built-the-ibm-pc",
+          "author": null,
+          "description": "Comments",
+          "link": "https://every.to/the-crazy-ones/the-misfit-who-built-the-ibm-pc",
+          "publishedOn": "2024-06-06T10:55:32.000Z",
+          "wordCount": 10615,
+          "title": "Don Estridge: A misfit who built the IBM PC",
+          "imageUrl": "https://d24ovhgu8s7341.cloudfront.net/uploads/post/social_media_image/3119/Screenshot_2024-06-05_at_10.04.46_AM.png"
+        },
+        {
+          "id": "https://edw.is/learning-vulkan/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://edw.is/learning-vulkan/",
+          "publishedOn": "2024-06-06T10:24:23.000Z",
+          "wordCount": 9158,
+          "title": "I learned Vulkan and wrote a small game engine with it",
+          "imageUrl": null
+        },
+        {
+          "id": "https://geospatial.netlify.app/posts/gds-2024-04-20-cathedrals/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://geospatial.netlify.app/posts/gds-2024-04-20-cathedrals/",
+          "publishedOn": "2024-06-06T09:48:59.000Z",
+          "wordCount": 4786,
+          "title": "Saint Michael Sword: Are the cathedrals really on a straight line?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.qemu.org/2018/02/09/understanding-qemu-devices/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.qemu.org/2018/02/09/understanding-qemu-devices/",
+          "publishedOn": "2024-06-06T09:33:19.000Z",
+          "wordCount": 1854,
+          "title": "Understanding QEMU Devices (2018)",
+          "imageUrl": null
+        },
+        {
           "id": "https://github.com/pydantic/pydantic/pull/599",
           "author": null,
           "description": "Comments",
@@ -186,6 +426,46 @@
           "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
         },
         {
+          "id": "https://www.dolthub.com/blog/2024-05-28-160-bits/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.dolthub.com/blog/2024-05-28-160-bits/",
+          "publishedOn": "2024-06-05T11:36:38.000Z",
+          "wordCount": 2953,
+          "title": "How Large is a 160 Bit Number?",
+          "imageUrl": "https://www.dolthub.com/blog/static/97aec9e0e8621e0d30a095998d5e0949/e3e73/bits.png"
+        },
+        {
+          "id": "https://spectrum.ieee.org/hybrid-bonding",
+          "author": null,
+          "description": "Comments",
+          "link": "https://spectrum.ieee.org/hybrid-bonding",
+          "publishedOn": "2024-06-05T11:24:21.000Z",
+          "wordCount": 11044,
+          "title": "Hybrid Bonding: 3D Chip Tech to Save Moore's Law",
+          "imageUrl": "https://spectrum.ieee.org/media-library/light-gray-cone-looking-objects-on-a-dark-gray-background.jpg?id=52368482&width=1200&height=600&coordinates=0%2C59%2C0%2C60"
+        },
+        {
+          "id": "https://www.pentagrid.ch/en/blog/ariane-allegro-hotel-check-in-terminal-kios-escape/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.pentagrid.ch/en/blog/ariane-allegro-hotel-check-in-terminal-kios-escape/",
+          "publishedOn": "2024-06-05T07:57:12.000Z",
+          "wordCount": 966,
+          "title": "Kiosk mode bypass for an Ariane Allegro Scenario Player based hotel check-in te",
+          "imageUrl": "https://www.pentagrid.ch/images/202406_ariane_hotel_terminal_enter_name.jpg"
+        },
+        {
+          "id": "https://raould.github.io/pn0gstr0m/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://raould.github.io/pn0gstr0m/",
+          "publishedOn": "2024-06-05T07:37:38.000Z",
+          "wordCount": 90,
+          "title": "Show HN: 2d web paddle game",
+          "imageUrl": null
+        },
+        {
           "id": "https://martinwecke.de/108/",
           "author": null,
           "description": "Comments",
@@ -194,6 +474,16 @@
           "wordCount": 146,
           "title": "Minimalistic Beat Maker",
           "imageUrl": "dist/meta/facebook.png"
+        },
+        {
+          "id": "https://ericnormand.substack.com/p/compromised-visions-are-superior",
+          "author": null,
+          "description": "Comments",
+          "link": "https://ericnormand.substack.com/p/compromised-visions-are-superior",
+          "publishedOn": "2024-06-05T06:22:26.000Z",
+          "wordCount": null,
+          "title": "Compromised Visions Are Superior",
+          "imageUrl": null
         },
         {
           "id": "https://akamayu-ouo.srht.site/2024-06-01-ksimple",
@@ -2683,6 +2973,186 @@
       "siteUrl": "https://tinhte.vn/lists/trang-chu.1/",
       "articles": [
         {
+          "id": "https://tinhte.vn/thread/3794817/",
+          "author": "vn_ninja",
+          "description": "Apple đã liên tục vượt qua Google về mức độ chi tiêu của khách hàng dành cho app di động trong nhiều năm qua, và đến quý 1 năm nay thì điều này vẫn đúng.\n \nBáo cáo từ Sensor Tower cho biết trong...",
+          "link": "https://tinhte.vn/thread/quy-1-2024-app-store-tao-ra-doanh-thu-cao-gap-doi-google-play.3794817/",
+          "publishedOn": "2024-06-07T00:09:05.000Z",
+          "wordCount": 55613,
+          "title": "Quý 1/2024: App Store tạo ra doanh thu cao gấp đôi Google Play",
+          "imageUrl": "https://storage-tinhte.vncdn.vn/data/attachment-files/vnetwork/2024/06/8356090_0d76de8ef01176c2ca2387d7e661763a.jpg"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3794790/",
+          "author": "Pnghuy",
+          "description": "Với Zenfone 11 Ultra, ASUS đã không còn đi theo con đường làm ra một mẫu điện thoại nhỏ gọn, dễ dàng sử dụng bằng một tay dành cho một số lượng nhỏ người dùng nữa, Zenfone 11 Ultra sẽ là mẫu điện...",
+          "link": "https://tinhte.vn/thread/computex24-tren-tay-asus-zenfone-11-ultra-may-kha-nhe-nhieu-mau-sac-va-cau-hinh-manh.3794790/",
+          "publishedOn": "2024-06-07T00:03:20.000Z",
+          "wordCount": 70010,
+          "title": "Computex24: Trên tay ASUS Zenfone 11 Ultra: Máy khá nhẹ, nhiều màu sắc và cấu hình mạnh",
+          "imageUrl": "https://storage-tinhte.vncdn.vn/data/attachment-files/vnetwork/2024/06/8355973_6326bf846d00bb7e53122119b906cbfb.jpg"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3794714/",
+          "author": "cuhiep",
+          "description": "Apple đang là hãng duy nhất bán các thiết bị có màn hình đạt chuẩn độ phân giải cao từ smartphone, tablet, watch, màn hình máy tính… họ gọi là Retina. Về màn hình điện thoại, watch và tablet thì...",
+          "link": "https://tinhte.vn/thread/cuoi-cung-thi-cung-co-hang-lam-man-hinh-do-phan-giai-nhu-apple.3794714/",
+          "publishedOn": "2024-06-07T00:03:04.000Z",
+          "wordCount": 73133,
+          "title": "Cuối cùng thì cũng có hãng làm màn hình độ phân giải như Apple",
+          "imageUrl": "https://storage-tinhte.vncdn.vn/data/attachment-files/vnetwork/2024/06/8355932_23a1e1c3aacb91fb5c6bca79e5588639.jpg"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3794407/",
+          "author": "Nhà Của Cáo",
+          "description": "C650 là chiếc máy in của thương hiệu OKI đến từ Nhật Bản, khổ A4 đa dạng loại giấy, tốc độ in cả màu và trắng đen 35 trang/phút… dành cho văn phòng, dịch vụ in ấn bằng khen, chứng chỉ các loại…...",
+          "link": "https://tinhte.vn/thread/tren-tay-may-in-oki-c650-kho-a4-35trang-phut-da-dang-giay-chat-luong-in-tot.3794407/",
+          "publishedOn": "2024-06-06T23:58:26.000Z",
+          "wordCount": 35343,
+          "title": "Trên tay máy in OKI C650: khổ A4 35trang/phút, đa dạng giấy, chất lượng in tốt",
+          "imageUrl": "https://storage-tinhte.vncdn.vn/data/attachment-files/vnetwork/2024/06/8354934_ed7465be51316238e33bc1f58273eef5.jpg"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3794437/",
+          "author": "Didu",
+          "description": "Xiaomi 14 Ultra năm nay đặc biệt hơn chút vì được bán ra chính hãng, tức là những ai muốn một chiếc điện thoại chụp hình siêu chất thì có thể mua mà không lo những vấn đề của máy xách tay như bảo...",
+          "link": "https://tinhte.vn/thread/trai-nghiem-xiaomi-14-ultra.3794437/",
+          "publishedOn": "2024-06-06T23:56:26.000Z",
+          "wordCount": 60631,
+          "title": "Trải nghiệm Xiaomi 14 Ultra",
+          "imageUrl": "https://storage-tinhte.vncdn.vn/data/attachment-files/vnetwork/2024/06/8355085_d7d5b5b14f733764cb1cb0c386d1c873.jpg"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3794705/",
+          "author": "Cáo - Foxtek",
+          "description": "Sau khi OPPO giới thiệu trung tâm nghiên cứu và phát triển (R&D) về AI vào tháng 2/2024, hãng đã tiếp tục công bố kế hoạch triển khai hơn 100 tính năng AI cho 50 triệu người dùng smartphone thuộc...",
+          "link": "https://tinhte.vn/thread/oppo-se-trien-khai-hon-100-tinh-nang-ai-cho-50-trieu-nguoi-dung-smartphone-find-reno-f-va-a-series.3794705/",
+          "publishedOn": "2024-06-06T23:53:20.000Z",
+          "wordCount": 74258,
+          "title": "OPPO sẽ triển khai hơn 100 tính năng AI cho 50 triệu người dùng smartphone Find, Reno, F và A Series",
+          "imageUrl": "https://storage-tinhte.vncdn.vn/data/attachment-files/vnetwork/2024/06/8355727_5b1d022286696161371dbb88b2394843.jpeg"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3794594/",
+          "author": "Pnghuy",
+          "description": "Tại Computex 2024, MSI cũng không quên mang đến những sản phẩm mới và đáng chú ý ở mảng linh kiện, màn hình, các giải pháp lưu trữ. Trong chủ đề bài này mình muốn cho anh em xem một vòng các sản...",
+          "link": "https://tinhte.vn/thread/computex24-mot-vong-gian-hang-linh-kien-msi.3794594/",
+          "publishedOn": "2024-06-06T23:47:39.000Z",
+          "wordCount": 64097,
+          "title": "Computex24: Một vòng gian hàng linh kiện MSI",
+          "imageUrl": "https://storage-tinhte.vncdn.vn/data/attachment-files/vnetwork/2024/06/8356102_c4f940aff5a6cec87128e66f44904795.jpg"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3794787/",
+          "author": "ND Minh Đức",
+          "description": "Bằng việc nâng cấp nhiều hơn khả năng xử lý bằng các mạng nơ ron thần kinh trong con chip trí thông minh nhân tạo NQ4 AI Gen 2, chiếc TV NeoQLED 4K phiên bản 2024 của Samsung tiếp tục được tích...",
+          "link": "https://tinhte.vn/thread/tren-tay-tv-samsung-neoqled-4k-qn90d-tac-dung-thuc-te-va-ro-rang-hon-cua-ai.3794787/",
+          "publishedOn": "2024-06-06T22:28:23.000Z",
+          "wordCount": 80503,
+          "title": "Trên tay TV Samsung NeoQLED 4K QN90D: tác dụng thực tế và rõ ràng hơn của AI",
+          "imageUrl": "https://storage-tinhte.vncdn.vn/data/attachment-files/vnetwork/2024/06/8356036_7d10cb10b3fd42c8d238eae51402e79c.jpg"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3794852/",
+          "author": "thanhtung6868",
+          "description": "Yamaha Việt Nam chính thức ra mắt mẫu xe tay ga dòng “Maxi” mới của mình là Yamaha LEXi 155 VVA. Mang phong cách là những chiếc xe tay ga thân lớn, có nhiều tiện ích cũng như tư thế cầm lái thoải...",
+          "link": "https://tinhte.vn/thread/yamaha-lexi-155-ra-mat-thi-truong-viet-nam-maxi-scooter-doc-dao-gia-tu-47-trieu-dong.3794852/",
+          "publishedOn": "2024-06-06T22:15:22.000Z",
+          "wordCount": 69861,
+          "title": "Yamaha LEXi 155 ra mắt thị trường Việt Nam: Maxi Scooter độc đáo, giá từ 47 triệu Đồng",
+          "imageUrl": "https://storage-tinhte.vncdn.vn/data/attachment-files/vnetwork/2024/06/8356257_9be0422c861f4af04da923d644562262.jpeg"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3793643/",
+          "author": "Anh Tú.",
+          "description": "Vậy là còn vài ngày nữa thì sự kiện WWDC24 chính thức diễn ra, thông tin mới nhất hiện tại từ Bloomberg chính là Apple sẽ không giới thiệu bất kỳ 1 thiết bị phần cứng nào trong sự kiện lần này. Vì...",
+          "link": "https://tinhte.vn/thread/tong-hop-thong-tin-truoc-wwdc24-apple-se-mang-den-cho-chung-ta-dieu-gi.3793643/",
+          "publishedOn": "2024-06-06T20:12:47.000Z",
+          "wordCount": 57215,
+          "title": "Tổng hợp thông tin trước WWDC24: Apple sẽ mang đến cho chúng ta điều gì?",
+          "imageUrl": "https://storage-tinhte.vncdn.vn/data/attachment-files/vnetwork/2024/06/8354856_99e572b841311c337d728076afb6ed1a.jpg"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3794693/",
+          "author": "P.W",
+          "description": "Ở thời điểm viết bài, một cổ phiếu Nvidia đã có giá trị 1.224 USD, tăng tới 5.2% chỉ trong một phiên giao dịch. Với con số như vậy, Nvidia đã chính thức trở thành công ty thứ ba đạt ngưỡng giá trị...",
+          "link": "https://tinhte.vn/thread/voi-viec-chia-tach-co-phieu-ngay-nvidia-tro-thanh-tap-doan-gia-tri-nhat-hanh-tinh-khong-con-xa.3794693/",
+          "publishedOn": "2024-06-06T19:41:52.000Z",
+          "wordCount": 52311,
+          "title": "Với việc chia tách cổ phiếu, ngày Nvidia trở thành tập đoàn giá trị nhất hành tinh không còn xa",
+          "imageUrl": "https://storage-tinhte.vncdn.vn/data/attachment-files/vnetwork/2024/06/8355783_398259f24f897050b7d35ca1b1b9a278.jpg"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3794433/",
+          "author": "vn_ninja",
+          "description": "Theo báo cáo của tờ The Information, Apple được cho là đang trong quá trình đàm phán với China Mobile, nhà mạng lớn nhất thế giới tính theo lượng thuê bao, để ra mắt dịch vụ phát trực tuyến Apple...",
+          "link": "https://tinhte.vn/thread/apple-sap-mang-apple-tv-den-trung-quoc-dich-vu-stream-duy-nhat-cua-my-hoat-dong-tai-quoc-gia-nay.3794433/",
+          "publishedOn": "2024-06-06T19:36:58.000Z",
+          "wordCount": 42107,
+          "title": "Apple sắp mang Apple TV+ đến Trung Quốc, dịch vụ stream duy nhất của Mỹ hoạt động tại quốc gia này?",
+          "imageUrl": "https://storage-tinhte.vncdn.vn/data/attachment-files/vnetwork/2024/06/8354918_2226ff0b5841dd41020e28c4fcb39225.jpg"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3794223/",
+          "author": "Ngon Bổ Xẻ",
+          "description": "Những mẫu sạc nhỏ gọn, công suất cao, mà lại còn cute cưng xỉu, đó chính là RoboGan đến từ Ugreen. Mình đã có trong tay nguyên bộ sưu tập, 4 chiếc đen, hồng, 30w và 65w, để review đến anh em trong...",
+          "link": "https://tinhte.vn/thread/danh-gia-bo-tu-ugreen-robogan-30w-va-65w-ngoai-dep-ra-lieu-co-gi-ngon.3794223/",
+          "publishedOn": "2024-06-06T17:32:46.000Z",
+          "wordCount": 126536,
+          "title": "Đánh giá bộ tứ Ugreen RoboGaN 30W và 65W, ngoài đẹp ra liệu có gì ngon?",
+          "imageUrl": "https://storage-tinhte.vncdn.vn/data/attachment-files/vnetwork/2024/06/8354229_e11e75ecbf119b04738ac041f33ffddc.jpg"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3794726/",
+          "author": "Nhà Của Cáo",
+          "description": "Cùng với Canon C400, Canon cũng giới thiệu thêm RF 35mm F1.4L VCM - cũng là chiếc ống đầu tiên thuộc dòng ống kính Hybrid Primes hoàn toàn mới của hãng.\n \n[ATTACH]\nMột số thông tin cơ bản của máy:...",
+          "link": "https://tinhte.vn/thread/canon-ra-mat-rf-35-f1-4-dong-hybrid-primes-moi.3794726/",
+          "publishedOn": "2024-06-06T17:16:10.000Z",
+          "wordCount": 46784,
+          "title": "Canon ra mắt RF 35 F1.4 - dòng Hybrid Primes mới",
+          "imageUrl": "https://storage-tinhte.vncdn.vn/data/attachment-files/vnetwork/2024/06/8355899_d331cfcdb0d0291550270190d32d27de.jpg"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3794691/",
+          "author": "Nhà Của Cáo",
+          "description": "Panasonic vừa chính thức giới thiệu Lumix GH7, cảm biến M43 BSI CMOS mới với 25.2MP và công nghệ lấy nét theo pha mới.\n \n[ATTACH]\n \nĐiều ấn tượng nhất GH7 mang đến là khả năng quay Apple ProRes...",
+          "link": "https://tinhte.vn/thread/panasonic-ra-mat-lumix-gh7-25mp-quay-raw-arri-logc3.3794691/",
+          "publishedOn": "2024-06-06T15:32:35.000Z",
+          "wordCount": 32609,
+          "title": "Panasonic ra mắt Lumix GH7: 25MP, quay RAW, ARRI LogC3...",
+          "imageUrl": "https://storage-tinhte.vncdn.vn/data/attachment-files/vnetwork/2024/06/8355738_6c6c6ee8813156ce264aa0faec11275a.jpg"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3794464/",
+          "author": "Trung Dt",
+          "description": "Synology ra mắt dòng máy chủ ActiveProtect được thiết kế chuyên biệt để bảo vệ dữ liệu. Bên cạnh đó, những giải pháp AI ứng dụng trong NAS và những camera quan sát mới được trình diễn với thời...",
+          "link": "https://tinhte.vn/thread/synology-gioi-thieu-may-chu-activeprotect-thiet-ke-rieng-cho-bao-ve-du-lieu-camera-ket-noi-dam-may.3794464/",
+          "publishedOn": "2024-06-06T14:34:51.000Z",
+          "wordCount": 70318,
+          "title": "Synology giới thiệu máy chủ ActiveProtect thiết kế riêng cho bảo vệ dữ liệu, camera kết nối đám mây",
+          "imageUrl": "https://storage-tinhte.vncdn.vn/data/attachment-files/vnetwork/2024/06/8355122_40a6755ca0cd5644c3d18545b6233ea8.jpg"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3794704/",
+          "author": "Nhà Của Cáo",
+          "description": "Canon vừa chính thức giới thiệu chiếc máy quay dạng hộp Canon C400 với cảm biến fullframe 6K CMOS BSI - hoàn toàn mới từ nhà Canon.\n \nC400 chiếc máy quay ngàm RF thứ 3 sau R5C ra mắt năm 2022 và...",
+          "link": "https://tinhte.vn/thread/canon-ra-mat-canon-c400-fullframe-6k-triple-base-iso-16-stop-dynamic-range.3794704/",
+          "publishedOn": "2024-06-06T13:27:16.000Z",
+          "wordCount": 22578,
+          "title": "Canon ra mắt Canon C400: Fullframe, 6K, triple-base ISO, 16 stop dynamic range",
+          "imageUrl": "https://storage-tinhte.vncdn.vn/data/attachment-files/vnetwork/2024/06/8355773_337301e2ee7eeb69c5ee0b076158102d.jpg"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3794385/",
+          "author": "Cáo - Foxtek",
+          "description": "Sau khi Galaxy Watch FE lộ diện trên trang chủ hỗ trợ của Samsung thì giờ đây hình ảnh rò rỉ về thiết kế chính thức của mẫu smartwatch giá rẻ này đã được trang GSMArena chia sẻ trong ngày...",
+          "link": "https://tinhte.vn/thread/samsung-galaxy-watch-fe-lo-anh-thiet-ke-chinh-thuc-tuong-tu-galaxy-watch-4-day-deo-voi-mau-sac-moi.3794385/",
+          "publishedOn": "2024-06-06T09:28:04.000Z",
+          "wordCount": 76633,
+          "title": "Samsung Galaxy Watch FE lộ ảnh thiết kế chính thức tương tự Galaxy Watch 4, dây đeo với màu sắc mới",
+          "imageUrl": "https://storage-tinhte.vncdn.vn/data/attachment-files/vnetwork/2024/06/8354780_26f866e1999ba7b35b7a92036d98d399.jpg"
+        },
+        {
           "id": "https://tinhte.vn/thread/3794294/",
           "author": "cuhiep",
           "description": "Để chuẩn bị không khí cho buổi offline chia sẻ về màn hình ASUS cuối tuần này, mình làm một cái game nhẹ rủ anh em chia sẻ hình ảnh bàn làm việc của anh em. Anh em chỉ cần cmt hình ảnh bàn làm...",
@@ -4728,6 +5198,26 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/real-time-chat-with-go-fiber-htmx/",
+          "author": "Akinwumi Iyanuoluwa Ayomiposi",
+          "description": "In this tutorial, you'll build a simple real-time chat app using Go, Fiber and HTMX.  You will learn how to leverage the versatility of Fiber by making use of a WebSocket. You'll also learn how to create a reactive frontend without the use of JavaScript. Prerequisites  * A",
+          "link": "https://www.freecodecamp.org/news/real-time-chat-with-go-fiber-htmx/",
+          "publishedOn": "2024-06-06T18:06:35.000Z",
+          "wordCount": 2147,
+          "title": "How to Build a Real-Time Chat App With Go, Fiber and HTMX",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/06/websocket.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/master-the-azure-devops-engineer-expert-certification-az-400/",
+          "author": "Beau Carnes",
+          "description": "The Azure DevOps Engineer Expert Certification (AZ-400) is for professionals who aim to demonstrate their expertise in integrating people, processes, and technologies to continuously deliver valuable products and services. It’s ideal for those who ar...",
+          "link": "https://www.freecodecamp.org/news/master-the-azure-devops-engineer-expert-certification-az-400/",
+          "publishedOn": "2024-06-06T14:48:33.000Z",
+          "wordCount": 861,
+          "title": "Master the Azure DevOps Engineer Expert Certification (AZ-400)",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1717685292411/87c8d3d3-50e3-4561-a807-98f4bbcc170e.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/learn-how-to-build-a-decentralized-file-storage-system-with-go/",
           "author": "Beau Carnes",

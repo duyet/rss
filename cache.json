@@ -6,6 +6,276 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
+          "id": "https://www.sydney.edu.au/news-opinion/news/2024/06/05/slow-spinning-radio-neutron-star-breaks-all-the-rules.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.sydney.edu.au/news-opinion/news/2024/06/05/slow-spinning-radio-neutron-star-breaks-all-the-rules.html",
+          "publishedOn": "2024-06-07T21:46:30.000Z",
+          "wordCount": 1173,
+          "title": "Slow-spinning radio neutron star breaks all the rules",
+          "imageUrl": "https://www.sydney.edu.au/content/dam/corporate/images/news-and-opinion/news/2024/june/long-period-pulsar-a4-portrait.jpg"
+        },
+        {
+          "id": "https://blog.dave.tf/post/linux-pid0/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://blog.dave.tf/post/linux-pid0/",
+          "publishedOn": "2024-06-07T21:42:58.000Z",
+          "wordCount": 3957,
+          "title": "What Is PID 0?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://pdos.csail.mit.edu/6.828/2023/xv6.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://pdos.csail.mit.edu/6.828/2023/xv6.html",
+          "publishedOn": "2024-06-07T21:22:05.000Z",
+          "wordCount": 289,
+          "title": "Xv6, a simple Unix-like teaching operating system",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nicole.express/2024/no-screen-no-cpu-one-problem.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://nicole.express/2024/no-screen-no-cpu-one-problem.html",
+          "publishedOn": "2024-06-07T20:02:27.000Z",
+          "wordCount": 1225,
+          "title": "Yes, you can play Duck Hunt without a television (but I can't)",
+          "imageUrl": "https://nicole.express/assets/img/quacks/pew.jpeg"
+        },
+        {
+          "id": "https://www.wsj.com/business/energy-oil/the-aging-u-s-power-grid-is-about-to-get-a-jolt-144e7fdc",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.wsj.com/business/energy-oil/the-aging-u-s-power-grid-is-about-to-get-a-jolt-144e7fdc",
+          "publishedOn": "2024-06-07T20:01:08.000Z",
+          "wordCount": null,
+          "title": "The aging U.S. power grid is about to get a jolt",
+          "imageUrl": null
+        },
+        {
+          "id": "https://phys.org/news/2024-05-clues-mysterious-north-america-large.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://phys.org/news/2024-05-clues-mysterious-north-america-large.html",
+          "publishedOn": "2024-06-07T19:56:38.000Z",
+          "wordCount": 2793,
+          "title": "Clues to disappearance of North America's large mammals 50k years ago",
+          "imageUrl": "https://scx2.b-cdn.net/gfx/news/hires/2024/clues-to-mysterious-di.jpg"
+        },
+        {
+          "id": "https://defenderofthebasic.substack.com/p/feynmans-razor",
+          "author": null,
+          "description": "Comments",
+          "link": "https://defenderofthebasic.substack.com/p/feynmans-razor",
+          "publishedOn": "2024-06-07T19:53:38.000Z",
+          "wordCount": null,
+          "title": "Feynman’s Razor",
+          "imageUrl": null
+        },
+        {
+          "id": "https://danluu.com/ftc-google-antitrust/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://danluu.com/ftc-google-antitrust/",
+          "publishedOn": "2024-06-07T19:37:09.000Z",
+          "wordCount": 31739,
+          "title": "Comments on the FTC antitrust investigation of Google",
+          "imageUrl": null
+        },
+        {
+          "id": "https://th.id.au/alarms/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://th.id.au/alarms/",
+          "publishedOn": "2024-06-07T18:45:59.000Z",
+          "wordCount": 2158,
+          "title": "Alarms in medical equipment",
+          "imageUrl": null
+        },
+        {
+          "id": "https://thespectator.com/book-and-art/mount-everest-killed-george-mallory-mick-conefrey-fallen/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://thespectator.com/book-and-art/mount-everest-killed-george-mallory-mick-conefrey-fallen/",
+          "publishedOn": "2024-06-07T17:51:37.000Z",
+          "wordCount": 10688,
+          "title": "How Mount Everest killed George Mallory",
+          "imageUrl": "https://thespectator.com/wp-content/uploads/2024/05/12-Mallory-Bridgeman-e1716310614110.jpg"
+        },
+        {
+          "id": "https://meatfighter.com/ascii-silhouettify/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://meatfighter.com/ascii-silhouettify/",
+          "publishedOn": "2024-06-07T17:10:00.000Z",
+          "wordCount": 1745,
+          "title": "ASCII Silhouettify",
+          "imageUrl": null
+        },
+        {
+          "id": "https://undeadly.org/cgi?action=article;sid=20240607042157",
+          "author": null,
+          "description": "Comments",
+          "link": "https://undeadly.org/cgi?action=article;sid=20240607042157",
+          "publishedOn": "2024-06-07T17:08:23.000Z",
+          "wordCount": 720,
+          "title": "OpenSSH introduces options to penalize undesirable behavior",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.wired.com/story/microsoft-recall-off-default-security-concerns/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.wired.com/story/microsoft-recall-off-default-security-concerns/",
+          "publishedOn": "2024-06-07T16:47:28.000Z",
+          "wordCount": 25142,
+          "title": "Microsoft will switch off Recall by default after security backlash",
+          "imageUrl": "https://media.wired.com/photos/66632583e1cd2dfc83a7cda5/191:100/w_1280,c_limit/Microsoft-Recall-Update-Security-GettyImages-1132277430.jpg"
+        },
+        {
+          "id": "https://medium.com/graalvm/writing-truly-memory-safe-jit-compilers-f79ad44558dd",
+          "author": null,
+          "description": "Comments",
+          "link": "https://medium.com/graalvm/writing-truly-memory-safe-jit-compilers-f79ad44558dd",
+          "publishedOn": "2024-06-07T16:07:25.000Z",
+          "wordCount": 5417,
+          "title": "Writing memory safe JIT compilers",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*KbR4q42CFgw4SkxxD6I5Og.png"
+        },
+        {
+          "id": "https://www.thenewatlantis.com/publications/turn-on-tune-in-write-code",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.thenewatlantis.com/publications/turn-on-tune-in-write-code",
+          "publishedOn": "2024-06-07T15:14:29.000Z",
+          "wordCount": 3053,
+          "title": "Turn On, Tune In, Write Code",
+          "imageUrl": "https://www.thenewatlantis.com/wp-content/uploads/2024/04/Shullenberger-share-card.jpg"
+        },
+        {
+          "id": "https://www.uber.com/blog/how-ledgerstore-supports-trillions-of-indexes/?uclick_id=67d612cb-12f8-470a-98fd-e9f7144dfafb",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.uber.com/blog/how-ledgerstore-supports-trillions-of-indexes/?uclick_id=67d612cb-12f8-470a-98fd-e9f7144dfafb",
+          "publishedOn": "2024-06-07T14:55:48.000Z",
+          "wordCount": null,
+          "title": "LedgerStore Supports Trillions of Indexes at Uber",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.atlasobscura.com/articles/italian-streets-not-on-map",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.atlasobscura.com/articles/italian-streets-not-on-map",
+          "publishedOn": "2024-06-07T13:42:02.000Z",
+          "wordCount": 6003,
+          "title": "Italian streets that don't exist on any map (2022)",
+          "imageUrl": "https://img.atlasobscura.com/gSivMttg8QD9Bs1He2YQvxYZCOItzOrhkTX_wkAvf9c/rt:fit/w:600/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy8zMTY0ZWY0ZC1m/MWNiLTRiYjMtODU4/ZC05N2Q0MDE0MTQy/M2U4NDI5YWE2ZTIw/MWViZTk5MDFfSXRh/bGlhbiBzdHJlZXRz/IHRoYXQgZG8gbm90/IGV4aXN0LW1haWxt/YW4tY3JvcHBlZC5q/cGc.jpg"
+        },
+        {
+          "id": "https://www.newyorker.com/magazine/2024/06/10/catland-louis-wain-and-the-great-cat-mania-kathryn-hughes-book-review",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.newyorker.com/magazine/2024/06/10/catland-louis-wain-and-the-great-cat-mania-kathryn-hughes-book-review",
+          "publishedOn": "2024-06-07T13:29:35.000Z",
+          "wordCount": 37542,
+          "title": "The man who reinvented the cat",
+          "imageUrl": "https://media.newyorker.com/photos/6657879ca7c098c2c82437e5/16:9/w_1280,c_limit/r44358.jpg"
+        },
+        {
+          "id": "https://arxiv.org/abs/2404.09562",
+          "author": null,
+          "description": "Comments",
+          "link": "https://arxiv.org/abs/2404.09562",
+          "publishedOn": "2024-06-07T13:12:31.000Z",
+          "wordCount": 635,
+          "title": "σ-GPTs: A new approach to autoregressive models",
+          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
+          "id": "https://www2.eecs.berkeley.edu/Pubs/TechRpts/2014/EECS-2014-146.pdf",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www2.eecs.berkeley.edu/Pubs/TechRpts/2014/EECS-2014-146.pdf",
+          "publishedOn": "2024-06-07T13:06:43.000Z",
+          "wordCount": 12123,
+          "title": "Instruction Sets Should Be Free: The Case for RISC-V [pdf] (2014)",
+          "imageUrl": null
+        },
+        {
+          "id": "http://tom7.org/bovex/",
+          "author": null,
+          "description": "Comments",
+          "link": "http://tom7.org/bovex/",
+          "publishedOn": "2024-06-07T13:01:15.000Z",
+          "wordCount": 249,
+          "title": "Tom 7: Badness 0 (Three ways)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://github.com/blixt/sol-mate-eink",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/blixt/sol-mate-eink",
+          "publishedOn": "2024-06-07T12:10:30.000Z",
+          "wordCount": 3035,
+          "title": "Show HN: E-Paper 7-color display showing the current weather",
+          "imageUrl": "https://opengraph.githubassets.com/8609eca581968eb18ff25bd1c6df77f5a2f8d54db9b60255d4a55b50309ab346/blixt/sol-mate-eink"
+        },
+        {
+          "id": "https://deepnote.com/join-us",
+          "author": null,
+          "description": "Comments",
+          "link": "https://deepnote.com/join-us",
+          "publishedOn": "2024-06-07T12:00:03.000Z",
+          "wordCount": 3360,
+          "title": "Deepnote (YC S19) is hiring engineers to build a better Jupyter notebook",
+          "imageUrl": null
+        },
+        {
+          "id": "https://slate.com/technology/2023/04/alcohol-wine-drinking-healthy-dangerous-study.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://slate.com/technology/2023/04/alcohol-wine-drinking-healthy-dangerous-study.html",
+          "publishedOn": "2024-06-07T10:44:27.000Z",
+          "wordCount": 11021,
+          "title": "The flip-flop on whether alcohol is good for you (2023)",
+          "imageUrl": "https://compote.slate.com/images/bc70928d-614e-405c-b492-a02f2c183f16.jpeg?crop=2000%2C1334%2Cx0%2Cy0&width=1560"
+        },
+        {
+          "id": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7233791/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7233791/",
+          "publishedOn": "2024-06-07T09:36:48.000Z",
+          "wordCount": 3742,
+          "title": "Secret Hand Gestures in Paintings (2019)",
+          "imageUrl": "https://www.ncbi.nlm.nih.gov/corehtml/pmc/pmcgifs/pmc-card-share.jpg?_=0"
+        },
+        {
+          "id": "https://oxo.ostorlab.co/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://oxo.ostorlab.co/",
+          "publishedOn": "2024-06-07T09:05:57.000Z",
+          "wordCount": 2887,
+          "title": "An open source vuln scanner in Python: OXO",
+          "imageUrl": null
+        },
+        {
+          "id": "https://thinhcorner.com/blog/hayday-game-schedule",
+          "author": null,
+          "description": "Comments",
+          "link": "https://thinhcorner.com/blog/hayday-game-schedule",
+          "publishedOn": "2024-06-07T06:25:21.000Z",
+          "wordCount": 8095,
+          "title": "Cracking the Scheduling Code in Hay Day",
+          "imageUrl": "http://thinhcorner.com/og?title=Cracking%20the%20Scheduling%20Code%20in%20Hay%20Day"
+        },
+        {
           "id": "https://www.androidauthority.com/spotify-car-thing-open-source-3449487/",
           "author": null,
           "description": "Comments",
@@ -34,6 +304,16 @@
           "wordCount": 1176,
           "title": "Make Your Program Slower with Threads",
           "imageUrl": null
+        },
+        {
+          "id": "https://design.newcity.com/2023/11/01/concrete-faith-how-the-creation-of-the-bahai-house-of-worship-changed-the-course-of-architecture-cab-2023/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://design.newcity.com/2023/11/01/concrete-faith-how-the-creation-of-the-bahai-house-of-worship-changed-the-course-of-architecture-cab-2023/",
+          "publishedOn": "2024-06-06T23:12:02.000Z",
+          "wordCount": 6494,
+          "title": "Concrete Faith: The creation of the Bahá’í house of worship (2023)",
+          "imageUrl": "https://design.newcity.com/wp-content/uploads/2023/11/P1010926-scaled.jpeg"
         },
         {
           "id": "https://www.nytimes.com/2024/06/06/realestate/oklahoma-tallest-building.html",
@@ -94,6 +374,16 @@
           "wordCount": 871,
           "title": "Let rand = main as usize (2022)",
           "imageUrl": null
+        },
+        {
+          "id": "https://publicdomainreview.org/collection/lyon-woven-prayer-book/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://publicdomainreview.org/collection/lyon-woven-prayer-book/",
+          "publishedOn": "2024-06-06T17:11:08.000Z",
+          "wordCount": 9377,
+          "title": "Programming Prayer: The Woven Book of Hours (1886–87)",
+          "imageUrl": "https://the-public-domain-review.imgix.net/collections/lyon-woven-prayer-book/livre-3.jpg"
         },
         {
           "id": "https://openai.com/index/extracting-concepts-from-gpt-4/",
@@ -324,6 +614,16 @@
           "wordCount": 4742,
           "title": "Feature flags in Bazel builds",
           "imageUrl": null
+        },
+        {
+          "id": "https://github.com/latex3/tagging-project/discussions/72",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/latex3/tagging-project/discussions/72",
+          "publishedOn": "2024-06-05T17:39:39.000Z",
+          "wordCount": 3691,
+          "title": "LaTeX is the first PDF/UA-2 compliance accessible PDF producer",
+          "imageUrl": "https://opengraph.githubassets.com/3ea5d6e20bc34f2b0528e194cd092094e93e27039da761ad1672d7af2e469be0/latex3/tagging-project/discussions/72"
         },
         {
           "id": "https://www.abhishaike.com/p/a-primer-to-the-next-generation-of-antibodies",
@@ -2973,6 +3273,186 @@
       "siteUrl": "https://tinhte.vn/lists/trang-chu.1/",
       "articles": [
         {
+          "id": "https://tinhte.vn/thread/3795297/",
+          "author": "Nam Air",
+          "description": "Dựa trên giá cả thuê các dịch vụ điện toán đám mây, trường ĐH Stanford đã phối hợp với trung tâm nghiên cứu về AI - Epoch AI, để ước tính chi phí mà các công ty đã bỏ ra để huấn luyện cho mô hình...",
+          "link": "https://tinhte.vn/thread/chi-phi-huan-luyen-cac-ai-gemini-ultra-ton-hon-191-trieu.3795297/",
+          "publishedOn": "2024-06-08T00:05:31.000Z",
+          "wordCount": 60219,
+          "title": "Chi phí huấn luyện các AI: Gemini Ultra tốn hơn $191 triệu",
+          "imageUrl": "https://storage-tinhte.vncdn.vn/data/attachment-files/vnetwork/2024/06/8357691_49c8ab1fa9e8c370c20ffebd14d77b45.jpg"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3790520/",
+          "author": "cuhiep",
+          "description": "Khi đọc thông tin về một chiếc máy rửa chén của người Châu Á làm cho người Châu Á mình cũng thấy lạ lạ,…máy rửa chén mà cũng có phân biệt Châu nữa.… Tìm hiểu kỹ hơn thì đúng là nó cũng có những...",
+          "link": "https://tinhte.vn/thread/lg-quadwash-truesteam-may-rua-chen-cho-nguoi-chau-a.3790520/",
+          "publishedOn": "2024-06-08T00:02:01.000Z",
+          "wordCount": 58287,
+          "title": "LG QuadWash™ TrueSteam: Máy rửa chén cho người Châu Á?",
+          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2024/05/8347480_May-rua-chen-lg-quadwash-truesteam-tinhte-cuhiep-30.jpg"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3795210/",
+          "author": "cuhiep",
+          "description": "Đang mò lên website Apple Việt Nam định mua cái Apple Pencil Pro thì thấy một phần trên website này dùng Tiếng Trung Quốc thay vì Tiếng Việt: \"相容於特定 iPad 機型。請參閱下方相容性章節所示完整列表\"\n \nMình dịch thử phầ...",
+          "link": "https://tinhte.vn/thread/website-ban-apple-pencil-pro-tai-viet-lai-dung-tieng-trung-quoc.3795210/",
+          "publishedOn": "2024-06-07T23:55:47.000Z",
+          "wordCount": 43943,
+          "title": "Website bán Apple Pencil Pro tại Việt lại dùng tiếng Trung Quốc",
+          "imageUrl": "https://storage-tinhte.vncdn.vn/data/attachment-files/vnetwork/2024/06/8357371_61bac3a669ddc8c91d6aded0316cd301.png"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3794737/",
+          "author": "Rubi Lee",
+          "description": "Màn hình chỗ ngồi trên máy bay là một trong những tiện ích giải trí cần thiết để tạo nên trải nghiệm bay thoải mái, đặc biệt là ở những chuyến bay dài. Tuy nhiên, ngay cả khi hành khách chọn chỗ...",
+          "link": "https://tinhte.vn/thread/ban-nghi-sao-ve-y-tuong-mang-man-hinh-45-inch-len-may-bay.3794737/",
+          "publishedOn": "2024-06-07T23:51:59.000Z",
+          "wordCount": 70769,
+          "title": "Bạn nghĩ sao về ý tưởng mang màn hình 45 inch lên máy bay?",
+          "imageUrl": "https://storage-tinhte.vncdn.vn/data/attachment-files/vnetwork/2024/06/8355859_c49db64a9b24c4d4ef9a776178007132.jpg"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3795155/",
+          "author": "Frozen Cat",
+          "description": "Vào chiều thứ Năm 6/6, tàu không gian Starliner của Boeing đã cập bến thành công tại Trạm Vũ trụ Quốc tế (ISS), đánh dấu thêm một cột mốc quan trọng khác trong hoạt động bay thử nghiệm có phi hành...",
+          "link": "https://tinhte.vn/thread/sau-mot-vai-su-co-cuoi-cung-tau-starliner-da-cap-ben-tram-iss-thanh-cong.3795155/",
+          "publishedOn": "2024-06-07T23:43:12.000Z",
+          "wordCount": 66762,
+          "title": "Sau một vài sự cố, cuối cùng tàu Starliner đã cập bến trạm ISS thành công",
+          "imageUrl": "https://storage-tinhte.vncdn.vn/data/attachment-files/vnetwork/2024/06/8357305_df07d3ba6664d810bde0015d5d197050.jpg"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3795238/",
+          "author": "Cáo - Foxtek",
+          "description": "Trong ngày hôm nay 7/6/2024, Xiaomi đã chính thức ra mắt Redmi 13 tại thị trường Việt Nam và đây là thế hệ kế nhiệm của mẫu Redmi 12 đã ra mắt vào tháng 6/2023. Redmi 13 sở hữu những điểm nổi bật...",
+          "link": "https://tinhte.vn/thread/xiaomi-redmi-13-ra-mat-chinh-thuc-tai-viet-nam-gia-chi-4-29-trieu-co-camera-108-mp-helio-g91-ultra.3795238/",
+          "publishedOn": "2024-06-07T23:40:38.000Z",
+          "wordCount": 89168,
+          "title": "Xiaomi Redmi 13 ra mắt chính thức tại Việt Nam: Giá chỉ 4.29 triệu có camera 108 MP, Helio G91-Ultra",
+          "imageUrl": "https://storage-tinhte.vncdn.vn/data/attachment-files/vnetwork/2024/06/8357606_265ffa0188817fc1d2c4c0387a2a9445.png"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3795275/",
+          "author": "zyzy1908",
+          "description": "Apple vừa công bố danh sách 14 ứng dụng và trò chơi thắng giải Apple Design Award 2024 được lựa chọn từ các đội ngũ phát triển trên toàn thế giới theo nhiều hạng mục khác nhau. Anh em xem thử có...",
+          "link": "https://tinhte.vn/thread/danh-sach-ung-dung-thang-giai-apple-design-award-2024.3795275/",
+          "publishedOn": "2024-06-07T23:28:00.000Z",
+          "wordCount": 26710,
+          "title": "Danh sách ứng dụng thắng giải Apple Design Award 2024",
+          "imageUrl": "https://storage-tinhte.vncdn.vn/data/attachment-files/vnetwork/2024/06/8357712_abb636d56c34f8e6cb8b6418288e5711.jpeg"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3794869/",
+          "author": "Anh Tú.",
+          "description": "Theo nhà phân tích Ming-Chi Kuo, Apple đã cắt giảm 15% đơn đặt hàng linh kiện iPhone so với cùng kỳ năm ngoái, do người dùng Trung Quốc ngày càng ưa chuộng smartphone AI và điện thoại gập của...",
+          "link": "https://tinhte.vn/thread/doanh-so-iphone-co-nguy-co-tut-doc-manh-trong-nam-2024-huawei-va-ai-la-nguyen-nhan-chinh.3794869/",
+          "publishedOn": "2024-06-07T22:33:05.000Z",
+          "wordCount": 63851,
+          "title": "Doanh số iPhone có nguy cơ tụt dốc mạnh trong năm 2024, Huawei và AI là nguyên nhân chính",
+          "imageUrl": "https://storage-tinhte.vncdn.vn/data/attachment-files/vnetwork/2024/06/8356299_ef323335a97930918ed174efd81513ce.jpg"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3795045/",
+          "author": "Anh Tú.",
+          "description": "Sau C1 chắc anh em đang chán, nhưng không sao, chuẩn bị tới Euro rồi. Mình luôn hào hứng xem những giải đấu như Euro hay World Cup, 1 phần là đá liên tục, không phải đợi, 1 phần là mình cảm giác...",
+          "link": "https://tinhte.vn/thread/euro-2024-sieu-may-tinh-opta-du-doan-anh-vo-dich-phap-la-doi-thu-nang-ky-nhat.3795045/",
+          "publishedOn": "2024-06-07T21:21:19.000Z",
+          "wordCount": 59211,
+          "title": "Euro 2024: Siêu máy tính Opta dự đoán Anh vô địch, Pháp là đối thủ nặng ký nhất",
+          "imageUrl": "https://storage-tinhte.vncdn.vn/data/attachment-files/vnetwork/2024/06/8356903_f358765367660062f818b41c930be2d9.jpg"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3795162/",
+          "author": "Anh Tú.",
+          "description": "Theo Bloomberg, Apple dự kiến sẽ giới thiệu ứng dụng Passwords mới tại Hội nghị các nhà phát triển toàn cầu (WWDC) diễn ra vào tuần tới. Ứng dụng này sẽ giúp người dùng quản lý thông tin đăng nhập...",
+          "link": "https://tinhte.vn/thread/apple-sap-gioi-thieu-ung-dung-passwords-moi-tai-wwdc24.3795162/",
+          "publishedOn": "2024-06-07T20:26:27.000Z",
+          "wordCount": 41594,
+          "title": "Apple sắp giới thiệu ứng dụng \"Passwords\" mới tại WWDC24?",
+          "imageUrl": "https://storage-tinhte.vncdn.vn/data/attachment-files/vnetwork/2024/06/8357190_bd9fa2151730adfb13c9c9ded5970670.jpg"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3794443/",
+          "author": "Trung Dt",
+          "description": "Acer mang đến Computex 2024 đầy đủ những dòng laptop sử dụng chip từ Intel, AMD, Qualcomm, trình diễn những công nghệ sản phẩm ấn tượng như SpatialLabs 3D, xe đạp điện trợ lực.\n \n[MEDIA]\nĐiểm nhấn...",
+          "link": "https://tinhte.vn/thread/computex24-gian-hang-acer-voi-laptop-ai-camera-3d-chieu-noi-dung-tren-man-hinh-khong-can-kinh.3794443/",
+          "publishedOn": "2024-06-07T20:22:17.000Z",
+          "wordCount": 41914,
+          "title": "Computex24: Gian hàng Acer với laptop AI, camera 3D chiếu nội dung trên màn hình không cần kính",
+          "imageUrl": "https://storage-tinhte.vncdn.vn/data/attachment-files/vnetwork/2024/06/8357180_dade470eec4118352616179c7f0a4198.jpg"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3794389/",
+          "author": "Cáo - Foxtek",
+          "description": "Ở thời điểm hiện tại, nhiều thông tin rò rỉ liên quan đến Xiaomi 15 Series đã xuất hiện trên các trang tin công nghệ và đây có thể là thế hệ kế nhiệm của Xiaomi 14 Series đã ra mắt vào tháng...",
+          "link": "https://tinhte.vn/thread/tong-hop-ro-ri-xiaomi-15-series-vien-man-hinh-mong-0-6-mm-snapdragon-8-gen-4-lien-tuc-cap-nhat.3794389/",
+          "publishedOn": "2024-06-07T16:56:22.000Z",
+          "wordCount": 64195,
+          "title": "Tổng hợp rò rỉ Xiaomi 15 Series: Viền màn hình mỏng 0.6 mm, Snapdragon 8 Gen 4? (liên tục cập nhật)",
+          "imageUrl": "https://storage-tinhte.vncdn.vn/data/attachment-files/vnetwork/2024/06/8357071_8eb72837cea785ce183cd364377a804e.png"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3795041/",
+          "author": "Lư Thế Nghĩa",
+          "description": "Thương hiệu ADATA với hình ảnh chú chim ruồi quen thuộc tham gia triển lãm Computex 2024 cùng các sản phẩm đa dạng, từ giải pháp lưu trữ, bộ nhớ tới những bộ nguồn cao cấp. Năm nay ADATA cũng...",
+          "link": "https://tinhte.vn/thread/computex24-mot-vong-gian-hang-adata.3795041/",
+          "publishedOn": "2024-06-07T16:20:59.000Z",
+          "wordCount": 49986,
+          "title": "Computex24: Một vòng gian hàng ADATA",
+          "imageUrl": "https://storage-tinhte.vncdn.vn/data/attachment-files/vnetwork/2024/06/8357788_d4dac0140203891f811fd08823044b78.jpg"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3795186/",
+          "author": "Anh Tú.",
+          "description": "Dù đã có rất nhiều anh em tại Việt Nam có iPad Pro M4 xài rồi nhưng cho tới hiện tại Apple mới cho đặt hàng trên website chính thức của họ tại Việt Nam. Đây là thông tin mà nhiều anh em đã mong...",
+          "link": "https://tinhte.vn/thread/apple-store-online-viet-nam-da-cho-dat-hang-ipad-pro-m4-ship-tu-1-3-ngay.3795186/",
+          "publishedOn": "2024-06-07T15:10:32.000Z",
+          "wordCount": 38393,
+          "title": "Apple Store Online Việt Nam đã cho đặt hàng iPad Pro M4, ship từ 1-3 ngày",
+          "imageUrl": "https://storage-tinhte.vncdn.vn/data/attachment-files/vnetwork/2024/06/8357322_1649c89169679a24492440ae086bbdab.jpg"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3795123/",
+          "author": "Cáo - Foxtek",
+          "description": "Những thông tin rò rỉ về Xiaomi MIX Flip (dự kiến là mẫu smartphone gập dạng vỏ sò đầu tiên của Xiaomi) đã xuất hiện từ năm 2023 chẳng hạn như: Tên gọi dự kiến, hình ảnh rò rỉ về thiết kế,......",
+          "link": "https://tinhte.vn/thread/xiaomi-mix-flip-xuat-hien-tren-trang-chung-nhan-imda-se-som-ra-mat-tai-thi-truong-quoc-te.3795123/",
+          "publishedOn": "2024-06-07T14:46:30.000Z",
+          "wordCount": 71244,
+          "title": "Xiaomi MIX Flip xuất hiện trên trang chứng nhận IMDA, sẽ sớm ra mắt tại thị trường quốc tế?",
+          "imageUrl": "https://storage-tinhte.vncdn.vn/data/attachment-files/vnetwork/2024/06/8357124_ce9ed235e958be279fb3877b79b8ac4a.jpg"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3795040/",
+          "author": "Anh Tú.",
+          "description": "Apple đang cân nhắc việc tích hợp chatbot ChatGPT của OpenAI vào iOS 18, dự kiến ra mắt tại Hội nghị các nhà phát triển toàn cầu WWDC24 sắp tới. Tuy nhiên, người dùng sẽ có quyền quyết định có sử...",
+          "link": "https://tinhte.vn/thread/bloomberg-apple-hop-tac-voi-openai-mang-chatgpt-len-ios-18-nhung-cho-phep-nguoi-dung-tuy-chon.3795040/",
+          "publishedOn": "2024-06-07T13:24:36.000Z",
+          "wordCount": 53303,
+          "title": "Bloomberg: Apple hợp tác với OpenAI, mang ChatGPT lên iOS 18 nhưng cho phép người dùng tùy chọn",
+          "imageUrl": "https://storage-tinhte.vncdn.vn/data/attachment-files/vnetwork/2024/06/8356868_681305031cd12056f6ed23d6a5505625.jpg"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3794855/",
+          "author": "Pnghuy",
+          "description": "Dòng laptop ASUS ProArt dành cho creator hay người dùng sáng tạo có lẽ ít anh em biết đến, nhưng tại Computex 2024 lần này mình thấy ProArt PX13 thực sự là một mẫu laptop đẹp, nam tính và hấp dẫn...",
+          "link": "https://tinhte.vn/thread/computex24-tren-tay-asus-proart-px13-laptop-sang-tao-mong-nhe-manh.3794855/",
+          "publishedOn": "2024-06-07T10:46:20.000Z",
+          "wordCount": 45025,
+          "title": "Computex24: Trên tay ASUS ProArt PX13: laptop sáng tạo mỏng, nhẹ, mạnh",
+          "imageUrl": "https://storage-tinhte.vncdn.vn/data/attachment-files/vnetwork/2024/06/8357335_075698d8ac217235f2f0e43eaa4d5a10.jpg"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3795090/",
+          "author": "Lư Thế Nghĩa",
+          "description": "Điểm nhấn của khu vực trưng bày các sản phẩm gaming của MSI là bộ đôi màn hình MEG 321URX QD-OLED và hệ thống MEG Vision X AI. Cả 2 sản phẩm này đều có những tính năng AI và độc đáo để nâng tầm...",
+          "link": "https://tinhte.vn/thread/computex24-tren-tay-msi-meg-321urx-qd-oled-va-meg-vision-x-ai.3795090/",
+          "publishedOn": "2024-06-07T09:11:14.000Z",
+          "wordCount": 53636,
+          "title": "Computex24: Trên tay MSI MEG 321URX QD-OLED và MEG Vision X AI",
+          "imageUrl": "https://storage-tinhte.vncdn.vn/data/attachment-files/vnetwork/2024/06/8357038_1c6f6a88b735bfaaaabb3af77357ade2.jpg"
+        },
+        {
           "id": "https://tinhte.vn/thread/3794817/",
           "author": "vn_ninja",
           "description": "Apple đã liên tục vượt qua Google về mức độ chi tiêu của khách hàng dành cho app di động trong nhiều năm qua, và đến quý 1 năm nay thì điều này vẫn đúng.\n \nBáo cáo từ Sensor Tower cho biết trong...",
@@ -4937,6 +5417,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2024/06/css-tips-and-techniques/",
+          "author": "hello@smashingmagazine.com (Cosima Mielke)",
+          "description": "The times for CSS have probably never been more exciting than today. In this quick read, we’ve got some useful CSS tips and techniques for you that you can apply to your work right away. Let’s dive deeper into self-modifying CSS variables, hanging punctuation, and more.",
+          "link": "https://smashingmagazine.com/2024/06/css-tips-and-techniques/",
+          "publishedOn": "2024-06-07T11:00:00.000Z",
+          "wordCount": 4014,
+          "title": "Useful CSS Tips And Techniques",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/css-tips-and-techniques/self-modifying-variables-opt.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "http://files.smashing.media/articles/css-tips-and-techniques/self-modifying-variables-opt.png"
+        },
+        {
           "id": "https://smashingmagazine.com/2024/06/presenting-ux-research-design-stakeholders/",
           "author": "hello@smashingmagazine.com (Victor Yocco)",
           "description": "There’s more to achieving good UX than research and design. We need to effectively communicate our ideas to gain buy-in from key stakeholders. Victor covers how UX practitioners can harness the power of persuasion and other tactics from the field of communication when presenting research findings and design concepts to key stakeholders.",
@@ -5198,6 +5693,16 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/weakmap-and-weakset-in-javascript/",
+          "author": "Joan Ayebola",
+          "description": "JavaScript offers a number of tools for organizing and managing data. And while developers often use widely recognized tools like Maps and Sets, they may often overlook certain other valuable resources.  For example, are you familiar with WeakMap and WeakSet? They're special tools in JavaScript that help store and",
+          "link": "https://www.freecodecamp.org/news/weakmap-and-weakset-in-javascript/",
+          "publishedOn": "2024-06-07T16:57:53.000Z",
+          "wordCount": 3640,
+          "title": "How to Use WeakMap and WeakSet in JavaScript",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/06/Ivory-and-Blue-Lavender-Aesthetic-Photo-Collage-Presentation.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/real-time-chat-with-go-fiber-htmx/",
           "author": "Akinwumi Iyanuoluwa Ayomiposi",

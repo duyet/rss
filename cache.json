@@ -6,6 +6,186 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
+          "id": "https://www.lamini.ai/blog/lamini-memory-tuning",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.lamini.ai/blog/lamini-memory-tuning",
+          "publishedOn": "2024-06-13T22:29:40.000Z",
+          "wordCount": 1416,
+          "title": "Lamini Memory Tuning: 10x Fewer Hallucinations",
+          "imageUrl": "https://cdn.prod.website-files.com/65f9ebe58e6225ebad55efe2/666a537aeb09fba3fa99cc23_hero-mt.png"
+        },
+        {
+          "id": "https://cr.openjdk.org/~jrose/values/flattened-values.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://cr.openjdk.org/~jrose/values/flattened-values.html",
+          "publishedOn": "2024-06-13T20:53:48.000Z",
+          "wordCount": 14317,
+          "title": "Encodings for flattened heap values",
+          "imageUrl": null
+        },
+        {
+          "id": "https://arstechnica.com/gaming/2024/06/the-rent-is-too-dang-high-in-cities-skylines-2-so-the-devs-nuked-the-landlords/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://arstechnica.com/gaming/2024/06/the-rent-is-too-dang-high-in-cities-skylines-2-so-the-devs-nuked-the-landlords/",
+          "publishedOn": "2024-06-13T20:18:06.000Z",
+          "wordCount": 1889,
+          "title": "Rent in Cities Skylines 2 was too high, so the devs removed landlords",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/cs21-760x380.jpg"
+        },
+        {
+          "id": "https://fortune.com/europe/2024/06/11/ikeas-boss-solved-swedish-retailers-global-unhappy-worker-crisis-raising-salaries-introducing-flexible-working-subsidized-childcare/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://fortune.com/europe/2024/06/11/ikeas-boss-solved-swedish-retailers-global-unhappy-worker-crisis-raising-salaries-introducing-flexible-working-subsidized-childcare/",
+          "publishedOn": "2024-06-13T20:12:14.000Z",
+          "wordCount": 9011,
+          "title": "IKEA's retailer's solved global 'unhappy worker' crisis by raising salaries",
+          "imageUrl": "https://fortune.com/img-assets/wp-content/uploads/2024/06/GettyImages-1258931468-e1718112253700.jpg?resize=1200,600"
+        },
+        {
+          "id": "https://www.nytimes.com/2024/06/13/arts/music/wu-tang-clan-once-upon-a-time-in-shaolin.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.nytimes.com/2024/06/13/arts/music/wu-tang-clan-once-upon-a-time-in-shaolin.html",
+          "publishedOn": "2024-06-13T19:49:27.000Z",
+          "wordCount": null,
+          "title": "Pay $1 to Hear Wu-Tang Clan’s Secret Album (Eventually)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nasdaq.com/articles/us-saudi-petrodollar-pact-ends-after-50-years",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.nasdaq.com/articles/us-saudi-petrodollar-pact-ends-after-50-years",
+          "publishedOn": "2024-06-13T19:28:22.000Z",
+          "wordCount": null,
+          "title": "U.S.-Saudi petrodollar pact ends after 50 years",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.mit.edu/2024/mouth-based-touchpad-augmental-0605",
+          "author": null,
+          "description": "Comments",
+          "link": "https://news.mit.edu/2024/mouth-based-touchpad-augmental-0605",
+          "publishedOn": "2024-06-13T18:43:17.000Z",
+          "wordCount": 2020,
+          "title": "Mouth-based touchpad enables people living with paralysis to use computers",
+          "imageUrl": "https://news.mit.edu/sites/default/files/images/202406/MIT-augmental-01-press.jpg"
+        },
+        {
+          "id": "https://github.com/ask-fini/paramount",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/ask-fini/paramount",
+          "publishedOn": "2024-06-13T18:20:31.000Z",
+          "wordCount": 3459,
+          "title": "Show HN: Paramount – Human Evals of AI Customer Support",
+          "imageUrl": "https://opengraph.githubassets.com/033ef76053d6363671e8f2d32f58d848c6abfd7369405ffd1e3b43c0722280a5/ask-fini/paramount"
+        },
+        {
+          "id": "https://themillions.com/2014/06/the-art-of-the-epigraph.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://themillions.com/2014/06/the-art-of-the-epigraph.html",
+          "publishedOn": "2024-06-13T18:01:34.000Z",
+          "wordCount": 4690,
+          "title": "The Art of the Epigraph",
+          "imageUrl": "https://themillions.com/wp-content/uploads/2014/06/570_epigraph.jpg"
+        },
+        {
+          "id": "https://blog.jetbrains.com/security/2024/06/updates-for-security-issue-affecting-intellij-based-ides-2023-1-and-github-plugin/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://blog.jetbrains.com/security/2024/06/updates-for-security-issue-affecting-intellij-based-ides-2023-1-and-github-plugin/",
+          "publishedOn": "2024-06-13T16:34:05.000Z",
+          "wordCount": 3924,
+          "title": "IntelliJ GitHub Plugin leaking credentials",
+          "imageUrl": "https://blog.jetbrains.com/wp-content/uploads/2024/06/jb-security-social_share_blog_github1_1280x720.png"
+        },
+        {
+          "id": "https://www.tomshardware.com/tech-industry/amd-ceo-lisa-su-reminisces-on-helping-design-the-ps3s-infamous-cell-processor-at-ibm",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.tomshardware.com/tech-industry/amd-ceo-lisa-su-reminisces-on-helping-design-the-ps3s-infamous-cell-processor-at-ibm",
+          "publishedOn": "2024-06-13T15:31:30.000Z",
+          "wordCount": 16544,
+          "title": "AMD CEO Lisa Su reminisces about designing the PS3's infamous Cell processor",
+          "imageUrl": "https://cdn.mos.cms.futurecdn.net/qEqwoQaWYeBYHsbKhA7DFD-1200-80.jpg"
+        },
+        {
+          "id": "https://engineering.fb.com/2024/06/13/web/mlow-metas-low-bitrate-audio-codec/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://engineering.fb.com/2024/06/13/web/mlow-metas-low-bitrate-audio-codec/",
+          "publishedOn": "2024-06-13T15:05:18.000Z",
+          "wordCount": 2681,
+          "title": "MLow: Meta's low bitrate audio codec",
+          "imageUrl": "https://engineering.fb.com/wp-content/uploads/2024/06/MLow-Hero-1.png"
+        },
+        {
+          "id": "https://lumalabs.ai/dream-machine",
+          "author": null,
+          "description": "Comments",
+          "link": "https://lumalabs.ai/dream-machine",
+          "publishedOn": "2024-06-13T14:25:51.000Z",
+          "wordCount": 345,
+          "title": "Luma AI Dream Machine",
+          "imageUrl": "https://cdn-luma.com/public/lumalabs.ai/june-12-launch-dream-machine-high-res/og-image.png"
+        },
+        {
+          "id": "https://github.com/shell-pool/shpool",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/shell-pool/shpool",
+          "publishedOn": "2024-06-13T13:22:29.000Z",
+          "wordCount": 8564,
+          "title": "Show HN: Shpool, a Lightweight Tmux Alternative",
+          "imageUrl": "https://opengraph.githubassets.com/456d69f78a097c68753eab9e6a0b524886974100b9cfa208526d5132c61f18ab/shell-pool/shpool"
+        },
+        {
+          "id": "https://spectrum.ieee.org/3d-printed-rocket",
+          "author": null,
+          "description": "Comments",
+          "link": "https://spectrum.ieee.org/3d-printed-rocket",
+          "publishedOn": "2024-06-13T11:02:11.000Z",
+          "wordCount": 9502,
+          "title": "Indian startup 3D prints rocket engine in 72 hours",
+          "imageUrl": "https://spectrum.ieee.org/media-library/a-large-group-of-agnikuls-staff-stands-outside-underneath-a-rocket-labelled-agnibaan-in-india.jpg?id=52436302&width=1200&height=600&coordinates=0%2C224%2C0%2C224"
+        },
+        {
+          "id": "https://www.propublica.org/article/microsoft-solarwinds-golden-saml-data-breach-russian-hackers",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.propublica.org/article/microsoft-solarwinds-golden-saml-data-breach-russian-hackers",
+          "publishedOn": "2024-06-13T10:39:45.000Z",
+          "wordCount": 9331,
+          "title": "Microsoft Chose Profit over Security, Whistleblower Says",
+          "imageUrl": "https://img.assets-d.propublica.org/v5/images/20240416-KAHN-Tech-Project-0189_maxWidth_3000_maxHeight_3000_ppi_72_quality_95_embedColorProfile_true-1.jpg?crop=focalpoint&fit=crop&fp-x=0.4719&fp-y=0.491&h=630&imgixProfile=propublicaAssetsV5&q=90&w=1200&s=8f5dd56d72a8fc3fb2ed591a51e87ecc"
+        },
+        {
+          "id": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024GL109280",
+          "author": null,
+          "description": "Comments",
+          "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024GL109280",
+          "publishedOn": "2024-06-13T10:06:26.000Z",
+          "wordCount": null,
+          "title": "Potential ozone depletion from satellite demise during atmospheric reentry",
+          "imageUrl": null
+        },
+        {
+          "id": "https://mjg59.dreamwidth.org/69646.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://mjg59.dreamwidth.org/69646.html",
+          "publishedOn": "2024-06-13T05:26:02.000Z",
+          "wordCount": 180,
+          "title": "SSH agent extensions as an arbitrary RPC mechanism",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.twz.com/air/martin-baker-ejection-seat-made-its-first-of-7722-saves-75-yeats-ago-today",
           "author": null,
           "description": "Comments",
@@ -56,6 +236,16 @@
           "imageUrl": "https://img.kyodonews.net/english/public/images/posts/e12df7bdd2bc87d2b43aeaaaab5d93b4/photo_l.jpg"
         },
         {
+          "id": "http://blog.cr.yp.to/20240612-bibkeys.html",
+          "author": null,
+          "description": "Comments",
+          "link": "http://blog.cr.yp.to/20240612-bibkeys.html",
+          "publishedOn": "2024-06-12T19:34:45.000Z",
+          "wordCount": 7421,
+          "title": "Bibliography keys: It's as easy as [1], [2], [3]",
+          "imageUrl": null
+        },
+        {
           "id": "https://stamen.com/designing-the-avocado-of-uncertainty/",
           "author": null,
           "description": "Comments",
@@ -64,6 +254,16 @@
           "wordCount": 5263,
           "title": "Designing the avocado of uncertainty visualization",
           "imageUrl": "https://stamen.com/wp-content/uploads/2024/05/Zoomed-out-forecast-1.png"
+        },
+        {
+          "id": "https://sriramk.com/group-chats-rule-the-world",
+          "author": null,
+          "description": "Comments",
+          "link": "https://sriramk.com/group-chats-rule-the-world",
+          "publishedOn": "2024-06-12T17:45:07.000Z",
+          "wordCount": 1216,
+          "title": "Group chats rule the world",
+          "imageUrl": null
         },
         {
           "id": "https://computerwebsite.net/writing/gjk",
@@ -126,6 +326,26 @@
           "imageUrl": null
         },
         {
+          "id": "https://drawingmachines.org/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://drawingmachines.org/",
+          "publishedOn": "2024-06-12T12:44:14.000Z",
+          "wordCount": 459,
+          "title": "Drawing Machines",
+          "imageUrl": null
+        },
+        {
+          "id": "https://joshondesign.com/2017/08/18/idealos_essay",
+          "author": null,
+          "description": "Comments",
+          "link": "https://joshondesign.com/2017/08/18/idealos_essay",
+          "publishedOn": "2024-06-12T12:34:39.000Z",
+          "wordCount": 4700,
+          "title": "Ideal OS: Rebooting the Desktop Operating System (2017)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.damninteresting.com/faxes-from-the-far-side/",
           "author": null,
           "description": "Comments",
@@ -144,6 +364,26 @@
           "wordCount": 1259,
           "title": "Elixir 1.17 released: set-theoretic types in patterns, durations, OTP 27",
           "imageUrl": "https://elixir-lang.org/images/social/elixir-og-card.jpg"
+        },
+        {
+          "id": "https://www.xlwings.org/blog/my-thoughts-on-python-in-excel",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.xlwings.org/blog/my-thoughts-on-python-in-excel",
+          "publishedOn": "2024-06-12T09:19:20.000Z",
+          "wordCount": 3698,
+          "title": "My Thoughts on Python in Excel",
+          "imageUrl": "https://www.xlwings.org/assets/images/blog/python-in-excel/python-in-excel.png"
+        },
+        {
+          "id": "https://londonist.substack.com/p/a-new-map-of-medieval-london",
+          "author": null,
+          "description": "Comments",
+          "link": "https://londonist.substack.com/p/a-new-map-of-medieval-london",
+          "publishedOn": "2024-06-12T07:54:37.000Z",
+          "wordCount": null,
+          "title": "A New Map of Medieval London",
+          "imageUrl": null
         },
         {
           "id": "https://www.stefantheard.com/silicon-valleys-best-kept-secret-founder-liquidity/",
@@ -256,6 +496,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://mrd0x.com/progressive-web-apps-pwa-phishing/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://mrd0x.com/progressive-web-apps-pwa-phishing/",
+          "publishedOn": "2024-06-11T17:44:41.000Z",
+          "wordCount": 978,
+          "title": "Progressive Web Apps (PWAs) Phishing",
+          "imageUrl": null
+        },
+        {
           "id": "https://en.wikipedia.org/wiki/London%E2%80%93Calcutta_bus_service",
           "author": null,
           "description": "Comments",
@@ -326,6 +576,16 @@
           "imageUrl": "https://framerusercontent.com/assets/44L5tf46iK9v7QZCaZmwDNNw6Ts.png"
         },
         {
+          "id": "https://aethermug.com/posts/borges-on-chaos-theory",
+          "author": null,
+          "description": "Comments",
+          "link": "https://aethermug.com/posts/borges-on-chaos-theory",
+          "publishedOn": "2024-06-11T15:54:24.000Z",
+          "wordCount": 3801,
+          "title": "Borges on Chaos Theory",
+          "imageUrl": "https://aethermug.com/assets/posts/borges-on-chaos-theory/the_hoosier_don_quixote.jpg"
+        },
+        {
           "id": "https://www.bbc.com/news/articles/c6pprpd3x96o",
           "author": null,
           "description": "Comments",
@@ -366,6 +626,16 @@
           "imageUrl": "https://app.ashbyhq.com/api/images/org-theme-social/fd4042c5-a696-4b26-9058-2ac8131c2d75/fab07bab-a363-44f7-8435-32f76868d3d3.png"
         },
         {
+          "id": "https://louisabraham.github.io/articles/probabilistic-tic-tac-toe",
+          "author": null,
+          "description": "Comments",
+          "link": "https://louisabraham.github.io/articles/probabilistic-tic-tac-toe",
+          "publishedOn": "2024-06-11T14:25:28.000Z",
+          "wordCount": 1605,
+          "title": "Solving Probabilistic Tic-Tac-Toe",
+          "imageUrl": null
+        },
+        {
           "id": "https://briefer.cloud/blog/posts/self-serve-bi-myth/",
           "author": null,
           "description": "Comments",
@@ -383,6 +653,16 @@
           "publishedOn": "2024-06-11T13:39:49.000Z",
           "wordCount": 639,
           "title": "I like the RP2040",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nytimes.com/2024/06/11/science/mushroom-hunters-dna.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.nytimes.com/2024/06/11/science/mushroom-hunters-dna.html",
+          "publishedOn": "2024-06-11T13:05:52.000Z",
+          "wordCount": null,
+          "title": "Mushroom hunters can't stop finding mysterious fungi",
           "imageUrl": null
         },
         {
@@ -434,6 +714,16 @@
           "wordCount": 8878,
           "title": "Researchers make a supercapacitor from water, cement, and carbon black",
           "imageUrl": "https://ychef.files.bbci.co.uk/624x351/p0j3gw9r.jpg"
+        },
+        {
+          "id": "https://lemire.me/blog/2024/06/08/scan-html-faster-with-simd-instructions-chrome-edition/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://lemire.me/blog/2024/06/08/scan-html-faster-with-simd-instructions-chrome-edition/",
+          "publishedOn": "2024-06-11T10:26:21.000Z",
+          "wordCount": 3666,
+          "title": "Scan HTML faster with SIMD instructions – Chrome edition",
+          "imageUrl": null
         },
         {
           "id": "https://news.artnet.com/art-world/medieval-game-pieces-emerge-from-the-ruins-of-a-mysterious-german-castle-2497815",
@@ -4733,6 +5023,206 @@
       "siteUrl": "https://tinhte.vn/lists/trang-chu.1/",
       "articles": [
         {
+          "id": "https://tinhte.vn/thread/3797411/",
+          "author": "Nam Air",
+          "description": "Chắc hôm qua nhiều anh em cũng đọc được việc thành phố San Francisco công nhận tiếng Việt là ngôn ngữ chính thức, vậy điều này nghĩa là gì? Có phải mọi người ở đây đều phải nói tiếng Việt không?...",
+          "link": "https://tinhte.vn/thread/noi-ro-hon-ve-viec-thanh-pho-ben-my-cong-nhan-tieng-viet-la-ngon-ngu-chinh-thuc.3797411/",
+          "publishedOn": "2024-06-14T00:06:58.000Z",
+          "wordCount": 91101,
+          "title": "Nói rõ hơn về việc \"thành phố bên Mỹ\" công nhận tiếng Việt là ngôn ngữ chính thức",
+          "imageUrl": "https://storage-tinhte.vncdn.vn/data/attachment-files/vnetwork/2024/06/8363701_5c05850c8d17c694cafce57a1604ca1a.jpg"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3797033/",
+          "author": "Kim L",
+          "description": "Chiếc máy tính bảng Samsung Galaxy Tab S7+ của mình được một người Sếp tặng vào thời điểm cuối năm 2020 cho đến nay vẫn là chiếc Tablet tốt nhất mà mình từng được trải nghiệm.\nTrước đây mình có...",
+          "link": "https://tinhte.vn/thread/danh-gia-samsung-galaxy-tab-s7-plus-sau-4-nam-su-dung.3797033/",
+          "publishedOn": "2024-06-14T00:02:00.000Z",
+          "wordCount": 68389,
+          "title": "Đánh giá Samsung Galaxy Tab S7 Plus sau 4 năm sử dụng",
+          "imageUrl": "https://storage-tinhte.vncdn.vn/data/attachment-files/vnetwork/2024/06/8362729_285549e36294e5a5acbcf1f3ebbd72e6.JPG"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3797160/",
+          "author": "Didu",
+          "description": "Mình đã lên iOS 18 Beta cho chiếc iPhone 15 Pro của mình để trải nghiệm những thứ mới mẻ ngay sau sự kiện WWDC. Năm nay iOS không chỉ có thêm các tính năng mới mà còn cho phép tùy biến gần như là...",
+          "link": "https://tinhte.vn/thread/nhung-tinh-nang-hay-tren-ios-18-beta.3797160/",
+          "publishedOn": "2024-06-14T00:01:17.000Z",
+          "wordCount": 54208,
+          "title": "Những tính năng hay trên iOS 18 Beta",
+          "imageUrl": "https://storage-tinhte.vncdn.vn/data/attachment-files/vnetwork/2024/06/8363843_25b84b242830d374727f377555b66e70.jpg"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3797210/",
+          "author": "zyzy1908",
+          "description": "Lạc Xoong Tinh Tế sẽ chính thức diễn ra vào 16/6 và hoạt động siêu giảm giá là phần không thể thiếu. Anh em sẽ có thể mua được sản phẩm công nghệ với giá rẻ hơn 100 lần giá niêm yết chính thức,...",
+          "link": "https://tinhte.vn/thread/danh-sach-san-pham-sieu-giam-gia-o-lac-xoong-16-6-co-mon-chi-vai-ngan.3797210/",
+          "publishedOn": "2024-06-13T23:58:05.000Z",
+          "wordCount": 27454,
+          "title": "Danh sách sản phẩm siêu giảm giá ở Lạc Xoong 16/6, có món chỉ vài ngàn",
+          "imageUrl": "https://storage-tinhte.vncdn.vn/data/attachment-files/vnetwork/2024/06/8364112_0f169b1988da633c2dbfcd0cc0d18f85.jpeg"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3797186/",
+          "author": "Frozen Cat",
+          "description": "Hôm 10/6, Cơ quan Hàng không Vũ trụ Mỹ (NASA) xác nhận rằng tàu vũ trụ CST-100 Starliner của Boeing đã có thêm một vụ rò rỉ khí heli lần thứ năm ở hệ thống đẩy trong lúc các kỹ sư đang làm việc để...",
+          "link": "https://tinhte.vn/thread/nasa-xac-nhan-tau-starliner-co-them-su-co-ro-ri-khi-heli-lan-thu-5.3797186/",
+          "publishedOn": "2024-06-13T23:39:58.000Z",
+          "wordCount": 66862,
+          "title": "NASA xác nhận tàu Starliner có thêm sự cố rò rỉ khí heli lần thứ 5",
+          "imageUrl": "https://storage-tinhte.vncdn.vn/data/attachment-files/vnetwork/2024/06/8363080_3b670280b80d63c54fa09dc767684a33.jpg"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3797569/",
+          "author": "P.W",
+          "description": "Năm 2022, đồng Luna cùng stablecoin TerraUSD sụp đổ, kéo bay 40 tỷ USD giá trị vốn hóa trên thị trường tiền mã hóa. Sau đó Do Kwon sau một thời gian lẩn trốn cũng đã bị bắt giữ tại Montenegro. Vụ...",
+          "link": "https://tinhte.vn/thread/terraform-labs-cua-ong-trum-do-kwon-nhan-an-phat-4-5-ty-usd.3797569/",
+          "publishedOn": "2024-06-13T23:21:08.000Z",
+          "wordCount": 41931,
+          "title": "Terraform Labs của ông trùm Do Kwon nhận án phạt 4.5 tỷ USD",
+          "imageUrl": "https://storage-tinhte.vncdn.vn/data/attachment-files/vnetwork/2024/06/8364035_a0963d0d120c04d464d71f3cabfb3506.jpg"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3795943/",
+          "author": "Nam Air",
+          "description": "Elon Musk đã lên tiếng xác nhận rằng năm nay Tesla sẽ không ra mắt Model Y bản facelift, CEO của hãng xe đã đăng 1 câu ngắn gọn trên X: “No Model Y 'refresh' is coming out this year”. Đồng thời,...",
+          "link": "https://tinhte.vn/thread/elon-musk-nam-nay-khong-co-model-y-facelift.3795943/",
+          "publishedOn": "2024-06-13T23:08:10.000Z",
+          "wordCount": 51921,
+          "title": "Elon Musk: Năm nay không có Model Y facelift",
+          "imageUrl": "https://storage-tinhte.vncdn.vn/data/attachment-files/vnetwork/2024/06/8360037_94e5a7ca22e88a94ee1c9a5791d90991.jpg"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3797544/",
+          "author": "Pnghuy",
+          "description": "Trong iPadOS 18 mới, Math Notes có lẽ là tính năng mình thấy thích thú nhất, trải nghiệm thử qua một số những bài toán của chương trình học Việt Nam thì Math Notes giải quyết được khoảng 50%, tức...",
+          "link": "https://tinhte.vn/thread/dung-thu-math-notes-tren-ipados-18-hien-tai-tinh-toan-duoc-cac-phep-tinh-don-gian-ve-duoc-do-thi.3797544/",
+          "publishedOn": "2024-06-13T22:27:26.000Z",
+          "wordCount": 39887,
+          "title": "Dùng thử Math Notes trên iPadOS 18: Hiện tại tính toán được các phép tính đơn giản, vẽ được đồ thị",
+          "imageUrl": "https://storage-tinhte.vncdn.vn/data/attachment-files/vnetwork/2024/06/8364020_3f55a6596e54da28d93200858c311438.jpeg"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3795829/",
+          "author": "Ngon Bổ Xẻ",
+          "description": "Bữa nay mình mới được cho một chiếc Samsung Galaxy Galaxy J2 Pro sau khi chủ cũ lên đời máy mới. J2 Pro là một mẫu điện thoại giá rẻ của Samsung được trang bị màn hình OLED ra mắt năm 2018. Vì đã...",
+          "link": "https://tinhte.vn/thread/tai-su-dung-thiet-bi-cu-de-gop-phan-bao-ve-moi-truong-dung-dien-thoai-cu-de-lam-dong-ho-thong-minh.3795829/",
+          "publishedOn": "2024-06-13T21:16:55.000Z",
+          "wordCount": 106528,
+          "title": "Tái sử dụng thiết bị cũ để góp phần bảo vệ môi trường - Dùng điện thoại cũ để làm đồng hồ thông minh",
+          "imageUrl": "https://storage-tinhte.vncdn.vn/data/attachment-files/vnetwork/2024/06/8359652_265cf8ad2a0e38a4178644c3d3994538.jpg"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3796671/",
+          "author": "zyzy1908",
+          "description": "Thông thường, một chiếc quạt truyền thống ngon từ Xiaomi đã có giá khoảng 1tr, máy lọc không khí giá rẻ cũng khoảng 2tr. Nhưng với 3.5tr, Keheal A4 Pro lại mang đến quạt không cánh kiêm cả lọc...",
+          "link": "https://tinhte.vn/thread/tren-tay-keheal-a4-pro-phien-ban-viet-nam-chi-3-5-cu-cho-quat-khong-canh-kiem-loc-khong-khi.3796671/",
+          "publishedOn": "2024-06-13T21:15:06.000Z",
+          "wordCount": 43711,
+          "title": "Trên tay Keheal A4 Pro phiên bản Việt Nam: chỉ 3.5 củ cho quạt không cánh kiêm lọc không khí",
+          "imageUrl": "https://storage-tinhte.vncdn.vn/data/attachment-files/vnetwork/2024/06/8361809_d28eb5bebe8d9fadf18d38d6f4ae4300.jpeg"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3797428/",
+          "author": "Cáo - Foxtek",
+          "description": "Vào chiều ngày 13/6/2024 (theo giờ Việt Nam), OPPO đã chính thức ra mắt OPPO F27 Pro+ 5G, sản phẩm thuộc dòng smartphone tầm trung OPPO F Series tại thị trường Ấn Độ. Theo thông tin mình tìm hiểu...",
+          "link": "https://tinhte.vn/thread/oppo-f27-pro-5g-ra-mat-khang-nuoc-ip69-gia-8-5-trieu-dimensity-7050-ban-doi-ten-tu-oppo-a3-pro.3797428/",
+          "publishedOn": "2024-06-13T21:02:24.000Z",
+          "wordCount": 84982,
+          "title": "OPPO F27 Pro+ 5G ra mắt: Kháng nước IP69, giá 8.5 triệu, Dimensity 7050, bản đổi tên từ OPPO A3 Pro?",
+          "imageUrl": "https://storage-tinhte.vncdn.vn/data/attachment-files/vnetwork/2024/06/8363709_6be98226ba7cb8d987783d155b5ccb82.jpg"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3796782/",
+          "author": "Frozen Cat",
+          "description": "Khi nói về những chiếc máy bay quân sự đắt tiền, chúng ta thường nghĩ ngay về chiếc F-35 Lightning II. Chi phí cho toàn bộ chương trình F-35 là điều gây tranh cãi, với mức giá 1,7 ngàn tỷ USD...",
+          "link": "https://tinhte.vn/thread/vi-sao-chuong-trinh-phat-trien-may-bay-nem-bom-b-2-spirit-lai-co-chi-phi-dat-do.3796782/",
+          "publishedOn": "2024-06-13T19:22:19.000Z",
+          "wordCount": 73585,
+          "title": "Vì sao chương trình phát triển máy bay ném bom B-2 Spirit lại có chi phí đắt đỏ?",
+          "imageUrl": "https://storage-tinhte.vncdn.vn/data/attachment-files/vnetwork/2024/06/8362051_441c29550f76e37ebc3329b08c7322f9.jpg"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3797231/",
+          "author": "Nam Air",
+          "description": "Pantanal, vùng đầm lầy lớn nhất thế giới, nằm ở bang Mato Grosso do Sul của Brazil, đang bị cháy dữ dội vì trời nắng nóng bất thướng. Bình thường ở thời điểm này mọi năm thì Pantanal đang ngập...",
+          "link": "https://tinhte.vn/thread/dam-lay-pantanal-lon-nhat-the-gioi-dang-bi-chay.3797231/",
+          "publishedOn": "2024-06-13T18:54:09.000Z",
+          "wordCount": 68974,
+          "title": "Đầm lầy Pantanal lớn nhất thế giới đang bị cháy",
+          "imageUrl": "https://storage-tinhte.vncdn.vn/data/attachment-files/vnetwork/2024/06/8363220_603cbbe0a3a6658c3ed3eaf5e0146615.jpg"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3793975/",
+          "author": "Hải Đăng (boygia)",
+          "description": "Coros Vertix 2S là đồng hồ cao cấp của Coros, với giá phải chăng so với thị trường. Đồng hồ đáp ứng tốt nhu cầu tập luyện và theo dõi sức khoẻ, riêng phần vẽ lại cung đường tập luyện ngoài trời...",
+          "link": "https://tinhte.vn/thread/danh-gia-coros-vertix-2s-xin-xo-gia-phai-chang-co-dang-mua.3793975/",
+          "publishedOn": "2024-06-13T16:47:20.000Z",
+          "wordCount": 90073,
+          "title": "Đánh giá Coros Vertix 2S: Xịn xò, giá phải chăng, có đáng mua?",
+          "imageUrl": "https://storage-tinhte.vncdn.vn/data/attachment-files/vnetwork/2024/06/8356962_b395515f8e231b56015fed61738cec1b.jpg"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3797280/",
+          "author": "vn_ninja",
+          "description": "Dòng laptop mới sử dụng chip Snapdragon X đã mở ra một cuộc đua tam mã trong thị trường bộ xử lý PC Windows. Mặc dù Intel vẫn giữ vị trí hàng đầu, nhưng sự cạnh tranh từ AMD và Qualcomm là không...",
+          "link": "https://tinhte.vn/thread/khong-phai-amd-qualcomm-hien-moi-la-moi-de-doa-lon-nhat-doi-voi-intel.3797280/",
+          "publishedOn": "2024-06-13T16:47:01.000Z",
+          "wordCount": 104251,
+          "title": "Không phải AMD, Qualcomm hiện mới là mối đe doạ lớn nhất đối với Intel",
+          "imageUrl": "https://storage-tinhte.vncdn.vn/data/attachment-files/vnetwork/2024/06/8363316_b6f08c0bb932987f8bd3402c36a55caa.jpg"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3796770/",
+          "author": "Nam Air",
+          "description": "Theo dữ liệu của Ngân hàng thế giới (WB), Colombia là nước có lượng mưa nhiều nhất, trung bình mỗi năm lượng mưa đạt 3.240mm, nhỉnh hơn tí xíu so với Sao Tome & Principe ở vị trí thứ 2 là 3.200mm;...",
+          "link": "https://tinhte.vn/thread/top-10-nuoc-co-luong-mua-nhieu-it-nhat-moi-nam.3796770/",
+          "publishedOn": "2024-06-13T16:44:25.000Z",
+          "wordCount": 22703,
+          "title": "Top 10 nước có lượng mưa nhiều & ít nhất mỗi năm",
+          "imageUrl": "https://storage-tinhte.vncdn.vn/data/attachment-files/vnetwork/2024/06/8362027_5b7711e9159f686b64dc359bff090f1e.jpg"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3797228/",
+          "author": "Nam Air",
+          "description": "Kể từ tháng 7/24, toàn bộ xe hơi mới sản xuất để bán ra ở thị trường EU phải tích hợp ISA (Intelligent Speed Assistance), tính năng nhận diện bảng báo tốc độ giao thông, nhằm đưa ra cảnh báo cho...",
+          "link": "https://tinhte.vn/thread/xe-moi-ban-ra-o-eu-tu-thang-7-24-phai-tich-hop-isa-canh-bao-toc-do-giao-thong-toi-da.3797228/",
+          "publishedOn": "2024-06-13T14:47:04.000Z",
+          "wordCount": 47122,
+          "title": "Xe mới bán ra ở EU từ tháng 7/24 phải tích hợp ISA, cảnh báo tốc độ giao thông tối đa",
+          "imageUrl": "https://storage-tinhte.vncdn.vn/data/attachment-files/vnetwork/2024/06/8363181_18bd1ae872f3df6f73cc7fc0a97dd6e5.jpg"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3796000/",
+          "author": "Trần Hoàng Long.",
+          "description": "Anker MagGo Power Bank (6.6K) là một trong những cục pin dự phòng chuẩn Qi2 đầu tiên trên thị trường, nó có thiết kế rất đẹp, rất tiện dụng và sạc không dây rất nhanh. Một trong những cục pin dự...",
+          "link": "https://tinhte.vn/thread/tren-tay-anker-maggo-power-bank-6-6k-pin-du-phong-qi2-co-thiet-ke-thong-minh-sac-nhanh-va-dep.3796000/",
+          "publishedOn": "2024-06-13T14:39:00.000Z",
+          "wordCount": 53501,
+          "title": "Trên tay Anker MagGo Power Bank (6.6K): Pin dự phòng Qi2 có thiết kế thông minh, sạc nhanh và đẹp",
+          "imageUrl": "https://storage-tinhte.vncdn.vn/data/attachment-files/vnetwork/2024/06/8360237_aa7b5a8c7d545844d39f629c90c629c8.jpg"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3796293/",
+          "author": "Nhà Của Cáo",
+          "description": "Accsoon CineView Nano là bộ truyền hình ảnh không dây sử dụng tín hiệu HDMI, phát đến thiết bị di động sử dụng app, tối đa 4 thiết bị. Đây là sản phẩm mình đã trông chờ khá lâu rồi, nó giúp cho...",
+          "link": "https://tinhte.vn/thread/tren-tay-accsoon-cineview-nano-truyen-hinh-anh-khong-day-4-thiet-bi-di-dong.3796293/",
+          "publishedOn": "2024-06-13T12:00:46.000Z",
+          "wordCount": 27953,
+          "title": "Trên tay Accsoon CineView Nano: truyền hình ảnh không dây - 4 thiết bị di động",
+          "imageUrl": "https://storage-tinhte.vncdn.vn/data/attachment-files/vnetwork/2024/06/8360968_008efa57affefc2447ea248a20fd9389.jpg"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3797032/",
+          "author": "vn_ninja",
+          "description": "Nguồn tin riêng của Reuters cho biết công ty thiết kế chip MediaTek đang trong quá trình phát triển một bộ xử lý Arm cho máy tính Windows.\n \nVào tháng trước, Microsoft cùng các đối tác OEM đã giới...",
+          "link": "https://tinhte.vn/thread/reuters-mediatek-dang-phat-trien-bo-xu-ly-arm-cho-pc-windows-ra-mat-vao-nam-sau.3797032/",
+          "publishedOn": "2024-06-13T10:27:01.000Z",
+          "wordCount": 31610,
+          "title": "Reuters: MediaTek đang phát triển bộ xử lý Arm cho PC Windows, ra mắt vào năm sau",
+          "imageUrl": "https://storage-tinhte.vncdn.vn/data/attachment-files/vnetwork/2024/06/8362732_cbc650ac3fbca561409a87614f61169e.jpg"
+        },
+        {
           "id": "https://tinhte.vn/thread/3796221/",
           "author": "Nhà Của Cáo",
           "description": "Trong bài viết mình sẽ giới thiệu với anh em tủ đồ nghề xịn đến từ Garant với 7 ngăn kéo, mỗi ngăn kéo tải được 75kg, tổng tải hơn nửa tấn đồ nghề.\n \n[MEDIA]\n \nNhư hình trên thì bạn ngồi trong cái...",
@@ -8070,21 +8560,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/beyond-css-media-queries/beyond-css-media-queries.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2024/05/transforming-relationship-between-designers-developers/",
-          "author": "hello@smashingmagazine.com (Chris Day)",
-          "description": "Is there such a thing as harmony between designers and developers in the workplace, and if so, how can it be achieved? In this article, Chris Day explores the challenges of effective collaboration, outlines the key factors at play, and (hopefully!) empowers you to find the right solutions to help you and your team deliver to their full potential.",
-          "link": "https://smashingmagazine.com/2024/05/transforming-relationship-between-designers-developers/",
-          "publishedOn": "2024-05-15T10:00:00.000Z",
-          "wordCount": 6577,
-          "title": "Transforming The Relationship Between Designers And Developers",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/transforming-relationship-between-designers-developers/transforming-relationship-between-designers-developers.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/transforming-relationship-between-designers-developers/transforming-relationship-between-designers-developers.jpg"
         }
       ]
     },
@@ -8093,6 +8568,16 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/free-linux-crash-course-with-labs/",
+          "author": "Beau Carnes",
+          "description": "Learning Linux is important because it powers the majority of the world's servers, from web hosting to cloud infrastructure. Its open-source nature ensures that it remains versatile, secure, and continually updated by a global community of developers...",
+          "link": "https://www.freecodecamp.org/news/free-linux-crash-course-with-labs/",
+          "publishedOn": "2024-06-13T13:36:04.000Z",
+          "wordCount": 1267,
+          "title": "Free Linux Crash Course with Labs",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1718208376031/bdd35eb9-563f-4bc0-b15d-1bf85bcda9cc.jpeg"
+        },
         {
           "id": "https://www.freecodecamp.org/news/how-to-use-viewing-patterns-in-your-website-design/",
           "author": "Ijelekhai Faith Olohijere",

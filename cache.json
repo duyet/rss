@@ -6,6 +6,256 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
+          "id": "https://www.outsideonline.com/culture/essays-culture/culdesac-arizona/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.outsideonline.com/culture/essays-culture/culdesac-arizona/",
+          "publishedOn": "2024-09-24T23:41:00.000Z",
+          "wordCount": 6760,
+          "title": "Want to Build a Perfect 21st Century Town? Ban Cars",
+          "imageUrl": "https://cdn.outsideonline.com/wp-content/uploads/2024/09/culdesac-car-free-living_h-1024x576.jpg?width=1200"
+        },
+        {
+          "id": "https://www.phoronix.com/news/Linux-6.12-RDMA-Multi-Path",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.phoronix.com/news/Linux-6.12-RDMA-Multi-Path",
+          "publishedOn": "2024-09-24T23:04:52.000Z",
+          "wordCount": 1918,
+          "title": "Nvidia Mellanox Linux Driver Spearheads Multi-Path PCI \"Sign of Things to Come\"",
+          "imageUrl": null
+        },
+        {
+          "id": "https://arstechnica.com/security/2024/09/false-memories-planted-in-chatgpt-give-hacker-persistent-exfiltration-channel/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://arstechnica.com/security/2024/09/false-memories-planted-in-chatgpt-give-hacker-persistent-exfiltration-channel/",
+          "publishedOn": "2024-09-24T22:13:03.000Z",
+          "wordCount": 1892,
+          "title": "Hacker plants false memories in ChatGPT to steal user data in perpetuity",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/memory-760x380.jpg"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=0a8P0NLYPWA",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.youtube.com/watch?v=0a8P0NLYPWA",
+          "publishedOn": "2024-09-24T22:10:27.000Z",
+          "wordCount": null,
+          "title": "Ethernet in 17 lines of Spade [video]",
+          "imageUrl": null
+        },
+        {
+          "id": "https://brandur.org/fragments/secure-bytes-without-pgcrypto",
+          "author": null,
+          "description": "Comments",
+          "link": "https://brandur.org/fragments/secure-bytes-without-pgcrypto",
+          "publishedOn": "2024-09-24T21:49:58.000Z",
+          "wordCount": 1138,
+          "title": "A few secure, random bytes without `pgcrypto`",
+          "imageUrl": null
+        },
+        {
+          "id": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.0020124",
+          "author": null,
+          "description": "Comments",
+          "link": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.0020124",
+          "publishedOn": "2024-09-24T21:45:50.000Z",
+          "wordCount": 7268,
+          "title": "Why Most Published Research Findings Are False",
+          "imageUrl": "https://journals.plos.org/plosmedicine/article/figure/image?id=10.1371/journal.pmed.0020124.g002&size=inline"
+        },
+        {
+          "id": "https://electrek.co/2024/09/23/a-1-billion-solar-battery-storage-project-just-broke-ground-in-utah/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://electrek.co/2024/09/23/a-1-billion-solar-battery-storage-project-just-broke-ground-in-utah/",
+          "publishedOn": "2024-09-24T21:10:59.000Z",
+          "wordCount": 2906,
+          "title": "$1B Solar and Battery Storage Project Breaks Ground in Utah",
+          "imageUrl": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2024/09/GREC-drone.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        },
+        {
+          "id": "https://www.seroundtable.com/google-cache-dead-38112.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.seroundtable.com/google-cache-dead-38112.html",
+          "publishedOn": "2024-09-24T20:59:53.000Z",
+          "wordCount": null,
+          "title": "Google Cache Is Fully Dead",
+          "imageUrl": null
+        },
+        {
+          "id": "https://github.com/okhat/blog/blob/main/2024.09.impact.md",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/okhat/blog/blob/main/2024.09.impact.md",
+          "publishedOn": "2024-09-24T20:56:29.000Z",
+          "wordCount": 9631,
+          "title": "On Impactful AI Research",
+          "imageUrl": "https://opengraph.githubassets.com/102d34ae534b070e0bd3cb46e129706613082f9bedbeae9e531ad252378239dc/okhat/blog"
+        },
+        {
+          "id": "https://www.nytimes.com/2024/09/24/technology/caroline-ellison-ftx-sentence.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.nytimes.com/2024/09/24/technology/caroline-ellison-ftx-sentence.html",
+          "publishedOn": "2024-09-24T20:53:57.000Z",
+          "wordCount": null,
+          "title": "Caroline Ellison sentenced to 2 years in prison",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.winstoncooke.com/blog/rotation-based-compression",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.winstoncooke.com/blog/rotation-based-compression",
+          "publishedOn": "2024-09-24T20:10:08.000Z",
+          "wordCount": 774,
+          "title": "Rotation-Based Compression",
+          "imageUrl": "https://imagedelivery.net/ga2MLDZ3d0ln9C7Qw_eDwg/3473cbc1-338b-4484-8bef-6e2aa0ba5000/public"
+        },
+        {
+          "id": "https://new.mta.info/article/beyond-route-introducing-granular-mta-bus-speed-data",
+          "author": null,
+          "description": "Comments",
+          "link": "https://new.mta.info/article/beyond-route-introducing-granular-mta-bus-speed-data",
+          "publishedOn": "2024-09-24T19:26:03.000Z",
+          "wordCount": 1954,
+          "title": "Beyond the route: Introducing granular MTA bus speed data",
+          "imageUrl": "https://files.mta.info/s3fs-public/2024-08/53924944166_2bdc2461e1_w.jpg"
+        },
+        {
+          "id": "https://www.cnbc.com/2024/09/24/doj-accuses-visa-of-debit-network-monopoly-that-impacts-price-of-nearly-everything.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.cnbc.com/2024/09/24/doj-accuses-visa-of-debit-network-monopoly-that-impacts-price-of-nearly-everything.html",
+          "publishedOn": "2024-09-24T18:42:08.000Z",
+          "wordCount": 27823,
+          "title": "DOJ accuses Visa of monopoly that affects price of 'nearly everything’",
+          "imageUrl": "https://image.cnbcfm.com/api/v1/image/108038472-1727195482344-gettyimages-1993441383-js1_9575_n2d3kjnl.jpeg?v=1727195505&w=1920&h=1080"
+        },
+        {
+          "id": "https://creounity.com/apps/time_machine/index.php?go=&lang=en",
+          "author": null,
+          "description": "Comments",
+          "link": "https://creounity.com/apps/time_machine/index.php?go=&lang=en",
+          "publishedOn": "2024-09-24T18:36:22.000Z",
+          "wordCount": 2067,
+          "title": "\"Creounity Time Machine\", the universal date converter for coin collectors",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.wosu.org/2024-09-24/45-years-ago-compuserve-connected-the-world-before-the-world-wide-web",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.wosu.org/2024-09-24/45-years-ago-compuserve-connected-the-world-before-the-world-wide-web",
+          "publishedOn": "2024-09-24T17:27:49.000Z",
+          "wordCount": 2414,
+          "title": "45 years ago CompuServe connected the world before the World Wide Web",
+          "imageUrl": "https://npr.brightspotcdn.com/dims4/default/7e1df0d/2147483647/strip/true/crop/1585x832+0+0/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fe6%2F2c%2F41ee868147aa9183b1963543d7e1%2Fcompuservead.png"
+        },
+        {
+          "id": "https://ijc8.me/2024/08/26/gsoc-difflogic/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://ijc8.me/2024/08/26/gsoc-difflogic/",
+          "publishedOn": "2024-09-24T17:02:24.000Z",
+          "wordCount": 3192,
+          "title": "GSoC'24: Differentiable Logic for Interactive Systems and Generative Music",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=41638199",
+          "author": null,
+          "description": "Comments",
+          "link": "https://news.ycombinator.com/item?id=41638199",
+          "publishedOn": "2024-09-24T16:23:35.000Z",
+          "wordCount": 16725,
+          "title": "Launch HN: Modern Realty (YC S24) – AI Real Estate Agent for Home Buyers",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.usevelvet.com/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.usevelvet.com/",
+          "publishedOn": "2024-09-24T15:25:52.000Z",
+          "wordCount": 694,
+          "title": "Show HN: Velvet – Store OpenAI requests in your own DB",
+          "imageUrl": "https://cdn.prod.website-files.com/64caab99fc08857eb019042a/66f05ea6ef491a328a854af0_OpenGraph%2016.png"
+        },
+        {
+          "id": "https://github.com/WinampDesktop/winamp",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/WinampDesktop/winamp",
+          "publishedOn": "2024-09-24T14:27:09.000Z",
+          "wordCount": 3274,
+          "title": "Winamp Legacy player source code",
+          "imageUrl": "https://opengraph.githubassets.com/2318a71fbaec01ba1218a276d1d29e5072a4c56858ec3ceb1796a86ece5d2a1a/WinampDesktop/winamp"
+        },
+        {
+          "id": "https://openfreemap.org/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://openfreemap.org/",
+          "publishedOn": "2024-09-24T11:59:22.000Z",
+          "wordCount": 748,
+          "title": "Show HN: OpenFreeMap – Open-Source Map Hosting",
+          "imageUrl": null
+        },
+        {
+          "id": "https://engineersneedart.com/blog/movefast/movefast.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://engineersneedart.com/blog/movefast/movefast.html",
+          "publishedOn": "2024-09-24T11:58:02.000Z",
+          "wordCount": 2198,
+          "title": "Move Fast and Abandon Things",
+          "imageUrl": null
+        },
+        {
+          "id": "https://jazco.dev/2024/09/24/jetstream/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://jazco.dev/2024/09/24/jetstream/",
+          "publishedOn": "2024-09-24T10:50:10.000Z",
+          "wordCount": 1893,
+          "title": "Jetstream: Shrinking the AT Protocol Firehose by >99%",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lander.bbcelite.com/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://lander.bbcelite.com/",
+          "publishedOn": "2024-09-24T10:47:23.000Z",
+          "wordCount": 5421,
+          "title": "Fully documented source code for Lander on the Acorn Archimedes",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.newyorker.com/science/elements/the-quest-to-build-a-telescope-on-the-moon",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.newyorker.com/science/elements/the-quest-to-build-a-telescope-on-the-moon",
+          "publishedOn": "2024-09-24T10:30:05.000Z",
+          "wordCount": 36989,
+          "title": "The quest to build a telescope on the moon",
+          "imageUrl": "https://media.newyorker.com/photos/66e34493146801b7550e451e/16:9/w_1280,c_limit/Moon_16_9_solo_091024.jpg"
+        },
+        {
+          "id": "https://github.com/loggerhead/json4u",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/loggerhead/json4u",
+          "publishedOn": "2024-09-24T08:20:38.000Z",
+          "wordCount": 2931,
+          "title": "Show HN: JSON For You – Visualize JSON in graph or table views",
+          "imageUrl": "https://opengraph.githubassets.com/55115dca0488c8dd54c89788ea5eb6c48fcd71154782602929f5ba8ea7c6988c/loggerhead/json4u"
+        },
+        {
           "id": "https://techcrunch.com/2024/09/23/crypto-scammers-hack-openais-press-account-on-x/",
           "author": null,
           "description": "Comments",
@@ -74,6 +324,16 @@
           "wordCount": 372,
           "title": "Ask HN: Sci-fi recommendations by non-western authors?",
           "imageUrl": null
+        },
+        {
+          "id": "https://www.theverge.com/2024/9/23/24252438/x-blocked-users-view-public-posts",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.theverge.com/2024/9/23/24252438/x-blocked-users-view-public-posts",
+          "publishedOn": "2024-09-23T20:24:24.000Z",
+          "wordCount": 2393,
+          "title": "Twitter/X will let people you've blocked see your posts",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/GtMPBSmUrz4vlCZUGfGaleDvSuw=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/25535561/STK160_X_TWITTER_2__C.jpg"
         },
         {
           "id": "http://www.righto.com/2024/09/ramtron-ferroelectric-fram-die.html",
@@ -656,6 +916,16 @@
           "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2024/04/T-Mobile-logo-on-smartphone-1.jpg"
         },
         {
+          "id": "http://www.vintagecalculators.com/html/busicom_141-pf_and_intel_4004.html",
+          "author": null,
+          "description": "Comments",
+          "link": "http://www.vintagecalculators.com/html/busicom_141-pf_and_intel_4004.html",
+          "publishedOn": "2024-09-21T00:59:03.000Z",
+          "wordCount": 2943,
+          "title": "The Calculator that spawned the Microprocessor",
+          "imageUrl": null
+        },
+        {
           "id": "https://peelarchivesblog.com/2024/09/10/how-do-archivists-package-things-the-battle-of-the-boxes/",
           "author": null,
           "description": "Comments",
@@ -796,6 +1066,16 @@
           "imageUrl": "https://opengraph.githubassets.com/c53bf622372bc627ac0d2ac774f765a8472ec8d68fce39af2801c2381407bb2f/cupy/cupy"
         },
         {
+          "id": "https://www.ethanepperly.com/index.php/2024/07/02/neat-randomized-algorithms-randdiag-for-rapidly-diagonalizing-normal-matrices/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.ethanepperly.com/index.php/2024/07/02/neat-randomized-algorithms-randdiag-for-rapidly-diagonalizing-normal-matrices/",
+          "publishedOn": "2024-09-20T12:53:48.000Z",
+          "wordCount": 1432,
+          "title": "Neat Randomized Algorithms: RandDiag for Rapidly Diagonalizing Normal Matrices",
+          "imageUrl": null
+        },
+        {
           "id": "https://xn--treo-l3a.nz/",
           "author": null,
           "description": "Comments",
@@ -834,6 +1114,26 @@
           "wordCount": 3787,
           "title": "Openpilot – Operating system for robotics",
           "imageUrl": "https://repository-images.githubusercontent.com/74627617/107aa381-a61e-49ff-9a68-59b4fd315093"
+        },
+        {
+          "id": "https://github.com/vshymanskyy/wasm2mpy",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/vshymanskyy/wasm2mpy",
+          "publishedOn": "2024-09-20T07:10:49.000Z",
+          "wordCount": 4160,
+          "title": "Wasm2Mpy: Compiling WASM to MicroPython so it can run on Raspberrys",
+          "imageUrl": "https://opengraph.githubassets.com/d18e87e300676bedb143ce2b7e267b1cca284b3fb30c9cd6a3345b5ef3167029/vshymanskyy/wasm2mpy"
+        },
+        {
+          "id": "https://lwn.net/Articles/987548/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://lwn.net/Articles/987548/",
+          "publishedOn": "2024-09-20T06:21:15.000Z",
+          "wordCount": 4239,
+          "title": "Attracting and Retaining Debian Contributors",
+          "imageUrl": null
         },
         {
           "id": "https://www.anthropic.com/news/contextual-retrieval",
@@ -8334,406 +8634,6 @@
           "wordCount": 4095,
           "title": "A dishwasher can make or break a restaurant (2017)",
           "imageUrl": "http://www.washingtonpost.com/sf/style/wp-content/uploads/sites/5/2017/08/dishwashers-featured-new.jpg"
-        },
-        {
-          "id": "https://cprimozic.net/blog/fixing-a-bug-in-google-chrome/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://cprimozic.net/blog/fixing-a-bug-in-google-chrome/",
-          "publishedOn": "2024-08-26T09:10:56.000Z",
-          "wordCount": 3960,
-          "title": "Fixing a bug in Google Chrome as a first-time contributor",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.thenation.com/article/society/ancient-world-drugs/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.thenation.com/article/society/ancient-world-drugs/",
-          "publishedOn": "2024-08-26T06:18:13.000Z",
-          "wordCount": 7671,
-          "title": "From Opium to Saffron, the Ancients Knew a Thing or Two About Drugs",
-          "imageUrl": "https://www.thenation.com/wp-content/uploads/2022/03/Fig-1-1.jpg"
-        },
-        {
-          "id": "https://github.com/yetone/avante.nvim",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/yetone/avante.nvim",
-          "publishedOn": "2024-08-26T03:44:48.000Z",
-          "wordCount": 6017,
-          "title": "Avante.nvim: Use Your Neovim Like Using Cursor AI IDE",
-          "imageUrl": "https://opengraph.githubassets.com/4d5a9adc551649a9981eadd2d123e9ad7a62280b3ff53511fcbd962497bf3baa/yetone/avante.nvim"
-        },
-        {
-          "id": "https://libntruprime.cr.yp.to/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://libntruprime.cr.yp.to/",
-          "publishedOn": "2024-08-26T03:43:47.000Z",
-          "wordCount": 448,
-          "title": "Libntruprime is a microlibrary for the Streamlined NTRU Prime cryptosyst",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.nytimes.com/2024/08/23/science/helen-fisher-dead.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.nytimes.com/2024/08/23/science/helen-fisher-dead.html",
-          "publishedOn": "2024-08-26T03:41:09.000Z",
-          "wordCount": null,
-          "title": "Helen Fisher, who researched the brain’s love circuitry, has died",
-          "imageUrl": null
-        },
-        {
-          "id": "https://phys.org/news/2024-08-dinosaur-footprints-sides-atlantic-ocean.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://phys.org/news/2024-08-dinosaur-footprints-sides-atlantic-ocean.html",
-          "publishedOn": "2024-08-26T00:02:06.000Z",
-          "wordCount": 1995,
-          "title": "Matching dinosaur footprints found on opposite sides of the Atlantic Ocean",
-          "imageUrl": "https://scx2.b-cdn.net/gfx/news/hires/2024/matching-dinosaur-foot-2.jpg"
-        },
-        {
-          "id": "https://arxiv.org/abs/2408.08379",
-          "author": null,
-          "description": "Comments",
-          "link": "https://arxiv.org/abs/2408.08379",
-          "publishedOn": "2024-08-25T22:32:32.000Z",
-          "wordCount": 783,
-          "title": "Realistic Synthetic UGC: A Scaffolding Approach to Generating Online Discussions",
-          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "https://www.stochasticsolutions.com/pdf/sig-based-up-trees.pdf",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.stochasticsolutions.com/pdf/sig-based-up-trees.pdf",
-          "publishedOn": "2024-08-25T22:20:58.000Z",
-          "wordCount": 67206,
-          "title": "Real-world uplift modelling with significance-based uplift trees [pdf]",
-          "imageUrl": null
-        },
-        {
-          "id": "https://reason.com/2024/08/23/albuquerques-police-chief-thinks-cops-have-a-5th-amendment-right-to-leave-their-body-cameras-off/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://reason.com/2024/08/23/albuquerques-police-chief-thinks-cops-have-a-5th-amendment-right-to-leave-their-body-cameras-off/",
-          "publishedOn": "2024-08-25T22:18:02.000Z",
-          "wordCount": 3153,
-          "title": "Police Chief Says Cops Have a 5th Amendment Right to Leave Body Cameras Off",
-          "imageUrl": "https://d2eehagpk5cl65.cloudfront.net/img/q60/uploads/2024/03/Harold-Medina-APD.jpg"
-        },
-        {
-          "id": "https://www.ycombinator.com/companies/rollstack-2/jobs/QPqpb1n-middle-senior-software-engineer-typescript-us-canada-east-coast-only",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.ycombinator.com/companies/rollstack-2/jobs/QPqpb1n-middle-senior-software-engineer-typescript-us-canada-east-coast-only",
-          "publishedOn": "2024-08-25T21:34:44.000Z",
-          "wordCount": 1535,
-          "title": "Rollstack (YC W23) Is Hiring TypeScript Engineers – US/Canada (East Coast Only)",
-          "imageUrl": "/images/original/missing.png"
-        },
-        {
-          "id": "https://notgull.net/announcing-dozer/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://notgull.net/announcing-dozer/",
-          "publishedOn": "2024-08-25T21:08:06.000Z",
-          "wordCount": 1579,
-          "title": "Why am I writing a Rust compiler in C?",
-          "imageUrl": "http://notgull.net/images/notgull.png"
-        },
-        {
-          "id": "http://electronupdate.blogspot.com/2024/08/pi-pico-2-extreme-teardown.html",
-          "author": null,
-          "description": "Comments",
-          "link": "http://electronupdate.blogspot.com/2024/08/pi-pico-2-extreme-teardown.html",
-          "publishedOn": "2024-08-25T21:01:04.000Z",
-          "wordCount": 970,
-          "title": "Pi Pico 2 Extreme Teardown",
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_m2l3p032rTRuODI5m35dtS_FCbn2o2S8kPEcptLvwZ1q8wFilF1qoQebQeG13jU7_gpukFREVB0fh8G7hEukgbn5SnlmD_o4L_xjwMwbOG9Zrr8T-XyRSE_LabP-toNOCm32x4-GZ5IPdVJS3QY2Y5ROcuqe16MqAF4hRnsdPTxptBrHTiWvaUO53Vg/w1200-h630-p-k-no-nu/top_pcb.JPG"
-        },
-        {
-          "id": "https://www.raphkoster.com/2009/01/08/database-sharding-came-from-uo/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.raphkoster.com/2009/01/08/database-sharding-came-from-uo/",
-          "publishedOn": "2024-08-25T20:42:02.000Z",
-          "wordCount": 11572,
-          "title": "Database \"sharding\" came from Ultima Online?",
-          "imageUrl": "https://upload.wikimedia.org/wikipedia/en/c/cb/Mondain-uo-intro.jpg"
-        },
-        {
-          "id": "https://www.inexhibit.com/case-studies/olivetti-programma-101-at-the-origins-of-the-personal-computer/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.inexhibit.com/case-studies/olivetti-programma-101-at-the-origins-of-the-personal-computer/",
-          "publishedOn": "2024-08-25T20:20:56.000Z",
-          "wordCount": 2718,
-          "title": "Olivetti Programma 101: At the Origins of the Personal Computer",
-          "imageUrl": "https://www.inexhibit.com/wp-content/uploads/2017/02/Olivetti-Programma-101-computer.jpg"
-        },
-        {
-          "id": "https://0xf00sec.github.io/0x1A",
-          "author": null,
-          "description": "Comments",
-          "link": "https://0xf00sec.github.io/0x1A",
-          "publishedOn": "2024-08-25T20:08:20.000Z",
-          "wordCount": 9613,
-          "title": "MacOS X Malware Development",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.schneier.com/essays/archives/2013/09/nsa_surveillance_a_g.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.schneier.com/essays/archives/2013/09/nsa_surveillance_a_g.html",
-          "publishedOn": "2024-08-25T20:07:09.000Z",
-          "wordCount": 2200,
-          "title": "Essays: NSA Surveillance: A Guide to Staying Secure – Schneier on Security",
-          "imageUrl": null
-        },
-        {
-          "id": "https://blog.cryptographyengineering.com/2024/08/25/telegram-is-not-really-an-encrypted-messaging-app/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://blog.cryptographyengineering.com/2024/08/25/telegram-is-not-really-an-encrypted-messaging-app/",
-          "publishedOn": "2024-08-25T19:34:53.000Z",
-          "wordCount": 5617,
-          "title": "Is Telegram really an encrypted messaging app?",
-          "imageUrl": "https://blog.cryptographyengineering.com/wp-content/uploads/2024/08/52770168096_a43776424c_k.jpg?w=1200"
-        },
-        {
-          "id": "https://github.com/getlago/lago/wiki/Stripe-Data-vs-Open%E2%80%90Source-Alternatives:-a-MRR-example",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/getlago/lago/wiki/Stripe-Data-vs-Open%E2%80%90Source-Alternatives:-a-MRR-example",
-          "publishedOn": "2024-08-25T19:28:26.000Z",
-          "wordCount": 2590,
-          "title": "Stripe Data vs. Open‐Source Alternatives: A MRR Example",
-          "imageUrl": "https://opengraph.githubassets.com/ccf5e7b4a66aa95e4aa6f947835193491111a809df15a3924a896a977c0e007d/getlago/lago"
-        },
-        {
-          "id": "https://twitter.com/telegram/status/1827787345367834772",
-          "author": null,
-          "description": "Comments",
-          "link": "https://twitter.com/telegram/status/1827787345367834772",
-          "publishedOn": "2024-08-25T19:26:02.000Z",
-          "wordCount": 6,
-          "title": "Telegram abides by EU laws, including the Digital Services Act",
-          "imageUrl": null
-        },
-        {
-          "id": "https://matthewbjane.quarto.pub/pre-post-correlations/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://matthewbjane.quarto.pub/pre-post-correlations/",
-          "publishedOn": "2024-08-25T19:18:02.000Z",
-          "wordCount": 9619,
-          "title": "Extracting Pre-Post Correlations for Meta-Analyses of Repeated Measures Designs",
-          "imageUrl": null
-        },
-        {
-          "id": "https://ntietz.com/blog/til-uses-for-the-different-uuid-versions/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://ntietz.com/blog/til-uses-for-the-different-uuid-versions/",
-          "publishedOn": "2024-08-25T19:05:20.000Z",
-          "wordCount": 759,
-          "title": "TIL: Versions of UUID and when to use them",
-          "imageUrl": null
-        },
-        {
-          "id": "https://ramimac.me/aws-iam-tools-2024",
-          "author": null,
-          "description": "Comments",
-          "link": "https://ramimac.me/aws-iam-tools-2024",
-          "publishedOn": "2024-08-25T18:58:19.000Z",
-          "wordCount": 796,
-          "title": "An AWS IAM Security Tooling Reference",
-          "imageUrl": "https://ramimac.me/assets/images/iam-tools.png"
-        },
-        {
-          "id": "https://www.nytimes.com/2024/08/22/science/fossils-worms-bifungites-brazil.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.nytimes.com/2024/08/22/science/fossils-worms-bifungites-brazil.html",
-          "publishedOn": "2024-08-25T18:03:21.000Z",
-          "wordCount": null,
-          "title": "Fossils are found all over, but what made them was a mystery",
-          "imageUrl": null
-        },
-        {
-          "id": "https://infinitecanvas.cc/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://infinitecanvas.cc/",
-          "publishedOn": "2024-08-25T17:59:50.000Z",
-          "wordCount": 202,
-          "title": "Build an Infinite Canvas",
-          "imageUrl": "https://infinitecanvas.cc/canvas.png"
-        },
-        {
-          "id": "https://www.bbc.co.uk/news/articles/cgl7ld1glk3o",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.bbc.co.uk/news/articles/cgl7ld1glk3o",
-          "publishedOn": "2024-08-25T17:22:06.000Z",
-          "wordCount": 8363,
-          "title": "Rescuing songs that record labels forgot existed",
-          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/3cbb/live/226eff80-50e4-11ef-bf26-6d9f6165d706.jpg"
-        },
-        {
-          "id": "https://qsantos.fr/2024/08/25/linux-pipes-are-slow/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://qsantos.fr/2024/08/25/linux-pipes-are-slow/",
-          "publishedOn": "2024-08-25T16:52:14.000Z",
-          "wordCount": 6572,
-          "title": "Linux Pipes Are Slow",
-          "imageUrl": null
-        },
-        {
-          "id": "https://horovits.medium.com/lidl-is-taking-on-aws-the-age-of-eurocloud-b237258e3311",
-          "author": null,
-          "description": "Comments",
-          "link": "https://horovits.medium.com/lidl-is-taking-on-aws-the-age-of-eurocloud-b237258e3311",
-          "publishedOn": "2024-08-25T16:35:52.000Z",
-          "wordCount": 1735,
-          "title": "Lidl's Cloud Gambit: Europe's Shift to Sovereign Computing",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:836/1*ZYNUYfZ4HgytTjDHE0C1BA.jpeg"
-        },
-        {
-          "id": "https://github.com/buffdb/buffdb",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/buffdb/buffdb",
-          "publishedOn": "2024-08-25T16:34:05.000Z",
-          "wordCount": 5759,
-          "title": "BuffDB is a Rust library to simplify multi-plexing on edge devices",
-          "imageUrl": "https://opengraph.githubassets.com/f1b511b6c337e28f65e4fa8f9361919b2e767b0a85459a26b8d062bed924dd02/buffdb/buffdb"
-        },
-        {
-          "id": "https://thomasw.dev/post/mac-floppy-emu/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://thomasw.dev/post/mac-floppy-emu/",
-          "publishedOn": "2024-08-25T16:04:21.000Z",
-          "wordCount": 3259,
-          "title": "Emulating the Early Macintosh Floppy Drive",
-          "imageUrl": null
-        },
-        {
-          "id": "https://github.com/flxzt/rnote",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/flxzt/rnote",
-          "publishedOn": "2024-08-25T15:51:11.000Z",
-          "wordCount": 5956,
-          "title": "Rnote – Sketch and take handwritten notes",
-          "imageUrl": "https://repository-images.githubusercontent.com/393045142/4694c21f-409d-4ff4-899e-b36596d26998"
-        },
-        {
-          "id": "https://www.shamusyoung.com/twentysidedtale/?p=141",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.shamusyoung.com/twentysidedtale/?p=141",
-          "publishedOn": "2024-08-25T15:32:00.000Z",
-          "wordCount": 3752,
-          "title": "Programming terrain from scratch using C++ and OpenGL by Shamus Young (2006)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://inconvergent.net/2023/datalog-to-svg/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://inconvergent.net/2023/datalog-to-svg/",
-          "publishedOn": "2024-08-25T15:12:58.000Z",
-          "wordCount": 1229,
-          "title": "From Datalog to SVG",
-          "imageUrl": "https://inconvergent.net/img/writing/graph/20231020-234819.png"
-        },
-        {
-          "id": "https://blog.jonudell.net/2021/08/05/the-tao-of-unicode-sparklines/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://blog.jonudell.net/2021/08/05/the-tao-of-unicode-sparklines/",
-          "publishedOn": "2024-08-25T14:42:02.000Z",
-          "wordCount": 3413,
-          "title": "The Tao of Unicode Sparklines (2021)",
-          "imageUrl": "https://i0.wp.com/blog.jonudell.net/wp-content/uploads/2024/07/gravatar-jon.png?fit=256%2C256&ssl=1"
-        },
-        {
-          "id": "https://theconvivialsociety.substack.com/p/if-your-world-is-not-enchanted-youre",
-          "author": null,
-          "description": "Comments",
-          "link": "https://theconvivialsociety.substack.com/p/if-your-world-is-not-enchanted-youre",
-          "publishedOn": "2024-08-25T13:59:55.000Z",
-          "wordCount": null,
-          "title": "If Your World Is Not Enchanted, You're Not Paying Attention",
-          "imageUrl": null
-        },
-        {
-          "id": "https://pillser.com/engineering/2024-08-25-speeding-up-your-website-using-cloudflare-cache",
-          "author": null,
-          "description": "Comments",
-          "link": "https://pillser.com/engineering/2024-08-25-speeding-up-your-website-using-cloudflare-cache",
-          "publishedOn": "2024-08-25T13:48:08.000Z",
-          "wordCount": 2132,
-          "title": "Speeding Up Your Website Using Cloudflare Cache",
-          "imageUrl": "https://pillser.com/engineering/2024-08-25-speeding-up-your-website-using-cloudflare-cache/image.png"
-        },
-        {
-          "id": "https://roots.io/acorn/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://roots.io/acorn/",
-          "publishedOn": "2024-08-25T13:34:31.000Z",
-          "wordCount": 957,
-          "title": "Acorn – Use Laravel Inside WordPress",
-          "imageUrl": "https://roots.io/app/uploads/social/15.png"
-        },
-        {
-          "id": "https://simonwillison.net/2024/Aug/24/pipe-syntax-in-sql/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://simonwillison.net/2024/Aug/24/pipe-syntax-in-sql/",
-          "publishedOn": "2024-08-25T13:33:23.000Z",
-          "wordCount": 768,
-          "title": "Google's New Pipe Syntax in SQL",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.nytimes.com/2024/08/25/us/cold-case-murder-investigation-police.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.nytimes.com/2024/08/25/us/cold-case-murder-investigation-police.html",
-          "publishedOn": "2024-08-25T13:23:21.000Z",
-          "wordCount": null,
-          "title": "What it's like to work on cold cases",
-          "imageUrl": null
-        },
-        {
-          "id": "https://vim-racer.com/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://vim-racer.com/",
-          "publishedOn": "2024-08-25T13:12:13.000Z",
-          "wordCount": 1136,
-          "title": "Vim Racer",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.strandbeest.com/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.strandbeest.com/",
-          "publishedOn": "2024-08-25T13:06:08.000Z",
-          "wordCount": 15,
-          "title": "Strandbeest",
-          "imageUrl": null
         }
       ]
     },
@@ -8742,6 +8642,206 @@
       "feedUrl": "https://www.tinhte.vn/rss",
       "siteUrl": "https://tinhte.vn/lists/trang-chu.1/",
       "articles": [
+        {
+          "id": "https://tinhte.vn/thread/3830565/",
+          "author": "vn_ninja",
+          "description": "Apple giới thiệu công nghệ ProMotion lần đầu tiên trên iPhone với dòng iPhone 13 Pro, cho phép biến thiên tần số quét lên mức tối đa 120Hz để cung cấp trải nghiệm mượt mà trong khi vẫn đảm bảo...",
+          "link": "https://tinhte.vn/thread/ice-universe-ios-18-gioi-han-tan-so-quet-o-80hz-de-tiet-kiem-pin.3830565/",
+          "publishedOn": "2024-09-25T00:09:29.000Z",
+          "wordCount": 40612,
+          "title": "Ice Universe: iOS 18 giới hạn tần số quét ở 80Hz để tiết kiệm pin",
+          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2024/09/8461049_cover-iOS-18-Thoi-Luong-Pin-tinhte.jpg"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3830344/",
+          "author": "Anh Tú.",
+          "description": "Hôm nay mình trở lại với một sản phẩm mới của Apple là AirPods 4, nhưng là phiên bản không có chống ồn chủ động. Hôm bữa mod Huy đã trên tay cho anh em phiên bản AirPods 4 có chống ồn chủ động...",
+          "link": "https://tinhte.vn/thread/tren-tay-airpods-4-khong-dang-mua.3830344/",
+          "publishedOn": "2024-09-25T00:09:03.000Z",
+          "wordCount": 49034,
+          "title": "Trên tay AirPods 4: không đáng mua",
+          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2024/09/8460710_Tinhte-tu-airpods-4-6.jpg"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3830289/",
+          "author": "Nam Air",
+          "description": "Giấy phép lái xe hạng B1 số tự động được đổi, cấp lại sang giấy phép lái xe hạng B với điều kiện hạn chế là chỉ được điều khiển xe ô tô số tự động. Luật Trật tự, an toàn giao thông đường bộ (Luật...",
+          "link": "https://tinhte.vn/thread/bang-lai-xe-cap-truoc-2025-se-duoc-doi-lai-nhu-the-nao.3830289/",
+          "publishedOn": "2024-09-25T00:08:26.000Z",
+          "wordCount": 56735,
+          "title": "Bằng lái xe cấp trước 2025 sẽ được đổi lại như thế nào",
+          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2024/09/8460206_cover.jpg"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3733200/",
+          "author": "Còn nhớ lắm",
+          "description": "Sau nhiều năm mình gắn bó với các thể loại máy Android của Moto, Samsung, Xiaomi thì năm 2021 mình quyết định đổi gió qua chiếc Iphone XR này cho tới tận bây giờ. Mình không phải là người nâng cấp...",
+          "link": "https://tinhte.vn/thread/ly-do-minh-chon-mua-iphone-xr-xr-hien-tai-van-con-manh-khoe-chu.3733200/",
+          "publishedOn": "2024-09-25T00:06:40.000Z",
+          "wordCount": 102780,
+          "title": "Lý do mình chọn mua iPhone XR ? XR hiện tại vẫn còn mạnh khỏe chứ ?",
+          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2023/10/8167438_j.png"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3830875/",
+          "author": "Anh Tú.",
+          "description": "Apple vừa tung ra bản iOS 18.1 Public beta 2 cho anh em nào đang tham gia chương trình thử nghiệm. Bản cập nhật này mang đến những cải tiến mới nhất của iOS 18.1, bao gồm cả các tính năng Apple...",
+          "link": "https://tinhte.vn/thread/apple-phat-hanh-ios-18-1-public-beta-2-da-hoat-dong-on-dinh.3830875/",
+          "publishedOn": "2024-09-24T23:51:51.000Z",
+          "wordCount": 77637,
+          "title": "Apple phát hành iOS 18.1 Public Beta 2: đã hoạt động ổn định",
+          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2024/09/8462120_Generic-iOS-18-Public-Beta-Feature-Real-Mock-2.jpg"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3827145/",
+          "author": "cuhiep",
+          "description": "Nhờ vào công nghệ sấy độc đáo của mình mà Roborock có thể giảm kích thước máy giặt xuống rất nhiều so với phần còn lại của thế giới máy giặt. Tuy nhiên mình không nghĩ là Roborock lại thể hiện...",
+          "link": "https://tinhte.vn/thread/ifa24-tren-tay-may-giat-roborock-zeo-mini-giat-1kg-say-o-5kg-dep-nhu-gai-16.3827145/",
+          "publishedOn": "2024-09-24T23:41:14.000Z",
+          "wordCount": 57317,
+          "title": "IFA24: Trên tay máy giặt Roborock Zeo mini giặt 1kg sấy O,5kg đẹp như gái 16",
+          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2024/09/8462104_8451538-IFA2024-roborock-may-giat-zeo-mini-tinhte-cuhiep-08.jpg"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3830682/",
+          "author": "Anh Tú.",
+          "description": "Apple Intelligence, tính năng trí khôn mới của Apple sẽ sớm ra mắt cùng với bản cập nhật iOS 18.1 vào tháng sau. Tuy nhiên, để trải nghiệm đầy đủ những khả năng mà Apple Intelligence mang lại thì...",
+          "link": "https://tinhte.vn/thread/apple-intelligence-yeu-cau-dung-luong-bo-nho-toi-thieu-la-4gb-de-hoat-dong.3830682/",
+          "publishedOn": "2024-09-24T23:39:11.000Z",
+          "wordCount": 83656,
+          "title": "Apple Intelligence yêu cầu dung lượng bộ nhớ tối thiểu là 4GB để hoạt động",
+          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2024/09/8461449_new-design--bzrehtzdjaeq-large-2x.jpg"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3775349/",
+          "author": "nguyendoan",
+          "description": "Rìu tay, xuất hiện khoảng 1.800.000 năm TCN\n \nTrải qua khoảng thời gian hơn 1 triệu năm, từ những công cụ bằng đá thô sơ thời kỳ đầu đã được phát triển thành những công cụ có lưỡi sắc, hình dạng...",
+          "link": "https://tinhte.vn/thread/phat-minh-vi-dai-02-riu-tay.3775349/",
+          "publishedOn": "2024-09-24T23:37:26.000Z",
+          "wordCount": 31969,
+          "title": "Phát minh vĩ đại 02: rìu tay",
+          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2024/04/8300025_riu_tay.jpg"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3830382/",
+          "author": "Frozen Cat",
+          "description": "Hai phi hành gia người Nga là Oleg Kononenko và Nikolai Chub đã lập kỷ lục về thời gian lưu lại trên Trạm ISS. Họ đã tới ISS trên tàu vũ trụ Soyuz MS-24 từ hơn một năm trước và đã ở lại ISS trong...",
+          "link": "https://tinhte.vn/thread/nguoi-nga-lap-ky-luc-thoi-gian-o-lai-tram-iss-lau-nhat-my-chua-phan-doi.3830382/",
+          "publishedOn": "2024-09-24T23:25:37.000Z",
+          "wordCount": 58410,
+          "title": "Người Nga lập kỷ lục thời gian ở lại Trạm ISS lâu nhất, Mỹ chưa phản đối",
+          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2024/09/8460539_cover-hai-phi-hanh-gia-oleg-kononenko-va-nikolai-chub.jpg"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3830622/",
+          "author": "Lư Thế Nghĩa",
+          "description": "Báo cáo từ Nikkei cho biết chính phủ Mỹ đang đề xuất lệnh cấm đối với phần mềm và phần cứng của Trung Quốc và Nga cho xe có khả năng kết nối. Theo đó, những phương tiện di chuyển sử dụng bánh xe...",
+          "link": "https://tinhte.vn/thread/my-chuan-bi-cam-phan-cung-va-phan-mem-trung-quoc-cho-xe-ket-noi.3830622/",
+          "publishedOn": "2024-09-24T22:05:19.000Z",
+          "wordCount": 47072,
+          "title": "Mỹ chuẩn bị cấm phần cứng và phần mềm Trung Quốc cho xe kết nối",
+          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2024/09/8461290_cover-my-cam-phan-mem-phan-cung-trung-quoc-xe-hoi-tinhte.jpg"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3830594/",
+          "author": "cuhiep",
+          "description": "Case này của UNIQ được hoàn thiện bề mặt dạng da mịn và màu kiểu da bò nhìn đẹp, cổ điển và cảm giác rờ vào bề mặt, cầm trên tay rất là thích, sướng. Hy vọng bộ hình mình chụp chiếc ốp này cùng...",
+          "link": "https://tinhte.vn/thread/tren-tay-op-da-iphone-16-pro-max-uniq-chi-mot-tu-dep.3830594/",
+          "publishedOn": "2024-09-24T21:41:35.000Z",
+          "wordCount": 36082,
+          "title": "Trên tay ốp da iPhone 16 Pro Max UNIQ: chỉ một từ ĐẸP",
+          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2024/09/8461183_Case-da-UNIQ-iPhone-16-Pro-Max-tinhte-cuhiep-26.jpg"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3830272/",
+          "author": "P.W",
+          "description": "Ngày này tròn 135 năm về trước, 23/9/1889, nghệ nhân Fusajiro Yamauchi sáng lập tiệm Nintendo Koppai ở quận Shimogyō-ku, Kyoto, Nhật Bản. Những ngày đầu tiên, xưởng Nintendo tập trung sản xuất...",
+          "link": "https://tinhte.vn/thread/hom-nay-23-9-2024-nintendo-tron-135-tuoi.3830272/",
+          "publishedOn": "2024-09-24T20:59:44.000Z",
+          "wordCount": 113600,
+          "title": "Hôm nay 23/9/2024, Nintendo tròn 135 tuổi",
+          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2024/09/8460268_image13-922e-1648825011877.jpg"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3830585/",
+          "author": "Hassler",
+          "description": "Photos iOS18 là 1 nồi lẩu, quá khó để dùng\n\nTrên đây là 2 comment của các mod hardcore xài iOS từ trước đến giờ. Anh em thấy có đúng không?\nGiờ mình thấy xài Google Photos nó ngon hơn rồi. Và...",
+          "link": "https://tinhte.vn/thread/photos-ios18-la-1-noi-lau-qua-kho-de-dung.3830585/",
+          "publishedOn": "2024-09-24T19:04:59.000Z",
+          "wordCount": 43907,
+          "title": "Photos iOS18 là 1 nồi lẩu, quá khó để dùng",
+          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2024/09/8461104_IMG-7229.jpg"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3828004/",
+          "author": "Anh Tú.",
+          "description": "Apple có vẻ như đã vô tình để lộ thông tin về mẫu Mac mini tiếp theo của mình. Một thay đổi trong mã phần mềm của macOS 15 đã tiết lộ rằng Mac mini mới sẽ được trang bị 5 cổng USB-C, xác nhận...",
+          "link": "https://tinhte.vn/thread/mot-doan-ma-phan-mem-cho-thay-mac-mini-co-the-duoc-trang-bi-toi-5-cong-usb-c.3828004/",
+          "publishedOn": "2024-09-24T18:55:58.000Z",
+          "wordCount": 34902,
+          "title": "Một đoạn mã phần mềm cho thấy Mac Mini có thể được trang bị tới 5 cổng USB-C",
+          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2024/09/8454195_uewew.png"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3830225/",
+          "author": "P.W",
+          "description": "Hôm thứ 5 tuần trước, Liên Hợp Quốc đã có một bản báo cáo, đề xuất thành lập một cơ quan quản lý quốc tế để theo dõi và kiểm soát trí tuệ nhân tạo. Báo cáo này được cơ quan tư vấn cấp cao về vấn...",
+          "link": "https://tinhte.vn/thread/lien-hop-quoc-muon-coi-quan-ly-ai-la-van-de-cap-bach-ngang-bien-doi-khi-hau.3830225/",
+          "publishedOn": "2024-09-24T18:55:05.000Z",
+          "wordCount": 95563,
+          "title": "Liên Hợp Quốc muốn coi quản lý AI là vấn đề cấp bách ngang biến đổi khí hậu",
+          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2024/09/8460049_united-nations-logo.jpg"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3830637/",
+          "author": "Knah",
+          "description": "Đây  là mẫu tai nghe true wireless mới nhất của Nothing, tuy nhiên sở hữu thiết kế mở. Tai nghe sẽ được tích hợp ChatGPT, công nghệ AI Clear Voice, bluetooth 5.3 cùng khả năng chống bụi nước IP54....",
+          "link": "https://tinhte.vn/thread/nothing-se-som-ra-mat-nothing-ear-open.3830637/",
+          "publishedOn": "2024-09-24T18:02:34.000Z",
+          "wordCount": 35465,
+          "title": "Nothing sẽ sớm ra mắt Nothing Ear Open",
+          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2024/09/8461338_2024-09-24_13.26.05.jpg"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3826367/",
+          "author": "cuhiep",
+          "description": "Dreame mang 3 tính năng mới sẽ được trang bị cho các robot hút bụi lau nhà của hãng trong tương lai. 3 tính năng này theo mình là sẽ giúp cho robot hoàn thành nhiệm vụ làm sạch nền nhà tốt hơn....",
+          "link": "https://tinhte.vn/thread/ifa24-3-giai-phap-nang-cap-robot-hut-bui-lau-nha-cua-dreame.3826367/",
+          "publishedOn": "2024-09-24T16:57:56.000Z",
+          "wordCount": 76936,
+          "title": "IFA24: 3 giải pháp nâng cấp robot hút bụi lau nhà của Dreame",
+          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2024/09/8449473_IFA2024-Dreame-tinhte-cuhiep-6.jpg"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3830620/",
+          "author": "Pnghuy",
+          "description": "Dropbox Replay là một cách để người dùng có thể tối ưu hoá quy trình phản hồi cho những nội dung video từ những nhà sáng tạo nội dung, hoặc đối với một team làm việc. Dropbox Replay giúp giải...",
+          "link": "https://tinhte.vn/thread/dropbox-gioi-thieu-replay-tai-viet-nam-giai-phap-lam-viec-nhom-toan-dien-cho-content-creator.3830620/",
+          "publishedOn": "2024-09-24T16:13:46.000Z",
+          "wordCount": 73527,
+          "title": "Dropbox giới thiệu Replay tại Việt Nam: Giải pháp làm việc nhóm toàn diện cho content creator",
+          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2024/09/8461307_cover-Dropbox-replay.png"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3830157/",
+          "author": "ND Minh Đức",
+          "description": "Genarative AI - Gen AI là một công cụ cực kỳ mạnh mẽ mà nếu biết tận dụng, các bạn học sinh, sinh viên sẽ có thể cải thiện hiệu suất học tập, nghiên cứu rất nhiều so với một số giải pháp trước...",
+          "link": "https://tinhte.vn/thread/tong-hop-mot-so-cach-su-dung-ai-danh-cho-cac-ban-hoc-sinh-sinh-vien.3830157/",
+          "publishedOn": "2024-09-24T15:41:06.000Z",
+          "wordCount": 106844,
+          "title": "Tổng hợp một số cách sử dụng AI dành cho các bạn học sinh sinh viên",
+          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2024/09/8460810_kt1.jpg"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3830534/",
+          "author": "Pnghuy",
+          "description": "Apple mới phát hành macOS 15.1 beta 5 bên cạnh iOS 18.1 và ở bản cập nhật lần này thì có một thay đổi nho nhỏ cho những anh em nào hay sử dụng tính năng Low Power Mode trên máy tính Mac sử dụng dễ...",
+          "link": "https://tinhte.vn/thread/macos-15-1-beta-5-cho-phep-kich-hoat-che-do-low-power-mode-nhanh-hon-ngay-tai-menu-bar.3830534/",
+          "publishedOn": "2024-09-24T13:29:49.000Z",
+          "wordCount": 32368,
+          "title": "macOS 15.1 beta 5 cho phép kích hoạt chế độ Low Power Mode nhanh hơn ngay tại menu bar",
+          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2024/09/8461003_Low_Power_Mode_Screenshot_Sept_23_copy.jpg"
+        },
         {
           "id": "https://tinhte.vn/thread/3830323/",
           "author": "cuhiep",
@@ -14301,206 +14401,6 @@
           "wordCount": 86926,
           "title": "Gợi ý của chuyên gia cho việc sở hữu không gian tối giản nhưng mang dấu ấn riêng",
           "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2024/08/8430755_lg-objet-1.jpg"
-        },
-        {
-          "id": "https://tinhte.vn/thread/3821002/",
-          "author": "Lư Thế Nghĩa",
-          "description": "Cách đây 2 tháng, Bộ Ngoại giao Hoa Kỳ đã đưa DeepCool vào danh sách danh sách trừng phạt của Mỹ, đồng nghĩa với việc các sản phẩm của hãng sẽ bị cấm bán ở thị trường này. Lý do của lệnh cấm này...",
-          "link": "https://tinhte.vn/thread/lach-lenh-trung-phat-cua-my-deepcool-thay-ten-doi-ho-thanh-shakingtank.3821002/",
-          "publishedOn": "2024-08-26T10:09:03.000Z",
-          "wordCount": 55814,
-          "title": "Lách lệnh trừng phạt của Mỹ, DeepCool “thay tên đổi họ” thành ShakingTank",
-          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2024/08/8432513_cover-deepcool-shakingtank-amazon.jpg"
-        },
-        {
-          "id": "https://tinhte.vn/thread/3820922/",
-          "author": "cuhiep",
-          "description": "Lâu rồi không đi triển lãm nghe nhìn nên mình thấy cảnh này hơi lạ. Mình có nhiều bài viết kêu gọi anh em dùng Apple làm đầu phát nội dung hay là cái OS thay cho OS của TV. Tuy nhiên trong triển...",
-          "link": "https://tinhte.vn/thread/hau-het-gian-hang-o-p-h-e-deu-dung-apple-tv-4k-de-phat-noi-dung-trong-he-thong-xem-phim.3820922/",
-          "publishedOn": "2024-08-26T00:10:02.000Z",
-          "wordCount": 37874,
-          "title": "Hầu hết gian hàng ở P.H.E đều dùng Apple TV 4K để phát nội dung trong hệ thống xem phim",
-          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2024/08/8432343_Phe-show-tinhte-cuhiep-1.jpg"
-        },
-        {
-          "id": "https://tinhte.vn/thread/3820794/",
-          "author": "Pnghuy",
-          "description": "Mình từng rất thích Pixel 9 Pro, phiên bản có màn hình nhỏ nhưng lại đầy đủ công nghệ mới và xịn nhất của Google, cho đến khi mình cầm Pixel 9 Pro XL trên tay, cảm xúc của mình bị tụt ngay lập tức...",
-          "link": "https://tinhte.vn/thread/tren-tay-google-pixel-9-may-dep-hoan-thien-tot-hon-pixel-9-pro-xl-nang-cap-nhieu-ve-phan-cung.3820794/",
-          "publishedOn": "2024-08-26T00:00:06.000Z",
-          "wordCount": 78526,
-          "title": "Trên tay Google Pixel 9: máy đẹp, hoàn thiện tốt hơn Pixel 9 Pro XL, nâng cấp nhiều về phần cứng",
-          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2024/08/8432193_cover-tinhte-google-pixel-9-07.jpg"
-        },
-        {
-          "id": "https://tinhte.vn/thread/3820921/",
-          "author": "zyzy1908",
-          "description": "Honor sẽ ra mắt chiếc smartphone màn hình gập Honor Magic V3 của họ vào 5/9 sắp tới. Rất nhiều thông số đã được lộ diện và đó sẽ là chiếc smartphone AI màn hình gập mỏng nhất và nhẹ nhất với độ...",
-          "link": "https://tinhte.vn/thread/honor-quang-cao-smartphone-gap-mong-nhat-sap-ra-mat-bang-may-giat-lai-khia-samsung.3820921/",
-          "publishedOn": "2024-08-25T23:52:39.000Z",
-          "wordCount": 56965,
-          "title": "Honor quảng cáo smartphone gập mỏng nhất sắp ra mắt bằng máy giặt, lại “khịa” Samsung",
-          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2024/08/8432322_IMG-1241.jpeg"
-        },
-        {
-          "id": "https://tinhte.vn/thread/3820840/",
-          "author": "Nam Air",
-          "description": "Đầu thế kỉ 21 khi đọc sách báo chúng ta thường thấy Đức và Nhật Bản là 2 cường quốc đứng đầu thế giới về đường sắt cao tốc, còn ngày nay thì Trung Quốc đã vươn lên dẫn đầu thế giới ở lĩnh vực này....",
-          "link": "https://tinhte.vn/thread/top-10-tau-cao-toc-nhanh-nhat-the-gioi-maglev-cua-tq-460km-h.3820840/",
-          "publishedOn": "2024-08-25T23:51:52.000Z",
-          "wordCount": 67616,
-          "title": "Top 10 tàu cao tốc nhanh nhất thế giới: Maglev của TQ 460km/h",
-          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2024/08/8432102_cover.jpg"
-        },
-        {
-          "id": "https://tinhte.vn/thread/3820949/",
-          "author": "zyzy1908",
-          "description": "Một lần đến Taj Mahal - 1 trong 7 kỳ quan của thế giới đương đại, ngôi đền linh thiêng và là biểu tượng của tình yêu vĩnh hằng. Chiều mưa chợt nhớ và chia sẻ ít hình ảnh về 1 lần đến Ấn event...",
-          "link": "https://tinhte.vn/thread/mot-lan-den-taj-mahal-1-trong-7-ky-quan-cua-the-gioi-duong-dai-bieu-tuong-cua-tinh-yeu-vinh-hang.3820949/",
-          "publishedOn": "2024-08-25T23:30:04.000Z",
-          "wordCount": 53282,
-          "title": "Một lần đến Taj Mahal - 1 trong 7 kỳ quan của thế giới đương đại, biểu tượng của tình yêu vĩnh hằng",
-          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2024/08/8432374_IMG-8767.jpg"
-        },
-        {
-          "id": "https://tinhte.vn/thread/3819470/",
-          "author": "Anh Tú.",
-          "description": "Vậy là còn khoảng vài tuần nữa là sự kiện đáng chú ý nhất sẽ diễn ra với sự ra mắt của những thiết bị mới bao gồm: iPhone 16 Series, Apple Watch mới, AirPods mới. Anh em hay gọi vui với nhau là...",
-          "link": "https://tinhte.vn/thread/tong-hop-tat-ca-nhung-tin-don-ve-iphone-16-series-lai-sap-tet-nua-roi.3819470/",
-          "publishedOn": "2024-08-25T23:08:28.000Z",
-          "wordCount": 64249,
-          "title": "Tổng hợp tất cả những tin đồn về iPhone 16 Series: lại sắp \"Tết\" nữa rồi",
-          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2024/08/8431751_Cover-tong-hop-iphone_16_series-tinhte-anhtu.png"
-        },
-        {
-          "id": "https://tinhte.vn/thread/3820699/",
-          "author": "P.W",
-          "description": "Không chỉ đơn thuần sở hữu chất lượng đồ họa và độ chi tiết vật thể cực kỳ ấn tượng, Black Myth Wukong của Game Science còn ứng dụng những công nghệ xử lý hình ảnh, ánh sáng, đổ bóng và hình ảnh...",
-          "link": "https://tinhte.vn/thread/black-myth-wukong-tren-pc-cam-tay-chinh-the-nao-de-choi-muot.3820699/",
-          "publishedOn": "2024-08-25T22:16:17.000Z",
-          "wordCount": 71270,
-          "title": "Black Myth Wukong trên PC cầm tay: Chỉnh thế nào để chơi mượt?",
-          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2024/08/8431760_Tinhte-Wukong-1.jpg"
-        },
-        {
-          "id": "https://tinhte.vn/thread/3820283/",
-          "author": "ChanhHuynh",
-          "description": "1. Tình trạng xe bị lỗi CRV 2024 sx 12/2023 - phát hiện lỗi từ 3000km :\nXe thường bị giựt cục ở tốc độ 80km/h – cảm giác này kiểu như bạn đang ngồi trên 1 chiếc xe đạp đang đứng yên và có người ở...",
-          "link": "https://tinhte.vn/thread/anh-em-dang-di-honda-crv-2024-ban-l-co-loi-giong-minh-khong-loi-xuat-hien-tu-moc-3000km.3820283/",
-          "publishedOn": "2024-08-25T21:08:38.000Z",
-          "wordCount": 68604,
-          "title": "Anh em đang đi Honda Crv 2024 bản L có lỗi giống mình không, lỗi xuất hiện từ mốc 3000km",
-          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2024/08/8430480_IMG-6808.jpeg"
-        },
-        {
-          "id": "https://tinhte.vn/thread/3820172/",
-          "author": "Lư Thế Nghĩa",
-          "description": "Tại Gamescom 2024, Microsoft giới thiệu thêm 3 phiên bản máy chơi game Xbox Series X|S, hiệu năng không đổi, có màu mới và nâng cấp không gian lưu trữ. Hiện tại người dùng đã có thể đặt hàng trước...",
-          "link": "https://tinhte.vn/thread/microsoft-vat-sua-xbox-series-x-s-voi-mau-moi-them-dung-luong-luu-tru.3820172/",
-          "publishedOn": "2024-08-25T20:31:22.000Z",
-          "wordCount": 58949,
-          "title": "Microsoft “vắt sữa” Xbox Series X|S với màu mới, thêm dung lượng lưu trữ",
-          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2024/08/8430142_cover-microsoft-xbox-series-x-s-2024.jpg"
-        },
-        {
-          "id": "https://tinhte.vn/thread/3819866/",
-          "author": "thanhtung6868",
-          "description": "Xe Hybrid được hiểu rằng là những chiếc xe hoạt động dựa trên sự kết hợp của nhiều nguồn năng lượng khác nhau, chủ yếu ở thời điểm hiện tại đó là sự kết hợp của động cơ đốt trong và động cơ điện....",
-          "link": "https://tinhte.vn/thread/xe-hybrid-mild-hybrid-hay-plug-in-hybrid-la-gi-lieu-co-hap-dan-hay-chi-ton-them-tien.3819866/",
-          "publishedOn": "2024-08-25T18:48:17.000Z",
-          "wordCount": 83652,
-          "title": "Xe Hybrid, Mild Hybrid hay Plug-in Hybrid là gì, liệu có hấp dẫn hay chỉ tốn thêm tiền?",
-          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2024/08/8431564_xe-plug-in-hybrid-tinhte.jpg"
-        },
-        {
-          "id": "https://tinhte.vn/thread/3820860/",
-          "author": "HThanhLoi",
-          "description": "FiiO BT11 sử dụng chip bluetooth Qualcomm QCC5181 mới, hỗ trợ codec LDAC và các codec như aptX adaptive, aptX Lossless, aptX, aptX HD và aptX Low latency cho khả năng truyền phát nhạc không dây...",
-          "link": "https://tinhte.vn/thread/fiio-bt11-bluetooth-transmiters-5-4-ldac-ket-noi-2-thiet-bi-cung-luc-gia-59.3820860/",
-          "publishedOn": "2024-08-25T17:40:43.000Z",
-          "wordCount": 56316,
-          "title": "FiiO BT11 - bluetooth transmiters 5.4, LDAC, kết nối 2 thiết bị cùng lúc, giá $59",
-          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2024/08/8432161_FiiO-BT11-Tinhte_3.jpg"
-        },
-        {
-          "id": "https://tinhte.vn/thread/3820690/",
-          "author": "Frozen Cat",
-          "description": "Việc cố gắng cho một xe tự hành lớn bằng chiếc xe hơi hạ cánh xuống một hành tinh khác đã là một thách thức. Nhưng điều khó khăn hơn như vậy chính là làm điều đó trong khi xe tự hành treo một cách...",
-          "link": "https://tinhte.vn/thread/tau-curiosity-da-thay-doi-vinh-vien-cach-do-bo-xuong-sao-hoa-nhu-the-nao.3820690/",
-          "publishedOn": "2024-08-25T17:32:40.000Z",
-          "wordCount": 64480,
-          "title": "Tàu Curiosity đã thay đổi vĩnh viễn cách đổ bộ xuống Sao Hỏa như thế nào?",
-          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2024/08/8431720_cover-tau-curiosity-do-bo-xuong-sao-hoa-thang-8-2012.jpg"
-        },
-        {
-          "id": "https://tinhte.vn/thread/3821012/",
-          "author": "Lư Thế Nghĩa",
-          "description": "Vừa qua, ASUS giới thiệu không gian ProArt Hub với những sản phẩm chuyên dùng cho ngành đồ họa được trưng bày và trải nghiệm tại đây. ProArt Hub sẽ là nơi cung cấp các khóa học chuyên sâu trong...",
-          "link": "https://tinhte.vn/thread/asus-trung-bay-man-hinh-pa24us-pa24acrv-tai-proart-hub.3821012/",
-          "publishedOn": "2024-08-25T17:03:55.000Z",
-          "wordCount": 68426,
-          "title": "ASUS trưng bày màn hình PA24US, PA24ACRV tại ProArt Hub",
-          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2024/08/8432543_cover-asus-proart-pa24us-pa24acrv-vu249cfe-tinhte.jpg"
-        },
-        {
-          "id": "https://tinhte.vn/thread/3820908/",
-          "author": "Anh Tú.",
-          "description": "Thị trường smartphone gập đang ngày càng sôi động với sự góp mặt của nhiều thương hiệu lớn, trong đó nổi bật là Samsung với Galaxy Fold và Galaxy Z Flip. Trong khi các đối thủ cạnh tranh đã và...",
-          "link": "https://tinhte.vn/thread/ro-len-nhieu-tin-don-ve-iphone-flip-chiec-dien-thoai-gap-dang-nho-den-tu-apple.3820908/",
-          "publishedOn": "2024-08-25T16:13:50.000Z",
-          "wordCount": 51650,
-          "title": "Rộ lên nhiều tin đồn về iPhone Flip: chiếc điện thoại gập dạng nhỏ đến từ Apple",
-          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2024/08/8432275_60792-125146-iphoneflipheader-xl.jpg"
-        },
-        {
-          "id": "https://tinhte.vn/thread/3820875/",
-          "author": "Lư Thế Nghĩa",
-          "description": "Trình duyệt Microsoft Edge của mình vừa cập nhật lên phiên bản 128.0.2739.42, bổ sung vài tính năng khá hay, chủ yếu là tiết kiệm thời gian cho người dùng khi cần tìm kiếm.\n \nQuick search, quick...",
-          "link": "https://tinhte.vn/thread/microsoft-edge-phien-ban-128-0-2739-42-them-vai-tinh-nang-moi.3820875/",
-          "publishedOn": "2024-08-25T16:05:08.000Z",
-          "wordCount": 54157,
-          "title": "Microsoft Edge phiên bản 128.0.2739.42 thêm vài tính năng mới",
-          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2024/08/8432216_cover-microsoft-edge-128-0-2739-42.jpg"
-        },
-        {
-          "id": "https://tinhte.vn/thread/3819846/",
-          "author": "Pnghuy",
-          "description": "Start11 v2, phần mềm cho phép bạn tuỳ biến Start menu và và taskbar trên Windows vô cùng mạnh mẽ trước đây đã chính thức ra mắt phiên bản native dành cho Windows on ARM, đảm bảo hiệu suất một cách...",
-          "link": "https://tinhte.vn/thread/start11-ung-dung-tuy-bien-start-menu-da-co-phien-ban-native-cho-windows-on-arm.3819846/",
-          "publishedOn": "2024-08-25T15:33:33.000Z",
-          "wordCount": 74594,
-          "title": "Start11, ứng dụng tuỳ biến Start menu đã có phiên bản native cho Windows on ARM",
-          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2024/08/8429303_cover-start11-v2-native-Windows-on-arm.png"
-        },
-        {
-          "id": "https://tinhte.vn/thread/3820581/",
-          "author": "Khắc Tên",
-          "description": "Đã đến thời điểm trở lại trường sau những chuỗi ngày nghỉ hè của các bé học sinh, sinh viên. Và mừng ngày lễ Quốc Khánh 2/9, Khắc Tên gửi đến anh em voucher giảm 200.000đ, chương trình như sau:...",
-          "link": "https://tinhte.vn/thread/qc-back-to-school-mung-le-quoc-khanh-2-9.3820581/",
-          "publishedOn": "2024-08-25T15:24:43.000Z",
-          "wordCount": 66611,
-          "title": "[QC] Back To School - Mừng Lễ Quốc Khánh 2/9",
-          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2024/08/8431332_Tui_phu_kien.jpg"
-        },
-        {
-          "id": "https://tinhte.vn/thread/3820847/",
-          "author": "Nam Air",
-          "description": "Một cuộc họp ngày 24/8/2024 của NASA đã ra thông báo chính thức rằng phải tới đầu năm 2025 thì SpaceX mới có thể phóng phi thuyền lên ISS để rước 2 phi hành gia đang kẹt trên đó, sau vụ họ bay lên...",
-          "link": "https://tinhte.vn/thread/t2-2025-spacex-moi-ruoc-2-phi-hanh-gia-ket-tren-iss-vi-loi-tau-starliner-ve-duoc.3820847/",
-          "publishedOn": "2024-08-25T13:21:04.000Z",
-          "wordCount": 64289,
-          "title": "T2/2025 SpaceX mới rước 2 phi hành gia kẹt trên ISS vì lỗi tàu Starliner về được",
-          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2024/08/8432139_cover.jpg"
-        },
-        {
-          "id": "https://tinhte.vn/thread/3820271/",
-          "author": "Trần Hoàng Long.",
-          "description": "OpenFit Air là tai nghe mở mới nhất của Shokz, một phiên bản thời trang hơn, nhiều tính năng và giá rẻ hơn dòng OpenFit. OpenFit Air có thiết kế nhẹ nhàng, nhiều màu sắc và chất âm thì thua...",
-          "link": "https://tinhte.vn/thread/tren-tay-shokz-openfit-air-tai-nghe-mo-co-thiet-ke-dep-deo-thoai-mai-am-thanh-kha.3820271/",
-          "publishedOn": "2024-08-25T12:20:03.000Z",
-          "wordCount": 49633,
-          "title": "Trên tay Shokz OpenFit Air: Tai nghe mở có thiết kế đẹp, đeo thoải mái, âm thanh khá",
-          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2024/08/8430623_tren-tay-shokz-open-fit-air-2.jpg"
         }
       ]
     },
@@ -14509,6 +14409,16 @@
       "feedUrl": "https://css-tricks.com/feed/",
       "siteUrl": "https://css-tricks.com",
       "articles": [
+        {
+          "id": "https://css-tricks.com/?p=381068",
+          "author": "Geoff Graham",
+          "description": "Mixing colors in CSS is pretty much a solved deal, thanks to the more recent color-mix() function as it gains support. Pass in two color values — any two color values at all — and optionally set the proportions.\nbackground-color: \n…\nColor Mixing With Animation Composition originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/color-mixing-with-animation-composition/",
+          "publishedOn": "2024-09-24T18:22:01.000Z",
+          "wordCount": 1866,
+          "title": "Color Mixing With Animation Composition",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/381068"
+        },
         {
           "id": "https://css-tricks.com/?p=381134",
           "author": "Geoff Graham",
@@ -15013,6 +14923,36 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-work-with-sql-databases-in-go/",
+          "author": "Alex Pliutau",
+          "description": "Different programming languages have their own ways of working with relational databases and SQL. Ruby on Rails has its Active Record, Python has SQLAlchemy, Typescript has Drizzle, and so on. Go is a language with quite a diverse standard library, w...",
+          "link": "https://www.freecodecamp.org/news/how-to-work-with-sql-databases-in-go/",
+          "publishedOn": "2024-09-24T16:24:22.000Z",
+          "wordCount": 2927,
+          "title": "How to Work with SQL Databases in Go – Different Approaches and Examples",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1727195039014/02f3c2f4-1eb7-4fd6-9701-15fdee2f6849.jpeg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/learn-cuda-programming/",
+          "author": "Beau Carnes",
+          "description": "CUDA (Compute Unified Device Architecture) is a parallel computing platform and application programming interface (API) model created by NVIDIA. It allows developers to use a CUDA-enabled graphics processing unit (GPU) for general-purpose processing,...",
+          "link": "https://www.freecodecamp.org/news/learn-cuda-programming/",
+          "publishedOn": "2024-09-24T15:08:44.000Z",
+          "wordCount": 1290,
+          "title": "Learn CUDA Programming",
+          "imageUrl": "https://cdn.freecodecamp.org/platform/universal/fcc_meta_1920X1080-indigo.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/create-react-reusable-modal-component/",
+          "author": "Grant Riordan",
+          "description": "When using React, we strive to create reusable components as much as we can to limit the number of components and repetition. This keeps your code “DRY”. DRY is a concept you may have come across—it means “Don’t Repeat Yourself”. DRY is a coding prin...",
+          "link": "https://www.freecodecamp.org/news/create-react-reusable-modal-component/",
+          "publishedOn": "2024-09-24T13:17:14.000Z",
+          "wordCount": 2622,
+          "title": "How to Create a Reusable Modal Component in React",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1727021808508/312a7af2-5049-4093-9f58-5ef277986598.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/boost-web-performance-with-prefetching/",
           "author": "Keyur Paralkar",

@@ -2,10 +2,100 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://duyet.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-24T18:59:47.113Z</updated>
+    <updated>2024-10-25T00:12:02.467Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://duyet.github.io/rss/index.html"/>
     <link rel="self" href="https://duyet.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Why Safety Profiles Failed]]></title>
+        <id>https://www.circle-lang.org/draft-profiles.html</id>
+        <link href="https://www.circle-lang.org/draft-profiles.html"/>
+        <updated>2024-10-24T21:26:09.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Working with Igalia to Improve RISC-V LLVM Continuous Integration]]></title>
+        <id>https://riseproject.dev/2024/10/15/working-with-igalia-to-improve-risc-v-llvm-continuous-integration/</id>
+        <link href="https://riseproject.dev/2024/10/15/working-with-igalia-to-improve-risc-v-llvm-continuous-integration/"/>
+        <updated>2024-10-24T21:20:45.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Viva Labs (YC W22) is hiring a video/image AI research lead]]></title>
+        <id>https://www.ycombinator.com/companies/viva-labs/jobs/RwBJyRn-video-image-ai-research-lead</id>
+        <link href="https://www.ycombinator.com/companies/viva-labs/jobs/RwBJyRn-video-image-ai-research-lead"/>
+        <updated>2024-10-24T21:00:46.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: TypeSchema – A JSON specification to describe data models]]></title>
+        <id>https://typeschema.org/</id>
+        <link href="https://typeschema.org/"/>
+        <updated>2024-10-24T19:46:58.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Desktop Sandbox for Secure Cloud Computer Use]]></title>
+        <id>https://github.com/e2b-dev/desktop</id>
+        <link href="https://github.com/e2b-dev/desktop"/>
+        <updated>2024-10-24T19:31:12.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Brush – A new compatible Gaussian splatting engine]]></title>
+        <id>https://github.com/ArthurBrussee/brush</id>
+        <link href="https://github.com/ArthurBrussee/brush"/>
+        <updated>2024-10-24T19:24:36.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Israel launched a dozen attacks on UN troops in Lebanon, says leaked report]]></title>
+        <id>https://www.ft.com/content/151eb482-6415-48a8-bf3f-baed00018c4e</id>
+        <link href="https://www.ft.com/content/151eb482-6415-48a8-bf3f-baed00018c4e"/>
+        <updated>2024-10-24T19:23:46.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lingo: A Go micro language framework for building Domain Specific Languages]]></title>
+        <id>https://about.gitlab.com/blog/2022/05/26/a-go-micro-language-framework-for-building-dsls/</id>
+        <link href="https://about.gitlab.com/blog/2022/05/26/a-go-micro-language-framework-for-building-dsls/"/>
+        <updated>2024-10-24T19:23:38.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Quantized Llama models with increased speed and a reduced memory footprint]]></title>
+        <id>https://ai.meta.com/blog/meta-llama-quantized-lightweight-models/?_fb_noscript=1</id>
+        <link href="https://ai.meta.com/blog/meta-llama-quantized-lightweight-models/?_fb_noscript=1"/>
+        <updated>2024-10-24T18:52:44.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Số đăng ký bản quyền bán dẫn Trung Quốc tăng đột biến sau các lệnh cấm vận của Mỹ]]></title>
         <id>https://tinhte.vn/thread/3843101/</id>
@@ -48,6 +138,16 @@ Tạo hình người nằm dưới mặt đất vẫn chưa giống thật. Dù.
         <summary type="html"><![CDATA[Ngày 23/10, Bộ Công Thương Việt Nam tổ chức họp báo thường kỳ quý 3, cung cấp thông tin liên quan đến dự án Luật Điện lực (sửa đổi). Bộ Công Thương khẳng định với sự phát triển của năng lượng tái...]]></summary>
         <author>
             <name>Nam Air</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BYD EV teardown in Japan reveals secrets to its affordability]]></title>
+        <id>https://insideevs.com/news/738606/byd-ev-teardown-impresses-japan/</id>
+        <link href="https://insideevs.com/news/738606/byd-ev-teardown-impresses-japan/"/>
+        <updated>2024-10-24T18:31:38.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
         </author>
     </entry>
     <entry>
@@ -142,6 +242,16 @@ Về tổng thể, POP Icon Keys có kiểu...]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[How to Implement Fine-Grained Authorization in Java and SpringBoot]]></title>
+        <id>671a85db0db570158155ec00</id>
+        <link href="https://www.freecodecamp.org/news/fine-grained-authorization-in-java-and-springboot/"/>
+        <updated>2024-10-24T17:37:31.000Z</updated>
+        <summary type="html"><![CDATA[Securing your application goes beyond simply granting or denying access at the surface level. As a developer, you need to implement fine-grained authorization (FGA) to manage permissions at a more detailed, granular level. FGA allows you to set up de...]]></summary>
+        <author>
+            <name>Ankur Tyagi</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Cable companies ask 5th Circuit to block FTC's click-to-cancel rule]]></title>
         <id>https://arstechnica.com/tech-policy/2024/10/cable-companies-ask-5th-circuit-to-block-ftcs-click-to-cancel-rule/</id>
         <link href="https://arstechnica.com/tech-policy/2024/10/cable-companies-ask-5th-circuit-to-block-ftcs-click-to-cancel-rule/"/>
@@ -219,6 +329,16 @@ Về tổng thể, POP Icon Keys có kiểu...]]></summary>
         <summary type="html"><![CDATA[Mặc dù Tensor G4 bên trong Pixel 9 series vừa ra mắt cách đây không lâu, nhưng thông tin về thế hệ SoC kế tiếp của Google đã bắt đầu xuất hiện, lần này liên quan đến việc sử dụng quy trình sản...]]></summary>
         <author>
             <name>Pnghuy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Lion of St. Mark's Square in Venice Is Chinese]]></title>
+        <id>https://archaeologymag.com/2024/09/lion-of-st-marks-square-in-venice-is-chinese/</id>
+        <link href="https://archaeologymag.com/2024/09/lion-of-st-marks-square-in-venice-is-chinese/"/>
+        <updated>2024-10-24T17:08:43.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
         </author>
     </entry>
     <entry>
@@ -499,6 +619,16 @@ You can use text-wrap: balance; on icons originally published on CSS-Tricks, whi
         <id>https://play2048.co/</id>
         <link href="https://play2048.co/"/>
         <updated>2024-10-24T12:15:27.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LibLISA – Instruction Discovery and Analysis on x86-64]]></title>
+        <id>https://liblisa.nl/</id>
+        <link href="https://liblisa.nl/"/>
+        <updated>2024-10-24T07:35:56.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -933,6 +1063,16 @@ Thấy quảng cáo miếng dán bên Khắc Tên nhiều rồi nhân dịp này
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Self-Documenting Code]]></title>
+        <id>https://lackofimagination.org/2024/10/self-documenting-code/</id>
+        <link href="https://lackofimagination.org/2024/10/self-documenting-code/"/>
+        <updated>2024-10-23T13:33:49.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Clarifying the Relationship Between Popovers and Dialogs]]></title>
         <id>https://css-tricks.com/?p=382008</id>
         <link href="https://css-tricks.com/clarifying-the-relationship-between-popovers-and-dialogs/"/>
@@ -1033,6 +1173,16 @@ Clamp it! VS Code extension originally published on CSS-Tricks, which is part of
         <summary type="html"><![CDATA[Ngày 21/10, Tập đoàn VNPT và Đài Truyền hình thành phố Hồ Chí Minh (HTV) ký kết hợp tác về chuyển đổi số giai đoạn 2024-2030. Hợp tác này mang nhiều ý nghĩa quan trọng, không chỉ lợi ích của hai...]]></summary>
         <author>
             <name>TTKM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Anvil Text Editor]]></title>
+        <id>http://anvil-editor.net/</id>
+        <link href="http://anvil-editor.net/"/>
+        <updated>2024-10-23T08:29:41.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
         </author>
     </entry>
     <entry>
@@ -1643,6 +1793,16 @@ Clamp it! VS Code extension originally published on CSS-Tricks, which is part of
         <summary type="html"><![CDATA[If you’re considering building an application powered by a Large Language Model, you may wonder which tool to use. Well, two well-established frameworks—LangChain and LlamaIndex—have gained significant attention for their unique features and capabili...]]></summary>
         <author>
             <name>Bhavishya Pandit</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: The Best Free Online Teleprompter?]]></title>
+        <id>https://iphoneteleprompter.com/</id>
+        <link href="https://iphoneteleprompter.com/"/>
+        <updated>2024-10-21T13:52:06.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
         </author>
     </entry>
     <entry>
@@ -15158,116 +15318,6 @@ How to Make a “Scroll to Select” Form Control originally published on CSS-
         <id>https://www.jonashietala.se/blog/2024/09/25/why_i_still_blog_after_15_years/</id>
         <link href="https://www.jonashietala.se/blog/2024/09/25/why_i_still_blog_after_15_years/"/>
         <updated>2024-09-25T12:19:29.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bộ nguồn Seasonic Prime PX-2200 hỗ trợ tới 4 card RTX 4090]]></title>
-        <id>https://tinhte.vn/thread/3830592/</id>
-        <link href="https://tinhte.vn/thread/bo-nguon-seasonic-prime-px-2200-ho-tro-toi-4-card-rtx-4090.3830592/"/>
-        <updated>2024-09-25T12:08:18.000Z</updated>
-        <summary type="html"><![CDATA[Bộ nguồn Prime PX-2200 siêu cao cấp và công suất lớn của Seasonic được thiết kế để đủ khả năng “kéo” nguyên dàn máy với 4 card đồ họa “xịn” nhất hiện tại - NVIDIA GeForce RTX 4090. Tương thích...]]></summary>
-        <author>
-            <name>Lư Thế Nghĩa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Who is Marcellus Williams: Execution in Missouri despite evidence of innocence]]></title>
-        <id>https://innocenceproject.org/who-is-marcellus-williams-man-facing-execution-in-missouri-despite-dna-evidence-supporting-innocence/</id>
-        <link href="https://innocenceproject.org/who-is-marcellus-williams-man-facing-execution-in-missouri-despite-dna-evidence-supporting-innocence/"/>
-        <updated>2024-09-25T12:05:18.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Scheduling threads like Thomas Jefferson]]></title>
-        <id>https://stevana.github.io/scheduling_threads_like_thomas_jefferson.html</id>
-        <link href="https://stevana.github.io/scheduling_threads_like_thomas_jefferson.html"/>
-        <updated>2024-09-25T11:22:17.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CEO của OpenAI, Sam Altman cho rằng siêu trí tuệ nhân tạo sẽ đến trong thập kỉ tới]]></title>
-        <id>https://tinhte.vn/thread/3830889/</id>
-        <link href="https://tinhte.vn/thread/ceo-cua-openai-sam-altman-cho-rang-sieu-tri-tue-nhan-tao-se-den-trong-thap-ki-toi.3830889/"/>
-        <updated>2024-09-25T10:50:00.000Z</updated>
-        <summary type="html"><![CDATA[Sam Altman, CEO của OpenAI, trong một bài blog với tiêu đề “The Intelligence Age” đã chia sẻ tầm nhìn của mình về sự xuất hiện của siêu trí tuệ nhân tạo (super-intelligence) trong thập kỷ tới....]]></summary>
-        <author>
-            <name>nhatminhngo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JabRef – Literature Management]]></title>
-        <id>https://www.jabref.org/</id>
-        <link href="https://www.jabref.org/"/>
-        <updated>2024-09-25T10:35:38.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Brief History of Microprogramming (2022)]]></title>
-        <id>https://people.computing.clemson.edu/~mark/uprog.html</id>
-        <link href="https://people.computing.clemson.edu/~mark/uprog.html"/>
-        <updated>2024-09-25T09:54:50.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use Streams and Services for Flutter State]]></title>
-        <id>https://www.freecodecamp.org/news/flutter-streams-and-services/</id>
-        <link href="https://www.freecodecamp.org/news/flutter-streams-and-services/"/>
-        <updated>2024-09-25T09:49:36.000Z</updated>
-        <summary type="html"><![CDATA[Among the many state management architectures in Flutter, combining Dart streams with singleton classes (services) is an unpopular yet easy architecture. In this article, we’ll explore how to achieve this combination for app-wide state in Flutter. Ta...]]></summary>
-        <author>
-            <name>Obum</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sony hợp tác cùng LE SSERAFIM, ra mắt WH-1000XM5 và WF-1000XM5 màu smoky pink]]></title>
-        <id>https://tinhte.vn/thread/3830573/</id>
-        <link href="https://tinhte.vn/thread/sony-hop-tac-cung-le-sserafim-ra-mat-wh-1000xm5-va-wf-1000xm5-mau-smoky-pink.3830573/"/>
-        <updated>2024-09-25T09:44:38.000Z</updated>
-        <summary type="html"><![CDATA[Sony tiếp tục làm mới dòng tai nghe 1000XM5 với phiên bản màu hồng khói, mang đến thêm lựa chọn màu mới cho người dùng. Về mặt kỹ thuật, phiên bản mới không có thay đổi so với các phiên bản trước...]]></summary>
-        <author>
-            <name>HThanhLoi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rearchitecting: Redis to SQLite]]></title>
-        <id>https://wafris.org/blog/rearchitecting-for-sqlite</id>
-        <link href="https://wafris.org/blog/rearchitecting-for-sqlite"/>
-        <updated>2024-09-25T08:37:48.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I have 2000 old VHS tapes in my garage and I don't know what to do with them]]></title>
-        <id>https://takes.jamesomalley.co.uk/p/my-vhs-nightmare</id>
-        <link href="https://takes.jamesomalley.co.uk/p/my-vhs-nightmare"/>
-        <updated>2024-09-25T08:19:36.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dethrace: Reverse engineering the 1997 game "Carmageddon" (2023)]]></title>
-        <id>https://github.com/dethrace-labs/dethrace</id>
-        <link href="https://github.com/dethrace-labs/dethrace"/>
-        <updated>2024-09-25T07:38:53.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>

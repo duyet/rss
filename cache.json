@@ -6,6 +6,156 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
+          "id": "https://getklippy.com/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://getklippy.com/",
+          "publishedOn": "2025-02-08T22:00:21.000Z",
+          "wordCount": 7355,
+          "title": "Show HN: Turn Screenshots into Designs Instantly",
+          "imageUrl": "https://getklippy.com/assets/images/share.jpg?v=915cd26d"
+        },
+        {
+          "id": "https://datagubbe.se/endofciv/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://datagubbe.se/endofciv/",
+          "publishedOn": "2025-02-08T21:49:51.000Z",
+          "wordCount": 6110,
+          "title": "Is Software Abstraction Killing Civilization? (2021)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://jacksonpollock.org/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://jacksonpollock.org/",
+          "publishedOn": "2025-02-08T21:22:49.000Z",
+          "wordCount": 6,
+          "title": "Jacksonpollock.org",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.keelinglabs.com/jobs",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.keelinglabs.com/jobs",
+          "publishedOn": "2025-02-08T21:01:10.000Z",
+          "wordCount": 1467,
+          "title": "Keeling Labs (YC W23) Is Hiring an ML Engineer for Applied ML in the Grid",
+          "imageUrl": "http://static1.squarespace.com/static/636ab376548a7e6815075e62/t/6789b00b83c3b748556c5e4f/1737076756958/space_hiring_image.png?format=1500w"
+        },
+        {
+          "id": "https://www.adacore.com/gems",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.adacore.com/gems",
+          "publishedOn": "2025-02-08T20:58:17.000Z",
+          "wordCount": 2050,
+          "title": "Ada Gems (2014)",
+          "imageUrl": "https://www.adacore.com/uploads/page_content/_1200x630_crop_center-center_82_none/AdaCore-Build-Software-that-Matters.jpg?mtime=1615317087"
+        },
+        {
+          "id": "https://johnkerl.org/doc/ortho/ortho.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://johnkerl.org/doc/ortho/ortho.html",
+          "publishedOn": "2025-02-08T19:20:10.000Z",
+          "wordCount": 983,
+          "title": "Tips for mathematical handwriting (2007)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://git.sr.ht/~egtann/txtar/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://git.sr.ht/~egtann/txtar/",
+          "publishedOn": "2025-02-08T18:24:39.000Z",
+          "wordCount": 485,
+          "title": "Show HN: Chez Scheme txtar port from Go",
+          "imageUrl": null
+        },
+        {
+          "id": "https://scorpiosoftware.net/2025/02/08/writing-a-simple-driver-in-rust/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://scorpiosoftware.net/2025/02/08/writing-a-simple-driver-in-rust/",
+          "publishedOn": "2025-02-08T17:25:03.000Z",
+          "wordCount": 5831,
+          "title": "Writing a Simple Windows Driver in Rust",
+          "imageUrl": "https://scorpiosoftware.net/wp-content/uploads/2025/02/image.png"
+        },
+        {
+          "id": "https://github.com/wojciech-kulik/FlashSpace",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/wojciech-kulik/FlashSpace",
+          "publishedOn": "2025-02-08T17:19:23.000Z",
+          "wordCount": 5256,
+          "title": "Show HN: FlashSpace – fast, open-source, macOS Spaces replacement",
+          "imageUrl": "https://opengraph.githubassets.com/72f863598306c82d86d97640b3c928a3a6a71f2d55b4b7129d230705e9cc0300/wojciech-kulik/FlashSpace"
+        },
+        {
+          "id": "https://herecomesthemoon.net/2025/02/carbon-is-not-a-language/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://herecomesthemoon.net/2025/02/carbon-is-not-a-language/",
+          "publishedOn": "2025-02-08T15:51:06.000Z",
+          "wordCount": 5267,
+          "title": "Carbon is not a programming language (sort of)",
+          "imageUrl": "https://herecomesthemoon.net/2025/02/carbon-is-not-a-language/images/dithers/carbon-rat_dithered.png"
+        },
+        {
+          "id": "https://github.com/xajik/thedeck",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/xajik/thedeck",
+          "publishedOn": "2025-02-08T15:47:36.000Z",
+          "wordCount": 3184,
+          "title": "The Deck: An open-source cross-platform multiplayer card game engine in Flutter",
+          "imageUrl": "https://opengraph.githubassets.com/dbf36506c73dd4141426ab174cbcc62f8317b81f85565c1db088134ad8acbb9c/xajik/thedeck"
+        },
+        {
+          "id": "https://antirez.com/news/145",
+          "author": null,
+          "description": "Comments",
+          "link": "https://antirez.com/news/145",
+          "publishedOn": "2025-02-08T14:48:25.000Z",
+          "wordCount": 426,
+          "title": "We are destroying software",
+          "imageUrl": null
+        },
+        {
+          "id": "https://video.fosdem.org/2025/h1302/fosdem-2025-6479-a-tale-of-several-distros-joining-forces-for-a-common-goal-reproducible-builds.av1.webm",
+          "author": null,
+          "description": "Comments",
+          "link": "https://video.fosdem.org/2025/h1302/fosdem-2025-6479-a-tale-of-several-distros-joining-forces-for-a-common-goal-reproducible-builds.av1.webm",
+          "publishedOn": "2025-02-08T11:38:33.000Z",
+          "wordCount": null,
+          "title": "A tale of several distros joining forces for a common goal: reproducible builds",
+          "imageUrl": null
+        },
+        {
+          "id": "https://redpenguin101.github.io/html/posts/2025_01_21_voronoi.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://redpenguin101.github.io/html/posts/2025_01_21_voronoi.html",
+          "publishedOn": "2025-02-08T10:41:17.000Z",
+          "wordCount": 6919,
+          "title": "Generating Voronoi Diagrams Using Fortune's Algorithm (With Odin)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://fly.io/blog/vscode-ssh-wtf/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://fly.io/blog/vscode-ssh-wtf/",
+          "publishedOn": "2025-02-08T01:25:32.000Z",
+          "wordCount": 826,
+          "title": "VSCode’s SSH agent is bananas",
+          "imageUrl": "https://fly.io/static/images/fly-social-square.webp"
+        },
+        {
           "id": "https://huggingface.co/papers/2502.02649",
           "author": null,
           "description": "Comments",
@@ -14,6 +164,16 @@
           "wordCount": 2121,
           "title": "Autonomous AI Agents Should Not Be Developed",
           "imageUrl": "https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2502.02649/gradient.png"
+        },
+        {
+          "id": "https://amanvir.com/obscure-islands",
+          "author": null,
+          "description": "Comments",
+          "link": "https://amanvir.com/obscure-islands",
+          "publishedOn": "2025-02-07T22:23:31.000Z",
+          "wordCount": 198,
+          "title": "Obscure islands I find interesting",
+          "imageUrl": null
         },
         {
           "id": "https://tomlovesthelibertybell.com/portlands-exploding-liberty-bell/",
@@ -56,6 +216,16 @@
           "imageUrl": "https://repository-images.githubusercontent.com/682684464/3374c179-981c-4f73-9e18-2e163212e5a1"
         },
         {
+          "id": "https://blog.danslimmon.com/2019/07/15/do-nothing-scripting-the-key-to-gradual-automation/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://blog.danslimmon.com/2019/07/15/do-nothing-scripting-the-key-to-gradual-automation/",
+          "publishedOn": "2025-02-07T19:48:16.000Z",
+          "wordCount": 5063,
+          "title": "Do-nothing scripting: the key to gradual automation (2019)",
+          "imageUrl": "https://blog.danslimmon.com/wp-content/uploads/2024/03/cropped-d2e_pip_transparent.png?w=200"
+        },
+        {
           "id": "https://theretowhere.com/",
           "author": null,
           "description": "Comments",
@@ -63,6 +233,16 @@
           "publishedOn": "2025-02-07T18:23:40.000Z",
           "wordCount": 11,
           "title": "Show HN: A website that heatmaps your city based on your housing preferences",
+          "imageUrl": null
+        },
+        {
+          "id": "https://kevin.burke.dev/kevin/norcal-cities-new-utility/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://kevin.burke.dev/kevin/norcal-cities-new-utility/",
+          "publishedOn": "2025-02-07T17:55:40.000Z",
+          "wordCount": 2565,
+          "title": "Cities can cost effectively start their own utilities",
           "imageUrl": null
         },
         {
@@ -213,6 +393,16 @@
           "publishedOn": "2025-02-07T07:11:36.000Z",
           "wordCount": null,
           "title": "Donald Knuth's 2024 Christmas Lecture: Strong and Weak Components [video]",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.muppetlabs.com/~breadbox/software/tiny/teensy.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.muppetlabs.com/~breadbox/software/tiny/teensy.html",
+          "publishedOn": "2025-02-07T04:16:49.000Z",
+          "wordCount": 5750,
+          "title": "A whirlwind tutorial on creating teensy ELF executables for Linux (1999)",
           "imageUrl": null
         },
         {
@@ -376,6 +566,16 @@
           "imageUrl": "https://spectrum.ieee.org/media-library/ends-of-batteries-neatly-stacked-together-with-one-battery-sticking-out.jpg?id=56186170&width=1200&height=600&coordinates=0%2C658%2C0%2C658"
         },
         {
+          "id": "https://origamee.net/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://origamee.net/",
+          "publishedOn": "2025-02-06T09:34:18.000Z",
+          "wordCount": 206,
+          "title": "Origami by Meenakshi",
+          "imageUrl": null
+        },
+        {
           "id": "https://gladdendesign.com/collections/paper-apps",
           "author": null,
           "description": "Comments",
@@ -384,6 +584,16 @@
           "wordCount": 2161,
           "title": "Paper Apps",
           "imageUrl": "http://gladdendesign.com/cdn/shop/collections/IMG_7428.jpg?v=1733973949"
+        },
+        {
+          "id": "https://github.com/mierau/hotline",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/mierau/hotline",
+          "publishedOn": "2025-02-06T07:01:26.000Z",
+          "wordCount": 2472,
+          "title": "Hotline for modern Apple systems",
+          "imageUrl": "https://opengraph.githubassets.com/dc028ab8ae73f6cca4c57790633e81547232700655c2338008deadd3d3d52dba/mierau/hotline"
         },
         {
           "id": "https://github.com/heap-exploitation/heap-explorer",
@@ -404,6 +614,36 @@
           "wordCount": 12380,
           "title": "Programming SDF animations of Rick and Morty",
           "imageUrl": "https://danielchasehooper.com/images/rick-banner.jpg"
+        },
+        {
+          "id": "https://brooker.co.za/blog/2025/02/04/versioning.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://brooker.co.za/blog/2025/02/04/versioning.html",
+          "publishedOn": "2025-02-06T03:10:56.000Z",
+          "wordCount": 1824,
+          "title": "Versioning versus Coordination",
+          "imageUrl": null
+        },
+        {
+          "id": "https://fullystacked.net/how-to-gif-2025/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://fullystacked.net/how-to-gif-2025/",
+          "publishedOn": "2025-02-06T01:23:48.000Z",
+          "wordCount": 1230,
+          "title": "How to GIF (2025 Edition)",
+          "imageUrl": "https://fullystacked.net/howtogif.png"
+        },
+        {
+          "id": "https://blog.danielh.cc/blog/puzzle",
+          "author": null,
+          "description": "Comments",
+          "link": "https://blog.danielh.cc/blog/puzzle",
+          "publishedOn": "2025-02-06T00:26:32.000Z",
+          "wordCount": 2411,
+          "title": "From hours to 360ms: over-engineering a puzzle solution",
+          "imageUrl": null
         },
         {
           "id": "https://github.com/PulseBeamDev/pulsebeam-js",
@@ -506,6 +746,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.bbc.co.uk/news/articles/c5yvrq7dyg6o",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.bbc.co.uk/news/articles/c5yvrq7dyg6o",
+          "publishedOn": "2025-02-05T17:12:50.000Z",
+          "wordCount": 6326,
+          "title": "First glimpse inside burnt scroll after 2k years",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4050/live/7d3fdd80-e324-11ef-a819-277e390a7a08.jpg"
+        },
+        {
           "id": "https://www.ycombinator.com/companies/ploomber/jobs",
           "author": null,
           "description": "Comments",
@@ -514,6 +764,16 @@
           "wordCount": 394,
           "title": "Ploomber (YC W22) Is Hiring Engineers (Infra, Backend, Growth) and Ex-Founders",
           "imageUrl": "https://bookface-images.s3.amazonaws.com/logos/a80c6b2e447bdd5f64d0d57fec5b827b2540c887.png?1701886253"
+        },
+        {
+          "id": "https://chiraaggohel.com/posts/llms-eda/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://chiraaggohel.com/posts/llms-eda/",
+          "publishedOn": "2025-02-05T16:33:55.000Z",
+          "wordCount": 4388,
+          "title": "Are LLMs able to notice the “gorilla in the data”?",
+          "imageUrl": null
         },
         {
           "id": "https://tradingeconomics.com/commodity/eggs-us",
@@ -544,6 +804,16 @@
           "wordCount": 2006,
           "title": "Gemini 2.0 is now available to everyone",
           "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini_28.01.25_keyword_social.width-1300.png"
+        },
+        {
+          "id": "https://surfingcomplexity.blog/2025/02/01/youre-missing-your-near-misses/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://surfingcomplexity.blog/2025/02/01/youre-missing-your-near-misses/",
+          "publishedOn": "2025-02-05T15:45:30.000Z",
+          "wordCount": 4336,
+          "title": "You're missing your near misses",
+          "imageUrl": "https://surfingcomplexity.blog/wp-content/uploads/2020/05/surfer_1f3c4.png?w=120"
         },
         {
           "id": "https://www.argmin.net/p/prediction-games",
@@ -686,6 +956,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://cacm.acm.org/blogcacm/21st-century-c/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://cacm.acm.org/blogcacm/21st-century-c/",
+          "publishedOn": "2025-02-05T09:55:11.000Z",
+          "wordCount": 8229,
+          "title": "21st Century C++ (Feb. 2025) by Bjarne Stroustrup",
+          "imageUrl": null
+        },
+        {
           "id": "https://chriskiehl.com/article/thoughts-after-10-years",
           "author": null,
           "description": "Comments",
@@ -694,6 +974,16 @@
           "wordCount": 502,
           "title": "Software development topics I've changed my mind on",
           "imageUrl": null
+        },
+        {
+          "id": "https://frame.work/gb/en/blog/risc-v-mainboard-for-framework-laptop-13-is-now-available",
+          "author": null,
+          "description": "Comments",
+          "link": "https://frame.work/gb/en/blog/risc-v-mainboard-for-framework-laptop-13-is-now-available",
+          "publishedOn": "2025-02-05T09:43:48.000Z",
+          "wordCount": 728,
+          "title": "RISC-V Mainboard for Framework Laptop 13 is now available",
+          "imageUrl": "https://images.prismic.io/frameworkmarketplace/Z6JOdJbqstJ9-ONg_20250115BlogPost-RISC-VMainboardforFrameworkLaptop13isnowavailable.png?auto=format,compress"
         },
         {
           "id": "https://soranews24.com/2024/12/21/station-of-despair-what-to-do-if-you-get-stuck-at-the-end-of-tokyos-chuo-rapid-line/",
@@ -734,6 +1024,16 @@
           "wordCount": 2334,
           "title": "GNU Make Standard Library",
           "imageUrl": null
+        },
+        {
+          "id": "https://www.guernicamag.com/inventing-the-commons-on-alternative-technologies/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.guernicamag.com/inventing-the-commons-on-alternative-technologies/",
+          "publishedOn": "2025-02-05T07:11:41.000Z",
+          "wordCount": 3892,
+          "title": "Inventing the Commons: On Alternative Technologies",
+          "imageUrl": "https://www.guernicamag.com/wp-content/uploads/2025/01/milpa-1200x900.jpg"
         },
         {
           "id": "https://kagi.com/changelog#6155",
@@ -8024,296 +8324,6 @@
           "wordCount": 11858,
           "title": "Who Can Understand the Proof? A Window on Formalized Mathematics",
           "imageUrl": "https://content.wolfram.com/sites/43/2025/01/proof-post-tweet-image-v4-min.png"
-        },
-        {
-          "id": "https://www.workatastartup.com/jobs/41643",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.workatastartup.com/jobs/41643",
-          "publishedOn": "2025-01-10T12:00:44.000Z",
-          "wordCount": 1579,
-          "title": "Wasmer (YC S19) Is Hiring a Rust Engineer in EU timezone (Remote)",
-          "imageUrl": "/images/original/missing.png"
-        },
-        {
-          "id": "https://tautvilas.medium.com/decentralized-syndication-the-missing-internet-protocol-209cb7bd6341",
-          "author": null,
-          "description": "Comments",
-          "link": "https://tautvilas.medium.com/decentralized-syndication-the-missing-internet-protocol-209cb7bd6341",
-          "publishedOn": "2025-01-10T11:57:06.000Z",
-          "wordCount": 4742,
-          "title": "Decentralized Syndication – The Missing Internet Protocol",
-          "imageUrl": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*UkmAtc6MLrsOUny3"
-        },
-        {
-          "id": "https://github.com/AndyObtiva/glimmer",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/AndyObtiva/glimmer",
-          "publishedOn": "2025-01-10T09:02:31.000Z",
-          "wordCount": 28208,
-          "title": "Glimmer: DSL Framework for Ruby GUI and More",
-          "imageUrl": "https://opengraph.githubassets.com/f32e69e5cb0bc15a46dd7fe6999ba987dc126acb0f99b8ed5bae9a5eadff0fda/AndyObtiva/glimmer"
-        },
-        {
-          "id": "https://tactility.one/#/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://tactility.one/#/",
-          "publishedOn": "2025-01-10T08:37:08.000Z",
-          "wordCount": 21,
-          "title": "Tactility: OS for the ESP32 Microcontroller Family",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.fortressofdoors.com/narcolepsy-is-weird-but-i-didnt-notice/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.fortressofdoors.com/narcolepsy-is-weird-but-i-didnt-notice/",
-          "publishedOn": "2025-01-10T07:10:17.000Z",
-          "wordCount": 2159,
-          "title": "Narcolepsy is weird but I didn't notice",
-          "imageUrl": "https://images.unsplash.com/photo-1534447677768-be436bb09401?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDJ8fGRyZWFtfGVufDB8fHx8MTczNjQ2MzI2NXww&ixlib=rb-4.0.3&q=80&w=2000"
-        },
-        {
-          "id": "https://www.tokyoweekender.com/entertainment/movies-tv/before-squid-game-there-was-battle-royale/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.tokyoweekender.com/entertainment/movies-tv/before-squid-game-there-was-battle-royale/",
-          "publishedOn": "2025-01-10T05:53:06.000Z",
-          "wordCount": 2446,
-          "title": "Before Squid Game, there was Battle Royale",
-          "imageUrl": "https://www.tokyoweekender.com/wp-content/uploads/2025/01/battle-royale-final.jpg"
-        },
-        {
-          "id": "https://annas-archive.org/blog/all-isbns.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://annas-archive.org/blog/all-isbns.html",
-          "publishedOn": "2025-01-10T04:45:55.000Z",
-          "wordCount": 1105,
-          "title": "Visualizing All ISBNs",
-          "imageUrl": "https://annas-archive.li/blog/isbn_images/all_isbns_smaller.png"
-        },
-        {
-          "id": "https://diposit.ub.edu/dspace/bitstream/2445/208621/2/tfg_baldillou_salse_pau.pdf",
-          "author": null,
-          "description": "Comments",
-          "link": "https://diposit.ub.edu/dspace/bitstream/2445/208621/2/tfg_baldillou_salse_pau.pdf",
-          "publishedOn": "2025-01-10T00:31:32.000Z",
-          "wordCount": 50086,
-          "title": "An Introduction to Neural Ordinary Differential Equations [pdf]",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.wired.com/story/gravy-location-data-app-leak-rtb/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.wired.com/story/gravy-location-data-app-leak-rtb/",
-          "publishedOn": "2025-01-10T00:00:52.000Z",
-          "wordCount": 27226,
-          "title": "Candy Crush, Tinder, MyFitnessPal: See the Apps Hijacked to Spy on Your Location",
-          "imageUrl": "https://media.wired.com/photos/6780349b52e18f7d54f734ac/191:100/w_1280,c_limit/app-hack-sec-1752520492.jpg"
-        },
-        {
-          "id": "https://www.404media.co/candy-crush-tinder-myfitnesspal-see-the-thousands-of-apps-hijacked-to-spy-on-your-location/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.404media.co/candy-crush-tinder-myfitnesspal-see-the-thousands-of-apps-hijacked-to-spy-on-your-location/",
-          "publishedOn": "2025-01-09T23:56:43.000Z",
-          "wordCount": 1264,
-          "title": "See the Thousands of Apps Hijacked to Spy on Your Location",
-          "imageUrl": "https://www.404media.co/content/images/size/w1200/2025/01/andrew-guan-lTUyP3RaLpw-unsplash.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/gadgets/2025/01/ces-2025-teases-alarming-smart-tv-future-loaded-with-unwanted-software-gimmicks/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://arstechnica.com/gadgets/2025/01/ces-2025-teases-alarming-smart-tv-future-loaded-with-unwanted-software-gimmicks/",
-          "publishedOn": "2025-01-09T23:20:25.000Z",
-          "wordCount": 3330,
-          "title": "Why I'm disappointed with the TVs at CES 2025",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2025/01/GettyImages-2155814890-1152x648.jpg"
-        },
-        {
-          "id": "https://rachelbythebay.com/w/2025/01/09/lag/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://rachelbythebay.com/w/2025/01/09/lag/",
-          "publishedOn": "2025-01-09T23:01:21.000Z",
-          "wordCount": null,
-          "title": "Pushing the whole company into the past on purpose",
-          "imageUrl": null
-        },
-        {
-          "id": "https://pubsonline.informs.org/doi/abs/10.1287/orsc.1070.0314?journalCode=orsc",
-          "author": null,
-          "description": "Comments",
-          "link": "https://pubsonline.informs.org/doi/abs/10.1287/orsc.1070.0314?journalCode=orsc",
-          "publishedOn": "2025-01-09T22:47:44.000Z",
-          "wordCount": null,
-          "title": "Norms-Based Intellectual Property Systems: The Case of French Chefs(2008)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://hackaday.com/2025/01/09/retrotechtacular-soldering-the-tek-way/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://hackaday.com/2025/01/09/retrotechtacular-soldering-the-tek-way/",
-          "publishedOn": "2025-01-09T22:37:01.000Z",
-          "wordCount": 3439,
-          "title": "Soldering the Tek Way",
-          "imageUrl": "https://hackaday.com/wp-content/uploads/2025/01/tek_soldering.jpeg"
-        },
-        {
-          "id": "https://joshleeb.com/posts/monospace-ligatures.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://joshleeb.com/posts/monospace-ligatures.html",
-          "publishedOn": "2025-01-09T22:28:07.000Z",
-          "wordCount": 1425,
-          "title": "Shaping Ligatures in Monospace Fonts",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.nualacreed.com/galleries/ceramic-archivists",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.nualacreed.com/galleries/ceramic-archivists",
-          "publishedOn": "2025-01-09T20:18:38.000Z",
-          "wordCount": 1657,
-          "title": "The Ceramic Archivists",
-          "imageUrl": "http://static1.squarespace.com/static/5c6b3f368d974054189281c9/t/5ccb4f799b747a37ca59c839/1556828032029/nuala-creed-social-sharing.jpg?format=1500w"
-        },
-        {
-          "id": "https://theconversation.com/how-britain-got-its-first-internet-connection-by-the-late-pioneer-who-created-the-first-password-on-the-internet-45404",
-          "author": null,
-          "description": "Comments",
-          "link": "https://theconversation.com/how-britain-got-its-first-internet-connection-by-the-late-pioneer-who-created-the-first-password-on-the-internet-45404",
-          "publishedOn": "2025-01-09T20:02:36.000Z",
-          "wordCount": 6537,
-          "title": "How Britain got its first internet connection (2015)",
-          "imageUrl": "https://images.theconversation.com/files/640805/original/file-20250106-17-rlmijt.jpg?ixlib=rb-4.1.0&rect=0%2C89%2C1000%2C500&q=45&auto=format&w=1356&h=668&fit=crop"
-        },
-        {
-          "id": "https://sunshowers.io/posts/nextest-process-per-test/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://sunshowers.io/posts/nextest-process-per-test/",
-          "publishedOn": "2025-01-09T19:40:54.000Z",
-          "wordCount": 1779,
-          "title": "Why Rust nextest is process-per-test",
-          "imageUrl": "https://sunshowers.io/images/big-ben.jpg"
-        },
-        {
-          "id": "https://publicdomainreview.org/collection/francis-picabia-391-review/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://publicdomainreview.org/collection/francis-picabia-391-review/",
-          "publishedOn": "2025-01-09T19:28:56.000Z",
-          "wordCount": 10743,
-          "title": "Perpetual Movement: Francis Picabia's 391 Review (1917–1924)",
-          "imageUrl": "https://the-public-domain-review.imgix.net/collections/francis-picabias-391/391_thumb.jpg"
-        },
-        {
-          "id": "https://quickwit.io/blog/quickwit-joins-datadog",
-          "author": null,
-          "description": "Comments",
-          "link": "https://quickwit.io/blog/quickwit-joins-datadog",
-          "publishedOn": "2025-01-09T17:49:21.000Z",
-          "wordCount": 997,
-          "title": "Datadog acquires Quickwit",
-          "imageUrl": "https://quickwit.io/img/blog/2025-01-09-quickwit-joins-datadog.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=42647695",
-          "author": null,
-          "description": "Comments",
-          "link": "https://news.ycombinator.com/item?id=42647695",
-          "publishedOn": "2025-01-09T17:15:11.000Z",
-          "wordCount": 752,
-          "title": "MixRank (YC S11) Is Hiring Software Engineers Globally",
-          "imageUrl": null
-        },
-        {
-          "id": "https://davidallengreen.com/2024/12/twelfth-night-till-candlemas-the-story-of-a-forty-year-book-quest-and-of-its-remarkable-ending/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://davidallengreen.com/2024/12/twelfth-night-till-candlemas-the-story-of-a-forty-year-book-quest-and-of-its-remarkable-ending/",
-          "publishedOn": "2025-01-09T17:07:40.000Z",
-          "wordCount": 9674,
-          "title": "\"Twelfth Night Till Candlemas\" – a 40-year book-quest and its remarkable ending",
-          "imageUrl": "https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F927d3b98-1136-4a4a-8bfb-74c7315bb76b_589x948.png"
-        },
-        {
-          "id": "https://www.nature.com/articles/s41586-024-08328-6/link",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.nature.com/articles/s41586-024-08328-6/link",
-          "publishedOn": "2025-01-09T16:38:26.000Z",
-          "wordCount": 15144,
-          "title": "Show HN: TabPFN v2 – A SOTA foundation model for small tabular data",
-          "imageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-024-08328-6/MediaObjects/41586_2024_8328_Fig1_HTML.png"
-        },
-        {
-          "id": "https://blog.orange.tw/posts/2025-01-worstfit-unveiling-hidden-transformers-in-windows-ansi/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://blog.orange.tw/posts/2025-01-worstfit-unveiling-hidden-transformers-in-windows-ansi/",
-          "publishedOn": "2025-01-09T16:19:34.000Z",
-          "wordCount": 6705,
-          "title": "WorstFit: Unveiling Hidden Transformers in Windows ANSI",
-          "imageUrl": "https://blog.orange.tw/posts/2025-01-worstfit-unveiling-hidden-transformers-in-windows-ansi/fb7a21f99453ce05667ddab5a.jpg"
-        },
-        {
-          "id": "http://charleshughsmith.blogspot.com/2025/01/i-quit-tsunami-of-burnout-few-see.html",
-          "author": null,
-          "description": "Comments",
-          "link": "http://charleshughsmith.blogspot.com/2025/01/i-quit-tsunami-of-burnout-few-see.html",
-          "publishedOn": "2025-01-09T14:25:21.000Z",
-          "wordCount": 8542,
-          "title": "The Tsunami of Burnout Few See",
-          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_ssIlxad1BbaR0B2kPpXzxEVM0j0wH_agVjF-u49r8f8CI_B3ecXvNrPcrb6NWlUKWkp-DboEtcaf1CgpckwiwVbbbeubtG5XB8IfcDp82M9i5md0DTW1BvCD5JSA=w1200-h630-p-k-no-nu"
-        },
-        {
-          "id": "https://practicapp.com/binary-modding-a-watercooler/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://practicapp.com/binary-modding-a-watercooler/",
-          "publishedOn": "2025-01-09T13:47:59.000Z",
-          "wordCount": 2409,
-          "title": "Binary modding a water dispenser to save me from pressing a button (2021)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://th0mas.nl/downloads/pdftris.pdf",
-          "author": null,
-          "description": "Comments",
-          "link": "https://th0mas.nl/downloads/pdftris.pdf",
-          "publishedOn": "2025-01-09T13:31:33.000Z",
-          "wordCount": 13165,
-          "title": "Show HN: Tetris in a PDF",
-          "imageUrl": null
-        },
-        {
-          "id": "https://passo.uno/seven-action-model/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://passo.uno/seven-action-model/",
-          "publishedOn": "2025-01-09T13:18:20.000Z",
-          "wordCount": 2473,
-          "title": "The Seven-Action Documentation Model",
-          "imageUrl": "/thumb.png"
-        },
-        {
-          "id": "https://www.quantamagazine.org/rational-or-not-this-basic-math-question-took-decades-to-answer-20250108/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.quantamagazine.org/rational-or-not-this-basic-math-question-took-decades-to-answer-20250108/",
-          "publishedOn": "2025-01-09T13:01:37.000Z",
-          "wordCount": 4472,
-          "title": "Rational or Not? This Basic Math Question Took Decades to Answer",
-          "imageUrl": "https://www.quantamagazine.org/wp-content/uploads/2025/01/Irationals-Gold-Rush_crSamuel-Velasco-Social.jpg"
         }
       ]
     },
@@ -8322,6 +8332,196 @@
       "feedUrl": "https://www.tinhte.vn/rss",
       "siteUrl": "https://tinhte.vn/lists/trang-chu.1/",
       "articles": [
+        {
+          "id": "https://tinhte.vn/thread/3956164/",
+          "author": "Cáo - Foxtek",
+          "description": "Ngày 07/02/2025, trang Apple Insider đã đưa tin ứng dụng DeepSeek (chatbot AI của một startup đến từ Trung Quốc) trên iOS đã truyền dữ liệu đến máy chủ thuộc sở hữu Trung Quốc. Ứng dụng DeepSeek...",
+          "link": "https://tinhte.vn/thread/ung-dung-deepseek-tren-ios-gui-du-lieu-nguoi-dung-ve-may-chu-tai-trung-quoc.3956164/",
+          "publishedOn": "2025-02-09T00:10:14.000Z",
+          "wordCount": 76590,
+          "title": "Ứng dụng DeepSeek trên iOS gửi dữ liệu người dùng về máy chủ tại Trung Quốc?",
+          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2025/02/8634744_deepseel-ios-thumb.jpg"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3956185/",
+          "author": "cuhiep",
+          "description": "Ngồi coi lại mấy tấm hình chụp bằng chiếc điện thoại tầm trung của Samsung Galaxy A51 thì thấy là trong vài năm qua camera trên điện thoại không thay đổi nhiều về khả năng chụp ảnh. Nhưng các hãng...",
+          "link": "https://tinhte.vn/thread/coi-hinh-chup-bang-samsung-galaxy-a51-va-nhan-ra-anh-em-can-hoc-chup-hinh-hon-la-mua-dien-thoai-moi.3956185/",
+          "publishedOn": "2025-02-09T00:00:38.000Z",
+          "wordCount": 63699,
+          "title": "Coi hình chụp bằng Samsung Galaxy A51 và nhận ra anh em cần học chụp hình hơn là mua điện thoại mới",
+          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2025/02/8634749_Galaxy-A51-phu-quoc-cuhiep-12.jpg"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3956354/",
+          "author": "Lư Thế Nghĩa",
+          "description": "\"Không đau vì quá đau\" có lẽ là những gì các cổ đông Intel đang cảm nhận vào lúc này. Sau báo cáo tài chính vẫn tiếp tục lỗ dù không \"đau\" bằng Q3 trước đó, họ còn được biết các kế hoạch sản phẩm...",
+          "link": "https://tinhte.vn/thread/doanh-so-chip-intel-xeon-2024-thap-ky-luc-trong-vong-13-nam.3956354/",
+          "publishedOn": "2025-02-08T23:59:32.000Z",
+          "wordCount": 66449,
+          "title": "Doanh số chip Intel Xeon 2024 thấp kỷ lục trong vòng 13 năm",
+          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2025/02/8635136_cover-intel-xeon-doanh-so.jpg"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3895207/",
+          "author": "kingladen",
+          "description": "Sau khoảng gần 02 tuần trải nghiệm iPhone 16 Pro, vì đam mê đạp giải tinhte, mình mạnh dạn tham gia chương trình review iPhone 16 #iphone16 #reviewiphone để mong chờ giải may mắn (lần đầu và chắc...",
+          "link": "https://tinhte.vn/thread/review-trai-nghiem-iphone-16-pro-to-chua-chac-da-phe-vua-tay-moi-de-me.3895207/",
+          "publishedOn": "2025-02-08T23:40:53.000Z",
+          "wordCount": 69265,
+          "title": "Review, trải nghiệm iPhone 16 Pro – To chưa chắc đã phê, vừa tay mới đê mê",
+          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2024/11/8555799_2024-11-28_23.16.20.jpg"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3956244/",
+          "author": "nhatminhngo",
+          "description": "Những vòng tròn của cây và câu chuyện mà chúng kể lại\n\nAnh em học sinh học từ lâu đã biết rằng các vòng gỗ trên mặt cắt thân cây ghi lại hành trình cuộc đời của chúng. Đây là cách mà cây lưu giữ...",
+          "link": "https://tinhte.vn/thread/doc-lich-su-cuoc-doi-tu-nhung-vong-tron-trong-than-cay-go.3956244/",
+          "publishedOn": "2025-02-08T23:30:20.000Z",
+          "wordCount": 34001,
+          "title": "Đọc \"lịch sử cuộc đời\" từ những vòng tròn trong thân cây gỗ",
+          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2025/02/8634904_tree-growth.jpg"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3956302/",
+          "author": "zyzy1908",
+          "description": "Tất nhiên, anh chị em đã người Hoa hay đã quen với lễ hội Nguyên Tiêu rồi. Nhưng với những ai chưa biết thì đây là những địa điểm mà bạn có thể ghé qua và trải nghiệm những hoạt động độc đáo này....",
+          "link": "https://tinhte.vn/thread/nhung-dia-diem-de-xem-hoi-nguyen-tieu-o-sai-gon-tu-ngay-mai.3956302/",
+          "publishedOn": "2025-02-08T23:09:34.000Z",
+          "wordCount": 36643,
+          "title": "Những địa điểm để xem hội Nguyên Tiêu ở Sài Gòn từ ngày mai",
+          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2025/02/8635017_IMG-2863.jpeg"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3955862/",
+          "author": "Pnghuy",
+          "description": "Một tính năng mà mình nghĩ rằng nhiều anh em đang dùng Edge làm trình duyệt mặc định trên Android có thể đang mong đợi: di chuyển thanh địa chỉ từ cạnh trên xuống cạnh dưới, hiện tại người dùng đã...",
+          "link": "https://tinhte.vn/thread/trinh-duyet-edge-tren-android-da-co-the-di-chuyen-thanh-dia-chi-xuong-canh-duoi.3955862/",
+          "publishedOn": "2025-02-08T20:53:24.000Z",
+          "wordCount": 53403,
+          "title": "Trình duyệt Edge trên Android đã có thể di chuyển thanh địa chỉ xuống cạnh dưới",
+          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2025/02/8634086_edge-bottom-address-tinhte-pnghuy-2.jpg"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3956239/",
+          "author": "Anh Tú.",
+          "description": "Theo tiết lộ từ The Washington Post, chính phủ Anh đã âm thầm yêu cầu Apple cung cấp quyền truy cập không giới hạn vào dữ liệu người dùng được mã hóa trên iCloud thông qua một lệnh bí mật ban hành...",
+          "link": "https://tinhte.vn/thread/chinh-phu-anh-yeu-cau-apple-mo-cua-sau-cho-du-lieu-ma-hoa-icloud.3956239/",
+          "publishedOn": "2025-02-08T17:38:13.000Z",
+          "wordCount": 48063,
+          "title": "Chính phủ Anh yêu cầu Apple mở \"cửa sau\" cho dữ liệu mã hoá iCloud",
+          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2025/02/8634897_appledataprotection-2048px-3469-3x2-1.jpg"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3955855/",
+          "author": "P.W",
+          "description": "Vừa rồi tỷ phú Bill Gates vừa xuất bản cuốn hồi ký mới nhất của ông, với tựa đề “Source Code: My Beginnings”. Trong quá trình giới thiệu cuốn sách, Gates đã có cuộc phỏng vấn với tờ Associated...",
+          "link": "https://tinhte.vn/thread/bill-gates-intel-da-lac-loi-thua-ca-ve-suc-manh-thiet-ke-chip-lan-gia-cong-chip.3955855/",
+          "publishedOn": "2025-02-08T17:10:36.000Z",
+          "wordCount": 84065,
+          "title": "Bill Gates: Intel đã \"lạc lối\", thua cả về sức mạnh thiết kế chip lẫn gia công chip",
+          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2025/02/8634162_download.jpg"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3955993/",
+          "author": "Cáo - Foxtek",
+          "description": "Vào ngày 4/2/2025, kênh YouTube Android Addicts đăng tải video test pin toàn bộ phiên bản của dòng flagship Samsung Galaxy S25 Series mới nhất (Galaxy S25, S25+, S25 Ultra) và Samsung Galaxy S24...",
+          "link": "https://tinhte.vn/thread/samsung-galaxy-s25-co-thoi-luong-pin-tot-hon-galaxy-s25-ultra-va-galaxy-s24-ultra.3955993/",
+          "publishedOn": "2025-02-08T16:58:11.000Z",
+          "wordCount": 70060,
+          "title": "Samsung Galaxy S25+ có thời lượng pin tốt hơn Galaxy S25 Ultra và Galaxy S24 Ultra",
+          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2025/02/8634382_Galaxy-S25-series-pin-thumb.jpg"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3955116/",
+          "author": "bk9sw",
+          "description": "Tin tặc Triều Tiên đang sử dụng một cách mới đó là thực hiện cuộc gọi phỏng vấn xin việc để lừa nạn nhân cài đặt mã độc vào máy tính Mac. Đây là một chiêu trò tinh vi hơn so với hình thức dùng...",
+          "link": "https://tinhte.vn/thread/tin-tac-trieu-tien-phat-tan-malware-tren-mac-bang-chieu-lua-goi-video-phong-van-xin-viec.3955116/",
+          "publishedOn": "2025-02-08T16:19:31.000Z",
+          "wordCount": 59408,
+          "title": "Tin tặc Triều Tiên phát tán malware trên Mac bằng chiêu lừa gọi video phỏng vấn xin việc",
+          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2025/02/8634845_cover-fakejobinterview.jpg"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3956252/",
+          "author": "cuhiep",
+          "description": "Mình mua 3 chiếc cảm biến này của Govee để theo dõi độ ẩm, nhiệt độ trong nhà, độ ẩm nhiệt độ trong khay đựng cafe và trong ngăn đông của tủ lạnh. Cảm biến sẽ kết nối với điện thoại qua Bluetooth...",
+          "link": "https://tinhte.vn/thread/3-chiec-cam-bien-do-nhiet-do-do-am-gia-39-usd.3956252/",
+          "publishedOn": "2025-02-08T16:16:20.000Z",
+          "wordCount": 44848,
+          "title": "3 chiếc cảm biến đo nhiệt độ, độ ẩm giá 39 USD",
+          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2025/02/8634966_Govee-themal-metter-tinhte-cuhiep-2.jpg"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3955618/",
+          "author": "Frozen Cat",
+          "description": "Là một thiên tài thời Phục Hưng, Leonardo da Vinci nổi tiếng với những tác phẩm hội họa cùng với hàng loạt phát minh ấn tượng. Sinh ra tại một điền trang gần thành Florence ở Ý vào năm 1452, lúc...",
+          "link": "https://tinhte.vn/thread/nhung-phat-minh-di-truoc-thoi-dai-cua-danh-hoa-leonardo-da-vinci.3955618/",
+          "publishedOn": "2025-02-08T16:03:32.000Z",
+          "wordCount": 81220,
+          "title": "Những phát minh đi trước thời đại của danh họa Leonardo da Vinci",
+          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2025/02/8633625_cover-cac-phat-minh-cua-leonardo-da-vinci.jpg"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3956203/",
+          "author": "Rubi Lee",
+          "description": "Theo một nghiên cứu gần đây được trình bày tại Hội nghị Đột quỵ Quốc tế 2025 của Hiệp hội Đột quỵ Hoa Kỳ cho thấy việc sử dụng chỉ nha khoa ít nhất một lần mỗi tuần có thể giảm nguy cơ đột quỵ lên...",
+          "link": "https://tinhte.vn/thread/nghien-cuu-cho-thay-dung-chi-nha-khoa-giam-nguy-co-dot-quy-va-rung-tam-nhi.3956203/",
+          "publishedOn": "2025-02-08T15:46:38.000Z",
+          "wordCount": 54344,
+          "title": "Nghiên cứu cho thấy dùng chỉ nha khoa giảm nguy cơ đột quỵ và rung tâm nhĩ",
+          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2025/02/8634818_chi-nha-khoa-cover.jpg"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3956217/",
+          "author": "nhatminhngo",
+          "description": "Một số báo cáo gần đây cho thấy Apple đang thử nghiệm một nguyên mẫu robot để bàn có hình dạng giống như một cái đèn bàn với các chuyển động sống động, thể hiện khả năng tương tác tiên tiến. Điều...",
+          "link": "https://tinhte.vn/thread/du-an-apple-elegnt-robot-voi-chuyen-dong-bieu-cam-mo-ra-ky-nguyen-moi-cho-tro-ly-nha-thong-minh.3956217/",
+          "publishedOn": "2025-02-08T15:44:51.000Z",
+          "wordCount": 49107,
+          "title": "Dự án Apple ELEGNT: robot với chuyển động biểu cảm, mở ra kỷ nguyên mới cho trợ lý nhà thông minh",
+          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2025/02/8634900_du-an-elegnt.jpeg"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3955901/",
+          "author": "P.W",
+          "description": "Những động thái trả đũa của chính quyền Bắc Kinh ngay sau khi phía Mỹ công bố thêm mức thuế 10% cộng vào mức thuế sẵn có đối với nhiều mặt hàng nhập khẩu từ Trung Quốc trải dải ở nhiều ngành nghề,...",
+          "link": "https://tinhte.vn/thread/google-co-hoat-dong-o-trung-quoc-dau-sao-lai-bi-dieu-tra-chong-doc-quyen.3955901/",
+          "publishedOn": "2025-02-08T15:28:42.000Z",
+          "wordCount": 65268,
+          "title": "\"Google có hoạt động ở Trung Quốc đâu, sao lại bị điều tra chống độc quyền?\"",
+          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2025/02/8634169_04google-china-jtqk-superJumbo.webp"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3955754/",
+          "author": "Anh Tú.",
+          "description": "Lại sắp tới 1 đợt ra mắt sản phẩm mới của Apple, nhà nhà đều hào hứng, vui vẻ như tết. Lần này là iPhone SE 4, một dòng iPhone giá rẻ vẫn có được rất nhiều sự yêu thích từ người dùng. Trong bài...",
+          "link": "https://tinhte.vn/thread/day-la-tat-ca-nhung-gi-anh-em-can-biet-ve-iphone-se-4-co-the-ra-mat-trong-tuan-sau.3955754/",
+          "publishedOn": "2025-02-08T15:01:04.000Z",
+          "wordCount": 61424,
+          "title": "Đây là tất cả những gì anh em cần biết về iPhone SE 4, có thể ra mắt trong tuần sau",
+          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2025/02/8633961_Cover-iphone-se-4.jpg"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3956147/",
+          "author": "Knah",
+          "description": "Đây là mẫu tai nghe full-size mới nhất, có giá rẻ nhất và dễ kéo nhất của ABYSS, hãng âm thanh đến từ nước Mỹ. ABYSS trang bị cho JOAL driver planar 63mm, trở kháng chỉ 30 ohm giúp có thể dễ dàng...",
+          "link": "https://tinhte.vn/thread/abyss-joal-tai-nghe-full-size-planar-magnetic-tro-khang-30-ohm-gia-1895.3956147/",
+          "publishedOn": "2025-02-08T13:01:08.000Z",
+          "wordCount": 48262,
+          "title": "ABYSS JOAL - tai nghe full-size planar magnetic trở kháng 30 ohm, giá $1895",
+          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2025/02/8634679_6937-l-2x.jpg"
+        },
+        {
+          "id": "https://tinhte.vn/thread/3955751/",
+          "author": "P.W",
+          "description": "Sau thành công của DeepSeek trên khía cạnh dư luận, các nhà đầu tư Trung Quốc đang đổ xô đầu tư những cổ phiếu của các đơn vị, startup và tập đoàn đang nghiên cứu công nghệ AI trong nước. Hiện tại...",
+          "link": "https://tinhte.vn/thread/deepseek-dang-khien-co-phieu-startup-ai-trung-quoc-bung-no.3955751/",
+          "publishedOn": "2025-02-08T12:51:46.000Z",
+          "wordCount": 75957,
+          "title": "DeepSeek đang khiến cổ phiếu startup AI Trung Quốc bùng nổ",
+          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2025/02/8633947_V6TY2WWUHZIEBJO5U6UYNBEOIQ.jpg"
+        },
         {
           "id": "https://tinhte.vn/thread/3953944/",
           "author": "Cáo - Foxtek",
@@ -12991,256 +13191,6 @@
           "wordCount": 49113,
           "title": "CES2025: My Arcade ra mắt nhiều mẫu máy chơi game mới",
           "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2025/01/8610378_DSC-4853_Large.jpeg"
-        },
-        {
-          "id": "https://tinhte.vn/thread/3938384/",
-          "author": "Knah",
-          "description": "Đây là mẫu tai nghe mới nhất của hãng sử dụng công nghệ truyền dẫn âm thanh bone conduction quen thuộc của hãng. OPENMEET có trọng lượng chỉ 78g, hệ thống dual-microphone giúp mang lại sự thoải...",
-          "link": "https://tinhte.vn/thread/ces2025-shokz-openmeet-tai-nghe-nghe-truyen-am-qua-xuong-danh-cho-hoi-hop.3938384/",
-          "publishedOn": "2025-01-10T10:12:42.000Z",
-          "wordCount": 46171,
-          "title": "CES2025: Shokz OpenMeet, tai nghe nghe truyền âm qua xương dành cho hội họp",
-          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2025/01/8607720_-DSC8673_Large.jpeg"
-        },
-        {
-          "id": "https://tinhte.vn/thread/3937395/",
-          "author": "PTW_Dark",
-          "description": "Razer, vừa công bố một dự án đầy tham vọng và có phần gây tranh cãi (đặc biệt với cộng đồng game thủ):  Razer Project Ava. Đây là trợ lý AI dành cho game thủ, được thiết kế với mục đích giúp game...",
-          "link": "https://tinhte.vn/thread/ces2025-razer-cong-bo-project-ava-tro-ly-ai-giup-game-thu-choi-game-tot-hon.3937395/",
-          "publishedOn": "2025-01-10T09:35:46.000Z",
-          "wordCount": 74330,
-          "title": "CES2025: Razer công bố Project Ava: Trợ lý AI giúp game thủ chơi game tốt hơn",
-          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2025/01/8606410_razer-project-ava.png"
-        },
-        {
-          "id": "https://tinhte.vn/thread/3937276/",
-          "author": "Knah",
-          "description": "Kodak giới thiệu 2 sản phẩm hoàn toàn mới tại triển lãm CES 2025 bao gồm: Mini Shot 3 Legacy KS300L và máy in di động Mini 4 K400. Ngoài ra, hãng còn mang đến các dòng máy ảnh và máy in thuộc...",
-          "link": "https://tinhte.vn/thread/ces2025-kodak-gioi-thieu-loat-san-pham-may-anh-instant-va-may-in-di-dong.3937276/",
-          "publishedOn": "2025-01-10T09:24:04.000Z",
-          "wordCount": 47136,
-          "title": "CES2025 - Kodak giới thiệu loạt sản phẩm máy ảnh Instant và máy in di động",
-          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2025/01/8606177_-DSC8044_Large.jpeg"
-        },
-        {
-          "id": "https://tinhte.vn/thread/3939460/",
-          "author": "Hassler",
-          "description": "Công ty Sky Labs có trụ sở ở Hàn Quốc chia sẻ họ mới cập nhật phiên bản mới cho thiết bị đo huyết áp CART BP Pro vốn đã đạt giải sáng kiến tại CES 2 năm trước đây có tên là CART VITAL, được đặt mã...",
-          "link": "https://tinhte.vn/thread/ces2025-nhan-do-huyet-ap-cart-bp-pro-mo-rong-kha-nang-do-cac-chi-so-moi-voi-vong-deo-co-tay-apollon.3939460/",
-          "publishedOn": "2025-01-10T05:55:25.000Z",
-          "wordCount": 32094,
-          "title": "CES2025: nhẫn đo huyết áp CART BP Pro mở rộng khả năng đo các chỉ số mới với vòng đeo cổ tay Apollon",
-          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2025/01/8608866_cover-apollon.jpg"
-        },
-        {
-          "id": "https://tinhte.vn/thread/3938550/",
-          "author": "cuhiep",
-          "description": "Roborock gây ấn tượng với người xem bởi giàn robot hút bụi lau nhà có tay Saros Z70 trình diễn ngay phía trước gian hàng. Triển lãm lần này Roborock cũng trưng bày vài mẫu sản phẩm mới nhưng chủ...",
-          "link": "https://tinhte.vn/thread/ces2025-tham-quan-gian-hang-roborock.3938550/",
-          "publishedOn": "2025-01-10T00:02:24.000Z",
-          "wordCount": 53336,
-          "title": "CES2025: Tham quan gian hàng Roborock",
-          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2025/01/8608278_Tinhte-cuhiep-ces-tham-quan-roborck-45.jpg"
-        },
-        {
-          "id": "https://tinhte.vn/thread/3937313/",
-          "author": "Tienbantu",
-          "description": "Thiết kế hiện đại, đa dạng kích thước và nhiều công nghệ, dòng loa thanh JBL BAR series đang có ưu đãi đến hết 15/01/2025 giúp tăng trải nghiệm nghe nhìn trong nhà.\nDòng soundbar JBL Bar series...",
-          "link": "https://tinhte.vn/thread/jbl-uu-dai-danh-cho-loa-thanh-dong-bar-series-dem-tron-ven-trai-nghiem-nghe-nhin-trong-dip-tet.3937313/",
-          "publishedOn": "2025-01-09T23:58:59.000Z",
-          "wordCount": 73031,
-          "title": "JBL ưu đãi dành cho loa thanh dòng BAR series, đem trọn vẹn trải nghiệm nghe nhìn trong dịp Tết",
-          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2025/01/8606601_jbl-bar-1300-2.jpg"
-        },
-        {
-          "id": "https://tinhte.vn/thread/3938388/",
-          "author": "ND Minh Đức",
-          "description": "Tại triển lãm CES 2025, ASUS đã mang tới những nâng cấp đáng giá trên hầu hết các thiết bị ROG của họ. Bên cạnh việc nâng cấu hình với Intel Core Ultra 9HX hay AMD Ryzen AI Max+ và RTX 50 Series...",
-          "link": "https://tinhte.vn/thread/tren-tay-nhung-chiec-laptop-asus-rog-duoc-nang-cap-manh-tai-ces-2025.3938388/",
-          "publishedOn": "2025-01-09T23:53:05.000Z",
-          "wordCount": 81059,
-          "title": "Trên tay những chiếc laptop ASUS ROG được nâng cấp mạnh tại CES 2025",
-          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2025/01/8607806_Strix_Scar_16_18_-17.jpg"
-        },
-        {
-          "id": "https://tinhte.vn/thread/3930465/",
-          "author": "Trung Dt",
-          "description": "Harman Kardon Enchant 1100 đem lại nhiều tính năng kết nối, chất âm chi tiết, mạnh mẽ cùng khả năng mở rộng các loa cùng dòng Enchant qua Wi-Fi một cách linh hoạt.\n \nDòng sản phẩm âm thanh Enchant...",
-          "link": "https://tinhte.vn/thread/trai-nghiem-loa-harman-kardon-enchant-1100-voi-subwoofer-ket-noi-khong-day-am-thanh-chi-tiet.3930465/",
-          "publishedOn": "2025-01-09T23:30:05.000Z",
-          "wordCount": 68777,
-          "title": "Trải nghiệm loa Harman Kardon Enchant 1100 với subwoofer: kết nối không dây, âm thanh chi tiết",
-          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2025/01/8600029_trai-nghiem-harman-kardon-enchant-1100-tinhte-26.jpg"
-        },
-        {
-          "id": "https://tinhte.vn/thread/3938113/",
-          "author": "cuhiep",
-          "description": "Dreame mang nhiều sản phẩm cũng như ý tưởng của họ tới CES 2025. Trong chủ đề này mình mời anh em xem qua các ý tưởng và sản phẩm mới mà họ mang tới. Ngoài robot hút bụi lau nhà ra thì Dreame còn...",
-          "link": "https://tinhte.vn/thread/ces2025-tham-quan-gian-hang-dreame.3938113/",
-          "publishedOn": "2025-01-09T23:24:16.000Z",
-          "wordCount": 52836,
-          "title": "CES2025: Tham quan gian hàng Dreame",
-          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2025/01/8607482_CES25-Dreame-tinhte-cuhiep-01.jpg"
-        },
-        {
-          "id": "https://tinhte.vn/thread/3939157/",
-          "author": "PTW_Dark",
-          "description": "Tại CES2025, Piex AI đã giới thiệu Piex Pendant, mặt dây chuyền theo dõi cảm xúc bằng AI đầu tiên trên thế giới. Với mục tiêu giúp người dùng hiểu rõ hơn và quản lý tốt hơn trạng thái cảm xúc của...",
-          "link": "https://tinhte.vn/thread/ces2025-piex-pendant-mat-day-chuyen-theo-doi-cam-xuc-bang-ai-dau-tien-tren-the-gioi.3939157/",
-          "publishedOn": "2025-01-09T23:07:48.000Z",
-          "wordCount": 29536,
-          "title": "CES2025: Piex Pendant: Mặt dây chuyền theo dõi cảm xúc bằng AI đầu tiên trên thế giới",
-          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2025/01/8608589_Thiet_ke_chua_co_ten_1.png"
-        },
-        {
-          "id": "https://tinhte.vn/thread/3937555/",
-          "author": "bk9sw",
-          "description": "Vào thứ 6 tuần này, TikTok và công ty mẹ là ByteDance sẽ có cuộc tranh luận tại tòa án tối cao Hoa Kỳ nhằm ngăn đạo luật cấm TikTok do tổng thống Joe Biden ký có hiệu lực vào ngày 19 tháng 1 tới....",
-          "link": "https://tinhte.vn/thread/dieu-gi-se-xay-ra-voi-nguoi-dung-my-neu-tiktok-bi-cam.3937555/",
-          "publishedOn": "2025-01-09T22:50:44.000Z",
-          "wordCount": 48004,
-          "title": "Điều gì sẽ xảy ra với người dùng Mỹ nếu TikTok bị cấm?",
-          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2025/01/8608826_cover-tiktokus.jpg"
-        },
-        {
-          "id": "https://tinhte.vn/thread/3928017/",
-          "author": "cuhiep",
-          "description": "LG Puricare Aero Booster Pet cho thấy LG vẫn tiếp tục thiết kế và sản xuất ra những máy lọc không khí không chỉ có tính năng hay mà còn có thiết kế đẹp và mức độ hoàn thiện cao cấp. Khác biệt rất...",
-          "link": "https://tinhte.vn/thread/tren-tay-lg-puricare-aero-booster-pet-may-loc-khong-khi-sang-xin-min.3928017/",
-          "publishedOn": "2025-01-09T19:46:56.000Z",
-          "wordCount": 83349,
-          "title": "Trên tay LG Puricare Aero Booster Pet: Máy lọc không khí sang xịn mịn",
-          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2024/12/8596269_Tinhte-cuhiep-may-loc-khong-khi-lg-25.jpg"
-        },
-        {
-          "id": "https://tinhte.vn/thread/3929702/",
-          "author": "zyzy1908",
-          "description": "Mình đã bắt đầu dùng thử máy lọc nước ion kiềm tươi Daikiosan DN868 được hơn 2 tháng. Lí do mình chọn DN868 thay vì những mẫu máy khác mà mình từng trên tay là vì chiếc máy này thật sự rất gọn và...",
-          "link": "https://tinhte.vn/thread/daikiosan-dn868-sau-gan-2-thang-su-dung-dien-nuoc-khong-dang-ke-thuc-su-co-ho-tro-va-gop-phan.3929702/",
-          "publishedOn": "2025-01-09T19:06:40.000Z",
-          "wordCount": 79834,
-          "title": "Daikiosan DN868 sau gần 2 tháng sử dụng: điện nước không đáng kể, thực sự có “hỗ trợ và góp phần”",
-          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2024/12/8598226_IMG-2733.jpeg"
-        },
-        {
-          "id": "https://tinhte.vn/thread/3936132/",
-          "author": "Nam Air",
-          "description": "Tính tới ngày 30/12/24 nVIDIA là hãng có giá trị vốn hóa cao nhất ngành bán dẫn toàn cầu, đạt 3.367 tỷ đôla, xếp hạng nhì là Broadcom đạt 1.104 tỷ đôla và hạng ba là TSMC của Đài Loan trị giá...",
-          "link": "https://tinhte.vn/thread/infographic-nvidia-co-von-hoa-cao-nhat-nganh-ban-dan-toan-cau.3936132/",
-          "publishedOn": "2025-01-09T18:05:43.000Z",
-          "wordCount": 33973,
-          "title": "Infographic: nVIDIA có vốn hóa cao nhất ngành bán dẫn toàn cầu",
-          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2025/01/8604772_cover.webp"
-        },
-        {
-          "id": "https://tinhte.vn/thread/3938560/",
-          "author": "thanhtung6868",
-          "description": "Thaco Auto vừa chính thức ra mắt Kia Carnival phiên bản Hybrid tại thị trường Việt Nam. Xe được phân phối với 1 phiên bản trang bị, giá bán niêm yết ở 1,849 tỷ đồng. Như vậy, Kia Carnival tại Việt...",
-          "link": "https://tinhte.vn/thread/kia-carnival-hybrid-ra-mat-thi-truong-viet-nam-1-phien-ban-trang-bi-gia-1-849-ty-dong.3938560/",
-          "publishedOn": "2025-01-09T18:01:06.000Z",
-          "wordCount": 1068,
-          "title": "Kia Carnival Hybrid ra mắt thị trường Việt Nam: 1 phiên bản trang bị, giá 1,849 tỷ đồng",
-          "imageUrl": null
-        },
-        {
-          "id": "https://tinhte.vn/thread/3938273/",
-          "author": "Anh Tú.",
-          "description": "Nay đi CES25 mình có ghé ngang gian hàng của Moft, mình có hỏi họ năm nay sản phẩm mới của họ là gì thì họ chia sẻ năm nay họ ra 2 sản phẩm là một chiếc ví MagSafe cho iPhone và 1 cái stand cho...",
-          "link": "https://tinhte.vn/thread/tren-tay-2-san-pham-moi-cua-moft-tai-ces25-don-gian-dep-hieu-qua.3938273/",
-          "publishedOn": "2025-01-09T16:41:25.000Z",
-          "wordCount": 48883,
-          "title": "Trên tay 2 sản phẩm mới của Moft tại CES25: Đơn giản, đẹp, hiệu quả",
-          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2025/01/8608316_COver1.png"
-        },
-        {
-          "id": "https://tinhte.vn/thread/3937287/",
-          "author": "Knah",
-          "description": "loomos là thương hiệu con của hãng phụ kiện nổi tiếng Sharge, sản phẩm được mang tới CES và dự kiến được bán ra chính thức trong quý một năm nay. Sản phẩm được trang bị 4-core 2.0 GHz Wearable AI...",
-          "link": "https://tinhte.vn/thread/ces2025-sharge-ra-mat-loomos-kinh-thong-minh-tich-hop-chatgpt-camera-16mp-gia-250.3937287/",
-          "publishedOn": "2025-01-09T16:23:31.000Z",
-          "wordCount": 46410,
-          "title": "CES2025 - Sharge ra mắt loomos - kính thông minh tích hợp chatGPT, camera 16MP, giá $250",
-          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2025/01/8606216_-DSC8092_Large.jpeg"
-        },
-        {
-          "id": "https://tinhte.vn/thread/3939234/",
-          "author": "PTW_Dark",
-          "description": "Tại CES2025 - Bên cạnh việc ra mắt các sản phẩm dòng ROG, Zenbook, Vivobook, ASUS cũng ra mắt các mẫu laptop thuộc dòng laptop TUF Gaming 2025. Đặc biệt nhất là sự ra mắt của Asus TUF A18 2025 –...",
-          "link": "https://tinhte.vn/thread/ces2025-asus-tuf-a18-2025-ra-mat-laptop-gaming-18-inch-dau-tien-cua-dong-tuf.3939234/",
-          "publishedOn": "2025-01-09T15:59:07.000Z",
-          "wordCount": 74227,
-          "title": "CES2025: Asus TUF A18 2025 ra mắt: Laptop gaming 18 inch đầu tiên của dòng TUF",
-          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2025/01/8609015_Asus-TUF-A18-2025-Header_2.png"
-        },
-        {
-          "id": "https://tinhte.vn/thread/3938839/",
-          "author": "P.W",
-          "description": "Tại hội chợ điện tử tiêu dùng, Nikon đã hé lộ những chiếc máy ảnh phục vụ riêng cho những phi hành gia thuộc nhiệm vụ khám phá mặt trăng của NASA, có tên Artemis. Trước đó, hồi cuối tháng 2 năm...",
-          "link": "https://tinhte.vn/thread/ces2025-nikon-lunar-z9-nhung-chiec-may-anh-se-theo-chan-phi-hanh-gia-artemis-len-mat-trang.3938839/",
-          "publishedOn": "2025-01-09T15:46:32.000Z",
-          "wordCount": 57586,
-          "title": "CES2025: Nikon Lunar Z9, những chiếc máy ảnh sẽ theo chân phi hành gia Artemis lên mặt trăng",
-          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2025/01/8608417_CES-Nikon.jpg"
-        },
-        {
-          "id": "https://tinhte.vn/thread/3937462/",
-          "author": "Lê Q Khánh",
-          "description": "E Ink đã hợp tác với PocketBook và Sharp để cho ra một digital poster (tranh treo kỹ thuật số) tiết kiệm năng lượng, hiển thị ảnh và tác phẩm nghệ thuật trên màn hình giấy điện tử màu. Sản phẩm...",
-          "link": "https://tinhte.vn/thread/ces2025-inkposter-tranh-treo-tuong-cua-e-ink-sac-1-lan-nam.3937462/",
-          "publishedOn": "2025-01-09T15:36:45.000Z",
-          "wordCount": 49066,
-          "title": "CES2025: InkPoster, tranh treo tường của E Ink, sạc 1 lần/năm",
-          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2025/01/8606600_inkposter-cover.jpg"
-        },
-        {
-          "id": "https://tinhte.vn/thread/3938653/",
-          "author": "Knah",
-          "description": "Đây là chiếc ghế với hệ thống âm thanh bao gồm 20 củ loa, tạo thành hệ thống âm thanh vòm 15 kênh 9.2.4. XEO Pod kết hợp với DYN Audio cùng Dolby nhằm mang lại trải nghiệm âm thanh vòm tốt nhất...",
-          "link": "https://tinhte.vn/thread/ces2025-xeo-pod-he-thong-giai-tri-ca-nhan-am-thanh-vom-9-2-4.3938653/",
-          "publishedOn": "2025-01-09T15:30:23.000Z",
-          "wordCount": 48200,
-          "title": "CES2025: XEO Pod, hệ thống giải trí cá nhân âm thanh vòm 9.2.4",
-          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2025/01/8608212_-DSC8549_Large.jpeg"
-        },
-        {
-          "id": "https://tinhte.vn/thread/3939843/",
-          "author": "Knah",
-          "description": "Mẫu máy ảnh cực kỳ dễ thương này có tên gọi Barbie x Kodak Printomatic được bán ra với giá $90. Còn mẫu máy in có tên gọi Step Slim có giá $99. Cả 2 đều sở hữu tông màu hồng quen thuộc của Barbie....",
-          "link": "https://tinhte.vn/thread/ces2025-barbie-ket-hop-voi-kodak-ra-mat-may-anh-instant-va-may-in-di-dong.3939843/",
-          "publishedOn": "2025-01-09T14:17:59.000Z",
-          "wordCount": 56921,
-          "title": "CES2025: Barbie kết hợp với Kodak ra mắt máy ảnh instant và máy in di động",
-          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2025/01/8609131_-DSC8383_Large.jpeg"
-        },
-        {
-          "id": "https://tinhte.vn/thread/3938194/",
-          "author": "nhatminhngo",
-          "description": "Với xu thế trí tuệ nhân tạo đang đi vào một kỉ nguyên mới, kỉ nguyên với các AI Agent, NVIDIA đang đón đầu xu thế này với việc ra mắt mô hình ngôn ngữ lớn Nemotron để giúp con người giải quyết các...",
-          "link": "https://tinhte.vn/thread/ces2025-nvidia-cong-bo-cac-mo-hinh-tri-tue-nhan-tao-nemotron-de-thuc-day-phat-trien-ai-agent.3938194/",
-          "publishedOn": "2025-01-09T14:08:28.000Z",
-          "wordCount": null,
-          "title": "CES2025: NVIDIA công bố các mô hình trí tuệ nhân tạo Nemotron để thúc đẩy phát triển AI Agent",
-          "imageUrl": null
-        },
-        {
-          "id": "https://tinhte.vn/thread/3938788/",
-          "author": "Knah",
-          "description": "Đây là mẫu máy chiếu nhỏ gọn với cơ chế xoay được vô cùng độc đáo. Nhờ thiết kế với 2 phần khác nhau bao gồm phân thân chính chứa cụm đèn bằng kim loại và phần chân xoay được bọc vải....",
-          "link": "https://tinhte.vn/thread/ces2025-tcl-gioi-thieu-mau-may-chieu-di-dong-playcube.3938788/",
-          "publishedOn": "2025-01-09T12:46:39.000Z",
-          "wordCount": 38210,
-          "title": "CES2025: TCL giới thiệu mẫu máy chiếu di động PlayCube",
-          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2025/01/8608356_-DSC8807_Large.jpeg"
-        },
-        {
-          "id": "https://tinhte.vn/thread/3938609/",
-          "author": "Anh Tú.",
-          "description": "Gian hàng tiếp theo mình ghé chơi là Aukey, từ lâu Aukey đã nổi lên với những phụ kiện chất lượng và khác biệt, nay ghé chơi xem họ có gì mới. Dưới đây mình muốn giới thiệu với anh em một số sản...",
-          "link": "https://tinhte.vn/thread/ces25-tren-tay-mot-so-san-pham-moi-cua-aukey.3938609/",
-          "publishedOn": "2025-01-09T12:16:31.000Z",
-          "wordCount": 64911,
-          "title": "CES25: Trên tay một số sản phẩm mới của Aukey",
-          "imageUrl": "https://photo2.tinhte.vn/data/attachment-files/2025/01/8608318_Cover1.jpg"
         }
       ]
     },
@@ -13408,16 +13358,6 @@
           "wordCount": 4024,
           "title": "How to Wait for the sibling-count() and sibling-index() Functions",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/383435"
-        },
-        {
-          "id": "https://css-tricks.com/?p=383563",
-          "author": "Geoff Graham",
-          "description": "I wrote a post for Smashing Magazine that was published today about this thing that Chrome and Safari have called “Tight Mode” and how it impacts page performance. I’d never heard the term until DebugBear’s Matt Zeunert mentioned it in …\nTight Mode: Why Browsers Produce Different Performance Results originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/tight-mode-why-browsers-produce-different-performance-results/",
-          "publishedOn": "2025-01-09T16:16:15.000Z",
-          "wordCount": 1927,
-          "title": "Tight Mode: Why Browsers Produce Different Performance Results",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/383563"
         }
       ]
     },
@@ -13590,21 +13530,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/solo-development-learning-to-let-go-of-perfection/solo-development-learning-to-let-go-of-perfection.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2025/01/tight-mode-why-browsers-produce-different-performance-results/",
-          "author": "hello@smashingmagazine.com (Geoff Graham)",
-          "description": "We know that browsers do all sorts of different things under the hood. One of those things is the way they not only *fetch* resources like images and scripts from the server but how they [prioritize those resources](https://www.debugbear.com/blog/request-priorities?utm_campaign=sm-7). Chrome and Safari have implemented a “Tight Mode” that constrains which resources are loaded and in what order, but they each take drastically different approaches to it. With so little information about Tight Mode available, this article attempts a high-level explanation of what it is, what triggers it, and how it is treated differently in major browsers.",
-          "link": "https://smashingmagazine.com/2025/01/tight-mode-why-browsers-produce-different-performance-results/",
-          "publishedOn": "2025-01-09T13:00:00.000Z",
-          "wordCount": 4451,
-          "title": "Tight Mode: Why Browsers Produce Different Performance Results",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/tight-mode-why-browsers-produce-different-performance-results/tight-mode-why-browsers-produce-different-performance-results.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/tight-mode-why-browsers-produce-different-performance-results/tight-mode-why-browsers-produce-different-performance-results.jpg"
         }
       ]
     },
@@ -13613,6 +13538,16 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "67a689db1b3d34453f8da64a",
+          "author": "Quincy Larson",
+          "description": "On this week's episode of the podcast, I interview Peggy Wang. She used freeCodeCamp to learn coding. She then worked in Big Tech as a robotics engineer. And now she's cofounder and CTO of Ego AI, a Y-Combinator-backed startup that builds human-like ...",
+          "link": "https://www.freecodecamp.org/news/from-freecodecamp-to-cto-with-robotics-engineer-peggy-wang-podcast-159/",
+          "publishedOn": "2025-02-07T22:31:55.000Z",
+          "wordCount": 1144,
+          "title": "From freeCodeCamp to CTO with Robotics Engineer Peggy Wang [Podcast #159]",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1738967132406/6ab8c7bb-397a-42b3-bb91-ff9c4842ead0.png"
+        },
         {
           "id": "67a62fc9c3ae66ee9e7a4b3e",
           "author": "P S Mohammed Ali",
@@ -14252,16 +14187,6 @@
           "wordCount": 3710,
           "title": "Getting Started with RHEL: A Beginner’s Guide to Linux Basics",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1736533985344/a521db07-d7eb-47db-a71c-4949e0761b9e.jpeg"
-        },
-        {
-          "id": "67802329a9edea9df0053dd7",
-          "author": "Ibrahim ogunbiyi",
-          "description": "Have you ever found yourself searching a document for a specific word or phrase just to discover that the term you're looking for isn't there? It can be frustrating, right? Sometimes, even though you might not see the exact term you’re looking for, t...",
-          "link": "https://www.freecodecamp.org/news/what-is-semantic-matching-find-words-in-a-document-using-nlp/",
-          "publishedOn": "2025-01-09T19:27:37.000Z",
-          "wordCount": 3088,
-          "title": "What is Semantic Matching? How to Find Words in a Document Using NLP",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/Dh7gzpVpdWQ/upload/4e1e504663acda31b980e6fba0c2d661.jpeg"
         }
       ]
     }
